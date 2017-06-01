@@ -1,31 +1,31 @@
 ﻿*page0|
-　Je songeai que cette idée était mauvaise sur bien des points et que si je fermais à clef, je serai en sûreté.
+　Je songeai que cette idée était mauvaise sur bien des points et que si je fermais à clef, je serais en sûreté.
 *page1|
 「Ça ira. Il ne reste plus beaucoup de temps de toute façon.
-　Et puis d'abord, c'est toi qui as dit de douter de tout le monde.」
+　Et puis d'abord, c'est toi qui as dit de soupçonner tout le monde.」
 ;鳶丸笑い
 「Ah, oui. Moi aussi, je suis un suspect.
 　Je te reconnais bien là, je m'inquiétais pour rien.」
 *page2|
 ;※ここ、久万梨01 l3に
 ;立ち絵消す
-　Bon, ben à plus, dit Tsukiji en se dirigeant vers la porte.
+　“Bon, ben à plus”, dit Tsukiji en se dirigeant vers la porte.
 　J'essayai de dire quelque chose et...
 *page3|
-「Ça...ça n'a aucun rapport, mais...
+「Ça... Ça n'a rien à voir, mais...
 　la journée a été horrible, et pourtant, tu m'as l'air satisfait.」
 　Qu'est-ce que je racontais ?
 　Je restais une fille sans aucun charme jusqu'à la fin.
 *page4|
 「Plusieurs personnes sont mortes, et on a failli mourir aussi... En effet, c'était une sale journée.」
-　Pourtant, Tsukiji réfléchit sérieusement ma question.
+　Pourtant, Tsukiji réfléchit sérieusement à ma question.
 「Mais malgré tout, c'était amusant.
 　Pas pour toi ?」
-　Il me rendit des mots insouciants comme pour chasser mon inquiétude d'un rire.
+　Il me répondit de manière insouciante comme pour chasser mon inquiétude d'un rire.
 *page5|
 ;金鹿むすっ
-「C'est surprenant. Je pensais que tu mépriserais ce genre de chose.」
-「Ben, c'était une erreur de calcul. J'aime ce genre de chahut. Je veux mener une vie amusante, vois-tu ?」
+「C'est surprenant. Je pensais que tu dédaignerais ce genre de chose.」
+「Ben, c'était une erreur de calcul. J'aime ce genre de barouf. Je veux mener une vie amusante, tu vois ?」
 「Pardon ? Quelle déception.」
 *page6|
 　Tout en disant cela sérieusement, je me rappelai du premier indice qui m'avait fait réaliser que je l'aimais.
@@ -33,12 +33,12 @@
 　Pourtant, il gâchait ses compétences.
 　Pour je ne savais quelle raison, il n'avait pas envie de prestige ou de s'améliorer.
 *page7|
-　C'était vraiment un gaspillage de ressources humaines.
-　Par nature, je ne supportais pas cela, je voulais l'envoyer par n'importe quel moyen sur une scène appropriée, et avant que je ne m'en rende compte, j'avais fini par l'observer quotidiennement.
+　C'était vraiment un gâchis de qualités humaines.
+　Par nature, je ne supportais pas cela, je voulais l'envoyer par n'importe quel moyen à un endroit où il serait à son avantage, et avant que je ne m'en rende compte, je m'étais mis à l'observer tous les jours.
 *page8|
-「...C'est un peu tard pour demander ça,
-　mais tu es relativement farouche. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
-「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que je montre du respect pour une personne qui s'est battue toute seule pendant six ans sans compter sur ses parents ou sur les profs.」
+「... C'est un peu tard pour demander ça,
+　mais tu es plutôt farouche en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
+「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que je montre du respect envers une personne qui s'est battue toute seule pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 *page9|
 ;金鹿、ぽかん。実は感じ入っている//
 「――――――」
@@ -51,9 +51,9 @@
 　Le cœur gros sans savoir pourquoi, 
 “Malgré tout―――”
 “Pas pour toi ?”
-　Je repensais aux paroles de Tsukiji.
+　je repensais aux paroles de Tsukiji.
 *page11|
-　...Oui, je vois.
+　... Oui, je vois.
 　En fin de compte, je me suis aussi amusée.
 ;画面暗転・ウエイト
 *page12|
@@ -62,23 +62,23 @@
 ;SE小鳥の鳴き声。朝方。
 ;画面・客室・昼、をプログラムでフィルタかけて、ちょっと光源抑えめにで、朝っぽくできないか？//
 「......」
-　Je me réveillai au gazouillis des oisillons.
-「Le matin... c'est le matin...」
+　Je me réveillai au son du gazouillis des oisillons.
+「Le matin... C'est le matin...」
 　Il était cinq heures et demie.
 　Le jour se levait lentement à l'extérieur.
 *page13|
-　La facilité avec laquelle je me réveillai comptait parmis mes rares qualités, mais la fatigue avait dû s'accumuler :
+　La facilité avec laquelle je pouvais me réveiller comptait parmi mes rares qualités, mais la fatigue avait dû s'accumuler.
 　L'esprit brumeux, je lissai les plis de mes vêtements en me regardant dans le miroir sur pied.
 *page14|
 　Mon corps était encore engourdi.
 　Trop lasse pour préparer du thé, je pris lentement mon portefeuille et mon passe posés sur la table.
 　Dans ce dernier se trouvaient ma carte de transport et une photo souvenir.
 ;※ここの写真、エンディング直前で見せたいので、ここでは一部しか見せないように。
-　Une photo rare où l'on voyait Aozaki se déshonorer pendant le festival de l'école de cette année.
+　Une photo singulière où l'on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
 *page15|
-　Peut-être avait-elle bu du champagne qu'elle avait pris pour du jus de fruit,
-　ou quelqu'un s'était trompé dans la quantité d'assaisonnement secret, qu'était l'alcool, dans le Mont Blanc,
-　en tout cas, au moment où on l'avait lâchée des yeux, Aozaki s'était retrouvée d'une humeur excellente et se débattait en disant vouloir porter cette tenue.
+　Peut-être avait-elle bu du champagne qu'elle avait confondu avec du jus de fruit,
+　ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, qu'était l'alcool, dans le Mont Blanc,
+　mais une chose était sûre, au moment où on l'avait lâchée des yeux, Aozaki s'était retrouvée d'une humeur joviale et se débattait en disant vouloir porter cette tenue.
 *page16|
 ;※同上。この演出方針をエンド前にもっていく。
 　La photo représentait cette fameuse scène prise avec un appareil jetable.
@@ -87,14 +87,14 @@
 　Principalement dans un aspect comique.
 *page17|
 「―――Tiens ?」
-　À l'instant.
-　Ne venais-je pas de présenter quelque chose que je n'aurais surtout pas voulu dire actuellement ?
+　À l'instant,
+　ne venais-je pas de présenter quelque chose que je n'aurais surtout pas voulu dire actuellement ?
 ;このモノローグ、要らないと言えば要らない。//
 *page18|
 「Ah oui―――Et les autres ?」
-　Je fouillai dans mon sac de voyage, et regardai s'il n'y avait pas quelque chose qui pouvait m'être utile au cas où.
+　Je fouillai dans mon sac de voyage et regardai s'il n'y avait pas quelque chose qui pouvait m'être utile au cas où.
 　Les outils que j'avais apportés pour faire de la cuisine chinoise me furent utiles.
-　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais j'optai finalement pour la casserole.
+　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais je jetais finalement mon dévolu sur la casserole.
 *page19|
 ;画面・二階廊下・朝
 　Je sortis dans le couloir.
@@ -105,29 +105,29 @@
 *page20|
 ;画面・ロビー・昼
 　La chambre de Tsukiji était vide.
-　Shizuki n'était pas dans la chambre du père Eiri.
+　Shizuki n'était pas dans la chambre de Père Eiri.
 　Celle de Ritsuka était également déserte.
 「Kuonjiii !」
-　Personne ne répondit à mon appel dans l'aile ouest.
+　Personne ne répondit à mon appel dans l'aile Ouest.
 　Il n'y avait... personne.
 *page21|
 ;画面・黒
 ;SE地下室へ下りる久万梨。かつん、かつん、と足音//
 　Je me dirigeai vers la cave où était enfermée Aozaki.
 　Je descendis l'escalier étroit et me retrouvai face à la porte.
-　Le cadenas avait été dévérouillé depuis l'extérieur.
+　Le cadenas avait été déverrouillé de l'extérieur.
 「―――Aozaki ?」
 　Je me décidai et ouvris la porte.
 *page22|
 ;画面・血のエフェクト
-　Dans la cave éxigue gisait un cadavre couché sur le ventre.
-　Les longs cheveux foncés qui laissaient une impression différente de ceux des japonais appartenaient sans aucun doute à Aozaki.
+　Dans la cave exiguë gisait un cadavre couché sur le ventre.
+　Ses longs cheveux foncés, qui laissaient une impression différente de ceux des Japonais, appartenaient sans aucun doute à Aozaki.
 　Elle ne respirait plus du tout.
 　Allongée, elle avait écrit des caractères sur le sol avec sa main gauche.
 　Un dernier message en lettre de sang.
 *page23|
-　Ces lettres, pleines de rancune, disaient ceci :
-『Ne dis pas “je le savais”.』
+　Ces mots, pleins de rancune, disaient ceci :
+『Ne dis pas “Je le savais”.』
 *page24|
 ;画面・血の密度をさげる。まだ地下室//
 「Je le savais...」
@@ -137,8 +137,8 @@
 *page25|
 ;SE、階段を駆け上がる音。
 ;画面・ロビーに
-「Ha, ha, ha... !」
-　Je réfoulai désespérément ma respiration haletante et mes pensées perturbées.
+「Ah, ah, ah...!」
+　Je refoulai désespérément ma respiration haletante et mes pensées désordonnées.
 　Ils étaient tous morts.
 　Tous morts.
 　Tout le monde avait probablement péri à part moi et le coupable.
@@ -146,7 +146,7 @@
 　Pourtant, il faisait jour ?
 　Non, le soleil n'était pas encore levé.
 　Si la condition était de voir poindre le matin, alors la partie n'était pas encore finie.
-　Dans ce cas, soit je devais fuir soit je devinais qui était le coupable.
+　Dans ce cas, je devais soit fuir, soit deviner qui était le coupable.
 　À ce rythme, la partie ne serait pas gagnée.
 　Aozaki et les autres seraient définitivement morts, et donc, ne reviendraient plus.
 *page27|
