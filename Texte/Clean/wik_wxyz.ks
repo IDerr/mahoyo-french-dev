@@ -8,10 +8,10 @@
 ;ここからの展開はＵ－１とほぼ同じ。なのでスクリプトはコピペで。
 　Si je parvenais à m'enfuir jusqu'au lever du soleil, ce jeu serait terminé.
 　Tant que la survivante que j'étais serait là, Sweets Hearts ne gagnerait pas.
-　La tempête s'était arrêtée, alors si je descendais jusqu'en ville, tout redeviendrait à la normale... !
+　La tempête s'était arrêtée, alors si je descendais jusqu'à la ville, tout redeviendrait à la normale...!
 *page2|
 ;画面・森を抜ける。間を取って久遠寺邸・裏庭に。戻ってきてしまった久万梨。
-「―――Je rêve.」
+「―――Je rêve ou quoi ?」
 　Alors que j'avais couru vers le bas de la colline, j'étais arrivée à l'arrière du manoir.
 *page3|
 ;画面・洋館の空がすごい勢いで流れている。久遠寺邸本ルート・ラストの雲と同じ。
