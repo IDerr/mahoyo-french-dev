@@ -22,7 +22,7 @@
 ;SE小鳥の鳴き声。朝方。
 ;画面・客室・昼、をプログラムでフィルタかけて、ちょっと光源抑えめにで、朝っぽくできないか？//
 「......」
-　Je me réveillai au gazouillis des oisillons.
+　Je me réveillai au son du gazouillis des oisillons.
 「Le matin... C'est le matin...」
 　Il était cinq heures et demie.
 　Le jour se levait lentement à l'extérieur.
