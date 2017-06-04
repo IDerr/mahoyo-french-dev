@@ -6,9 +6,9 @@
 「Kumari ? Que fais-tu ? On y va.」
 「Pa... Pardon, j'arrive.」
 *page1|
-　Je réajustai mon sac et emboîtai le pas au duo qui m'avait devancé alors que j'étais perdue dans mes pensées.
+　Je réajustai mon sac et emboîtai le pas au duo qui m'avait devancée alors que j'étais perdue dans mes pensées.
 　Aozaki avançait sur le sentier boisé en se disputant avec le professeur Yamashiro.
-　Je me pressai afin de la rattraper.
+　Je me pressai afin de les rattraper.
 ;画面・空模様・曇り
 　Lorsque je levai les yeux, je constatai que le ciel, dégagé jusqu'à présent, commençait à se couvrir.
 *page2|
@@ -23,17 +23,17 @@
 *page4|
 ;山城
 「Eh bien, cette demeure occidentale est d'une splendeur ! Qui a osé la traiter de manoir hanté ? C'est de la calomnie.」
-「Pas forcément. L'expression “Il n'y a pas de fumée sans feu” est appropriée dans le cas de ce manoir. Ne vous affolez pas si vous voyez un fantôme, d'accord, monsieur Yamashiro ?」
+「Pas forcément. L'expression “Il n'y a pas de fumée sans feu” est appropriée dans le cas de ce manoir. Ne vous affolez pas si vous voyez un fantôme, monsieur Yamashiro, d'accord ?」
 「Ha ha ha. Personnellement, je suis plus effrayé de t'entendre faire ce genre de blague.」
 *page5|
 　Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.
-　Cependant, même si je ne la connaissais que depuis trois ans, je ne me rappelais pas l'avoir déjà vu plaisanter avec cet air.
+　Cependant, même si je ne la connaissais que depuis trois ans, je ne me rappelais pas l'avoir déjà vue plaisanter avec cet air.
 *page6|
 ;久万梨
 「Aozaki. Cette histoire, c'est vrai ?」
 ;青子、01Aa
 ;青子
-「En faisant omission des fantômes, il arrive que des choses étranges se produisent. [wait canskip=0 time=400][chgfg storage=青子私服a02a(全)|h zoom=82 time=400 textoff=0]Ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de dégâts.」
+「En faisant omission des fantômes, il arrive que des choses étranges se produisent. [wait canskip=0 time=400][chgfg storage=青子私服a02a(全)|h zoom=82 time=400 textoff=0]Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
 「――――――」
 　J'étais d'accord avec le professeur Yamashiro.
 　Le plus effrayant était le caractère d'Aozaki qui affirmait qu'on pouvait ignorer les fantômes.
@@ -47,7 +47,7 @@
 ;山城だけど、立ち絵ださなくて良し
 「L'intérieur est également fascinant. D'après la façade, j'imaginais un style Tudor typique, mais le vestibule se rapproche plus d'une architecture romanesque.
 　Le couloir et le vestibule sont de deux époques différentes. On croirait presque que seule cette partie vient d'un autre bâtiment...... Tiens ?」
-「Hein ? J'y crois pas ! Yamashiro est là ?」
+「Hein ? J'suis surpris ! Yamashiro est là ?」
 *page9|
 ;画面・久遠寺邸ロビー
 ;立ち絵・木乃美
@@ -75,11 +75,11 @@
 　J'ignorai la plaisanterie d'Housuke et posai le sac de voyage contenant mes vêtements de rechange.
 「Ne t'avise pas de regarder à l'intérieur.」
 「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks /No Futur/ No Tax.
-　...... Mais c'est lourd, dis donc ! Contrairement à ton corps, ton équipement est vachement lourd !」
 ;立ち絵、消す
 ;荷物には中華鍋、中華包丁、米、金豚チャーシュー、が入っている。夕飯、作ろうと思ってきたがまた別の話//
+　...... Mais c'est lourd, dis donc ! Contrairement à ton corps, ton équipement est vachement lourd !」
 *page14|
-　Housuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir à l'est du vestibule.
+　Housuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
 　Le poids du sac n'avait rien d'étonnant. Au cas où, j'y avais mis une casserole, des couteaux de cuisine chinois, du riz et des tranches de porc.
 *page15|
 ;青子

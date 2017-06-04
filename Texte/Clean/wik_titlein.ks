@@ -3,8 +3,8 @@
 ;タイトルイン。「誰も寝てはならぬ久遠寺邸」はしていいけど笑ってはならぬ久遠寺邸。
 ;一章／13時～17時
 ;画面・気持ちのいい青空から、公園並木道
-　Midi, au parc central.
-　Après avoir effectué mon tirage photographique à la supérette, je balançai l'appareil jetable à présent inutile dans une poubelle.
+　Parc central, midi.
+　Après avoir effectué mon tirage photographique à la supérette, je balançai l'appareil jetable dans une poubelle.
 *page2|
 ;※ここ久万梨の全身図を見せてほしい
 　Comme vous pouvez le constater, le ciel automnal était d'un bleu limpide.
@@ -19,7 +19,7 @@
 　Aozaki Aoko arriva au point de rendez-vous.
 　En même année que moi, elle était mon amie ainsi qu'une camarade au conseil étudiant.
 *page5|
-　Je ne fréquentais Aozaki que depuis le lycée, mais bizarrement, je n'avais pas cette impression. J'avais le sentiment de la connaître depuis dix ans.
+　Je ne fréquentais Aozaki que depuis le lycée, mais ce n'était bizarrement pas l'impression que j'en avais. J'avais le sentiment de la connaître depuis dix ans.
 　Ainsi, ce jour-là, elle était extrêmement joviale.
 　Si je devais donner une image d'elle, elle serait une boisson rafraîchissante mais gazeuse. C'est une femme prête à employer n'importe quel moyen pour atteindre ses objectifs, du moins est-ce ainsi que je la vois.
 *page6|
@@ -34,18 +34,18 @@
 ;青子眉寄せ
 　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret et qui fait tache derrière toi, c'est ton compagnon ?」
 *page8|
-「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas bien habillé ?」
+「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas habillé ?」
 「Votre costume habituel est si proche de celui-ci qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
 　Et donc, que voulez-vous aujourd'hui ?[r]
 　Commencez à filer vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous modérer.」
 *page9|
-　Même à l'extérieur de l'école, Aozaki ne fait preuve d'aucune pitié.
-　Spécialement envers monsieur Yamashiro. Elle se retient si peu avec lui que l'on pourrait croire qu'ils sont frère et sœur.
+　Même à l'extérieur de l'école, Aozaki ne faisait preuve d'aucune pitié.
+　Tout particulièrement envers monsieur Yamashiro. Elle se retenait si peu avec lui qu'on aurait pu les croire frère et sœur.
 *page10|
-「Oh ! Tu parles du harcèlement, c'est ça ? [chgfg storage=山城01(全)|b time=400 textoff=0]C'est plutôt toi qui as un talent pour cela. Enfin, c'est un avis purement personnel, alors oublie ma remarque.
+「Oh ! Tu parles de stalking, c'est ça ? [chgfg storage=山城01(全)|b time=400 textoff=0]C'est plutôt toi qui as un talent pour cela. Enfin, c'est un avis purement personnel, alors oublie ma remarque.
 　Allons, ne tire pas cette tête-là. Regarde plutôt ça.
-　Ce matin, j'ai aussi reçu une invitation. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
 ;青子、驚き。可愛い驚きで
+　Ce matin, j'ai aussi reçu une invitation. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
 *page11|
 「―――――」
 　La lettre de monsieur Yamashiro était identique à celle qui m'était parvenue.
@@ -56,9 +56,10 @@
 *page13|
 「Ha ha ha, c'est une attention admirable !
 　Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement...  enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.
-　Et voilà que ce même élève m'envoie une lettre où il me demande de venir surveiller, par inquiétude de ce que tu pourrais faire au cours de ce genre d'évènement amusant.
+　Et voilà que ce même élève m'envoie une lettre où il me demande de venir surveiller,
+　par inquiétude de ce que tu pourrais faire au cours de ce genre de festivités.
 ;青子、ッチ。草十郎、後でしめる、という顔
-　L'étendue de sa croissance est remarquable. Il fait preuve d'une capacité étonnante à gérer les crises.」
+　C'est remarquable comme il a mûri. Il fait preuve d'une capacité étonnante à gérer les crises.」
 *page14|
 　Résignée, Aozaki soupira sans force.
 　Comme il avait été invité, il lui était impossible de le congédier sans raison valable.
@@ -72,7 +73,7 @@
 *page16|
 　Le terme de terre sainte était un peu exagéré, mais il n'y avait aucune autre expression adéquate.
 　Des histoires de fantôme avaient toujours circulé à propos de cette colline.
-　Surnommée la monstrueuse Inuzaka aux disparitions étranges.
+　Elle avait été surnommée la monstrueuse Inuzaka aux disparitions étranges.
 　Certaines rumeurs racontaient qu'en y pénétrant les jours d'intense brouillard, on en revenait sous une autre apparence ou avec d'étranges pouvoirs.
 *page17|
 　À cause de ces ragots, des écoliers courageux défiaient parfois la montagne en procédant à un test de courage.
@@ -88,7 +89,7 @@
 *page19|
 「Aozaki, les révisions avancent bien ?
 　Comme tu es quelqu'un de responsable, je n'ai aucune raison de m'inquiéter, mais bon.」
-「Je n'ai pas besoin de vous pour m'y atteler.
+「Je n'ai pas besoin de vous pour m'y mettre.
 ;青子つーん
 　Inutile de vous inquiéter.」
 *page20|
@@ -108,7 +109,7 @@
 　Je suis Kumari Kojika, élève de terminale.
 　Une étudiante désespérée en pleine préparation pour les examens de février.
 　...... Du moins, le serais-je si je visais une université dans une grande ville, mais ça ne m'intéresse pas.
-　En effet, j'ai déjà une recommandation pour Mizora, l'université locale, et même sans elle, je pourrais y entrer aisément avec mon niveau actuel.
+　En effet, j'ai déjà une recommandation pour Mizora, l'université locale, et même sans celle-ci, je pourrais y entrer aisément avec mon niveau actuel.
 *page24|
 　À l'origine, mes parents voulaient que je travaille après le lycée et étaient contre l'idée que j'étudie dans une université, même locale.
 『Tu vas soutenir l'entreprise familiale. Tu n'as pas besoin d'aller à la fac.』
@@ -195,7 +196,7 @@
 *page42|
 　Un portail se dressait au cœur de la colline Shiroinuzaka comme pour refouler tout visiteur.
 　Aozaki ouvrit la porte en fer sans avoir à la déverrouiller.
-　La porte était telle une frontière ; la forêt semblait dégager une aura différente entre l'intérieur et l'extérieur des murs.
+　La porte était une frontière ; la forêt semblait dégager une aura différente entre l'intérieur et l'extérieur des murs.
 　Je―――
 *page43|
 　～Choix A～
