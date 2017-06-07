@@ -32,20 +32,20 @@
 ;青子
 「Vraiment ? Désolée. Alice n'est pas encore habituée à ce genre de chose. C'est donc pour ça que tu m'as appelée de bon matin afin que je vienne te chercher.
 ;青子眉寄せ
-　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret et qui fait tache derrière toi, c'est ton compagnon ?」
+　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret qui a l'air louche derrière toi, c'est ton compagnon ?」
 *page8|
 「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas habillé ?」
-「Votre costume habituel est si proche de celui-ci qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
+「Il ressemble tellement à votre costume habituel qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
 　Et donc, que voulez-vous aujourd'hui ?[r]
-　Commencez à filer vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous modérer.」
+　Commencez à faire la filature à vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
 *page9|
 　Même à l'extérieur de l'école, Aozaki ne faisait preuve d'aucune pitié.
-　Tout particulièrement envers monsieur Yamashiro. Elle se retenait si peu avec lui qu'on aurait pu les croire frère et sœur.
+　Tout particulièrement envers monsieur Yamashiro. Elle le ménageait si peu qu'on aurait pu croire qu'ils étaient frère et sœur.
 *page10|
-「Oh ! Tu parles de stalking, c'est ça ? [chgfg storage=山城01(全)|b time=400 textoff=0]C'est plutôt toi qui as un talent pour cela. Enfin, c'est un avis purement personnel, alors oublie ma remarque.
-　Allons, ne tire pas cette tête-là. Regarde plutôt ça.
+「Oh ! Tu parles de stalking, c'est ça ? [chgfg storage=山城01(全)|b time=400 textoff=0]C'est plutôt toi qui as un talent pour cela. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
+　Allons, ne fais pas cette tête. Regarde plutôt ça.
 ;青子、驚き。可愛い驚きで
-　Ce matin, j'ai aussi reçu une invitation. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
+　Ce matin, j'ai reçu une invitation moi aussi. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
 *page11|
 「―――――」
 　La lettre de monsieur Yamashiro était identique à celle qui m'était parvenue.
@@ -55,7 +55,7 @@
 「Qu... Cette écriture, c'est celle de Soujyuro...... J'aurais dû me douter qu'il ferait encore preuve d'une honnêteté bizarre......」
 *page13|
 「Ha ha ha, c'est une attention admirable !
-　Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement...  enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.
+　Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement... enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.
 　Et voilà que ce même élève m'envoie une lettre où il me demande de venir surveiller,
 　par inquiétude de ce que tu pourrais faire au cours de ce genre de festivités.
 ;青子、ッチ。草十郎、後でしめる、という顔
@@ -63,7 +63,7 @@
 *page14|
 　Résignée, Aozaki soupira sans force.
 　Comme il avait été invité, il lui était impossible de le congédier sans raison valable.
-　Elle avait beau être froide, elle ne pouvait ignorer le fait que tout était en ordre.
+　Elle avait beau être froide, elle ne pouvait ignorer le fait que tout était en règle.
 *page15|
 「Bon, tant pis, je vais vous conduire au manoir, malgré le gêneur.
 　C'est votre première fois au manoir Kuonji ?」
@@ -112,20 +112,20 @@
 　En effet, j'ai déjà une recommandation pour Mizora, l'université locale, et même sans celle-ci, je pourrais y entrer aisément avec mon niveau actuel.
 *page24|
 　À l'origine, mes parents voulaient que je travaille après le lycée et étaient contre l'idée que j'étudie dans une université, même locale.
-『Tu vas soutenir l'entreprise familiale. Tu n'as pas besoin d'aller à la fac.』
+『Tu vas reprendre l'entreprise familiale. Tu n'as pas besoin d'aller à la fac.』
 　C'était le speech de mon père, énorme et borné comme un ours des montagnes.
 　Mes frères s'allièrent pour persuader mon géniteur barbare et vieux jeu.
 *page25|
-『Mad Daddy, Kojika a besoin d'une vie étudiante ! Spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arceaux ?』
+『Mad Daddy, Kojika a besoin d'une vie étudiante ! Tout spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arceaux ?』
 『Ha ha ha, voilà pourquoi tu es l'aîné ! Les anneaux, il n'y a que ça de vrai ! Le cheval d'arceaux, c'est pour les chiffes molles ! Aucun intérêt !』
 『Vous avez rien dans le crâne ou quoi ? Le plus cool, c'est la barre de fer ! Ce groove dans la rotation et la décharge de dopamine qui en résulte, alors ! Une fois accro, dur dur de réintégrer la société.』
 *page26|
 『Et je veux pouvoir me vanter ! Car notre petite sœur est la fille la plus mignonne de Misaki ! Les merdeux du club de patinage se prosterneront devant nous ! Pourquoi ? Pour qu'elle rejoigne leur club, tiens !』
 *page27|
-　Honnêtement, ils sont fatigants.
+　Honnêtement, ils sont pénibles.
 　En plus, les épreuves de gymnastique qu'ils avaient mentionnées étaient toutes réservées aux hommes.
 *page28|
-『Ça,[wait canskip=0 time=70] c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r[wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l.[l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake] Je ne veux pas augmenter le nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
+『Ça,[wait canskip=0 time=70] c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l.[l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake] Je ne veux pas augmenter le nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
 　Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.
 *page29|
 　J'étais morte de honte en pensant qu'il s'agissait de ma famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
@@ -154,7 +154,7 @@
 「Au fait, Aozaki, tu n'as pas de petit ami ?」
 ;青子、ひどいものを見た感じの対応。驚愕
 　Aozaki en perdit ses mots.
-　Yamashiro s'était sans doute laissé emporter par la joie que lui procurait ce beau temps et l'attente de l'évènement rarissime qu'était la fête au manoir Kuonji.
+　Yamashiro s'était sans doute laissé emporter par la joie que lui procurait ce beau temps et la perspective de l'évènement rarissime qu'était la fête au manoir Kuonji.
 　Par malheur, il aborda le sujet le plus tabou du lycée Misaki.
 *page35|
 　Étrangement―――non, en réalité, il n'y a rien d'étrange là-dedans, mais Aozaki n'a pas de petit ami.
@@ -163,9 +163,9 @@
 ;青子
 「Monsieur Yamashiro, auriez-vous perdu la raison ?」
 「Mais non, c'est juste que ça me préoccupe. Tu seras bientôt libérée de ton rôle de présidente des élèves. Si une fille comme toi ne jouit pas de sa jeunesse, en tant que professeur, ça me semble assez inquiétant...」
-「Votre sollicitude me va droit au cœur, monsieur.
 *page37|
 ;青子微笑み
+「Votre sollicitude me va droit au cœur, monsieur.
 　Et si nous sortions ensemble, dès maintenant ?
 　Tout d'abord, puis-je vous emmener dans ce coin sombre, là, comme deux amoureux ? [wait canskip=0 time=400][se storage=se01089 volume=100 loop=0][clall][fg storage=im黒グラデ上から center=512 vcenter=306 index=1100][fg storage=青子私服a01b(全)|i center=312 vcenter=1221 index=1300 zoom=80][fg storage=山城01(大)|d center=728 vcenter=340 index=1200][fg noback=1 storage=bg04l三咲町01坂道上り-(昼) center=610 vcenter=431 type=13 zoom=122.057 index=1000][bg rule=crossfade time=800 storage=black left=-48 top=-48 noclear=1]Il ne faudrait pas qu'on voie ce que je suis sur le point de faire.」
 　dit Aozaki en souriant gracieusement.

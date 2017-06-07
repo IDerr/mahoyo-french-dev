@@ -1,6 +1,6 @@
 ﻿*page0|
 ;久万梨立ち絵、ちょっと呆然状態。目がうつろ
-　Distraite, je m'étais plongée dans les réflexions qui avaient traversé mon esprit.
+　Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé l'esprit.
 ;SE;コトン、とポストに荷物が落ちる音。
 ;これ、久万梨が無意識に焼き回しした写真をポストに落としている。後に草十郎が回収する。
 「Kumari ? Que fais-tu ? On y va.」
@@ -77,7 +77,7 @@
 「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks /No Futur/ No Tax.
 ;立ち絵、消す
 ;荷物には中華鍋、中華包丁、米、金豚チャーシュー、が入っている。夕飯、作ろうと思ってきたがまた別の話//
-　...... Mais c'est lourd, dis donc ! Contrairement à ton corps, ton équipement est vachement lourd !」
+　...... Mais ça pèse une tonne, dis donc ! Contrairement à ton corps, ton équipement est vachement lourd !」
 *page14|
 　Housuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
 　Le poids du sac n'avait rien d'étonnant. Au cas où, j'y avais mis une casserole, des couteaux de cuisine chinois, du riz et des tranches de porc.
