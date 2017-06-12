@@ -32,7 +32,7 @@
 ;青子
 「Vraiment ? Désolée. Alice n'est pas encore habituée à ce genre de chose. C'est donc pour ça que tu m'as appelée de bon matin afin que je vienne te chercher.
 ;青子眉寄せ
-　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret qui a l'air louche derrière toi, c'est ton compagnon ?」
+　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret à l'allure louche derrière toi, il est avec toi ?」
 *page8|
 「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas habillé ?」
 「Il ressemble tellement à votre costume habituel qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
@@ -93,7 +93,7 @@
 ;青子つーん
 　Inutile de vous inquiéter.」
 *page20|
-「Alors, ça va. Mais il faut dire que tu refuses toutes les recommandations. Les universités locales te déplaisent tant que ça ?」
+「Ça me rassure. Mais il faut dire que tu refuses toutes les recommandations. Les universités locales te déplaisent tant que ça ?」
 「Là n'est pas la question. C'est juste que je ne voulais pas être limitée dans mes choix. Oubliez-moi et gardez plutôt vos conseils pour Kumari.」
 *page21|
 「Elle s'est déjà décidée, il me semble ? Elle a une recommandation de Mizora. Ses parents et elle-même ont déjà arrêté leur choix sur cette université.」
@@ -116,31 +116,31 @@
 　C'était le speech de mon père, énorme et borné comme un ours des montagnes.
 　Mes frères s'allièrent pour persuader mon géniteur barbare et vieux jeu.
 *page25|
-『Mad Daddy, Kojika a besoin d'une vie étudiante ! Tout spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arceaux ?』
+『Mad Daddy, Kojika a besoin d'une vie étudiante ! Et tout spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arceaux ?』
 『Ha ha ha, voilà pourquoi tu es l'aîné ! Les anneaux, il n'y a que ça de vrai ! Le cheval d'arceaux, c'est pour les chiffes molles ! Aucun intérêt !』
-『Vous avez rien dans le crâne ou quoi ? Le plus cool, c'est la barre de fer ! Ce groove dans la rotation et la décharge de dopamine qui en résulte, alors ! Une fois accro, dur dur de réintégrer la société.』
+『Vous avez rien dans le crâne ou quoi ? Le plus cool, c'est la barre de fer ! Ce groove dans la rotation et la décharge de dopamine qui en résulte, ça alors ! Une fois accro, dur dur de réintégrer la société.』
 *page26|
-『Et je veux pouvoir me vanter ! Car notre petite sœur est la fille la plus mignonne de Misaki ! Les merdeux du club de patinage se prosterneront devant nous ! Pourquoi ? Pour qu'elle rejoigne leur club, tiens !』
+『Et moi, j'veux pouvoir frimer ! Car notre petite sœur est la fille la plus mignonne de Misaki ! Les merdeux du club de patinage se prosterneront devant nous ! Pourquoi ? Pour qu'elle rejoigne leur club, tiens !』
 *page27|
 　Honnêtement, ils sont pénibles.
 　En plus, les épreuves de gymnastique qu'ils avaient mentionnées étaient toutes réservées aux hommes.
 *page28|
-『Ça,[wait canskip=0 time=70] c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l.[l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake] Je ne veux pas augmenter le nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
+『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne veux pas augmenter le nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
 　Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.
 *page29|
-　J'étais morte de honte en pensant qu'il s'agissait de ma famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
-　J'obéis aux instructions de mon père et choisis l'université d'éducation physique de Mizora. J'obtins facilement une recommandation.
+　J'étais morte de honte en pensant qu'il s'agissait de ma propre famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
+　J'obéis aux instructions de mon père et choisis l'université d'éducation physique de Mizora. J'obtins aisément une recommandation.
 　Cela rassura mon père, mais mon véritable plan ne faisait que commencer.
 *page30|
 　J'avais inscrit une université de Tokyo en tant que deuxième choix et “solution de rechange”.
-『Par respect envers l'école, il fallait indiquer trois universités de notre choix. C'est juste pour la forme, pas besoin de payer les frais d'examen.』
+『Par respect envers l'école, il fallait formuler trois vœux de notre choix. C'est juste pour la forme, pas besoin de payer les frais d'examen.』
 *page31|
 　Ces quelques mots achevèrent de duper mon père.
-　Bien sûr, mon véritable vœu était ce deuxième choix.
-　Pour atteindre ce but, j'ai continué de travailler dans le plus grand secret.
+　Bien sûr, mon véritable objectif était ce deuxième vœu.
+　Pour atteindre ce but, j'ai continué de trimer dur dans le plus grand secret.
 　J'ai économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
 *page32|
-　Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts que d'autres avaient fournis.
+　Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts des autres.
 　Une fois que j'aurais obtenu de bons résultats et qu'il saurait que j'avais économisé suffisamment d'argent, il accepterait sûrement, de mauvaise grâce certes, que j'aille à l'université de Tokyo.
 　Enfin, même s'il s'y opposait, je partirais.
 *page33|
@@ -183,7 +183,7 @@
 *page40|
 　La naïveté dont je faisais preuve me déprimait.
 　Je ne suis ni aussi cool ni aussi bien faite qu'Aozaki.
-　Après tous ces préparatifs, j'hésitais à appliquer mon plan. On pouvait parler de poltronnerie.
+　Après tous ces préparatifs, j'hésitais à appliquer mon plan. On pouvait presque parler de frousse.
 　J'étais la première à trouver cela pitoyable :
 　apparemment, il y avait dans ma vie un élève masculin qui revêtait la même importance que mon problème scolaire.
 *page41|
