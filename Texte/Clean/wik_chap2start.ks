@@ -29,7 +29,7 @@
 *page3|
 ;リデル
 「Shit. La mort a été entraînée par des blessures et brûlures dues à une explosion.
-　Je ne vois pas la source de l'explosion mais...... Yurihiko avait-il un penchant pour les bombes ? Ça m'étonnerait pas d'un artiste. C'est ce que disait Taro Okamoto, non ?」
+　Je ne vois pas la source de la détonation mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est bien ce que disait Taro Okamoto, non ?」
 ;律架
 「Que tout le monde se calme. Ceci est un crime ! Je flaire l'odeur du crime.」
 ;草十郎
@@ -40,28 +40,28 @@
 *page5|
 ;律架
 「Faites bien attention à ne toucher à rien sur les lieux du crime.
-　Restez par groupe de deux et enquêtez tout en observant votre partenaire afin d'éviter qu'on maquille la scène du crime.
+　Restez par groupe de deux et enquêtez tout en observant votre partenaire afin d'éviter qu'on altère la scène du crime.
 　Ma petite Al, je peux contacter la police ? Merci. Sur ce, je vais t'emprunter le téléphone du vestibule.」
 *page6|
-　Nous suivîmes les directives qu'avait données Ritsuka avec vivacité et formâmes des groupes de deux.
+　Nous suivîmes les directives qu'avait données Ritsuka avec vigueur et formâmes des binômes.
 　Comme Housuke s'était enfui, je me retrouvai avec Tsukiji.
 *page7|
 ;槻司
-「―――La cause de la mort est assez incroyable.
+「―――La cause de sa mort est assez incroyable.
 　Une explosion ? À quoi pouvait bien penser le meurtrier ?」
 ;金鹿、ちょっとびっくり
-　Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'une affaire de meurtre. 
+　Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'un meurtre. 
 *page8|
 「...... Ce n'est pas un accident ?」
-「Les chances que le vieux Tokitsu ait manipulé des explosifs dans le manoir Kuonji sont de zéro.」
+「Les chances que le vieux Tokitsu ait manipulé des explosifs dans le manoir Kuonji sont complètement nulles.」
 *page9|
 「Regarde un peu ce torse. Il y a une trace de brûlure bizarre au niveau des hanches. On dirait bien les restes d'une corde.
 　Il ne serait pas présomptueux de considérer que le vieux Tokitsu a été ligoté et séquestré dans cette pièce.」
 「――――――」
 *page10|
-　Il avait donc été ligoté et tué au cours d'une explosion, à l'insu de tout le monde...?
+　Il avait donc été ligoté et tué par explosion, à l'insu de tout le monde...?
 「Mais, pourquoi...」
-「Oui. Pourquoi employer une méthode aussi indirecte ? [l][chgfg storage=鳶丸私服b01(全)|d2 zoom=70 time=400]Quels sont les avantages d'utiliser des explosifs...... Que ce soit les bombes à retardement ou télécommandées, il est possible d'utiliser le décalage temporel engendré avant l'explosion. Les deux types de bombes sont avantageux pour se créer un alibi.」
+「Oui. Pourquoi employer une méthode aussi indirecte ? [l][chgfg storage=鳶丸私服b01(全)|d2 zoom=70 time=400]Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes télécommandées ou à retardement, on peut mettre à profit le délai avant l'explosion. Les deux types de bombes offrent de nombreuses manières de se créer un alibi.」
 *page11|
 ;真剣に思案している鳶丸。格好いい立ち絵を。
 　...... J'éprouvai une certaine surprise.
@@ -90,13 +90,13 @@
 　Une fois descendus, nous nous réunîmes devant le téléphone.
 *page15|
 ;律架
-「La ligne du téléphone est coupée...... ou plutôt, le fil a carrément été arraché. Dans ces conditions, il est non seulement impossible de contacter la police, mais aussi d'établir un contact avec l'extérieur.」
+「La ligne du téléphone est coupée...... ou plutôt, le fil a carrément été arraché. Dans ces conditions, il est non seulement impossible d'appeler la police, mais aussi de contacter quelqu'un à l'extérieur.」
 ;草十郎
 「Puisque c'est comme ça, je vais directement aller les chercher.」
 ;詠梨
 「Non, attendez. Il serait déconseillé de se déplacer seul. Regardez dehors.」
 *page16|
-　Le père désigna la lucarne.
+　Le prêtre désigna la lucarne.
 ;演出、落雷
 　...... Il n'y avait rien d'étonnant au vacarme provoqué par les gouttes de pluie.
 　Le temps était tellement agité qu'on pouvait parler de tempête.
@@ -108,11 +108,11 @@
 *page18|
 ;詠梨
 「Pour le moment, regroupons-nous dans le salon.
-　Nous pourrons très bien contacter la police après avoir mis de l'ordre dans cette histoire.」
+　Nous pourrons très bien contacter la police après avoir mis au clair cette affaire.」
 *page19|
-　Tout le monde agréa à l'avis du prêtre.
+　Tout le monde se rangea à l'avis du prêtre.
 ;木乃美、一人で状況が分かってない顔
-　Je retire ce que j'ai dit. Housuke marmonna : "C'est quoi, cette histoire ? Une caméra cachée ?" et ne regardait pas la réalité en face.
+　Je retire ce que j'ai dit. Housuke marmonna : “C'est quoi, cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
 *page20|
 ;画面・出口側の玄関（雨、雨の跡）
 「..................」

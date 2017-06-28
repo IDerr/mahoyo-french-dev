@@ -51,13 +51,13 @@
 *page9|
 ;ベオ
 「Oh ? Tu pensais vraiment que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.
-　Tu es bien la descendante des sorcières de suie apparues dans l'ombre de la révolution industrielle. Tu as la cervelle vide comme la marchandise de piètre qualité que tu es.」
+　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide comme la marchandise de piètre qualité que tu es.」
 *page10|
 ;リデル
 「OK, crève ! Mourez dans la joie comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, six de plus ne devrait pas poser problème, hein ?」
 *page11|
 　L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
-　La femme en rose, Beo, et Shizuki se disputaient.
+　La femme en rose, Beo et Shizuki se disputaient.
 ;有珠、口に手を押さえて考えこんでいる
 「............」
 　Cependant, Kuonji, la maîtresse du manoir, n'avait pas émis un son depuis un moment et arborait un air pensif.
@@ -65,13 +65,13 @@
 *page12|
 ;律架
 「OK ! OK ! Ça suffit tout le monde !
-　En ces superbes circonstances...... [chgfg storage=律架01b(全)|g zoom=80 time=400 textoff=0]Ahem, [wait canskip=0 time=200][chgfg storage=律架01a(全)|e2 zoom=80 time=400 textoff=0]en ces anormales circonstances, ce n'est pas le moment de se bagarrer !
-　La situation est claire comme de l'eau de roche. M. Tokitsu Yurihiko est décédé et le fil du téléphone a disparu.
+　En ces superbes circonstances...... [chgfg storage=律架01b(全)|g zoom=80 time=400 textoff=0]Ahem, [wait canskip=0 time=200][chgfg storage=律架01a(全)|e2 zoom=80 time=400 textoff=0]en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
+　La situation est claire comme de l'eau de roche. M. Tokitsu Yurihiko est décédé et le fil du téléphone a été arraché.
 　L'enchaînement de ces deux évènements n'est pas une coïncidence.
 　Il serait plus logique de penser que ces deux cas sont intrinsèquement liés et qu'ils sont dus aux actes d'une tierce personne. En d'autres termes―――」
 *page13|
 ;金鹿
-「Ce serait une affaire de meurtre...... La personne qui a assassiné M. Tokitsu a rendu le téléphone inutilisable afin de nous empêcher de contacter la police. C'est ce que vous pensez ?」
+「Ce serait donc un meurtre...... La personne qui a assassiné M. Tokitsu a mis le téléphone hors service afin de nous empêcher de contacter la police. C'est ce que vous pensez ?」
 ;律架
 「Oui ! C'est exactement ça, Kojika !
 　Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous ! [wait canskip=0 time=200][chgfg storage=律架02a(全)|d zoom=80 time=400 textoff=0]Du moins, ça serait bien !」
@@ -137,7 +137,7 @@
 　Au lieu de l'alibi, parlons donc plutôt du mobile ou de l'arme du crime.」
 *page27|
 ;鳶丸
-「Si l'on suit la voie du mobile, nous sommes tous innocents.
+「Si on s'en tient au mobile, nous sommes tous innocents.
 　Au contraire, il serait plus raisonnable de penser à un meurtrier venu de l'extérieur. Après tout, le vieux Tokitsu restait à la tête d'une grosse entreprise, malgré les apparences. On pourrait facilement supposer qu'il a été tué pour quelques privilèges par quelqu'un de sa famille.
 　Il serait peine perdue de commencer à imaginer les mobiles possibles.」
 ;律架
@@ -146,14 +146,14 @@
 ;詠梨
 「Je vois. Tu es donc d'avis qu'il faudrait réfléchir sur l'arme du crime... sur le moyen employé pour exécuter le meurtre.」
 ;鳶丸
-「En effet, nous en sommes là. Si on peut déterminer l'arme du crime, on pourra en déduire la ou les personnes qui ont eu la possibilité de le tuer.
-　Heureusement, l'arme du crime est évidente. Vous l'avez remarquée, Père Eiri ?」
+「En effet, nous en sommes là. Si on peut déterminer l'arme du crime, on pourra en déduire la ou les personnes qui ont eu la possibilité de commettre le meurtre.
+　Par chance, l'arme du crime est évidente. Vous l'avez remarquée, Père Eiri ?」
 *page29|
 ;詠梨
 「Oui, j'ai ma petite idée là-dessus. Toutefois, il reste toujours à savoir pourquoi nous n'avons rien entendu dans le grenier depuis le salon.
 　Est-ce que tout le monde a compris ?」
 *page30|
-　Le père Eiri observa le visage de toutes les personnes présentes dans la pièce en posant une question mesquine.
+　Père Eiri observa le visage de toutes les personnes présentes dans la pièce en posant une question mesquine.
 　Quelle méthode avait été utilisée pour assassiner Tokitsu Yurihiko ?
 　Je―――
 *page31|
