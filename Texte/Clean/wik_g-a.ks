@@ -10,14 +10,14 @@
 　De par sa nature strictement réaliste, Aozaki sautait parfois à des conclusions hors normes.
 *page1|
 ;鳶丸
-「Ca aurait pu être possible, mais cette fois, c'est différent.
-　J'ignore encore ce qui a mené le vieux Tokitsu dans cette chambre, mais je sais ce qu'il s'y est produit. Une explosion de poussière.」
+「Ça aurait pu être possible, mais cette fois, c'est différent.
+　J'ignore encore ce qui a poussé le vieux Tokitsu à venir dans cette chambre, mais je sais ce qu'il s'y est produit. Une explosion de poussière.」
 *page2|
 ;青子
 「Quoi ? Par explosion de poussière, tu veux parler du phénomène dû à l'ignition, à cause d'une étincelle par exemple, de poussières de charbon flottant dans l'air ? C'est ça ?」
 *page3|
 ;詠梨
-「En résumé, c'est bien ça. Mais le phénomène ne se limite pas au charbon. Si l'endroit est un lieu confiné et qu'il y a une certaine quantité de particules combustibles dans l'air, alors une explosion peut s'y produire. Si je dois donner un exemple parmi les articles ménagers, ce serait la farine de blé.
+「En résumé, c'est bien ça. Mais le phénomène ne se limite pas au charbon. Si l'endroit est un lieu confiné et il y a une certaine quantité de particules combustibles dans l'air, alors une explosion peut s'y produire. Pour vous donner un exemple parmi les articles ménagers, vous avez la farine de blé.
 　C'est également faisable avec de la rouille de casserole, du papier d'aluminium ou de la thermite, mais au vu de la situation, il doit s'agir de la poussière.」
 *page4|
 ;青子
@@ -47,15 +47,15 @@
 *page8|
 ;青子、金鹿、リデル、感心
 　Nous étions impressionnés malgré nous par les conjectures de Père Eiri et de Tsukiji.
-　Même si j'avais conclu à la possibilité qu'une explosion de poussière se soit produite dans la chambre, je n'étais pas arrivée à la question essentielle consistant à me demander dans qel but on l'aurait provoquée.
+　Même si j'avais conclu à la possibilité qu'une explosion de poussière se soit produite dans la chambre, je n'étais pas arrivée à la question essentielle consistant à me demander dans quel but on l'aurait provoquée.
 *page9|
 ;木乃美、うんうんと頷く。
 「Je vois. C'est donc ce que cache cette explosion de poussière.」
 　“Hum”, acquiesça Housuke, face à cette hypothèse vraisemblable.
 ;木乃美、真面目な顔で
-「Et, pardon, mais qu'est-ce que ça veut dire ?」
+「Et, pardon, mais qu'est-ce que ça change ?」
 ;鳶丸呆れ
-「Déjà, qu'on peut déterminer l'emplacement de l'arme du crime.
+「Pour commencer, on peut déterminer l'emplacement de l'arme du crime.
 　Soujyuro, il y a de la farine de blé dans la cuisine ?」
 ;草十郎
 「Je suis en train de chercher... Non.
@@ -98,10 +98,10 @@
 *page16|
 ;草十郎・かっこよく、真面目に
 「Oui. Si une chose aussi simple peut te faire plaisir, je serais heureux que tu écoutes.
-　D'après Alice, ça te touchera en plein coeur, c'est sûr et certain. Tu m'as sauvé à plusieurs reprises, alors si ça peut te rendre heureuse, je le serais aussi.」
+　D'après Alice, ça te touchera en plein cœur, c'est sûr et certain. Tu m'as sauvé à plusieurs reprises, alors si ça peut te rendre heureuse, je le serai aussi.」
 *page17|
 ;リデル02d、してから02d2
-「...Tr... Très bien ! Je t'écoute, alors parle !」
+「... Tr... Très bien ! Je t'écoute, alors parle !」
 ;草十郎
 「I love you. I love you, my love.」[r]
 ;フランス語で、君を愛している。
@@ -110,12 +110,12 @@
 *page18|
 ;リデル01c
 「D'où tu sors ça ? C'est trop drôle ! Qu'est-ce que ça te ressemble pas !
-　Soujyuro, Alice se moque de toi ! Connais-tu au moins le sens de cette phra―――[se storage=se12058 volume=100 loop=0][playstop time=100 nowait=1][wait canskip=0 time=200][bg time=20 rule=crossfade storage=red  noclear=0][stopaction][clall][se storage=se10035 volume=100 loop=0][se storage=se12070 volume=100 loop=0][fgact page=back props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,l,im15l喀血,508,312,2000,,50,50,1)(100,,,,479,329,,,100,100,)(300,,n,,,,,255,150,150,) storage=im15l喀血][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-xblur,-visible keys=(0,3,l,リデル01(全)|k,673,1294,1200,,80,80,5,1)(400,7,,リデル01(全)|k2,622,,,-10.57,,,2,) storage=リデル01(全)|k][fgact page=back props=-storage,center,vcenter,zoomx,zoomy,-xblur,-yblur,-visible keys=(0,3,l,bg01l久遠寺邸03居間-(夜隣明)奥扉開,871,331,134.514,134.514,2,1,1)(400,0,,,820,,,,,,) storage=bg01l久遠寺邸03居間-(夜隣明)奥扉開][shock vmax=15 hmax=5 time=200 count=2][bg time=100 rule=crossfade storage=white  noclear=1]Kof ?!」
+　Soujyuro, Alice se moque de toi ! Connais-tu seulement le sens de cette phra―――[se storage=se12058 volume=100 loop=0][playstop time=100 nowait=1][wait canskip=0 time=200][bg time=20 rule=crossfade storage=red  noclear=0][stopaction][clall][se storage=se10035 volume=100 loop=0][se storage=se12070 volume=100 loop=0][fgact page=back props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,l,im15l喀血,508,312,2000,,50,50,1)(100,,,,479,329,,,100,100,)(300,,n,,,,,255,150,150,) storage=im15l喀血][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-xblur,-visible keys=(0,3,l,リデル01(全)|k,673,1294,1200,,80,80,5,1)(400,7,,リデル01(全)|k2,622,,,-10.57,,,2,) storage=リデル01(全)|k][fgact page=back props=-storage,center,vcenter,zoomx,zoomy,-xblur,-yblur,-visible keys=(0,3,l,bg01l久遠寺邸03居間-(夜隣明)奥扉開,871,331,134.514,134.514,2,1,1)(400,0,,,820,,,,,,) storage=bg01l久遠寺邸03居間-(夜隣明)奥扉開][shock vmax=15 hmax=5 time=200 count=2][bg time=100 rule=crossfade storage=white  noclear=1]Kof ?!」
 ;ぐはっ、のところでリデル01k2して、画面を血に染めて、リデル倒れる。//
 ;草十郎、おおっ、と感心して驚いている。
 *page19|
 ;鳶丸、木乃美、律架、青子、驚き
-「Que ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
+「Quoi ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
 ;金鹿、あわて
 　J'accourus vers la femme en rose gisant au sol.
 　Pas de pouls. Pas de respiration.
@@ -142,7 +142,7 @@
 *page22|
 ;青子愕然
 「Un Ploy...? Tu insinues que c'est ce Ploy qui a tué le grand-père et Riddell ?」
-「Il serait plus juste de dire qu'ils ont enfreint les règles de celui-ci.
+「Il serait plus juste de dire qu'ils ont enfreint ses règles.
 　Ça ne sert à rien de le cacher, alors je vais le dire clairement.
 　Dorénavant, et ce jusqu'à demain matin, il est formellement interdit de rire.」
 *page23|
@@ -166,7 +166,7 @@
 ;有珠
 「Grâce à Kinomi, je comprends mieux les règles.
 　Lorsque l'on rit de soi-même, ça ne compte pas. Idem pour les sourires de courtoisie.
-　Mais si l'on rit du fond du cœur à cause des actes ou d'une farce de quelqu'un, le Ploy considère que l'on a enfreint la règle.」
+　Mais si l'on rit du fond du cœur à cause des actes ou d'une farce de quelqu'un, le Ploy considère qu'on a enfreint la règle.」
 ;鳶丸、金鹿驚き
 「Hein... Quoi ?」
 *page26|
@@ -181,7 +181,7 @@
 「C'est un modèle de Ploy à navigation clandestine. [wait canskip=0 time=400][chgfg storage=有珠私服03a(全)|b zoom=80 time=400]D'ailleurs, Yuika...」
 *page28|
 ;唯架
-「Oui. Il serait vain de tenter de mesurer la quantité de prana dans la résidence Kuonji. Père Eiri, nous nous trouvons dans un immense mystère sacré. À partir du moment où nous avons mis le pied sur cette montagne, il est devenu impossible de mesurer le flot de prana.」
+「Oui. Il serait vain de tenter de mesurer la quantité de prana dans la résidence Kuonji. Père Eiri, nous nous trouvons dans un immense Mystère. À partir du moment où nous avons mis le pied sur cette montagne, il est devenu impossible de mesurer le flot de prana.」
 ;詠梨
 「Vous avez raison... C'est embarrassant, il semblerait que je sois également confus.」
 *page29|
@@ -193,7 +193,7 @@
 ;鳶丸、有珠に対して//
 「... Je peux demander quelque chose ? Je veux bien admettre cette histoire de mort au moindre rire. C'est de toi qu'on parle, ça m'étonnerait pas que ce soit possible.
 　Mais pourquoi la façon de mourir n'est jamais la même ?
-　Le vieux, Riddell et Kinomi sont tous morts de façons différentes. Tu as parlé de règles. Cette partie là est laissée au hasard ou quoi ?」
+　Le vieux, Riddell et Kinomi sont tous morts de façons différentes. Tu as parlé de règles. Cette partie-là est laissée au hasard ou quoi ?」
 *page31|
 ;有珠
 「La façon de mourir dépend de la nature de la victime.」
@@ -220,7 +220,7 @@
 ;リデル、怒り顔で立ち上がる
 「Qu... [wait canskip=0 time=400]Qui [wait canskip=0 time=300]traites-tu de [wait canskip=0 time=400][se storage=se11036 volume=100 loop=0][se storage=se01091 volume=100 loop=0][se storage=se01062 volume=100 loop=0][se storage=se12052 volume=100 loop=0][shock vmax=20 time=300 count=2]menu fretiiin !」[l][wact canskip=0][wact canskip=0][r]
 ;鳶丸、金鹿、草十郎、青子、有珠、驚き
-「El... Elle est revenue à la vie ?!」
+「Elle... Elle est revenue à la vie ?!」
 *page36|
 ;リデル
 [fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,0,,,,,,,3,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,0,,,,,,3,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]「Ne me sous estimez... pas !　Ggh[se storage=se05012a volume=90 loop=0][shock hmax=10 time=300 count=1], [l][se storage=se07021 volume=100 loop=0][wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,,,,,,,,-4,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,,,,,,,-4,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]Ce n'est pas un petit arrêt cardiaque, Ggh[se storage=se05012b volume=90 loop=0][shock hmax=10 time=300 count=1]uuh, [l][wact canskip=0]qui... [se storage=se07021 volume=100 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(700,,,,~,~,~,255,~,~,~,)(800,,,,,1315,,,1.5,,,)(900,,,,~,~,~,,~,~,~,)(1000,,,,,1266,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(800,,,,,1315,,1.5,,,)(1000,,,,,1266,,0,,,) storage=リデル02(全)|d3 id=2]qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storage=se05033 volume=100 loop=0][shock vmax=20 time=300 count=1]me tuer !」[wact canskip=0]
@@ -233,11 +233,11 @@
 「Oui, tu es tel un vrai mort-vivant. Moi, je croyais en toi, Riddell.」
 ;リデル01d
 「Vo... Vous deux ! Au lieu de me féliciter, vous ne devriez pas plutôt vous excuser ?!
-　D'ailleurs, ce loup-garou aurait été préférable pour un test, vous ne croyez pas ?![r]
-　Il revient à la vie même si on le tue ! Pourquoi m'avoir visée, moi ?」
+　D'ailleurs, ce loup-garou aurait mieux convenu pour un test, vous ne croyez pas ?![r]
+　Il revient à la vie même si on le tue ! Pourquoi m'avoir choisie, moi ?」
 *page38|
 ;有珠
-「Hein ? ... Eh bien, nous sommes rivales, n'est-ce pas ?
+「Hein...? Eh bien, nous sommes rivales, n'est-ce pas ?
 　Dans ce cas, c'est normal de s'entretuer.」
 ;リデル02d2
 「Hein ? Ah, oui, c'est ça. Les rivales agissent bien comme ça.
@@ -245,7 +245,7 @@
 *page39|
 ;鳶丸
 「Comme je le pensais, cette femme est du genre immortel... Incroyable.」
-　Bien que stupéfait, Tsukiji accepta naturellement le spectacle horrifique offert par la femme en rose.
+　Bien que stupéfait, Tsukiji accepta sans broncher le spectacle horrifique offert par cette femme en rose.
 *page40|
 ;金鹿
 「... Hé, Tsukiji. Tu ne trouves pas ça étrange ? Des personnes sont mortes, tu sais ? [l][chgfg storage=金鹿私服01(大)|m4 time=300]Housuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
@@ -253,12 +253,12 @@
 ;鳶丸
 「Calme-toi, je ne veux pas y croire moi-même, mais c'est la réalité.
 　Comme l'a dit Kuonji, cette résidence est devenue un monde avec ses propres règles, et Riddell les a enfreintes, mais s'y est opposée par la force brute.
-　Ça me fiche des maux de crâne, mais les incidents occultes ne sont pas à proscrire avec des filles comme Kuonji et Riddell.」
+　Ça me fiche des maux de crâne, mais les incidents occultes ne sont pas de l'ordre de l'impossible avec des filles comme Kuonji et Riddell.」
 *page42|
-「Sauf que je connais pas les détails. Si on pénètre dans leur monde, on se retrouve impliqué. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, fais-toi à l'idée.」
+「Sauf que je connais pas les détails. Si on pénètre dans leur monde, on se retrouve mêlé à leurs affaires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, fais-toi à l'idée.」
 *page43|
 ;金鹿、眉ひそめ
-「Je ne peux pas ! Housuke est mort, tu sais ?!」
+「Je ne peux pas ! Housuke est mort, tu te rends compte ?!」
 ;有珠
 「Kumari. Il est encore trop tôt pour pleurer la mort de Kinomi.[r]
 　Tokkii et lui ont été considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont simplement “portés disparus”.
@@ -272,20 +272,20 @@
 ;青子
 「Kuma, calme-toi. Je comprends tes principes et ce que tu ressens, mais pour le moment, écoutons ce qu'elle a à dire.
 　... Alice, sois plus précise.
-　J'ai compris que c'était l'oeuvre d'un Ploy, mais concrètement, quelles sont les règles ? Qu'entends-tu par “terminer la partie” ?」
+　J'ai compris que c'était l'œuvre d'un Ploy, mais concrètement, quelles sont les règles ? Qu'entends-tu par “terminer la partie” ?」
 *page46|
 ;有珠
 「Ce Ploy choisit ses règles selon la fluctuation de probabilité.
-　Si l'utilisateur remplit les conditions fixés, alors il s'active et fonctionne pendant environ une journée. C'est cette période que désigne le “jeu”.
+　Si l'utilisateur remplit les conditions fixées, alors il s'active et fonctionne pendant environ une journée. C'est cette période que désigne le “jeu”.
 　Pendant le jeu, une nouvelle règle est ajoutée au monde réel. Dans notre cas, c'est probablement “quiconque rit d'une blague meurt”.」
 *page47|
 「De plus, il est extrêmement difficile de quitter le terrain de jeu pendant la partie. Il n'y a que deux moyens d'en sortir.
 　Le premier est de révéler au grand jour l'identité de l'utilisateur du Ploy.
 　...... Mais mieux vaut éviter de désigner imprudemment le coupable.
-　En effet, si on se trompe ou on manque de preuves, la personne qui a désigné le coupable sera “éliminée”.」
+　En effet, si une personne accuse quelqu'un mais se trompe ou manque de preuves, elle sera “éliminée”.」
 *page48|
-「L'autre moyen consiste à terminer la partie avec au moins un survivant en dehors du Ploy.
-　Les deux permettent de mettre un terme au jeu. Une fois terminé, peu importe le nombre de victimes, les comptes seront effacés. Tout le monde reviendra à la vie et perdra sa mémoire de la partie.」
+「L'autre moyen consiste à attendre la fin de la partie avec au moins un survivant en dehors du Ploy.
+　Les deux permettent de mettre un terme au jeu. Une fois terminé, peu importe le nombre de victimes, les comptes seront remis à zéro. Tout le monde reviendra à la vie et perdra sa mémoire de la partie.」
 *page49|
 ;唯架、安堵
 「......... J'étais inquiète, mais si ces explications sont justes, il n'y aura pas de problème. Il nous suffit d'attendre que le jour se lève.」
