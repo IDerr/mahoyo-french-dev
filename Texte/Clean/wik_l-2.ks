@@ -3,22 +3,22 @@
 　je songeai que nous devrions écouter le témoignage de cette femme en rose.
 *page1|
 ;リデル
-「Hein ? Moi aussi, je dois le faire ?
-　Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous déduirez que je suis complètement innocente.
+「Hein ? Vous voulez aussi mon alibi ?
+　Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.
 　D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains et en finir même si je dois sacrifier les autres.」
 *page2|
 ;鳶丸
 「Ne dis pas de conneries ! T'es tout aussi louche que les autres.
-　Tu connais les Ploy-machin, tu as de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
-　Pour commencer, pourquoi t'es venue alors qu'on ne t'a pas invitée ? En allant jusqu'à prendre l'hélico ?」
+　Tu connais les Ploy machin, tu nourris de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
+　Pour commencer, pourquoi t'es venue alors qu'on ne t'a pas invitée ? En allant jusqu'à arriver par hélico ?」
 *page3|
-「Maintenant que j'y pense, lorsque t'es arrivée en hélico, t'étais pas du tout trempée par la pluie, je me trompe ?
-　Qu'est-ce que ça veut dire ?
-　Si tu t'es planquée tout ce temps dans le manoir et que tu es entrée en scène après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
+「Maintenant que j'y pense, quand t'es venue avec l'hélico, t'étais pas du tout trempée par la pluie, je me trompe ?
+　Comment t'expliques ça ?
+　Si tu t'es planquée tout ce temps dans le manoir et t'es entrée en scène après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
 *page4|
 ;リデル02d3
 「Qu... Quoi ?!
-　Je te dis que je suis venue en hélico ! Je n'ai pas été trempée par la pluie parce que je la repoussais avec un goblin ! Et pourquoi je voudrais tous vous massacrer ?!」
+　Je te dis que je suis venue en hélico ! Je n'ai pas été trempée par la pluie parce que je la repoussais avec un Goblin ! Et pourquoi aurais-je l'intention de tous vous massacrer ?!」
 *page5|
 ;草十郎
 「Eh bien, tu y as déjà pensé, en réalité.」
@@ -26,14 +26,14 @@
 「En effet, tu y as vraiment pensé, en réalité.」
 *page6|
 ;リデル01h
-「Ce sont deux histoires différentes, enfin ?!
+「Mais cette histoire n'a rien à voir avec maintenant, enfin ?!
 ;リデル01d
-　Aaah, j'en ai plein la tête ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, la cible sera cet endroit !」
+　Aaah, j'en ai plein la tête ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, cet endroit sera sa première cible !」
 *page7|
 ;青子
 「Tu en es capable ? S'évader est difficile d'après Alice.」
 ;有珠、頷く
-「Oui. À cause de la fluctuation de probabilité de Sweets Hearts, il y a de grandes chances qu'il y ait eu un éboulement de terrain sur le chemin.
+「Oui. À cause de la fluctuation de probabilité de Sweets Hearts, il y a de grandes chances qu'un éboulement de terrain se soit produit sur le chemin.
 　Et comme la ligne du téléphone est coupée, on ne peut pas contacter l'extérieur.」
 *page8|
 ;リデル02c
@@ -43,14 +43,14 @@
 　Ne sous-estimez pas mon Goblin Nest !」
 ;立ち絵消す
 *page9|
-　La fille en rose s'écria avec entrain et se rendit dans le couloir.
+　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
 ;画面・一階廊下と、リデルの立ち絵02cあたりを口元だけ移すように使う。携帯電話中。
-『Allo. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du quartier Misaki. Oui, ce quartier Misaki. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche, ou quoi ?!    Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+『Allô. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du quartier Misaki. Oui, ce quartier Misaki. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?!    Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
 『Quoi ? C'est impossible avec un hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
-　Je t'ordonne malgré tout de le faire voler jusqu'ici tel un missile...!
-　Même si tu voudrais en faire décoller un, il n'y a pas d'appareil ? Espèce de gros poulet ! Et tu te prétends marchand ? Utilise ta tête, un peu ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
+　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
+　Même si tu voudrais en faire décoller un, il n'y a pas d'appareil ? Espèce de gros poulet ! Et tu te prétends commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
 ;あと、この時代の軍用ヘリはアパッチときいたが、さすがにもちっとハクをつけたいので多少時代先取りしても上のものを。ブラックホークは早すぎだが、試作段階という事ならアリか？//
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
@@ -62,7 +62,7 @@
 ;画面・居間に戻す
 ;鳶丸、金鹿、呆然とした顔で
 　... De terribles paroles retentissaient.
-　La fille en rose semblait murmurer quelque chose en anglais, mais elle paralit tellement rapidement et avec des mots d'argot que je ne saisissais pas ce qu'elle disait.
+　La fille en rose semblait murmurer quelque chose en anglais, mais elle parlait tellement rapidement et avec des mots d'argot que je ne saisissais pas ce qu'elle disait.
 　... Pour en rajouter, je n'étais pas très douée à l'écoute.
 *page15|
 ;鳶丸
@@ -93,11 +93,11 @@
 *page19|
 ;リデル02c
 「Tch, vous jouez encore aux meilleurs amis dans cette situation ? Il faudrait vous réveiller !
-　Très bien, faites comme ça vous chante. Mais faites bien attention à ce que les titres à la une de demain ne ressemblent pas à "La résidence en haut de la montagne, tous les invités portés disparus ?"」
+　Très bien, faites comme ça vous chante. Mais faites bien attention à ce que les titres à la une de demain ne ressemblent pas à “La résidence en haut de la montagne, tous les invités portés disparus ?”」
 *page20|
 ;金鹿
 「Pff. Bien dit pour une femme qui fuit.
-　D'ailleurs, Il est inutile de s'attendre à des secours avec ce temps. Ce qui se passe à l'extérieur, ce n'est pas une tempête mais un enfer. C'est plutôt ton cerveau qui est en plein rêve.」
+　D'ailleurs, Il est inutile de s'attendre à des secours avec ce temps. En ce moment à l'extérieur, ce n'est pas une tempête mais un enfer. C'est plutôt ton cerveau qui est en plein rêve.」
 ;リデル02d2
 「Qu...!」
 *page21|
@@ -126,11 +126,11 @@
 「Voler par un temps pareil est absurde, si on y pense de façon sensée. Même Alice n'est pas assez ignorante sur le monde moderne pour ne pas savoir ce genre de chose.」
 *page26|
 ;有珠
-「en effet. J'étais sûre qu'il s'écraserait. D'autant plus que les plans de Riddell ne se sont jamais déroulés comme il fallait jusqu'ici.」
+「En effet. J'étais sûre qu'il s'écraserait. D'autant plus que les plans de Riddell ne se sont jamais déroulés comme il fallait jusqu'ici.」
 ;リデル02d3
 「Ils marchent ! Tant que tu n'es pas impliquée, je suis toujours parfaite !
 ;リデル01j
-　Et puis, à l'instant c'était juste un test.
+　Et puis, à l'instant, c'était juste un test.
 　Le vrai hélico va arriver apr―――[chgfg storage=リデル02(全)|d type=13 quakeHMax=0 quakeVMax=0 quakeInterval=1 zoom=65 time=300]Attendez un peu, temps mort.」
 ;リデル消す
 *page27|
@@ -138,9 +138,9 @@
 『Quoi ? L'entreprise va devoir en endosser la responsabilité ?! Les forces spéciales sont en train de s'introduire sur le toit de l'immeuble de l'entrepriseーー?!』
 　Une sorte de cri nous parvenait depuis le couloir.
 *page28|
-『Calme-toi, tu ne dois pas résister ! Négocie tout de suite avec leur chef par radio ! Un dédommagement ? Si on n'achète pas tout le projet, ils te tuent ? Tu es déjà retenu prisonnier ? Aaah, c'est pas vrai, que fait Kai ?! Alors ? Combien ? Ggh ! D'où sort ce montant ? Il n'y aurait pas deux chiffres en trop ?! Je ne peux pas payer, c'est impossible ! Je ne peux pas payer une telle somme sur-le-champ ! [l][clall][fg storage=律架02b(全)|b center=543 vcenter=1026 index=1200 zoom=70][fg storage=唯架シスター01b(大)|b center=829 vcenter=355 index=1100][fg storage=詠梨01a(大)|b center=215 vcenter=292 index=1100][bg rule=crossfade time=500 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1]Attends un peu, Euh... Hum, oui, ça pourrait le faire.』
+『Calme-toi, tu ne dois pas résister ! Négocie tout de suite avec leur chef par radio ! Un dédommagement ? Si on n'achète pas tout le projet, ils te tuent ? Tu es déjà retenu prisonnier ? Aaah, c'est pas vrai, que fait Kai ?! Alors ? Combien ? Ggh ! D'où sort ce montant ? Il n'y aurait pas deux zéros en trop ?! Je ne peux pas payer, c'est impossible ! Je ne peux pas payer une telle somme sur-le-champ ! [l][clall][fg storage=律架02b(全)|b center=543 vcenter=1026 index=1200 zoom=70][fg storage=唯架シスター01b(大)|b center=829 vcenter=355 index=1100][fg storage=詠梨01a(大)|b center=215 vcenter=292 index=1100][bg rule=crossfade time=500 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1]Attends un peu, euh... Hum, oui, ça pourrait le faire.』
 *page29|
-『Si je prolonge la tournée de cette année, et si je vends mes actions et l'île de Tahiti, ça devrait suffire. Très bien, accord conclu, achète ! L'industrie de la défense ne fait pas partie de nos champs d'activités, mais pour le moment, ta sécurité est ma priorité maximale !』
+『Si je prolonge la tournée de cette année, et si je vends mes actions et l'île de Tahiti, ça devrait suffire. Très bien, accord conclu, achète ! L'industrie de la défense ne fait pas partie de nos secteurs d'activités, mais pour le moment, ta sécurité est ma priorité maximale !』
 *page30|
 「............」
 　Ça me préoccupait un peu.
