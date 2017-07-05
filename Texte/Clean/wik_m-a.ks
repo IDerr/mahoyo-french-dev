@@ -1,6 +1,6 @@
 ﻿*page0|
-　Après un certain temps.
-　Environ une minute plus tard.
+　Après un certain temps,
+　environ une minute plus tard...
 ;SEドアの開く音。バタン。
 *page1|
 ;リデル01b2
@@ -58,9 +58,9 @@
 　Enquêtons, enquêtons ! Tous ensemble !」
 *page11|
 ;草十郎
-「Moi... Eh bien. La tempête ne fait qu'empirer, alors je pense qu'il serait préférable que tout le monde s'enferme dans sa chambre. Si on s'enferme à clé et qu'on dort, personne ne pourra nous faire rire.」
+「Moi... Eh bien, la tempête ne fait qu'empirer, alors je pense qu'il serait préférable que tout le monde s'enferme dans sa chambre. Si on s'enferme à clef et on dort, personne ne pourra nous faire rire.」
 ;ベオ
-「Hééé, c'est ennuyant !
+「Hééé, c'est d'un ennui !
 　Soujyuro, observons un peu la situation ! Tu n'es pas intrigué par la façon dont mourrait Aoko ?」
 ;草十郎
 「Beo, même si c'est une blague, il ne fa―――[wait canskip=0 time=200][chgfg storage=草十郎私服01b(大)|首輪j time=300]Hum ?」
@@ -71,7 +71,7 @@
 *page13|
 「Restez calmes. On dirait que les plombs ont sauté. Les amis, il ne faut pas bouger à l'aveuglette. Même si on est aveugles.」
 「..................」
-　C'était tout juste. J'avais failli éclater de rire à cause du blanc qui avait suivi la blague du père.
+　C'était tout juste. J'avais failli éclater de rire à cause du blanc qui avait suivi la blague du prêtre.
 *page14|
 「À quoi tu penses, Eiri ? J'ai bien cru qu'on allait tous y passer !」
 　Non, ça n'aurait pas été le cas,
@@ -83,26 +83,26 @@
 「Franchement ! Même moi, j'ai été un peu perturbée. Ça ne serait pas lui le coupable ?」
 *page16|
 　La conversation se poursuivait malgré l'obscurité.
-　...C'était comme les histoires de fantôme lors des voyages scolaires, ou comment dire, un de ces échanges dans les ténèbres qui vous excitent bizarrement.
+　... C'était comme les histoires de fantôme lors des voyages scolaires, ou, comment dire, un de ces échanges dans les ténèbres qui vous excitent bizarrement.
 　D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas si grave si une personne rigolait.
 *page17|
 「Ah, j'ai trouvé une bougie. Personne n'a de briquet ?[r]
 　Ou alors des allumettes ?」
 「Attends le feu.」
-「Hein ? C'est le père à l'instant ?」
-「Horrible, ce jeu de mot était horrible.」
+「Hein ? C'est le prêtre à l'instant ?」
+「Horrible, ce jeu de mots était horrible.」
 「Son cerveau a dû dégénérer.」
 「Non. Dans notre situation primitive, même s'il faisait de l'esprit, ça n'aurait aucun impact. Simple is best.」
 ;画面、一回だけ点滅する。電気かつけかける。
 「Ah. Tout le monde, restez tranquille, la lumière revient.」
 *page18|
-　Le manoir Kuonji devait probablement accueillir un équipement électrogène individuel.
+　Le manoir Kuonji devait probablement être muni d'un groupe électrogène individuel.
 　Nous ignorions qui avait rétabli le courant, mais une chose était sûre, le salon venait de retrouver sa lumière artificielle.
 *page19|
 ;立ち絵はあえてださない
 「Eh bien, malgré l'âge de la demeure, l'équipement est bon. J'ai eu peur qu'on doive passer le reste de la nuit dans ces ténèbres.」
-　La fille en rose qui s'était placé à mes côtés sans que je ne m'en rende compte leva le visage.
-　Je l'imitai inconsciemment et,
+　La fille en rose, qui s'était placée à mes côtés sans que je m'en rende compte, leva le visage.
+　Je l'imitai inconsciemment, et,
 *page20|
 ;画面・着ぐるみ有珠。ものじ博士が作った例の画像で。メンバーは青子、鳶丸、律架、詠梨、ベオ//
 ;リデル吐血
@@ -134,7 +134,7 @@
 ;有珠
 「Que s'est-il passé ?」
 ;鳶丸
-「J'en sais rien. Elle a explosé de rire sans raison et s'est autodétruite.[r]
+「J'en sais rien. Elle a explosé de rire sans raison et s'est auto-éliminée.[r]
 　La résurrection me semble improbable sur ce coup-ci.」
 *page25|
 　Comme elle faisait pitié, Tsukiji recouvrit Riddell d'une nappe et l'allongea dans un recoin de la pièce.
@@ -150,14 +150,14 @@
 「Non. À l'instant, ce n'était qu'une farce, rassure-toi.
 　Depuis toujours, j'ai la mystérieuse envie de taquiner cette fille à chaque fois que je la vois.」
 ;金鹿あきれ
-　C'est embarrassant, soupira Kuonji.
+　“C'est légèrement embarrassant”, soupira Kuonji.
 　Une nouvelle fois, je ressentis un peu de sympathie envers Riddell.
 ;画面暗転、時間経過。
 *page28|
 ;時計23時
 ;画面・居間
 　Il y avait à présent quatre victimes.
-　Dans ces conditions, l'ambiance générale commençait à pencher vers l'idée de s'enfermer dans nos chambres et d'attendre le matin.
+　Dans ces conditions, l'ambiance générale commençait à s'orienter vers l'idée de s'enfermer dans nos chambres et d'attendre le matin.
 　Je...
 *page29|
 　～Choix N～

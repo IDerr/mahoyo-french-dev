@@ -26,14 +26,14 @@
 「Peux-tu peux nous expliquer ce que cela veut dire, Kuonji ?」
 *page4|
 ;有珠、意外
-「...Hmm. Je n'y avais pas fait attention. Les invitations ont été envoyées séparément par moi, Aoko et Shizuki.
-　Au final, j'ai cru comprendre qu'on avait usé neuf lettres. Moi et Tokkii étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors au total, ça faisait treize personnes.
+「... Hmm. Je n'y avais pas fait attention. Les invitations ont été envoyées séparément par moi, Aoko et Shizuki.
+　Au final, j'ai cru comprendre qu'on avait envoyé neuf lettres. Moi et Tokkii étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors au total, ça faisait treize personnes.
 　Soit dit en passant, j'ai envoyé mes invitations à [movepartbg opacity=255 srcleft=436 srctop=177 vcenter=271 time=400 accel=0 storage=black center=220 id=pb6 textoff=0]Ritsuka et [wact canskip=0][movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Beo.」[wact canskip=0]
 *page5|
 ;青子
 「Moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0][wact canskip=0]Eiri, [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0][wact canskip=0]Yuika, [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=800 id=pb4 textoff=0][wact canskip=0]Kinomi et [movepartbg opacity=255 srcleft=445 srctop=203 vcenter=423 time=400 accel=0 storage=black center=800 id=pb3 textoff=0]Tobimaru.」[l][wact canskip=0][r]
 ;草十郎
-「Moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Komari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Pas-Vraiment-Prononcer-Le-Nom.」[wact canskip=0]
+「Et moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Komari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Vraiment-Pas- Prononcer-Le-Nom.」[wact canskip=0]
 *page6|
 ;青子
 「Je vois, le compte est bon.
@@ -42,7 +42,7 @@
 　J'ai déjà vaguement compris, mais à qui, as-tu bien pu, envoyer une invitation ?」
 *page7|
 ;草十郎
-「...C'est que, ce n'est pas bien de la tenir à l'écart.」
+「... C'est que, ce n'est pas correct de la tenir à l'écart.」
 ;青子
 「C'est Touko, c'est ça ? C'est toi qui as appelé Touko, hein ?!」
 　Aozaki attrapa le col de Shizuki et le secoua dans tous les sens.
@@ -50,7 +50,7 @@
 「Deux Riddell... Il y a deux Riddell...」
 *page8|
 ;詠梨
-「Tu as envoyé une invitation à Touko... pourtant, elle n'est pas censée pouvoir entrer dans la ville de Misaki.」
+「Tu as envoyé une invitation à Touko... Pourtant, elle n'est pas censée pouvoir entrer dans la ville de Misaki.」
 ;ベオ
 「Hm ? Pour ce qui est de la malédiction, Touko a dit qu'elle avait réglé le problème depuis longtemps. Elle a parlé de changement de concept. Il paraît que si on ne peut pas retirer une malédiction jetée sur le corps physique, il suffit de ne pas utiliser ce dernier, ou quelque chose dans ces eaux-là.」
 *page9|
@@ -61,11 +61,11 @@
 「... Quoi qu'il en soit, à partir du moment où Touko a reçu une invitation, il est possible qu'elle soit venue.」
 *page10|
 ;金鹿
-「Oui. Et je voudrais que vous vous rappeliez du moment où on a découvert que la ligne du téléphone avait disparu.
+「Oui. Et je voudrais que vous vous rappeliez du moment où on a découvert que la ligne du téléphone avait été coupée.
 ;画像・雨に濡れた玄関をだす//
 　À ce moment-là, le parquet du vestibule était couvert de gouttes d'eau.
 　Nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
-　Du coup, j'ai cru que ces traces étaient l'oeuvre de Riddell arrivée juste avant l'incident, mais elle n'était pas du tout mouillée par la pluie.
+　Du coup, j'ai cru que ces traces étaient l'œuvre de Riddell arrivée juste avant l'incident, mais elle n'était pas du tout mouillée par la pluie.
 　En d'autres termes,」
 *page11|
 ;律架
@@ -84,7 +84,7 @@
 「Aozaki Touko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.
 　Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même pour ce qu'il s'agit du mobile qui nous échappait jusqu'à présent, elle est le parfait candidat.」
 *page14|
-「En effet. Si Touko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importe les mesures que nous prendrions, elle entrerait de force.」
+「En effet. Si Touko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importent les mesures que nous prendrions, elle entrerait de force.」
 *page15|
 ;律架
 「Oui, elle en serait bien capable. Elle adore les films d'horreur ! ... Hum. C'est bien dommage que l'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
@@ -92,15 +92,15 @@
 「Séparons-nous et fouillons le manoir. Nous devons être sûrs que Touko est bien là.」
 *page16|
 ;青子、やばいって顔。実は橙子が来ている事を知っていて、かつ、彼女の死体を隠しているので//
-「Hé ? Ah, oui, c'est vrai.
-　... Al... Alors, je vais chercher aux alentours de ma chambre.」
+「Hein ? Ah, oui, c'est vrai.
+　... Al... Alors, je vais chercher du côté de ma chambre.」
 ;有珠
 「Moi, j'irai dans l'aile Ouest et au cas où, au sous-sol.
 　Quant à Kumari, Tobimaru, Ritsuka et Shizuki, c'est dangereux, alors restez ici.」
 ;立ち絵消す
 *page17|
 　Ainsi, les convives quittèrent le salon précipitamment et bruyamment.
-　Nous laissant moi, Tsukiji, Shizuki et Ritsuka, tout le monde partit fouiller le manoir.
+　Nous laissant dans le salon, Tsukiji, Shizuki, Ritsuka et moi, tout le monde partit fouiller le manoir.
 ;画面・時計０時
 　... Seul le temps s'écoulait.
 　La nervosité et la fatigue avaient rendu mes paupières lourdes.
@@ -121,7 +121,7 @@
 「Merde alors, je n'y vois ri―――」
 ;画面・落雷のフラッシュ。
 　Un flash éblouit la véranda.
-　À travers la fenêtre de celle-ci,
+　À travers la fenêtre,
 　grâce au coup de foudre―――
 ;画面・サンルーム、落雷。一瞬、窓の外に怪しい人影//
 ;実は外に出ていたベオ。サンルームの上である青子の部屋を覗き見して、橙子の死に方を見て爆笑しかけている。助けて、笑い止めて、と鳶丸たちにガラスごしに手を出している//
@@ -140,7 +140,7 @@
 *page22|
 ;画面切り替え・ロビー・夜
 　Nous fuyâmes dans le hall.
-　Les lampes du murs semblaient avoir une source d'électricité différente. Nous n'étions pas complètement plongés dans le noir.
+　Les lampes du mur semblaient avoir une source d'électricité différente. Nous n'étions pas complètement plongés dans le noir.
 *page23|
 ;青子
 「Kuma ? Qu'est-ce qui se passe ? Tu es blême !」
@@ -183,7 +183,7 @@
 *page31|
 ;詠梨
 「Dans ce cas... Soujyuro, veux-tu m'accompagner ?[r]
-　Il sait travailler en équipe.」
+　Tu sais travailler en équipe.」
 　Shizuki accepta d'un air grave la proposition de Père Eiri.
 　Je―――
 *page32|

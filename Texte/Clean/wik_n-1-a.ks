@@ -20,7 +20,7 @@
 ;画面・真っ黒
 　Je posai la main sur la poignée de la porte.
 　Elle n'était pas fermée à clef...
-　Dans la chambre,
+　Dans la chambre...
 ;一瞬だけ血のイメージをだして消す
 　... se trouvait le cadavre d'une femme que je ne connaissais pas.
 *page5|
@@ -33,10 +33,10 @@
 　C'est le son de la porte qui oscille, pensai-je en y tournant mon regard.
 *page6|
 　Ce son venait de la chambre voisine d'Aozaki.
-　Je savais grâce à Shizuki que c'était le bureau de celle-ci.
+　Je savais grâce à Shizuki que c'était le bureau de cette dernière.
 　Sur la porte...
 ;ここ、余裕があるならオトギリソウのパロディ。「青子」の血文字が扉に書かれていて、きぃ、きぃと揺れている。
-　... était répandu un liquide cramoisi qui évoquait de la peinture.
+　... était répandu un liquide cramoisi qui faisait penser à de la peinture.
 *page7|
 　Dans le bureau,
 　se trouvait,
@@ -53,7 +53,7 @@
 *page9|
 ;画面・ロビー・深夜。
 ;SE　雨の音、大きく。玄関が開きっぱなし。
-「Ha, Ha, Ha―――!」
+「Ah, ah, ah―――!」
 　Je descendis les escaliers à la volée.
 　De fait, je tombai et dégringolai dans le vestibule en me cognant de partout.
 *page10|
