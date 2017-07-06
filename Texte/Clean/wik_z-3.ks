@@ -19,7 +19,7 @@
 　Cela ne s'était pas produit le deuxième des trois jours consécutifs de vacances, puisque c'était le jour même de la fête.
 　Seule une personne qui était venue par erreur le premier jour aurait eu la chance de procéder au vol.
 *page4|
-　Mais pourquoi cette personne s'était-elle trompée de jour ?
+　Mais pourquoi cette personne se serait-elle trompée de jour ?
 　Cela n'avait rien de difficile à expliquer : le contenu de la lettre d'invitation était erroné depuis le départ.
 “Nous organisons une fête d'anniversaire au début des jours de congé.”
 　L'homme qui avait fait cette erreur idiote,

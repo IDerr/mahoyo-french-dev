@@ -16,7 +16,7 @@
 　Pour le deuxième cas, le meurtre des obsèques pompeuses du professeur Yamashiro.
 　Pour ce cas-là―――je ne pouvais pas déterminer qui en était incapable.
 　Au mieux, Kuonji.
-　En effet, on ne savait pas quand M. Yamashiro avait été tué, et après la découverte du corps de M. Tokitsu, on s'était tous séparés pour le chercher dans toute la maison.
+　En effet, on ne savait pas quand M. Yamashiro avait été tué, et après la découverte du corps de M. Tokitsu, nous nous étions séparés pour le chercher dans toute la maison.
 　Il était presque impossible de commettre le crime en dix minutes seulement, mais on ne pouvait pas non plus être catégorique.
 *page5|
 　Le troisième cas, Housuke & Riddell.

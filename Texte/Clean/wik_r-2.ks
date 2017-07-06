@@ -35,7 +35,7 @@
 *page6|
 　Il était à peu près deux heures du matin, une heure où même la flore dormait.
 　Une tempête infernale se déchaînait de l'autre côté des volets clôturés. 
-　Dans un monde étrange où un rire signifiait la mort, je me trouvais seule dans une chambre avec le garçon que j'aimais secrètement depuis trois ans.
+　Dans un monde étrange où un rire signifiait la mort, je me trouvais seule dans une chambre avec le garçon que j'aimais en secret depuis trois ans.
 *page7|
 ;鳶丸
 「On peut se préparer du thé ici. Ça te dit, du thé noir ?」
@@ -64,7 +64,7 @@
 「Vraiment ? C'est vrai que son attitude est restée neutre tout au long de la soirée, mais tu te bases sur quoi exactement ?」
 「Le fait qu'elle n'a pas envie de rechercher le criminel et... Eh bien, [wait canskip=0 time=300][chgfg storage=鳶丸私服b01(全)|d2 zoom=80 time=300]désolé de dire ça en me fiant à mon instinct, mais j'ai l'impression qu'elle est du côté de l'individu A.」
 *page11|
-「C'est évident. Les Ploy appartiennent à Kuonji et celui-là prend l'apparence de l'individu A. C'est pour ça qu'elle est restée neutre dans cette histoire, non ?」
+「C'est évident. Les Ploy appartiennent à Kuonji et celui-là prend l'apparence de l'individu A. C'est pour ça qu'elle n'est pas intervenue dans cette histoire, non ?」
 *page12|
 「Non, ce n'est pas ce que je veux dire. Elle ne soutient pas le Ploy qui agit maintenant en lui-même, mais celui qui l'a utilisé.
 　T'as bien vu qu'elle n'était pas en colère, non ? Pourtant, quelqu'un a utilisé ce qui lui appartient sans sa permission.」
@@ -74,7 +74,7 @@
 　Cela voulait-il dire que Kuonji savait qui était le coupable ?
 *page14|
 「Je ne pense pas qu'elle le sache. Mais il y a sans doute quelque chose qu'elle nous cache volontairement.
-　Par exemple, les caractéristiques détaillées de ce Sweets Hearts. La façon dont Riddell a tourné la chose laissait entendre que l'humain qui l'utilise possède une certaine particularité.」
+　Par exemple, les caractéristiques détaillées de ce Sweets Hearts. La façon dont Riddell a présenté la chose laissait entendre que l'humain qui l'utilise possède une certaine particularité.」
 *page15|
 「À mon avis, Sweets Hearts ne peut pas être utilisé par n'importe qui.
 　C'est comme pour les sabres démoniaques et autres épées célèbres, ces objets qui sont censés choisir leur maître. Ce Ploy doit être de ce genre-là.」
@@ -99,7 +99,7 @@
 *page20|
 　En laissant de côté Riddell...
 ;金鹿
-「Alors selon toi, qui est le plus suspect ?」
+「Alors selon toi, qui paraît le plus suspect ?」
 *page21|
 「Tout le monde l'est. Et puisqu'on parle de choses suspectes, j'ai encore des doutes sur la véritable identité du cadavre du vieux Tokitsu.
 　Je pense aussi qu'Aozaki s'est fait piéger par le vrai coupable lorsqu'elle a voulu cacher ce qu'il s'est passé dans sa chambre. Le plan du coupable consistait peut-être à neutraliser dès le début son plus redoutable adversaire.」

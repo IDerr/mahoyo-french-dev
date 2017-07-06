@@ -79,7 +79,7 @@
 *page16|
 「Hé oh ! Est-ce que quelqu'un est en vie ?」
 　J'élevai la voix en direction de l'aile Ouest, mais je n'obtins aucune réponse.
-　Aaah, c'était comme je l'avais pressenti.
+　Aaah, c'était bien ce que j'avais pressenti.
 　Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du quartier Misaki.
 *page17|
 ;画面・黒
@@ -105,7 +105,7 @@
 *page21|
 ;画面・ぐにゃりと曲がる。スクリプトでやってくれい。
 「... Bah, ça n'a plus d'importance.」
-　Je n'avais plus aucun moyen pour me sortir d'affaire.
+　Je n'avais plus aucun moyen de me sortir d'affaire.
 　Le vrai coupable avait gagné la partie.
 　Tout en me demandant distraitement où je m'étais trompée, je tendai l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 ;画面暗転、デッドエンド。

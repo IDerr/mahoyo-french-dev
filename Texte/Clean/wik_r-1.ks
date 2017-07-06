@@ -39,12 +39,12 @@
 *page6|
 ;画面・ロビー・昼
 　La chambre de Tsukiji était également propre.
-　Celle de père Eiri aussi.
+　Celle de Père Eiri aussi.
 　De même pour celle de Ritsuka.
 *page7|
 「Hé oh ! Est-ce que quelqu'un est en vie ?」
 　J'élevai la voix en direction de l'aile Ouest, mais je n'obtins aucune réponse.
-　Aaah, c'était comme je l'avais pressenti.
+　Aaah, c'était bien ce que j'avais pressenti.
 　Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du quartier Misaki.
 *page8|
 ;画面・黒
@@ -70,7 +70,7 @@
 *page12|
 ;画面・ぐにゃりと曲がる。スクリプトでやってくれい。
 「... Bah, ça n'a plus d'importance.」
-　Je n'avais plus aucun moyen pour me sortir d'affaire.
+　Je n'avais plus aucun moyen de me sortir d'affaire.
 　Le vrai coupable avait gagné la partie.
 　Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 ;画面暗転、デッドエンド。

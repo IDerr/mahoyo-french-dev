@@ -1,5 +1,5 @@
 ﻿*page0|
-「Enfin bon, tant qu'on n'a aucun moyen d'être catégorique, les suppositions restent des suppositions.
+「Enfin bon, tant qu'on n'a aucun moyen d'être catégorique, nos suppositions restent des suppositions.
 　À part ça, Kumari, tu ne penses pas que la difficulté est de savoir comment ils ont été tués plutôt que quand ?」
 *page1|
 「Que ce soit Yamashiro ou Père Eiri, il faut avoir un sacré sens de l'humour pour faire rire ces masques de fer.

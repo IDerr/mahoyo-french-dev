@@ -14,7 +14,7 @@
 　Il dit “Yo” en levant la main comme pour faire une salutation matinale.
 *page3|
 ;草十郎・鼻眼鏡たち絵
-「Nous[wait canskip=0 time=100] som [wait canskip=0 time=100]mes [wait canskip=0 time=100]un [wait canskip=0 time=100]ex[wait canskip=0 time=100]tra[wait canskip=0 time=100]ter[wait canskip=0 time=100]res[wait canskip=0 time=100]tre.」
+「Nous[wait canskip=0 time=100] som[wait canskip=0 time=100]mes [wait canskip=0 time=100]un [wait canskip=0 time=100]ex[wait canskip=0 time=100]tra[wait canskip=0 time=100]ter[wait canskip=0 time=100]res[wait canskip=0 time=100]tre.」
 「Pff...!」
 　C'était tellement grossier et direct qu'il en avait ébranlé ma sensibilité.
 *page4|
@@ -58,7 +58,7 @@
 *page11|
 「... Je sais ce qu'il en est.[r]
 　Ce qui a fait rire Tsukiji et les autres, c'est la photo d'Aozaki, pas vrai ?」
-「Exactement. C'est la carte maîtresse.
+「Exactement. C'était la carte maîtresse.
 　Et c'est aussi ma rémunération.」
 *page12|
 　Tous les garçons qui connaissaient Aozaki riraient en voyant cette photo exhibant sa mésaventure.

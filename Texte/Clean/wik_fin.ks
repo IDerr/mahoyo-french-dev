@@ -10,7 +10,7 @@
 　Dans un coin du vestibule, une femme portant des habits de nonne était également évanouie, ou plutôt, elle dormait.
 *page2|
 　Le manoir était calme, mais on pouvait entendre divers sons en tendant l'oreille.
-　Le bruit d'ustensiles que l'on entassait me parvenait depuis la cuisine.
+　Le bruit d'ustensiles qu'on entassait me parvenait depuis la cuisine.
 　Je pouvais également percevoir des bruits de pas et de charnières grinçantes.
 　Et,
 *page3|
@@ -39,7 +39,7 @@
 *page8|
 「Tiens―――? J'ai l'impression qu'il s'est passé quelque chose, mais quoi donc...」
 　Je restai dubitative devant le mémo étrange que je tenais devant mes yeux.
-　Prise de colère devant le griffonnage insouciant et simple d'esprit, je froissai la feuille dans ma main, puis, après avoir un peu hésité, la mis dans ma poche.
+　Prise de colère devant le griffonnage insouciant et simple d'esprit, je froissai la feuille dans ma main, puis, après avoir un peu hésité, la fourrai dans ma poche.
 *page9|
 「Oh ? Tu es aussi là, Kumari.
 　Qu'est-ce qui se passe ici ? La fête commence le matin, finalement ?」
@@ -72,7 +72,7 @@
 *page16|
 　Les voix familières et joyeuses se retirèrent vers le hall.
 　Les grains de la coquille dispersés par la brise passèrent à travers la lucarne et disparurent comme grillés par le soleil.
-　　“Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
+“Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
 　Cette voix voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.
 *page17|
 　Ainsi se termina la Rhapsody.

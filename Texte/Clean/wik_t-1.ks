@@ -33,7 +33,7 @@
 　Pourtant, il gâchait ses compétences.
 　Pour je ne savais quelle raison, il n'avait pas envie de prestige ou de s'améliorer.
 *page7|
-　C'était vraiment un gâchis de qualités humaines.
+　C'était vraiment un gâchis de ses qualités humaines.
 　Par nature, je ne supportais pas cela, je voulais l'envoyer par n'importe quel moyen à un endroit où il serait à son avantage, et avant que je ne m'en rende compte, je m'étais mis à l'observer tous les jours.
 *page8|
 「... C'est un peu tard pour demander ça,
