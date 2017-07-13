@@ -14,8 +14,8 @@
 ;画面・暗転から、ちょいウエイト。時計・五時半
 ;画面・居間（夜）
 ;SE、雨の音（中）
-　Une fois lancée, la pluie ne montrait aucun signe d'interruption.
-　Bien au contraire, son intensité augmentait et il faisait déjà nuit noire alors que le soleil n'était pas encore couché.
+　Une fois lancée, la pluie ne montra aucun signe d'interruption.
+　Bien au contraire, son intensité augmenta et il faisait déjà nuit noire alors que le soleil n'était pas encore couché.
 *page5|
 　La fête n'avait pas encore commencé.
 　En jetant un coup d'œil au salon et à la véranda,
@@ -25,14 +25,14 @@
 　Dans le salon, le jeu de cartes d'Housuke agitait bien plus la foule que prévu.
 　Il prenait même la tournure d'une querelle.
 *page6|
-　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de "M. Fantôche passe".
+　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantôche passe”.
 　Le but était de gêner au mieux ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'ils ne souriaient pas intérieurement et guettaient une occasion d'attaquer par surprise.
 　De son côté, le groupe des adultes observait les lycéens depuis la véranda, un verre de vin à la main.
 *page7|
 ;詠梨神父
 「C'est surprenant. Je ne pensais pas qu'on serait autorisés à se balader librement dans le bâtiment jusqu'au début de la fête. Que nous vaut ce changement d'attitude, Alice ?」
 ;有珠
-「...... Ce n'est rien de tel. Les portes des pièces où il est dangereux d'entrer ont de toute façon été changées en mur. Cette modification se limite à aujourd'hui, mais ainsi, nous n'aurons pas à déplorer de victime.」
+「...... Ce n'est rien de tel. Les portes des pièces où il est dangereux d'entrer ont de toute façon été changées en mur. Cette modification se limite à aujourd'hui, mais ainsi, nous n'aurons pas à déplorer de victimes.」
 *page8|
 ;木乃美
 「? Changer en mur ? Comment ça ? [l][chgfg storage=木乃実私服01(遠)|c type=13 time=400]Et puis des victimes ? Tu aimes exagérer, Alice ~ ! C'est sûr que c'est un grand manoir, mais personne n'est assez bête pour s'y perdre, tu sais ?」
@@ -56,10 +56,10 @@
 　L'aiguille de l'horloge pointa sur les six heures.
 　La nuit était tombée à l'extérieur.
 ;SEバタバタバタ、とヘリの音。小さく
-　Avec monsieur Yamashiro et le groupe ecclésiastique, le chemin du retour devrait être sûr, même en pleine nuit, pourtant, la pluie battante attisait mon anxiété.
+　Avec monsieur Yamashiro et le groupe ecclésiastique, le chemin du retour devrait être sûr, même en pleine nuit, mais en dépit de cela, la pluie battante intensifiait mon anxiété.
 *page13|
 ;有珠
-「...... Il serait temps d'entrer dans les derniers préparatifs.
+「...... Il serait temps d'entamer les derniers préparatifs.
 　Où est Tokki ?」
 　À la fin d'une énième partie, Kuonji prononça des propos étranges.
 *page14|
@@ -68,7 +68,7 @@
 ;木乃美
 「Ben, c'est le vieux Tokitsu. Tiens......?
 　Kojika, t'as pas salué le vieux ?」
-「Je ne suis pas au courant. Il y a encore d'autres gens dans cette maison ? ...... C'est un peu tard pour demander, mais combien de personnes sont prévues à cette fête ?」
+「Je ne suis pas au courant. Il y a encore d'autres gens dans cette maison......? C'est un peu tard pour demander, mais combien de personnes sont prévues à cette fête ?」
 *page15|
 ;有珠
 「Avec moi, Aoko, Shizuki, Tsukiji, Kinomi, toi, Tokki, et les autres, ça fait un total de treize personnes.

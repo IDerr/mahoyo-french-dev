@@ -37,6 +37,6 @@
 ;画面・少しだけウエイトして洋館・ロビーに
 　De retour au vestibule――― j'entendis des rires en provenance du salon de l'aile Est, sur ma droite.
 　Aozaki devait m'attendre.
-　Je réajustai le sac sur mon épaule et partis vers le salon.
 ;Ｂ－１－ａへ合流
+　Je réajustai le sac sur mon épaule et partis vers le salon.
 *page6|

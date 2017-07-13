@@ -3,7 +3,7 @@
 ;画面・居間
 　À peine entrée, je dus empêcher mon corps de bondir.
 　Je n'eus même pas le temps de me sentir apaisée par l'atmosphère du salon, plus intimiste que le vestibule.
-　En effet, l'un des visages présents, bien qu'il me soit familier, m'avait pris au dépourvu.
+　En effet, l'un des visages présents, bien qu'il me soit familier, m'avait prise au dépourvu.
 *page1|
 ;立ち絵・有珠
 　Tout d'abord, il y avait elle, Kuonji Alice.
@@ -34,7 +34,7 @@
 　Évidemment qu'il y avait un hic !
 　Rien ne sert de le cacher, je vais donc être directe. Moi, Kumari Kojika, je ressentais un amour non partagé pour Tsukiji Tobimaru.
 　Et cela durait depuis trois ans.
-　Incapable de me confesser, je tournais en rond depuis tout ce temps. Je faisais preuve d'une faiblesse absolument méprisable.
+　Incapable de me confesser, je tournais en rond depuis tout ce temps. Je faisais preuve d'une lâcheté absolument misérable.
 *page7|
 　Cela dit, pour ma pitoyable défense, ce n'est pas comme si j'étais aussi froussarde depuis le début.
 　En première année, je ne le considérais vaguement que comme un ami d'Aozaki.
@@ -69,7 +69,7 @@
 ;久万梨立ち絵、照れ
 　Par sa faute, je voulais croire que j'avais une chance.
 　Il s'était même cassé le bras en voulant me sauver durant les incidents de l'été dernier.
-　J'ignorais si Tsukiji a déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
+　J'ignorais si Tsukiji avait déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
 *page14|
 　Mais seulement, voilà,
 　dans ce cas, à quoi aurait servi le combat secret que j'avais mené depuis le début de l'adolescence ?
@@ -89,7 +89,7 @@
 ;金鹿、頬染めむぅ
 「............」
 　De toute façon, je ne possédais pas de robe ; ce n'est pas comme si mes efforts auraient servi à grand-chose.
-　Je me claquai les joues pour reprendre mes esprits et agir comme d'habitude.
+　Je me claquai les joues pour reprendre mes esprits et me comporter comme d'habitude.
 *page18|
 ;時計・午後三時半時
 ;画面・サンルーム
@@ -108,20 +108,20 @@
 ;木乃美
 「Ouah ! Comme d'habitude, ce type ne parle que de ce qui l'intéresse. Alice, ce professeur est un barbare sans aucune délicatesse que je te conseille d'ignorer.
 　Et si nous parlions plutôt de tes plans pour les vacances de Noël ?
-　J'imagine que tu es plutôt mal à l'aise sur des skis. Le très fiable Kinomi Housuke serait ravi de te donner des cours, seul à seul ~」
+　J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Housuke serait ravi de te donner des cours, seul à seul ~」
 *page22|
 ;有珠目閉じ納得
 「On ne s'ennuie vraiment pas avec vous.
 　J'ai tout compris. Vous êtes comme des piverts domestiques.」
 *page23|
 ;駒鳥
-『Ha ha ha, alors ces abrutis équivalent à c't idiot d'oiseau qui n'fait qu'tambouriner sur les arbres ou bavarder ! Alice n'a pas reconnu le petit Sou comme un oiseau, j'imagine donc que vous z'avez un rang plus élevé.
+『Ha ha ha, alors ces abrutis sont du niveau d'c't idiot d'oiseau qui n'fait qu'tambouriner sur les arbres ou bavarder ! Alice n'a pas reconnu le petit Sou comme un oiseau, j'imagine donc que vous z'avez un rang plus élevé.
 　Mais bon, vous restez des oisillons comparé à moi qui risque toujours mes plumes !』
 *page24|
 ;画面・サンルームに。駒鳥を憮然とした顔で見る金鹿
 「...... C'est quoi cet oiseau grassouillet ?」
 　Un rouge-gorge bleu s'accrochait sans cesse à Kuonji, mais elle le chassait à chaque fois qu'il venait se percher sur son épaule.
-　Il criait d'un gazouillis charmant. Était-il laissé en liberté ?
+　Il criaillait d'un gazouillis charmant. Était-il laissé en liberté ?
 *page25|
 ;画面から駒鳥消してサンルーム
 　Je ne voyais Aozaki nulle part. Elle s'était sûrement rendue en cuisine ou aux toilettes.
@@ -168,7 +168,7 @@
 「Il n'est pas allé faire des courses ?
 　Il m'a dit qu'il n'y avait pas assez de boissons.」
 *page34|
-「Ah bon ? Zut alors, il aurait pu me demander. Je trouve cet aspect de lui vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire seul.
+「Ah bon ? Zut alors, il aurait pu me demander. Je trouve cet aspect de sa personnalité vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire seul.
 　Enfin, j'aime bien ça parce qu'il me fait penser à un animal !」
 *page35|
 　Présentons-le de nouveau, cet enfant blond s'appellait Beo.

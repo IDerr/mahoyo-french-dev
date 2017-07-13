@@ -2,7 +2,7 @@
 　Je songeai qu'il vaudrait peut-être mieux rentrer chez moi.
 *page1|
 ;律架
-「Et dire que le symbole du soleil recouvrait toute la carte de la météo.
+「Et dire que toute la carte de la météo était recouverte du symbole du soleil.
 　...... Hum, le retour risque d'être délicat s'il commence à pleuvoir pour de bon. Le taxi ne peut monter que jusqu'au milieu de la montagne.」
 *page2|
 　Ritsuka avait parfaitement raison.
@@ -39,8 +39,8 @@
 　une autre légende que l'on racontait aux enfants me revint en mémoire.
 *page8|
 　　　　　『Prends garde lorsque tu descends seul de la montagne,
-　　　　　　car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
 ;赤フォントで
+　　　　　　car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
 *page9|
 　Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes cherchant à sortir du cercle.
 　Il ne les attaquait pas pour les manger, mais pour les tuer, ce qui rendait le personnage plus humain et avait marqué mon esprit.
@@ -60,7 +60,7 @@
 　j'aperçus une ombre de forme humaine sous un arbre.
 *page13|
 「Qui est là......?」
-　J'élevai la voie. [l]Pas de réponse. [l]Le ciel était sombre. [l]Aucun vent ne soufflait.
+　J'élevai la voix. [l]Pas de réponse. [l]Le ciel était sombre. [l]Aucun vent ne soufflait.
 　La véritable raison qui m'avait poussée à rentrer me traversa l'esprit.
 　Oui, j'avais eu un pressentiment.
 　J'avais senti qu'un évènement terrible se produirait si je restais au manoir―――
@@ -69,19 +69,19 @@
 「Ah―――」
 　Je fus témoin d'un spectacle impensable.
 　Le choc força mon ventre à se creuser.
-　Par réflexe, je plaçai la main sur ma bouche, mais il était trop tard.
 ;これ、笑いをこらえているのです。
+　Par réflexe, je plaçai la main sur ma bouche, mais il était trop tard.
 *page15|
 ;画面・血がしたたる。吐血。から、久遠寺邸裏庭へ。カメラは空がメイン。ばささー、とカラスが飛び去るとなおよい。
 ;SE、金鹿の倒れる音
 　...... Je m'effondrai au sol.
-　Mon corps se vidait se son sang et mes forces m'abandonnaient.
+　Mon corps se vidait de son sang et mes forces m'abandonnaient.
 　Je levai la main pour réclamer de l'aide, mais elle ne fit que retomber vainement.
 　Dans un dernier effort, je fixai la silhouette devant moi.
 *page16|
 『...... C'eSt ViLaIn, Ça. QuI t'A PeRmIs D'eN fInIr AvAnT qUe Ça Ne CoMmEnCe ?』
 *page17|
 　Un objet en forme de hachette s'abattit sur moi.
-　L'individu au visage d'ogre me dit ceci tandis que j'agonisais.
 ;デッドエンド。
+　L'individu au visage d'ogre me dit ceci tandis que j'agonisais.
 *page18|

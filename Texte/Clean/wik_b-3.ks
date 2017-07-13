@@ -19,8 +19,8 @@
 「Oui, mais je ne peux pas laisser une invitée toute seule...」
 ;金鹿
 「C'est bon, ne t'en fais pas. Je reviens tout de suite.
-　Housuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
 ;青子あわて
+　Housuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
 *page4|
 ;玄関・出口視点
 　Je me dirigeai vers la sortie après avoir refusé l'offre d'Aozaki.

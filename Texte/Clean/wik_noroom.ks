@@ -3,7 +3,7 @@
 ;以下は通っていない場合
 ;画面・ロビー
 　Je chargeai le sac que j'avais posé dans le salon sur une épaule, puis je me rendis au premier étage.
-　D'après Aozaki, on m'avait allouée la deuxième chambre du premier étage de l'aile Est.
+　D'après Aozaki, on m'avait alloué la deuxième chambre du premier étage de l'aile Est.
 *page1|
 ;二階廊下
 ;青子01Aa2　ちょっと意外そうに
@@ -15,7 +15,7 @@
 ;青子、あわて01Bh
 「Hein ? C'est... C'est bien ma chambre, mais je n'y suis pas allée.
 　Je cherche juste quelque chose, alors ne fais pas attention à moi.
-　Ah, elle n'est pas verrouillée. La clef est posée sur le bureau de la chambre. Sers-t'en pour fermer la porte.」
+　Ah, ta chambre n'est pas verrouillée. La clef est posée sur le bureau. Sers-t'en pour fermer la porte.」
 ;青子消す
 　Aozaki descendit au rez-de-chaussée.
 *page3|
@@ -26,6 +26,6 @@
 　J'allais passer la journée dans une demeure inconnue. Plus mon corps serait léger, moins je me fatiguerais.
 *page4|
 「La clef...... Ah, la voilà.」
-　C'était une clef en laiton. Son design était ancien et recherché, du même style que ce manoir.
 ;以下、合流点へ
+　C'était une clef en laiton. Son design était ancien et recherché, du même style que ce manoir.
 *page5|

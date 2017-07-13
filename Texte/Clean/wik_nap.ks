@@ -5,7 +5,7 @@
 　Discuter avec Tsukiji me mettait sur mes gardes, et une autre sorte de tension m'envahissait quand j'étais avec Kuonji.
 *page1|
 　Sous son regard, un sentiment étrange de culpabilité m'assaillait.
-　C'était comme si elle me soupçonnait sans raison ou qu'elle me blâmait pour mes nombreuses erreurs passés.
+　C'était comme si elle me soupçonnait sans raison ou comme si elle me blâmait pour mes nombreuses erreurs passés.
 　Comme l'intéressée ne semblait pas du tout avoir cette intention, le problème devait venir de mon côté.
 　Comme on dit : tout le monde a un cadavre dans son placard.
 *page2|
@@ -26,7 +26,7 @@
 　Kuonji avait sous-entendu qu'il y aurait d'autres invités.
 ;草十郎には会っていないが、まあ、ここで草十郎の顔がでるのはそういうコトである。
 　Ce manoir n'appliquait pas la coutume japonaise consistant à retirer ses chaussures à l'entrée. Par conséquent, il était impossible de déterminer le nombre de personnes présentes en comptant les paires de souliers.
-　Et pour cette raison, je ne savais pas encore combien d'individus se trouvaient dans le bâtiment.
+　Et pour cette raison, je ne savais pas encore combien de gens se trouvaient dans le bâtiment.
 *page5|
 ;画面・ゆっくりと黒に
 　Je fermai les paupières et m'efforçai de dormir un peu.
@@ -35,6 +35,6 @@
 　.......
 　...................
 　.....................................
-　Durant mon sommeil léger, j'eus l'impression d'entendre au loin un rire semblable à un cri.
 ;画面ウエイト、長。
+　Durant mon sommeil léger, j'eus l'impression d'entendre au loin un rire semblable à un cri.
 *page7|
