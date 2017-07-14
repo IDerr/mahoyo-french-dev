@@ -37,15 +37,15 @@
 　Par nature, je ne supportais pas cela, je voulais l'envoyer par n'importe quel moyen à un endroit où il serait à son avantage, et avant que je ne m'en rende compte, je m'étais mis à l'observer tous les jours.
 *page8|
 「... C'est un peu tard pour demander ça,
-　mais tu es plutôt farouche en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
+　mais tu es plutôt acerbe en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
 「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que je montre du respect envers une personne qui s'est battue toute seule pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 *page9|
 ;金鹿、ぽかん。実は感じ入っている//
 「――――――」
 ;鳶丸
-「À plus. On se verra dans le vestibule, au matin.」
 ;立ち絵消す。
 ;SEドア、締まる音。
+「À plus. On se verra dans le vestibule, au matin.」
 *page10|
 　Puis, la chambre fut soudain plongée dans le silence.
 　Le cœur gros sans savoir pourquoi, 
@@ -54,8 +54,8 @@
 　je repensais aux paroles de Tsukiji.
 *page11|
 　... Oui, je vois.
-　En fin de compte, je me suis aussi amusée.
 ;画面暗転・ウエイト
+　En fin de compte, je me suis aussi amusée.
 *page12|
 ;画面・時計五時半。夜明け。
 ;SE嵐の音、なくなっている。
@@ -77,7 +77,7 @@
 　Une photo singulière où l'on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
 *page15|
 　Peut-être avait-elle bu du champagne qu'elle avait confondu avec du jus de fruit,
-　ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, qu'était l'alcool, dans le Mont Blanc,
+　ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, à savoir de l'alcool, dans le Mont Blanc,
 　mais une chose était sûre, au moment où on l'avait lâchée des yeux, Aozaki s'était retrouvée d'une humeur joviale et se débattait en disant vouloir porter cette tenue.
 *page16|
 ;※同上。この演出方針をエンド前にもっていく。
@@ -88,12 +88,12 @@
 *page17|
 「―――Tiens ?」
 　À l'instant,
-　ne venais-je pas de présenter quelque chose que je n'aurais surtout pas voulu dire actuellement ?
 ;このモノローグ、要らないと言えば要らない。//
+　ne venais-je pas de présenter quelque chose que je n'aurais surtout pas voulu dire actuellement ?
 *page18|
 「Ah oui―――Et les autres ?」
-　Je fouillai dans mon sac de voyage et regardai s'il n'y avait pas quelque chose qui pouvait m'être utile au cas où.
-　Les outils que j'avais apportés pour faire de la cuisine chinoise me furent utiles.
+　Je fouillai dans mon sac de voyage et regardai s'il n'y avait pas quelque chose qui pourrait servir au cas où.
+　Les outils que j'avais apportés pour faire de la cuisine chinoise pouvaient m'être utiles.
 　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais je jetais finalement mon dévolu sur la casserole.
 *page19|
 ;画面・二階廊下・朝

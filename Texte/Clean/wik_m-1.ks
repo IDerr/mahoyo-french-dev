@@ -10,6 +10,6 @@
 「... Tout... J'ai tout perdu...」
 　Un fantôme qui semblait avoir vu la fin du monde occupait les lieux.
 ;画面・黒に
-　Je feignis de n'avoir rien vu par compassion et m'empressai de fermer la porte.
 ;Ｍ－ａに合流
+　Je feignis de n'avoir rien vu par compassion et m'empressai de fermer la porte.
 *page2|

@@ -17,7 +17,7 @@
 「Quoi ? Par explosion de poussière, tu veux parler du phénomène dû à l'ignition, à cause d'une étincelle par exemple, de poussières de charbon flottant dans l'air ? C'est ça ?」
 *page3|
 ;詠梨
-「En résumé, c'est bien ça. Mais le phénomène ne se limite pas au charbon. Si l'endroit est un lieu confiné et il y a une certaine quantité de particules combustibles dans l'air, alors une explosion peut s'y produire. Pour vous donner un exemple parmi les articles ménagers, vous avez la farine de blé.
+「En résumé, c'est bien ça. Mais le phénomène ne se limite pas au charbon. Si l'endroit est un lieu confiné et s'il y a une certaine quantité de particules combustibles dans l'air, alors une explosion peut s'y produire. Pour vous donner un exemple parmi les articles ménagers, vous avez la farine de blé.
 　C'est également faisable avec de la rouille de casserole, du papier d'aluminium ou de la thermite, mais au vu de la situation, il doit s'agir de la poussière.」
 *page4|
 ;青子
@@ -25,7 +25,7 @@
 　D'ailleurs, une explosion de poussière, c'est si puissant que ça ?」
 ;リデル、青子の後ろでうんうんと頷いている。01fか、01d//
 ;鳶丸
-「On va enquêter sur la question, mais connaissant le vieux, il portait peut-être une veste pare-balle.
+「On va enquêter sur la question, mais connaissant le vieux, il portait peut-être un gilet pare-balles.
 　Et puis, la cause de la mort n'est pas forcément l'explosion de poussière. Cette dernière a pu aussi être provoquée après qu'on l'a tué. L'explosion en elle-même était peut-être petite, et on aurait brûlé les membres et la tête à l'avance.」
 *page5|
 ;詠梨
@@ -43,7 +43,7 @@
 「Par conséquent, afin de mettre en scène un corps dont les brûlures ne paraîtraient pas étranges, le coupable aurait caché l'indice le plus important en provoquant à dessein une explosion de poussière étrange. Par exemple.
 　Les petits mensonges s'effacent face à un grand mensonge.」
 ;律架
-「Snif... ça aussi, je voulais le dire, c'est pas juste...」
+「Snif... Ça aussi, je voulais le dire, c'est pas juste...」
 *page8|
 ;青子、金鹿、リデル、感心
 　Nous étions impressionnés malgré nous par les conjectures de Père Eiri et de Tsukiji.
@@ -59,7 +59,7 @@
 　Soujyuro, il y a de la farine de blé dans la cuisine ?」
 ;草十郎
 「Je suis en train de chercher... Non.
-　On en avait un stock, mais le sac a disparu.」
+　On en avait en stock, mais le sac a disparu.」
 *page10|
 ;みんなむっ、と真剣な顔
 ;木乃美
@@ -83,13 +83,13 @@
 ;有珠
 「Je suis désolée de vous déranger alors que vous débattez sérieusement, mais j'ai une terrible nouvelle à vous annoncer.
 ;※ここの有珠の照れ顔、他候補で。口頭でチョイス
-　Mais avant cela, Shizuki, puis-je te dire un mot...?」
 ;有珠、最後の「少しいい？」のところはちょっと恥じらいこみで。二話の後なので、有珠は草十郎を意識しまくりなのです//
 ;草十郎、不思議そうな顔
+　Mais avant cela, Shizuki, puis-je te dire un mot...?」
 *page14|
 　Kuonji fit un signe de la main à Shizuki et lui parla à voix basse.
 ;リデル01j
-「Hé, vous deux ! Vous n'êtes pas un peu proches ?
+「Hé, vous deux ! Vous n'êtes pas un peu trop proches ?
 　C'est dégueulasse de faire des cachotteries.」
 *page15|
 ;有珠
@@ -109,10 +109,10 @@
 「Hein...?」
 *page18|
 ;リデル01c
-「D'où tu sors ça ? C'est trop drôle ! Qu'est-ce que ça te ressemble pas !
-　Soujyuro, Alice se moque de toi ! Connais-tu seulement le sens de cette phra―――[se storage=se12058 volume=100 loop=0][playstop time=100 nowait=1][wait canskip=0 time=200][bg time=20 rule=crossfade storage=red  noclear=0][stopaction][clall][se storage=se10035 volume=100 loop=0][se storage=se12070 volume=100 loop=0][fgact page=back props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,l,im15l喀血,508,312,2000,,50,50,1)(100,,,,479,329,,,100,100,)(300,,n,,,,,255,150,150,) storage=im15l喀血][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-xblur,-visible keys=(0,3,l,リデル01(全)|k,673,1294,1200,,80,80,5,1)(400,7,,リデル01(全)|k2,622,,,-10.57,,,2,) storage=リデル01(全)|k][fgact page=back props=-storage,center,vcenter,zoomx,zoomy,-xblur,-yblur,-visible keys=(0,3,l,bg01l久遠寺邸03居間-(夜隣明)奥扉開,871,331,134.514,134.514,2,1,1)(400,0,,,820,,,,,,) storage=bg01l久遠寺邸03居間-(夜隣明)奥扉開][shock vmax=15 hmax=5 time=200 count=2][bg time=100 rule=crossfade storage=white  noclear=1]Kof ?!」
+「D'où tu sors ça ? C'est trop drôle ! Ça ne te ressemble pas du tout !
 ;ぐはっ、のところでリデル01k2して、画面を血に染めて、リデル倒れる。//
 ;草十郎、おおっ、と感心して驚いている。
+　Soujyuro, Alice se moque de toi ! Connais-tu seulement le sens de cette phra―――[se storage=se12058 volume=100 loop=0][playstop time=100 nowait=1][wait canskip=0 time=200][bg time=20 rule=crossfade storage=red  noclear=0][stopaction][clall][se storage=se10035 volume=100 loop=0][se storage=se12070 volume=100 loop=0][fgact page=back props=-storage,center,vcenter,absolute,opacity,zoomx,zoomy,-visible keys=(0,0,l,im15l喀血,508,312,2000,,50,50,1)(100,,,,479,329,,,100,100,)(300,,n,,,,,255,150,150,) storage=im15l喀血][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-xblur,-visible keys=(0,3,l,リデル01(全)|k,673,1294,1200,,80,80,5,1)(400,7,,リデル01(全)|k2,622,,,-10.57,,,2,) storage=リデル01(全)|k][fgact page=back props=-storage,center,vcenter,zoomx,zoomy,-xblur,-yblur,-visible keys=(0,3,l,bg01l久遠寺邸03居間-(夜隣明)奥扉開,871,331,134.514,134.514,2,1,1)(400,0,,,820,,,,,,) storage=bg01l久遠寺邸03居間-(夜隣明)奥扉開][shock vmax=15 hmax=5 time=200 count=2][bg time=100 rule=crossfade storage=white  noclear=1]Kof ?!」
 *page19|
 ;鳶丸、木乃美、律架、青子、驚き
 「Quoi ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
@@ -157,9 +157,9 @@
 　Alice, tu es drôlement douée pour les blagues, hahahahaha !」
 ;木乃美、爆発
 ;金鹿
-「Ho... HousukeeeーーーーHein ?!」
 ;※可能であるなら、木乃美の死に様は爆散したあと、札束（子供銀行）が大量に舞い散ってほしい。子供銀行を一枚だけきちんと画像で作る。絵柄は背広をきた木乃美//
 ;ヒラヒラと散った後、画面にアップでぺたりとつくとなおよろしい、とものじ博士が//
+「Ho... HousukeeeーーーーHein ?!」
 *page25|
 ;青子・真剣驚き。ごくり、と息を呑むように。
 「...... On dirait que c'est sérieux.」
@@ -172,7 +172,7 @@
 *page26|
 　Attendez, je comprends vraiment rien.
 　Si on nous fait rire, on meurt ? Pardon ?
-　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ?　Sauf que deux personnes viennent tout juste de mourir sous mes yeux, après s'être esclaffés. Alors quoi ? C'est vrai ?
+　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ? Sauf que deux personnes viennent tout juste de mourir sous mes yeux, après s'être esclaffés. Alors quoi ? C'est vrai ?
 *page27|
 ;詠梨
 「Ça veut dire que le Ploy Kickshaw est actif ?
@@ -208,14 +208,14 @@
 ;律架
 「... Kinomi est mort en dispersant des liasses de billets. Il devait espérer une vie drôlement opulente...」
 ;鳶丸
-「Mais vu ces billets, c'est vraiment un cas désespéré.」
 ;木乃美子供銀行をもう一度だしも可//
+「Mais vu ces billets, c'est vraiment un cas désespéré.」
 *page34|
 ;草十郎
 「La mort de Riddell était plutôt normale.
 　La connaissant, j'aurais cru qu'elle se transformerait en avion ou en yacht.」
 ;駒鳥
-『Tu l'as dit ! J'reconnais bien là Ma'mzelle Riddell, on ne peut vraiment pas se fier à son apparence ! Sa mort subite en vomissant du sang est d'un ringard. Même le petit Kinomi la bat. C'est pour ça que les menus fretins sont irrécupérables !』
+『Tu l'as dit ! J'reconnais bien là Ma'mzelle Riddell, on ne peut vraiment pas se fier à son apparence ! Sa mort subite en vomissant du sang était d'un ringard. Même le petit Kinomi a fait mieux. C'est pour ça que les menus fretins sont irrécupérables !』
 *page35|
 ;リデル、怒り顔で立ち上がる
 「Qu... [wait canskip=0 time=400]Qui [wait canskip=0 time=300]traites-tu de [wait canskip=0 time=400][se storage=se11036 volume=100 loop=0][se storage=se01091 volume=100 loop=0][se storage=se01062 volume=100 loop=0][se storage=se12052 volume=100 loop=0][shock vmax=20 time=300 count=2]menu fretiiin !」[l][wact canskip=0][wact canskip=0][r]
@@ -223,14 +223,14 @@
 「Elle... Elle est revenue à la vie ?!」
 *page36|
 ;リデル
-[fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,0,,,,,,,3,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,0,,,,,,3,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]「Ne me sous estimez... pas !　Ggh[se storage=se05012a volume=90 loop=0][shock hmax=10 time=300 count=1], [l][se storage=se07021 volume=100 loop=0][wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,,,,,,,,-4,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,,,,,,,-4,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]Ce n'est pas un petit arrêt cardiaque, Ggh[se storage=se05012b volume=90 loop=0][shock hmax=10 time=300 count=1]uuh, [l][wact canskip=0]qui... [se storage=se07021 volume=100 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(700,,,,~,~,~,255,~,~,~,)(800,,,,,1315,,,1.5,,,)(900,,,,~,~,~,,~,~,~,)(1000,,,,,1266,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(800,,,,,1315,,1.5,,,)(1000,,,,,1266,,0,,,) storage=リデル02(全)|d3 id=2]qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storage=se05033 volume=100 loop=0][shock vmax=20 time=300 count=1]me tuer !」[wact canskip=0]
+[fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,0,,,,,,,3,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,0,,,,,,3,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]「Ne me sous-estimez... pas ! Ggh[se storage=se05012a volume=90 loop=0][shock hmax=10 time=300 count=1]... [l][se storage=se07021 volume=100 loop=0][wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,,,,,,,,-4,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,,,,,,,-4,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]Ce n'est pas un petit arrêt cardiaque, gh[se storage=se05012b volume=90 loop=0][shock hmax=10 time=300 count=1]uuh, [l][wact canskip=0]qui... [se storage=se07021 volume=100 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(700,,,,~,~,~,255,~,~,~,)(800,,,,,1315,,,1.5,,,)(900,,,,~,~,~,,~,~,~,)(1000,,,,,1266,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(800,,,,,1315,,1.5,,,)(1000,,,,,1266,,0,,,) storage=リデル02(全)|d3 id=2]qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storage=se05033 volume=100 loop=0][shock vmax=20 time=300 count=1]me tuer !」[wact canskip=0]
 ;ベオ
 「Ouah... C'est la première fois que je vois un humain endurer un arrêt cardiaque par la seule force de sa volonté... [wait canskip=0 time=400][chgfg storage=ベオ02b(大)|i time=300 textoff=0]On dirait que Riddell ne peut être tuée par une plaisanterie aussi légèreー」
 *page37|
 ;草十郎
 「Incroyable ! Tu pourras m'apprendre ton secret ?」
 ;有珠（棒読みの顔）
-「Oui, tu es tel un vrai mort-vivant. Moi, je croyais en toi, Riddell.」
+「Oui, tu es un vrai mort-vivant. Moi, je croyais en toi, Riddell.」
 ;リデル01d
 「Vo... Vous deux ! Au lieu de me féliciter, vous ne devriez pas plutôt vous excuser ?!
 　D'ailleurs, ce loup-garou aurait mieux convenu pour un test, vous ne croyez pas ?![r]
@@ -240,7 +240,7 @@
 「Hein...? Eh bien, nous sommes rivales, n'est-ce pas ?
 　Dans ce cas, c'est normal de s'entretuer.」
 ;リデル02d2
-「Hein ? Ah, oui, c'est ça. Les rivales agissent bien comme ça.
+「Hein ? Ah, oui, c'est vrai. Les rivales agissent effectivement comme ça.
 　Tu... Tu vois quand tu veux ! J'ai déjà une meilleure opinion de toi si tu élabores une attaque dès que l'occasion se présente.」
 *page39|
 ;鳶丸

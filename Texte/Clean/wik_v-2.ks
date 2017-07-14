@@ -19,10 +19,10 @@
 　C'était tellement grossier et direct qu'il en avait ébranlé ma sensibilité.
 *page4|
 ;画面、久万梨が笑ってしまったのでじょじょに崩れ出す。世界が再構築（朝に戻る）予兆。
-「Shizuki...! C'é.. C'était toi le coupable...?!」
+「Shizuki...! C'é... C'était toi le coupable...?!」
 「Exact. [wait canskip=0 time=400]Nous [wait canskip=0 time=400]l'avons fait ! [wait canskip=0 time=400]Nous l'avons fait !」
-「Tu peux arrêter avec ton jeu d'acteur.」
 ;草十郎、しょんぼり
+「Tu peux arrêter avec ton jeu d'acteur.」
 *page5|
 　J'endurai l'engourdissement de mes membres et donnai un coup à ses stupides lunettes.
 　Ce truc était vraiment incroyable.
@@ -73,6 +73,6 @@
 　―――Encore un pas.
 　Un tout petit peu et j'aurais démasqué le responsable.
 　Si seulement j'avais été plus sérieuse toute la soirée,
-　et si seulement j'avais fait les bonnes déductions―――
 ;画面暗転してバッドエンド。
+　et si seulement j'avais fait les bonnes déductions―――
 *page15|

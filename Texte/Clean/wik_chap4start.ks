@@ -6,11 +6,11 @@
 　Les lumières y étaient presque toutes éteintes.
 　Il aurait été judicieux de se rendre dans les chambres d'ami en quête de lumière, mais il aurait également été problématique de se retrouver isolé.
 　Nous ignorions si le treizième invité, la sœur d'Aozaki, était vraiment là.
-　Si ce mystère n'était pas résolu, nous ne pourrions pas retourner dans nos chambre en toute tranquillité.
+　Si ce mystère n'était pas résolu, nous ne pourrions pas retourner dans nos chambres en toute tranquillité.
 *page2|
 「Déjà, déplaçons la statue de Yuika dans un coin de la pièce. [l][fgact page=fore props=-storage,center,vcenter,-visible keys=(0,0,l,草十郎私服04(中)|h,487,527,1)(350,,,,505,,)(650,,,,491,,)(1300,,n,草十郎私服04(中)|c2,498,,) storage=草十郎私服04(中)|h exchg=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,唯架シスター石化02(中),639,544,1300,,1)(350,,,,,,,,)(650,,,,625,,,2.426,)(1300,,n,,632,,,0,) storage=唯架シスター石化02(中)][wait canskip=0 time=450][se storage=se06002 volume=100 loop=0][wact canskip=0][wact canskip=0]Tiens ? C'est lourd. Vous êtes vraiment lourde, Yuika. [l][chgfg storage=草十郎私服04(中)|c time=300]Tobimaru, aide-moi.」
-「OK, je prends le derrière. [l][chgfg storage=鳶丸私服b01(中)|d2 time=300]... Hum, comme son apparence le laisse penser, elle a de belles formes.
-　Il doit y avoir des tas de types qui vont à l'église pour voir cette sœur.」
+「Ok, je prends le derrière... [l][chgfg storage=鳶丸私服b01(中)|d2 time=300]Hum, comme son apparence le laisse penser, elle a de belles formes.
+　Il doit y avoir des tas de types qui vont à l'église juste pour voir cette sœur.」
 *page3|
 　Malgré la situation, Shizuki et Tsukiji s'entendaient à merveille.[sestop time=1500 nowait=1 storage=se06009a]
 　En fait, ils n'étaient pas pris de panique.
@@ -20,7 +20,7 @@
 「Kuma, tu veux que je te prépare du thé ? Tu es toute pâle.」
 ;金鹿
 「Merci. Mais je n'en veux pas.」
-　Je n'avais pas envie d'aller aux toilettes plus vite que nécessaire. Et comme ces dernières se trouvaient à l'écart, m'y rendre me faisait peur.
+　Je n'avais pas envie d'aller aux toilettes plus vite que nécessaire. Puisque ces dernières se trouvaient à l'écart, m'y rendre me faisait peur.
 *page5|
 「Oh, tu es drôlement calme. Tu tiendras jusqu'au matin à ce rythme.
 　Ce qui est arrivé à Eiri et Yuika est regrettable, mais dans un certain sens, je me sens rassurée. On se connaît tous bien, alors nous n'avons pas à nous soupçonner.
@@ -62,21 +62,21 @@
 *page12|
 「Ah, euh, je veux dire... [wait canskip=0 time=400][chgfg storage=青子私服a01b(大)|q time=400]Té hé☆」
 「Soujyuro, où est la chambre d'Aozaki ?」
-「Au fond du premier étage de l'aile Est.」
 ;画面切り替え・二階廊下・深夜に
+「Au fond du premier étage de l'aile Est.」
 *page13|
 　Escortés par Ritsuka, nous nous rendîmes dans la chambre d'Aozaki.
 　Cette dernière nous suivait d'un air renfrogné.
 「J'ouvre la porte.」
-　Ritsuka poussa le battant.
 ;SE、ぎぃー、とドアの開く音。
+　Ritsuka poussa le battant.
 *page14|
 　Nous passâmes du couloir sombre à une pièce sinistre.
 　Nous entrâmes dans la chambre d'Aozaki.
 *page15|
 　Là se trouvait une femme que même une fille comme moi aurait trouvé d'une beauté ensorcelante,
-　qui tenait un micro dans une main
-　et une bouteille d'alcool dans l'autre,
+　qui tenait un micro dans une main,
+　une bouteille d'alcool dans l'autre,
 　et qui dormait paisiblement d'un sommeil éternel.
 *page16|
 　De plus,
@@ -89,30 +89,30 @@
 *page18|
 「Aaah, elle me met trop la honte... C'est pour ça que je ne voulais pas vous la montrer !」
 　Aozaki était à l'agonie.
-　Cependant, peu importe la raison, elle avait délibérément dissimulé une victime.
+　Cependant, peu importait la raison, elle avait délibérément dissimulé une victime.
 *page19|
 「Je vois... Maintenant que j'y pense, tu t'efforçais de ne laisser personne approcher de ta chambre.
-　Après tout, la découverte de ce corps aurait été fâcheuse pour toi à bien des niveaux.」
+　Après tout, la découverte de ce corps aurait été fâcheuse pour toi à bien des égards.」
 *page20|
 「Tu te trompes ! C'est un malentendu ! Moi aussi, je suis une victime !
-　Lorsque je suis revenue dans ma chambre à midi passé, j'y ai subitement trouvé le cadavre de ma sœur ! N'importe qui l'aurait caché, non ?」
+　Lorsque je suis revenue dans ma chambre après midi, je suis tombé sur le cadavre de ma sœur ! N'importe qui aurait caché ça, non ?」
 *page21|
 ;鳶丸
 「... Malheureusement, tes explications arrivent trop tard, Aozaki.
 　Pourquoi n'as-tu pas mentionné ta sœur lorsqu'on parlait d'un treizième invité ?」
 *page22|
-「Eh... Eh bien, si j'en avais parlé à ce moment-là, on m'aurait demandé pourquoi je n'avais rien dit, non ? Pour Eiri et Yuika, ça aurait été l'occasion parfaite de m'accuser.
+「Eh... Eh bien, si j'en avais parlé à ce moment-là, on m'aurait demandé pourquoi je n'avais rien dit, non ? Pour Eiri et Yuika, ç'aurait été l'occasion parfaite de m'accuser.
 　Alors, je pensais me taire et attraper le coupable de mes propres mains...」
 *page23|
 ;律架
 「Vraiment ? N'est-ce pas plutôt parce qu'en laissant planer l'existence d'un treizième invité, tu pouvais agir à ta guise ?
 　Le fait est que Beo, Eiri et Yui ont été disqualifiés en cherchant la petite Touko.」
 ;青子うぐぐ
-「Mais ils se sont simplement auto-détruits et...」
+「Mais ils se sont simplement auto-éliminés et...」
 *page24|
 ;鳶丸
-「Désolée, Aozaki. D'après les explications de Kuonji, ce Sweets Hearts ne sait pas lui-même qu'il est le coupable.
-　Pour dévoiler son identité, il faut accorder la priorité aux preuves matérielles plutôt qu'au motif.」
+「Désolé, Aozaki, mais d'après les explications de Kuonji, ce Sweets Hearts ne sait pas lui-même qu'il est le coupable.
+　Pour dévoiler son identité, il faut accorder la priorité aux preuves matérielles plutôt qu'au mobile.」
 *page25|
 「Actuellement, la personne qui avait les plus grandes chances de tuer les victimes, c'est toi.」
 ;律架
@@ -128,7 +128,7 @@
 ;律架
 「Calme-toi, on va juste te mettre à l'isolement, ma petite Ako.
 　La personne qu'on suspecte doit être enfermée jusqu'à ce que la police arrive afin de mettre fin aux crimes... C'est le déroulement normal de tout bon roman policier.
-　Euh, le manoir comprend-il une pièce du genre cachot qu'on peut fermer à clef depuis l'extérieur, Al ?」
+　Euh, le manoir comporte-t-il une pièce du genre cachot qu'on peut fermer à clef depuis l'extérieur, Al ?」
 *page29|
 ;有珠
 「Il y a la cave. Une petite pièce reliée directement à un escalier étroit que l'on pourrait trouver dans les pensions des montagnes enneigées.
@@ -139,7 +139,7 @@
 ;槻司
 「Aozaki. Même si tu n'es pas Sweets Hearts, tu seras en sécurité, enfermée là-bas. C'est aussi notre dernière assurance, alors résigne-toi et sois notre sacrifice.」
 ;青子
-「Ggh.... On peut voir les choses comme ça, c'est vrai.
+「Ggh... On peut voir les choses comme ça, c'est vrai.
 　Démocratiquement parlant, j'ai perdu au moment où j'ai montré une faiblesse pour vous donner l'occasion de m'enfermer...」
 *page31|
 　Oui. En réalité, il aurait été préférable d'utiliser cette méthode dès le départ.
@@ -147,12 +147,12 @@
 　Et si elle n'était pas Sweets Hearts, elle survivrait jusqu'à la fin et le jeu se terminerait.
 *page32|
 　Toutefois, personne n'aimerait être enfermé en étant accusé d'être le coupable.
-　Ceux qui devaient exécuter la sentence avaient eux aussi comme un arrière-goût dans la bouche.
+　Ceux qui devaient exécuter la sentence avaient eux aussi comme un arrière-goût amer dans la bouche.
 　Il fallait être considéré “coupable” par tout le monde pour tirer cette loterie de misère.
 *page33|
 ;青子
 「Laissez-moi au moins vous dire ceci.
-　L'adversaire est exceptionnellement futé. Si ça se trouve, il y a vraiment un treizième invité invisible. Ne relâchez surtout pas votre garde.」
+　L'adversaire est exceptionnellement rusé. Si ça se trouve, il y a vraiment un treizième invité invisible. Ne relâchez surtout pas votre garde.」
 *page34|
 　Ce furent les dernières paroles d'Aozaki.
 　Nous l'enfermâmes dans la cave, fermâmes le cadenas à clef depuis l'extérieur, et obtînmes enfin une certaine tranquillité d'esprit.

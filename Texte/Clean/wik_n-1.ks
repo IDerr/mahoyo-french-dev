@@ -3,8 +3,8 @@
 *page1|
 ;青子
 「Il serait vain de chercher la vérité maintenant. Il est grand temps de prendre une décision.
-　Que les personnes d'accord pour s'enfermer dans leur chambre jusqu'au matin lèvent la main.」
 ;金鹿、賛成。
+　Que les personnes d'accord pour s'enfermer dans leur chambre jusqu'au matin lèvent la main.」
 *page2|
 　“D'accord”, dis-je en levant la main.
 　Quatre autres personnes levèrent la main : Aozaki, Yuika, Shizuki... et [wait canskip=0 time=200][fg rule=crossfade time=300 storage=ベオ01a(中)|j center=109 vcenter=576 index=1400 textoff=0]Beo imitant ce dernier.
@@ -31,6 +31,6 @@
 *page7|
 「... Zut... J'ai... trop sommeil...」
 　Mes paupières s'alourdirent à l'instant où je m'allongeai.
-　Malgré toutes les choses auxquelles je devais réfléchir, je tombai brusquement dans un sommeil léger.
 ;画面暗転。Ｎ－１－ａに移動
+　Malgré toutes les choses auxquelles je devais réfléchir, je tombai brusquement dans un sommeil léger.
 *page8|

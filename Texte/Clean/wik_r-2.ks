@@ -1,5 +1,5 @@
 ﻿*page0|
-　Je songeai que ce n'était peut-être pas le cas.
+　Je pensais que ce ne serait peut-être pas le cas.
 *page1|
 ;画面・ロビー
 ;律架
@@ -26,8 +26,8 @@
 「Kumari. Je peux te parler un instant ?」
 「Tsukiji, tu ne voudrais pas discuter une seconde ?」
 ;二人、やれやれ笑い//
-　Nous ne pûmes retenir un léger rire en constatant que nous éprouvions la même chose.
 ;画面暗転、ウエイト。
+　Nous ne pûmes retenir un léger rire en constatant que nous éprouvions la même chose.
 *page5|
 ;画面・時計で二時。客室、夜。
 ;金鹿、やや照れ戸惑い
@@ -94,8 +94,8 @@
 *page19|
 ;鳶丸
 「T'as tout compris. Dans cette affaire, celui en qui tu dois avoir le moins confiance, c'est toi-même. Si tu n'as pas un partenaire qui t'observe constamment avec objectivité, tu ne peux pas prouver ton innocence.
-　C'est sûrement l'une des raisons pour laquelle Riddell a dit que l'on devait agir par groupe de deux. Deux esprits dans un corps, Sweets Hearts, c'est plutôt bien tourné.」
 ;金鹿、むっ
+　C'est sûrement l'une des raisons pour laquelle Riddell a dit que l'on devait agir par groupe de deux. Deux esprits dans un corps, Sweets Hearts, c'est plutôt bien tourné.」
 *page20|
 　En laissant de côté Riddell...
 ;金鹿

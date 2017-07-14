@@ -6,7 +6,7 @@
 「Bon, eh bien, que chacun aille dans sa chambre―――」
 ;金鹿
 「Attendez. Avant ça, je voudrais m'assurer de quelque chose.
-　Vous savez combien il y a d'invités aujourd'hui ?」
+　Vous savez combien il y avait d'invités aujourd'hui ?」
 ;鳶丸
 「Comment ça ? Avec Kuonji, on est treize, non ?[r]
 　Ça pose un problème ?」
@@ -21,13 +21,13 @@
 　En effet, elle n'était qu'un intrus et pas une invitée officielle.
 *page3|
 ;鳶丸
-「Je vois. Riddell n'a pas été invitée. On ne peut pas la compter parmi les invités, donc au final, ça fait douze personnes.」
+「Je vois. Riddell n'a pas été invitée. On ne peut pas la compter parmi les convives, donc au final, ça fait douze personnes.」
 ;金鹿
-「Peux-tu peux nous expliquer ce que cela veut dire, Kuonji ?」
+「Peux-tu nous expliquer ce que cela veut dire, Kuonji ?」
 *page4|
 ;有珠、意外
-「... Hmm. Je n'y avais pas fait attention. Les invitations ont été envoyées séparément par moi, Aoko et Shizuki.
-　Au final, j'ai cru comprendre qu'on avait envoyé neuf lettres. Moi et Tokkii étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors au total, ça faisait treize personnes.
+「... Hmm. Je n'y avais pas fait attention. Aoko, Shizuki et moi avons envoyé nos invitations séparément.
+　Au final, j'ai cru comprendre qu'on avait envoyé neuf lettres au total. Moi et Tokkii étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors au total, ça faisait treize personnes.
 　Soit dit en passant, j'ai envoyé mes invitations à [movepartbg opacity=255 srcleft=436 srctop=177 vcenter=271 time=400 accel=0 storage=black center=220 id=pb6 textoff=0]Ritsuka et [wact canskip=0][movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Beo.」[wact canskip=0]
 *page5|
 ;青子
@@ -38,7 +38,7 @@
 ;青子
 「Je vois, le compte est bon.
 ;青子笑顔
-　Au fait Soujyuro, tu ferais mieux d'avouer avant de te faire gronder ?[r]
+　Au fait Soujyuro, tu ferais mieux d'avouer avant de te faire gronder, non ?[r]
 　J'ai déjà vaguement compris, mais à qui, as-tu bien pu, envoyer une invitation ?」
 *page7|
 ;草十郎
@@ -73,21 +73,21 @@
 　À ce moment-là, tout le monde était là à part monsieur Tokitsu et monsieur Yamashiro, donc―――」
 ;詠梨
 「Un participant invisible.
-　Cela implique qu'il y a un treizième invité.」
 ;全員、真剣な顔//
+　Cela implique qu'un treizième invité est présent.」
 *page12|
 　Après ce discours, la situation changea du tout au tout.
 　J'ignorais qu'Aozaki avait une grande sœur, mais ce n'était pas le moment de me renseigner à ce propos.
-　Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostilité envers tout les personnes ici présentes.
+　Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostilité envers toutes les personnes ici présentes.
 *page13|
 ;唯架
 「Aozaki Touko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.
-　Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même pour ce qu'il s'agit du mobile qui nous échappait jusqu'à présent, elle est le parfait candidat.」
+　Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même en ce qui concerne le mobile qui nous échappait jusqu'à présent, elle est le parfait candidat.」
 *page14|
 「En effet. Si Touko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importent les mesures que nous prendrions, elle entrerait de force.」
 *page15|
 ;律架
-「Oui, elle en serait bien capable. Elle adore les films d'horreur ! ... Hum. C'est bien dommage que l'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
+「Oui, elle en serait bien capable. Elle adore les films d'horreur...! Hum. C'est bien dommage qu'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
 ;詠梨
 「Séparons-nous et fouillons le manoir. Nous devons être sûrs que Touko est bien là.」
 *page16|
@@ -96,15 +96,15 @@
 　... Al... Alors, je vais chercher du côté de ma chambre.」
 ;有珠
 「Moi, j'irai dans l'aile Ouest et au cas où, au sous-sol.
-　Quant à Kumari, Tobimaru, Ritsuka et Shizuki, c'est dangereux, alors restez ici.」
 ;立ち絵消す
+　Quant à Kumari, Tobimaru, Ritsuka et Shizuki, c'est dangereux, alors restez ici.」
 *page17|
-　Ainsi, les convives quittèrent le salon précipitamment et bruyamment.
+　Ainsi, les hôtes quittèrent le salon précipitamment et bruyamment.
 　Nous laissant dans le salon, Tsukiji, Shizuki, Ritsuka et moi, tout le monde partit fouiller le manoir.
 ;画面・時計０時
 　... Seul le temps s'écoulait.
 　La nervosité et la fatigue avaient rendu mes paupières lourdes.
-　Les aiguilles de l'horloge pointaient minuit.
+　Les aiguilles de l'horloge pointaient maintenant vers minuit.
 *page18|
 ;鳶丸
 「Je vais faire du thé. Soujyuro, où je peux en trouver ?」
@@ -122,9 +122,9 @@
 ;画面・落雷のフラッシュ。
 　Un flash éblouit la véranda.
 　À travers la fenêtre,
-　grâce au coup de foudre―――
 ;画面・サンルーム、落雷。一瞬、窓の外に怪しい人影//
 ;実は外に出ていたベオ。サンルームの上である青子の部屋を覗き見して、橙子の死に方を見て爆笑しかけている。助けて、笑い止めて、と鳶丸たちにガラスごしに手を出している//
+　grâce au coup de foudre―――
 *page20|
 「Aaaahーーーーー!」
 ;律架
@@ -134,7 +134,7 @@
 「Vous trois, venez par là ! Allons dans le hall !」
 *page21|
 　Ritsuka me tira la main et je quittai le salon plongé dans l'obscurité.
-　Pour une illusion d'optique causée par la foudre―――l'ombre humaine était bien trop claire.
+　Pour une illusion d'optique causée par la foudre―――l'ombre humaine était bien trop nette.
 　Quelqu'un se trouvait à l'extérieur par un temps pareil.
 　J'avais beau y penser, cela ne pouvait être que le treizième invité à l'identité inconnue.
 *page22|
@@ -147,9 +147,9 @@
 ;金鹿
 「De... Dehors, dehors, il y avait quelqu'un !」
 ;青子キッと真面目
-「Je vais voir. Soujyuro, Tobimaru, je vous confie Kojika.」
 ;鳶丸と草十郎、うなずく
 ;立ち絵消す
+「Je vais voir. Soujyuro, Tobimaru, je vous confie Kojika.」
 *page24|
 　Aozaki disparut en trottinant vers les ténèbres conduisant au salon.
 　Alarmés par l'agitation, Père Eiri et Sœur Yuika descendaient du premier étage tandis que Kuonji arrivait depuis le rez-de-chaussée de l'aile Ouest.

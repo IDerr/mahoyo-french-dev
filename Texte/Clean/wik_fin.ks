@@ -64,7 +64,7 @@
 「Oooh. On voit que vous êtes amis d'enfance. Vous vous entendez bien.
 　Continue comme ça et discipline Kinomi, Kumari. Pour les gens autour de lui, et surtout pour lui-même.」
 *page14|
-「Hors de question. Même si on me proposait cent millions pour ça, je refuserais. Aucun salaire ne sera jamais à la hauteur de la difficulté de la tâche. Et j'ai pas de temps à gaspiller en efforts inutiles. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k2 type=13 zoom=60 partbgid=pb2 time=400]En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient comme avant, comme un métal à mémoire de forme.」
+「Hors de question. Même si on me proposait cent millions pour ça, je refuserais. Aucun salaire ne sera jamais à la hauteur de la difficulté de la tâche. Et j'ai pas de temps à gaspiller en efforts inutiles. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k2 type=13 zoom=60 partbgid=pb2 time=400]En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient toujours comme avant, comme un métal à mémoire de forme.」
 「Haha, t'as pas tort ! Bon, laissons-le là et allons saluer Kuonji. Elle et Aozaki doivent être dans le salon, j'imagine.」
 *page15|
 「Attends, regarde ! Une nonne est évanouie juste là, Ton Altesse ! [l][chgfg storage=木乃実私服01(中)|c type=13 partbgid=pb1 time=400]Oooh, je peux aller l'enlacer pour la réveiller ?!」

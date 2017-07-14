@@ -6,8 +6,8 @@
 　Et puis, j'ai assez de frères pour en vendre quelques-uns, alors j'imagine que je suis habituée à dormir dans la même chambre qu'un garçon.」
 ;鳶丸
 「C'est encourageant. Je t'emprunte le canapé.
-　Ca commençait à me fatiguer de rester sur mes gardes. Je pourrai dormir tranquillement avec toi.」
 ;久万梨、赤面
+　Ça commençait à me fatiguer de rester sur mes gardes. Je pourrai dormir tranquillement avec toi.」
 *page2|
 　“Bonne nuit”, dit Tsukiji en levant une main avant de s'endormir sur-le-champ.
 　Il s'était affalé sur le canapé, enroulé dans une couverture.
@@ -18,10 +18,10 @@
 *page4|
 ;SE、ごそごそと荷物整理する久万梨。
 　Je n'avais pas de pyjama et je n'avais de toute façon pas l'intention de me changer.
-　Toute habillée, je me défit de mon passe et de mon portefeuille que je sortit de mes poches et me faufilai dans le lit.
+　Toute habillée, je me défis de mon passe et de mon portefeuille que je sortit de mes poches et me faufilai dans le lit.
 *page5|
 ;画面暗転
-　Je ne suis pas comme Tsukiji, mais à peine eus-je fermé les yeux que ma conscience sombra dans les ténèbres.
+　Je n'étais pas comme Tsukiji, mais à peine eus-je fermé les yeux que ma conscience sombra dans les ténèbres.
 　... Un profond, profond sommeil.
 　J'eus l'impression d'entendre quelque part, très près de moi, le rire de quelqu'un.
 *page6|
@@ -107,6 +107,6 @@
 「... Bah, ça n'a plus d'importance.」
 　Je n'avais plus aucun moyen de me sortir d'affaire.
 　Le vrai coupable avait gagné la partie.
-　Tout en me demandant distraitement où je m'étais trompée, je tendai l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 ;画面暗転、デッドエンド。
+　Tout en me demandant distraitement où je m'étais trompée, je tendai l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 *page22|

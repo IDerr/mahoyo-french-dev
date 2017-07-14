@@ -64,7 +64,7 @@
 　C'est toi qui l'emporteras si on continue. La récompense du vainqueur ne t'intéresse pas ?」
 「... Pardon ? Je ne suis pas au courant. De quoi parles-tu ?」
 *page14|
-「Je parle de ce que Kumari Kojika souhaitait et des soucis qu'elle avait lorsqu'elle m'a mangé.
+「Je parle de ce que Kumari Kojika souhaitait et des soucis qu'elle avait en tête lorsqu'elle m'a mangé.
 　Je ne veux pas que ça se finisse. Je voudrais que cet instant, cette vie ambiguë comme ce doux œuf à la coque continue. C'est bien ce qu'elle a pensé, non ?」
 *page15|
 ;聞いている金鹿が不機嫌になっていく//
@@ -84,6 +84,6 @@
 「Disparais. Le coupable est Shizuki. L'utilisateur, c'est moi, Kumari Kojika.」
 「Hein, pas possible ?! C'est pas un choix digne d'une filleーー?!」
 ;スイーツ金鹿消える
-　Tsukiji est mort, alors tu peux oublier tes vœux.
 ;画面、ブツリと画面が切れるように黒画面に。久万梨も意識を失ったから。//
+　Tsukiji est mort, alors tu peux oublier tes vœux.
 *page18|

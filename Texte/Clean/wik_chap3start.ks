@@ -8,7 +8,7 @@
 ;青子
 「C'est la chambre de M. Yamashiro. La porte est fermée à clef ?」
 ;律架
-「Elle ne l'était pas. Je pensais qu'il n'était pas là, alors j'ai jeté un coup d'œil à [wait canskip=0 time=100][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,律架01b(全)|j,811,905,1300,65,65,1,1,100,1,1)(700,,n,,,,,,,0,0,,0,) storage=律架01b(全)|j]l'intérieur, mais... pff, pff.」
+「Elle ne l'était pas. Je pensais qu'il n'était pas là, alors j'ai jeté un coup d'œil à l'intérieur, mais... [wait canskip=0 time=100][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,律架01b(全)|j,811,905,1300,65,65,1,1,100,1,1)(700,,n,,,,,,,0,0,,0,) storage=律架01b(全)|j]pff, pff.」
 　Ritsuka se tut sur ces mots.
 　Sur la fin, elle avait vaguement eu l'air de retenir un rire, mais je voulus croire que ce n'était que mon imagination.
 *page2|
@@ -57,7 +57,7 @@
 　Une lourde atmosphère pesait sur le salon.
 　L'augmentation du nombre de morts n'était pour rien dans cet air vicié par la tristesse.
 　J'avais remarqué que le fait de nous être divisés en groupe de deux avait donné naissance à une drôle d'ambiance :
-　... Nous commencions malheureusement à soupçonner les autres équipes.
+　... nous commencions malheureusement à soupçonner les autres équipes.
 *page11|
 ;槻司
 「La chambre n'avait pas l'air d'être en désordre. Soit le coupable a invité Yamashiro à l'intérieur, soit il est entré quand le prof y était déjà.
@@ -72,8 +72,8 @@
 　Ta supposition me semble plutôt juste.」
 ;鳶丸
 「Eh bien, le groupe de l'église ne le connaît pas, mais Kuonji, Kumari, toi et moi, nous connaissons tous plutôt bien M. Yamashiro.
-　C'est assez rare de voir cet homme plutôt lent à la détente rire sincèrement d'une blague, non ?」
 ;青子、久万梨、そういえばそうね、という顔。
+　C'est assez rare de voir cet homme plutôt lent à la détente rire sincèrement d'une blague, non ?」
 *page14|
 　Exactement.
 　Le professeur Yamashiro était quelqu'un de toujours calme et souriant, mais qui faisait preuve d'une neutralité absolue. Il réagissait avec flegme et la plupart des avis tombaient dans l'oreille d'un sourd avec lui.
@@ -84,8 +84,8 @@
 　Notre cher ennemi a l'air plutôt sérieux. Alors finissons-en avec les camaraderies et entrons dans le vif du sujet.」
 ;詠梨
 「Certes. Qui parmi nous est A ?
-　Commençons la recherche du coupable.」
 ;全員、緊張
+　Commençons la recherche du coupable.」
 *page16|
 　C'était une phrase que personne ne voulait entendre, mais qu'on ne pouvait également s'empêcher de vouloir prononcer.
 　Car oui, elle était inévitable.
@@ -97,8 +97,8 @@
 ;草十郎
 「Oui, il a sûrement été tué par le pain.」
 ;有珠
-「Ça lui ressemble bien. Il marmonnait souvent : “S'il n'y avait pas eu de farine de blé en ce monde, je l'aurais sauvé grâce à mon art avant-gardiste.”」
 ;金鹿あきれ
+「Ça lui ressemble bien. Il marmonnait souvent : “S'il n'y avait pas eu de farine de blé en ce monde, je l'aurais sauvé grâce à mon art avant-gardiste.”」
 *page18|
 ;鳶丸、やれやれ。自分に呆れている
 　Tsukiji se grattait le front, d'un air pantois.
@@ -108,8 +108,8 @@
 ;唯架
 「Je ne crois pas que nous ayons besoin de chercher le coupable.
 　Si le crime est dû à un Ploy Kickshaw, alors le premier suspect est Kuonji Alice, le deuxième Aozaki Aoko et le troisième May Riddell Archelot. Nos suspects se réduisent à ces trois noms.
-　Tout sera réglé si nous les faisons rire. Un humain rigole lorsque l'on chatouille ses flancs ou la plante de ses pieds. Du moins, physiquement parlant.」
 ;青子、むっ。リデル01e、有珠目閉じクール
+　Tout sera réglé si nous les faisons rire. Un humain rit lorsque l'on chatouille ses flancs ou la plante de ses pieds. Du moins, physiquement parlant.」
 *page20|
 ;律架
 「Yu, calme-toi un peu.
@@ -122,8 +122,8 @@
 「Vous pouvez attendre un peu avant de vérifier les alibis ?
 　Avant cela, je voudrais qu'on nous explique les particularités de... Sweets Hearts, c'est ça ? En détails.
 　Kuonji, dis-nous ce que tu sais.
-　On connaît ses règles, mais on ne sait pas à quoi il ressemble.」
 ;草十郎、金鹿、青子、なるほど、と頷く顔
+　On connaît ses règles, mais on n'a aucune idée de ce à quoi il ressemble.」
 *page22|
 ;有珠
 「C'est vrai, je n'avais pas expliqué le plus important.
@@ -134,18 +134,18 @@
 「Ce que c'est original. Je n'avais encore jamais entendu parler d'un roman policier où le meurtrier est un pudding.」
 *page24|
 ;リデル
-「Vous êtes idiots ? Il n'y a que des idiots ici ?
+「Vous êtes idiots ou quoi ? Il n'y a que des idiots ici ?
 　Ça, c'est sa forme avant d'être activé. Sweets Hearts devient le sosie parfait de la personne qui le mange.」
 *page25|
-「Pour être plus précis, à partir du moment où il a mangé Sweets Hearts, l'humain qui l'a mangé... l'utilisateur donc, est enfermé dans l'œuf, et c'est Sweets Hearts qui apparaît sous la forme de celui-ci à la surface.
+「Pour être plus précise, à partir du moment où il a mangé Sweets Hearts, l'humain qui l'a ingéré... l'utilisateur donc, est enfermé dans l'œuf, et c'est Sweets Hearts qui apparaît sous la forme de celui-ci à la surface.
 　Pour faire simple, une fois activé, Sweets Hearts a une forme humaine.」
 *page26|
 ;鳶丸
 「―――Je ne poserai pas de question sur la théorie qui se cache derrière ou la manière dont ça marche, mais en gros, l'original et l'imposteur échangent de place, c'est ça ?」
 ;リデルちょっと嬉しい  02a2
 「Je retire ce que je viens de dire. Seul Tobimaru est supérieur à un singe.
-　Oui, Sweets Hearts est un Ploy qui prend l'apparence de l'utilisateur. Et ce à la perfection. Une fois activé, Sweets Hearts lui-même ne pense pas être le “coupable”.」
 ;犯人だとは思っていないんだもの、に強調。//
+　Oui, Sweets Hearts est un Ploy qui prend l'apparence de l'utilisateur. Et ce à la perfection. Une fois activé, Sweets Hearts lui-même ne pense pas être le “coupable”.」
 *page27|
 ;リデル
 「Voilà ce qu'implique une transformation totale, non ?
@@ -154,7 +154,7 @@
 *page28|
 ;律架ちょう嬉しそう
 「Aaah ! Quel puzzle logique fabuleux !
-　J'adore ça ! Honnêtement, j'adore ça !」
+　J'adore ça ! Vraiment, j'adore ça !」
 ;唯架
 「... On dit qu'un espion de premier ordre s'hypnose afin d'oublier qu'il est un espion... Voilà qui est fâcheux.」
 ;詠梨
@@ -162,14 +162,14 @@
 *page29|
 ;有珠
 「Sweets Hearts et l'humain qu'il remplace échangent leur personnalité comme si on appuyait sur un interrupteur.
-　En temps normal, il a la personnalité de l'humain qu'il remplace, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
-　Biens sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」
+　En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
 ;律架ちょう楽しそう。真剣に聞いている。02Be
+　Bien sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」
 *page30|
 ;金鹿呆然
 　... Ces conditions sont absurdes.
 　On croirait presque avoir affaire à un serial killer sans forme, à un tueur fou sans soif de sang.
-　N'importe qui―――même moi―――pouvait être inclus dans ces conditions.
+　N'importe qui―――même moi―――pouvait répondre à ces conditions.
 　Dans la situation présente, cela signifiait que Sweets Hearts pouvait être n'importe lequel d'entre nous...!
 *page31|
 ;律架
@@ -180,8 +180,8 @@
 *page32|
 ;律架
 「Nooon, c'est impossible, je ne peux pas rester calme !
-　Monseigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo... [se storage=se05012c volume=100 loop=0][movefg opacity=255 vcenter=1020 time=600 accel=-2 storage=唯架シスター01b(全)|b center=104][wact canskip=0][clall][stopaction][fg storage=金鹿私服01(大)|f2 center=695 vcenter=395 index=1000][fgact page=back props=-storage,center,vcenter,absolute,opacity,-type,-visible keys=(0,0,l,white,512,288,2000,0,13,1)(50,,,,,,,150,,)(150,,,,,,,,,)(200,,n,,,,,0,,) storage=white][fgact page=back props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-effect,-visible keys=(0,0,l,ef07(後方フラッシュ),603,444,1400,0,14.986,,,monoffffff,1)(50,,,,~,~,~,192,~,~,~,,)(200,,,,~,~,~,,~,~,~,,)(400,,n,,725,415,,0,19,180,180,,) storage=ef07(後方フラッシュ)][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|i,425,1077,1500,,75,75,1)(100,,,,543,1047,~,5.93,~,~,)(800,,,,548,1084,~,10.433,,,) storage=律架02a(全)|i][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,唯架シスター01b(全)|b,104,1020,1600,,-77,77,1)(100,,,,156,1008,~,1.103,~,~,)(350,,n,,116,1020,,0,,,) storage=唯架シスター01b(全)|b][se storage=se12071 volume=100 loop=0][se storage=se05096c volume=100 loop=0][shock vmax=15 time=300 count=2][bg rule=crossfade time=200 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][wait canskip=0 time=200][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|k,548,1084,1500,10.433,75,75,1)(1000,,,,583,1162,,11.978,,,) storage=律架02a(全)|k][se storage=se05097 volume=80 loop=0]Ggh !」
 ;唯架、律架にボディーブロー
+　Monseigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo... [se storage=se05012c volume=100 loop=0][movefg opacity=255 vcenter=1020 time=600 accel=-2 storage=唯架シスター01b(全)|b center=104][wact canskip=0][clall][stopaction][fg storage=金鹿私服01(大)|f2 center=695 vcenter=395 index=1000][fgact page=back props=-storage,center,vcenter,absolute,opacity,-type,-visible keys=(0,0,l,white,512,288,2000,0,13,1)(50,,,,,,,150,,)(150,,,,,,,,,)(200,,n,,,,,0,,) storage=white][fgact page=back props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-effect,-visible keys=(0,0,l,ef07(後方フラッシュ),603,444,1400,0,14.986,,,monoffffff,1)(50,,,,~,~,~,192,~,~,~,,)(200,,,,~,~,~,,~,~,~,,)(400,,n,,725,415,,0,19,180,180,,) storage=ef07(後方フラッシュ)][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|i,425,1077,1500,,75,75,1)(100,,,,543,1047,~,5.93,~,~,)(800,,,,548,1084,~,10.433,,,) storage=律架02a(全)|i][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,唯架シスター01b(全)|b,104,1020,1600,,-77,77,1)(100,,,,156,1008,~,1.103,~,~,)(350,,n,,116,1020,,0,,,) storage=唯架シスター01b(全)|b][se storage=se12071 volume=100 loop=0][se storage=se05096c volume=100 loop=0][shock vmax=15 time=300 count=2][bg rule=crossfade time=200 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][wait canskip=0 time=200][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|k,548,1084,1500,10.433,75,75,1)(1000,,,,583,1162,,11.978,,,) storage=律架02a(全)|k][se storage=se05097 volume=80 loop=0]Ggh !」
 *page33|
 ;青子むう、と思案顔
 「Je ne pensais pas que ce Ploy était aussi absurde.
@@ -202,7 +202,7 @@
 *page37|
 「Dans l'après-midi, Aozaki, Yamashiro et Kumari sont arrivés.
 　Dans la soirée, Riddell s'est pointée alors qu'elle n'avait pas été invitée.
-　J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais en gros, j'ai passé l'essentiel de l'arès-midi entre le salon et la véranda.
+　J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais en gros, j'ai passé l'essentiel de l'après-midi entre le salon et la véranda.
 　Pendant que j'étais dans le salon, il n'y a que Kuonji qui n'a jamais quitté la pièce.」
 *page38|
 ;青子

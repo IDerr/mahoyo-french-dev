@@ -5,7 +5,7 @@
 「Housuke, rends-moi mon sac en fait. Je vais d'abord aller dans ma chambre. Aozaki, où se trouve-t-elle ?」
 ;青子
 「C'est la deuxième porte au premier étage de l'aile Est.
-　Elle n'est pas fermée. La clé est posée sur le bureau de la chambre. Sers-t'en pour verrouiller la porte.」
+　Elle n'est pas fermée. La clef est posée sur le bureau de la chambre. Sers-t'en pour verrouiller la porte.」
 *page2|
 　“Compris”, répondis-je avant de m'éclipser.
 ;画面・二階廊下
@@ -33,6 +33,6 @@
 *page6|
 「Il est peut-être allé dans l'aile Ouest ?」
 　La curiosité me rongeait, mais il aurait été impoli de se balader dans la demeure sans avoir salué la maîtresse de maison.
-　Je pris donc  la direction du salon de l'aile Est d'où me parvenaient des éclats de rire.
+　Je pris donc la direction du salon de l'aile Est d'où me parvenaient des éclats de rire.
 *page7|
 ;Ｂ－１－ａに合流

@@ -5,10 +5,10 @@
 　Les choses ne tenaient pas debout parce qu'on croyait qu'il n'y avait qu'un seul coupable.
 　Mais s'il y en avait deux ?
 *page2|
-　Il fallait d'abord songer aux différents genres de meurtre.
-　On pouvait les diviser en plusieurs catégories : 
-　ceux où le “coupable” avait clairement fait rire la victime, et ceux où celle-ci riait en voyant les corps.
-　Housuke, Riddell et Yuika faisaient partie du groupe à part dit de “l'auto-destruction”.
+　Il fallait d'abord songer aux différents genres de meurtres.
+　On pouvait les diviser en plusieurs catégories :
+　ceux où le “coupable” avait clairement fait rire la victime, et ceux où celle-ci avait ri en voyant les corps.
+　Housuke, Riddell et Yuika faisaient partie du groupe à part dit de “l'auto-élimination”.
 　Mais il existait une autre personne qui pouvait être incluse dans cette dernière catégorie.
 　―――Beo.
 *page3|
@@ -16,8 +16,8 @@
 　Pourtant, la pièce ne contenait aucun élément susceptible de le faire rire.
 　Et il était dur de croire qu'un piège avait été installé à la lisière de la forêt.
 　En effet, un tel piège se serait montré peu efficace, étant donné la tempête qui se déchaînait dehors.
-　On pouvait donc en conclure que le piège était placé à l'intérieur.
-　Il n'était pas sur la véranda.
+　On pouvait donc en conclure que le piège était à l'intérieur.
+　Il n'était pas dans la véranda.
 　Mais s'il se trouvait au-dessus de la véranda, dans la chambre au premier étage ?
 *page4|
 　Au-dessus de la véranda se trouvait justement la chambre d'Aozaki.
@@ -28,7 +28,7 @@
 　Beo avait l'air de connaître Aozaki Touko. [l][movepartbg opacity=255 srcleft=0 srctop=113.5 vcenter=288 time=800 accel=0 storage=ev1403橙子笑死 center=267][movefg opacity=255 vcenter=1271 time=700 accel=-2 storage=橙子01a(全) center=885][wact canskip=0][wact canskip=0]Si l'on voyait une connaissance dans cet état, il y avait une forte probabilité de rire involontairement.
 　C'était un piège de génie.
 　Après tout, même si Beo ne riait pas, la personne lui ayant demandé de vérifier ne paraîtrait pas suspecte.
-　Le moment où Aozaki serait vu d'un œil suspicieux serait simplement arrivé plus tôt.
+　Le moment où Aozaki serait vue d'un œil suspicieux serait simplement arrivé plus tôt.
 *page6|
 「......... Il y avait deux méthodes de meurtre.
 　La manière directe, exécutée par le coupable, et les accidents dus à l'état des victimes.
@@ -44,8 +44,8 @@
 *page8|
 「L'humain. Il y avait plusieurs ennemis―――!」 
 　Dans ce cas, il y avait deux Sweets Hearts.
-　L'exécuteur et l'individu A étaient deux personnes différentes...!
 ;犯人と別人Ａは別人、に強調//
+　L'exécuteur et l'individu A étaient deux personnes différentes...!
 *page9|
 　L'individu A qui avait utilisé le Ploy.
 　Et l'auteur des crimes qui coopérait avec lui.

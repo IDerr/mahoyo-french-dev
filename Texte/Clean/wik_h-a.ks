@@ -43,8 +43,8 @@
 　Quel pétrin. Qui eût cru que quelqu'un pourrait l'activer ! Comment les Japonais peuvent-ils être aussi timorés ?」
 ;青子
 「Sweets Hearts...?
-　C'est le nom de ce Ploy, Alice ?」
 ;有珠、こくんと頷く
+　C'est le nom de ce Ploy, Alice ?」
 *page9|
 ;リデル
 「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester ton courage avant le combat. Sauf qu'en général, tout le monde est décimé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
@@ -92,7 +92,7 @@
 「!」
 *page17|
 　Les... Les choses prenaient une tournure inattendue...!
-　Entre le coup du grenier et les évènements actuels, la situation ne pouvait être pire, mais elle se mouvait aussi dans une direction imprévue. 
+　Entre le coup du grenier et les évènements actuels, la situation ne pouvait être pire, mais elle se mouvait aussi dans une direction imprévue.
 *page18|
 ;ベオ
 「Hmm, si je ne peux pas être avec Soujyuro, alors je préfère rester seul. [chgfg storage=ベオ02c(大)|f time=300 textoff=0]De toute façon, c'est qu'un jeu.」
@@ -100,6 +100,6 @@
 「Aaah, dommage. Dans ce cas, je vais me joindre à M. Yamashiro...
 　Tiens ?」
 　Tout le monde se regarda.
-　Eh oui. Je pensais qu'il était temps que quelqu'un le remarque : M. Yamashiro avait disparu depuis un moment.
 ;二章終了、画面暗転
+　Eh oui. Je pensais qu'il était temps que quelqu'un le remarque : M. Yamashiro avait disparu depuis un moment.
 *page19|

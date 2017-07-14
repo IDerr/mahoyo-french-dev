@@ -26,6 +26,6 @@
 　　　　　「Bra[wait canskip=0 time=60]vo [wait canskip=0 time=60]pour [wait canskip=0 time=60]a[wait canskip=0 time=60]voir [wait canskip=0 time=60]tué [wait canskip=0 time=60]tout [wait canskip=0 time=60]le [wait canskip=0 time=60]mon[wait canskip=0 time=60]de.」
 ;赤字フォント
 　J'entendis une voix effrayante,
-　qui m'était étrangère et intime à la fois―――
 ;画面・暗転でバッドエンド
+　qui m'était étrangère et intime à la fois―――
 *page5|

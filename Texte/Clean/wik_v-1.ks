@@ -26,12 +26,12 @@
 *page4|
 ;バッドエンドっぽいウエイトから、打撃エフェクト。久万梨、中華鍋を振り向きざまにフルスイング//
 「C'est toi le coupable, Shizukiーーーー!」
-「Ggh ?!」
 ;SE、中華鍋に叩かれる音、その後、カランカランとロビーの床に鼻メガネが転がる音//
 ;可能であるなら、鼻メガネの画像とか、差分で鼻メガネをつけて佇む草十郎の立ち絵とか//
+「Ggh ?!」
 *page5|
 　Pafーーーーーー!
-　Je me retournai et fis un swing monstrueux avec la casserole que j'avais dans les mains avant de me faire attaquer.
+　Je me retournai et avant de me faire attaquer, je fis un swing monstrueux avec la casserole que j'avais dans les mains.
 　C'était réglé.
 　Le coup était parfait.
 　Shizuki... en fin de compte, c'était bien lui, même si je ne l'avais vu qu'un instant... [se storage=se08015 volume=100 loop=0][se storage=se08027 volume=100 loop=0]s'écroula, et un étrange objet roula au sol.
@@ -46,7 +46,7 @@
 *page7|
 　Je m'empressai de m'enfuir du vestibule.
 　Je remporterais la victoire si je sortais et j'entrais dans la forêt.
-　Le matin se serait sûrement levé pendant que je m'enfuirais...!
+　Le matin se lèverait sûrement pendant ma fuite...!
 *page8|
 ;画面・扉をあけて日射しのエフェクト。画面・真っ白に。
 ;と思ったら、画面・洋館外観・夜//
@@ -74,7 +74,7 @@
 　La partie n'était pas finie.
 　À ce rythme, Sweets Hearts l'emporterait sur toute la ligne.
 　Le coupable était Shizuki. Il n'y avait pas d'erreur là-dessus.
-　Après tout, j'étais encore en vie alors que je l'avais dénoncé.
+　Après tout, j'étais encore en vie alors que je l'avais accusé.
 *page12|
 　Souviens-toi des règles.
 　Si on fait une erreur en accusant le coupable, on meurt.
@@ -82,7 +82,7 @@
 　Si je ne me trompais pas, alors―――il devait sûrement manquer quelque chose !
 *page13|
 「Ma théorie sur le coupable―――
-　Il ne fait aucun doute que c'était un indice...! Réfléchis méthodiquement, d'abord, qu'est-ce qui est la cause...!」
+　Il ne fait aucun doute que c'était un indice...! Réfléchis méthodiquement, d'abord, qu'est-ce qui est la cause de tout ça...!」
 *page14|
 　Des bruits de pas se rapprochaient.
 　Le matin se rapprochait.

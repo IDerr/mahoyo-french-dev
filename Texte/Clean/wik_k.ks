@@ -9,7 +9,7 @@
 　Puisqu'on ne pouvait pas déterminer l'heure du crime à partir de l'état des corps, nous n'avions pas d'autre choix que d'estimer l'heure de la mort de M. Tokitsu et du professeur Yamashiro à partir du moment de leur disparition.
 *page2|
 　On présumait que l'heure du décès de M. Tokitsu pouvait être n'importe quand entre une et six heures de l'après-midi.
-　Et celle du M. Yamashiro entre quatre et huit heures.
+　Et celle de M. Yamashiro entre quatre et huit heures.
 　Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer dans une plage d'une heure comprise entre quatre et six heures.
 *page3|
 　Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, Père Eiri et Sœur Yuika.
@@ -20,8 +20,8 @@
 「Mais les plus louches sont Aoko et Alice qui connaissaient le Ploy, et Ritsuka aussi. Nous, nous n'étions pas au courant pour ce Sweets Hearts.」
 ;槻司
 「Ouais. Mis à part la possibilité qu'on ait appris son existence auparavant, il faut d'abord prendre ce détail en considération.
-　Entre avoir appris son existence aujourd'hui et être au courant depuis le début, la différence est grande.」
 ;青子、律架、“私も？”という顔。
+　Entre avoir appris son existence aujourd'hui et être au courant depuis le début, la différence est grande.」
 *page5|
 　En effet, la question était de savoir quand ce Ploy machin avait été activé.
 　Par exemple, si le professeur Yamashiro ou moi étions Sweets Hearts, nous aurions dû découvrir dès notre arrivée ce Sweets Hearts dont nous ignorions tout et l'activer.
@@ -41,13 +41,13 @@
 　Quant à Kuonji... Elle est la seule personne à n'avoir jamais quitté le salon. Elle ne pouvait pas commettre le crime.」
 *page8|
 ;青子。困り納得
-「C'est vrai. Je ne peux pas le nier. J'aurais eu autant de chance que je voulais de tuer ces deux-là.」
+「C'est vrai. Je ne peux pas le nier. J'aurais eu autant d'opportunités que je voulais de tuer ces deux-là.」
 ;唯架
 「C'est bien ce que je pensais.」
 *page9|
 ;青子
 「Qu'est-ce que tu entends par là, dis-moi ?!
-　On parle seulement de probabilité, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
+　On parle seulement de possibilités, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
 　Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
 *page10|
 「... Mon innocence et celle de Père Eiri ont pourtant été établies ?」
@@ -61,7 +61,7 @@
 「Ritsuka. Tu es de quel côté ?」
 *page12|
 ;律架02Be2
-「Je suis l'alliée de la logique ! Je jure sur mon honneur de fan que je n'épaulerai personne !
+「Je suis l'alliée de la logique ! Je jure sur mon honneur de fan que je ne couvrirai personne !
 ;律架02Ab
 Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」
 *page13|
@@ -78,15 +78,15 @@ Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consi
 *page15|
 ;唯架
 「C'est exact. Je ne comprends pas le comique.
-　Il m'est impossible de rire à une blague. Donc, la première personne à quitter la partie sera sûrement Aoko.」
 ;青子、むかっ
+　Il m'est impossible de rire à une blague. Donc, la première personne à quitter la partie sera sûrement Aoko.」
 *page16|
 　Kuonji avait eu, semble-t-il, l'intention d'adresser des remontrances à Aozaki, mais l'atmosphère n'en était devenue que plus électrique.
 　Là-dessus, le rouge-gorge bleu apparut devant la maîtresse de maison.
 　L'oiseau se posa sur la table, puis gazouilla.
 『J'ai deviné qui est le coupable. J'peux le dire ?』
-　piailla-t-il.
 ;ここ、ホントにコマドリには犯人が分かっている。全員のアリバイを聞いて、論理的に見抜いている//
+　piailla-t-il.
 *page17|
 ;有珠、無言でチョップ。駒鳥潰れる。
 『Bgghi ?!』

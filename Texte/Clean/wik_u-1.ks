@@ -28,6 +28,6 @@
 　　　　　「Bra[wait canskip=0 time=60]vo [wait canskip=0 time=60]pour [wait canskip=0 time=60]a[wait canskip=0 time=60]voir [wait canskip=0 time=60]tué [wait canskip=0 time=60]tout [wait canskip=0 time=60]le [wait canskip=0 time=60]mon[wait canskip=0 time=60]de.」
 ;赤字フォント
 　j'entendis une voix terrifiante,
-　qui m'était étrangère et familière à la fois―――
 ;画面暗転してバッドエンド。
+　qui m'était étrangère et familière à la fois―――
 *page6|

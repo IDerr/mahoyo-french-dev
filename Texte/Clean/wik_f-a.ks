@@ -4,7 +4,7 @@
 ;画面・居間・夜
 ;青子
 「Nous voilà dans une situation inimaginable.」
-　J'approuvai sans un mot au murmure d'Aozaki.
+　J'approuvai sans un mot le murmure d'Aozaki.
 *page1|
 ;鳶丸
 「L'orage ne fait qu'empirer.
@@ -17,7 +17,7 @@
 　On a déjà un cadavre sur les bras, alors un de plus ne fera pas une grande différence.」
 *page3|
 　Aozaki, Tsukiji, Housuke et moi formions un groupe de quatre.
-　Nous appellerons provisoirement cette bande, le groupe de l'école.
+　Nous appellerons provisoirement cette bande le groupe de l'école.
 *page4|
 ;唯架
 「Père Eiri, à propos du cadavre de tout à l'heure―――」
@@ -54,7 +54,7 @@
 　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide comme la marchandise de piètre qualité que tu es.」
 *page10|
 ;リデル
-「OK, crève ! Mourez dans la joie comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, six de plus ne devrait pas poser problème, hein ?」
+「Ok, tu peux aller crever ! Mourez dans la joie comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
 *page11|
 　L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
 　La femme en rose, Beo et Shizuki se disputaient.
@@ -64,10 +64,10 @@
 　Par ailleurs, l'oiseau bleu avait disparu.
 *page12|
 ;律架
-「OK ! OK ! Ça suffit tout le monde !
+「Ok ! Ok ! Ça suffit tout le monde !
 　En ces superbes circonstances...... [chgfg storage=律架01b(全)|g zoom=80 time=400 textoff=0]Ahem, [wait canskip=0 time=200][chgfg storage=律架01a(全)|e2 zoom=80 time=400 textoff=0]en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 　La situation est claire comme de l'eau de roche. M. Tokitsu Yurihiko est décédé et le fil du téléphone a été arraché.
-　L'enchaînement de ces deux évènements n'est pas une coïncidence.
+　L'enchaînement de ces deux évènements ne peut pas être une coïncidence.
 　Il serait plus logique de penser que ces deux cas sont intrinsèquement liés et qu'ils sont dus aux actes d'une tierce personne. En d'autres termes―――」
 *page13|
 ;金鹿
@@ -94,7 +94,7 @@
 *page17|
 ;律架、気絶
 ;詠梨
-「Veuillez excuser notre camarade pour les propos inquiétants qu'elle a proférés.
+「Veuillez excuser notre camarade pour les propos inquiétants qu'elle vient de tenir.
 　Mais comprenez que ce n'est en aucun cas de la comédie.[r]
 　Il est un peu tôt pour se prononcer et affirmer que le meurtrier de M. Tokitsu se trouve parmi nous, mais il s'avère tout de même indispensable de remettre de l'ordre dans nos idées.」
 *page18|
@@ -122,7 +122,7 @@
 　Finalement, il fut admis que Housuke était la dernière personne à avoir vu M. Tokitsu.
 *page23|
 ;詠梨
-「Donc...... M. Tokitsu a disparu à midi passé. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à cette heure-ci.」
+「Donc...... M. Tokitsu a disparu à midi passé. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à partir de cette heure-ci.」
 *page24|
 　En effet, la période entre sa disparition et la découverte du corps était trop longue.
 　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou prendre une pause.

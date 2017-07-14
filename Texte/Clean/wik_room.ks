@@ -16,7 +16,7 @@
 *page2|
 ;画面・黒にしてからSE扉の音。客室に。
 　Je déverrouillai la porte et entrai.
-　La chambre était vide et rien ne laissait penser qu'on avait fouillé mon sac.
 ;以下、合流点へ
+　La chambre était vide et rien ne laissait penser qu'on avait fouillé mon sac.
 *page3|
 *tladata

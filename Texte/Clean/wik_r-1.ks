@@ -1,19 +1,19 @@
 ﻿*page0|
-　Je pensais enfin pouvoir dormir sur mes deux oreilles.
 ;上のテキストは赤字にする。
 ;一人称が「私」になっているのは、この独白がスイーツハーツのものだから。
+　Je pensais enfin pouvoir dormir sur mes deux oreilles.
 *page1|
 ;画面・客室・深夜
 　Je retournai seule dans ma chambre.
 　Même si Aozaki, principale suspecte pour le rôle de coupable, était enfermée, il valait mieux rester prudente.
 　Je fermai bien la porte à clef [se storage=se07021 volume=100 loop=0]et m'allongeai sur le lit.
 　Il ne me restait plus qu'à attendre le matin.
-　Toutes sortes de péripéties s'étaient produites, mais je pouvais à présent dormir en toute tranquillité.
 ;眠る前のここで「わたし」と一人称がないのと、テキスト内容が不穏なのはもちろんスイーツハーツ意識だから。
+　Toutes sortes de péripéties s'étaient produites, mais je pouvais à présent dormir en toute tranquillité.
 *page2|
 「...... Aah.」
 ;SE、スイッチの音とともに部屋の電気が消える。
-　Mon Dieu, je vous en prie.
+　Mon dieu, je vous en prie.
 　Faites que tout soit revenu à la normale quand je me réveillerai―――
 *page3|
 ;画面、白フェイドで白に。ウエイトの後、鳥の鳴き声とともに、客室・朝
@@ -72,6 +72,6 @@
 「... Bah, ça n'a plus d'importance.」
 　Je n'avais plus aucun moyen de me sortir d'affaire.
 　Le vrai coupable avait gagné la partie.
-　Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 ;画面暗転、デッドエンド。
+　Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 *page13|

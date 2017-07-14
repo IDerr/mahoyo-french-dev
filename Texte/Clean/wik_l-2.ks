@@ -40,18 +40,18 @@
 「Pff, si c'est impossible par la terre ferme, il reste les airs.
 ;リデル02c2
 　Vous voulez voir l'hélico, c'est ça ? Très bien, je vais l'appeler.
-　Ne sous-estimez pas mon Goblin Nest !」
 ;立ち絵消す
+　Ne sous-estimez pas mon Goblin Nest !」
 *page9|
 　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
 ;画面・一階廊下と、リデルの立ち絵02cあたりを口元だけ移すように使う。携帯電話中。
-『Allô. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du quartier Misaki. Oui, ce quartier Misaki. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?!    Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+『Allo. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du quartier Misaki. Oui, ce quartier Misaki. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
 『Quoi ? C'est impossible avec un hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
-　Même si tu voudrais en faire décoller un, il n'y a pas d'appareil ? Espèce de gros poulet ! Et tu te prétends commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
 ;あと、この時代の軍用ヘリはアパッチときいたが、さすがにもちっとハクをつけたいので多少時代先取りしても上のものを。ブラックホークは早すぎだが、試作段階という事ならアリか？//
+　Même si tu voudrais en faire décoller un, il n'y a pas d'appareil ? Espèce de gros poulet ! Et tu te prends pour un commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
 　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans un palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
@@ -82,7 +82,7 @@
 ;草十郎
 「Eh bien, c'est qu'elle a parlé d'un ange du salut.」
 ;鳶丸
-「Oublie ça, Soujyuro. Si elle est un ange du salut, alors Aozaki serait une déesse de la guérison. Elle se gourre complètement de métaphore.」
+「Oublie ça, Soujyuro. Si elle est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se gourre complètement de métaphore.」
 *page18|
 ;草十郎
 「... Hum. Kumari, tu vas faire quoi ?[r]
@@ -93,11 +93,11 @@
 *page19|
 ;リデル02c
 「Tch, vous jouez encore aux meilleurs amis dans cette situation ? Il faudrait vous réveiller !
-　Très bien, faites comme ça vous chante. Mais faites bien attention à ce que les titres à la une de demain ne ressemblent pas à “La résidence en haut de la montagne, tous les invités portés disparus ?”」
+　Très bien, faites comme ça vous chante. Mais faites bien attention à ce que les titres à la une de demain ne ressemblent pas à “Tous les invités de la résidence en haut de la montagne portés disparus ?”」
 *page20|
 ;金鹿
 「Pff. Bien dit pour une femme qui fuit.
-　D'ailleurs, Il est inutile de s'attendre à des secours avec ce temps. En ce moment à l'extérieur, ce n'est pas une tempête mais un enfer. C'est plutôt ton cerveau qui est en plein rêve.」
+　D'ailleurs, il est inutile de s'attendre à des secours avec ce temps. En ce moment à l'extérieur, ce n'est pas une tempête mais un enfer. C'est plutôt ton cerveau qui est en plein rêve.」
 ;リデル02d2
 「Qu...!」
 *page21|
@@ -113,8 +113,8 @@
 ;山にブラックホークがやってきた演出とかできるなら。できねーよwwww//
 　En pleine tempête, l'œil d'un oiseau diabolique se rapprocha.
 　Ce que j'avais pris pour un œil était en fait un puissant projecteur pouvant éclairer les alentours à des kilomètres à la ronde.
-　L'hélicoptère d'acier n'avait que faire du vent soufflant à 80 km/h et...
 ;画面、サーチライト地面に落ちる。ヘリ、落下→爆発//
+　L'hélicoptère d'acier n'avait que faire du vent soufflant à 80 km/h et...
 *page24|
 ;画面・居間
 ;金鹿
@@ -131,8 +131,8 @@
 「Ils marchent ! Tant que tu n'es pas impliquée, je suis toujours parfaite !
 ;リデル01j
 　Et puis, à l'instant, c'était juste un test.
-　Le vrai hélico va arriver apr―――[chgfg storage=リデル02(全)|d type=13 quakeHMax=0 quakeVMax=0 quakeInterval=1 zoom=65 time=300]Attendez un peu, temps mort.」
 ;リデル消す
+　Le vrai hélico va arriver apr―――[chgfg storage=リデル02(全)|d type=13 quakeHMax=0 quakeVMax=0 quakeInterval=1 zoom=65 time=300]Attendez un peu, temps mort.」
 *page27|
 　La fille en rose se rendit à nouveau dans le couloir suite à la sonnerie appartenant manifestement à un bipeur rangé dans sa poche.
 『Quoi ? L'entreprise va devoir en endosser la responsabilité ?! Les forces spéciales sont en train de s'introduire sur le toit de l'immeuble de l'entrepriseーー?!』

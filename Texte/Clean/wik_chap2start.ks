@@ -31,7 +31,7 @@
 「Shit. La mort a été entraînée par des blessures et brûlures dues à une explosion.
 　Je ne vois pas la source de la détonation mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est bien ce que disait Taro Okamoto, non ?」
 ;律架
-「Que tout le monde se calme. Ceci est un crime ! Je flaire l'odeur du crime.」
+「Que tout le monde se calme. Ceci est une scène de crime ! Je flaire l'odeur du crime.」
 ;草十郎
 「Je dirais plutôt que ça sent la farine de blé, non ?」
 *page4|
@@ -50,7 +50,7 @@
 「―――La cause de sa mort est assez incroyable.
 　Une explosion ? À quoi pouvait bien penser le meurtrier ?」
 ;金鹿、ちょっとびっくり
-　Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'un meurtre. 
+　Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'un meurtre.
 *page8|
 「...... Ce n'est pas un accident ?」
 「Les chances que le vieux Tokitsu ait manipulé des explosifs dans le manoir Kuonji sont complètement nulles.」
@@ -67,7 +67,7 @@
 　...... J'éprouvai une certaine surprise.
 　Même face à un cadavre, Tsukiji ne flanchait pas.
 　Il cherchait à analyser la situation calmement et sérieusement.
-　Dans ces moments-là, Tsukiji resplendissait.
+　Dans ces moments-là, Tsukiji était resplendissant.
 　En fait, dès qu'il devenait sérieux, cet homme avait la classe dans tout ce qu'il entreprenait.
 *page12|
 ;鳶丸
@@ -103,7 +103,7 @@
 　Bien que nous ayons déjà fait le chemin à pied, j'avais le sentiment qu'il serait dangereux de descendre la montagne par ce temps.
 *page17|
 　Par ailleurs, si Père Eiri nous avait déconseillé d'agir individuellement, ce n'était pas particulièrement par inquiétude envers Shizuki.
-　Agir tout seul dans une telle situation serait désavantageux pour les personnes laissées derrière.
+　Agir tout seul dans une telle situation serait désavantageux pour les personnes laissées en arrière.
 　Par exemple―――un certain individu pourrait profiter de se retrouver isolé pour détruire diverses preuves.
 *page18|
 ;詠梨
@@ -116,7 +116,7 @@
 *page20|
 ;画面・出口側の玄関（雨、雨の跡）
 「..................」
-　Je ressentis un frisson, et sans raison particulière, dirigeai mon regard vers l'entrée.
+　Je ressentis un frisson et, sans raison particulière, dirigeai mon regard vers l'entrée.
 　...... Un léger inconfort m'assaillit.
 　L'orage allait en s'intensifiant.
 　Confusément, je...
