@@ -8,8 +8,8 @@
 *page2|
 　“D'accord”, dis-je en levant la main.
 　Quatre autres personnes levèrent la main : Aozaki, Yuika, Shizuki... et [wait canskip=0 time=200][fg rule=crossfade time=300 storage=ベオ01a(中)|j center=109 vcenter=576 index=1400 textoff=0]Beo imitant ce dernier.
-　Ceux qui étaient contre s'élevaient au nombre de quatre : Ritsuka, Père Eiri, Tsukiji et Kuonji.
-　Avec Beo, c'est nous qui l'emportions.
+　Ceux qui étaient contre s'élevaient au nombre de quatre : Ritsuka, père Eiri, Tsukiji et Kuonji.
+　Avec Beo, c'était nous qui l'emportions.
 *page3|
 ;青子
 「C'est décidé. Que chacun s'enferme dans sa chambre, ferme bien à clef et n'en sorte pas jusqu'au matin.

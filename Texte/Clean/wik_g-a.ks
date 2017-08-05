@@ -46,7 +46,7 @@
 「Snif... Ça aussi, je voulais le dire, c'est pas juste...」
 *page8|
 ;青子、金鹿、リデル、感心
-　Nous étions impressionnés malgré nous par les conjectures de Père Eiri et de Tsukiji.
+　Nous étions impressionnés malgré nous par les conjectures de père Eiri et de Tsukiji.
 　Même si j'avais conclu à la possibilité qu'une explosion de poussière se soit produite dans la chambre, je n'étais pas arrivée à la question essentielle consistant à me demander dans quel but on l'aurait provoquée.
 *page9|
 ;木乃美、うんうんと頷く。
@@ -176,7 +176,7 @@
 *page27|
 ;詠梨
 「Ça veut dire que le Ploy Kickshaw est actif ?
-　Néanmoins, Sœur Yuika aurait forcément remarqué un tel flot de prana.」
+　Néanmoins, sœur Yuika aurait forcément remarqué un tel flot de prana.」
 ;有珠
 「C'est un modèle de Ploy à navigation clandestine. [wait canskip=0 time=400][chgfg storage=有珠私服03a(全)|b zoom=80 time=400]D'ailleurs, Yuika...」
 *page28|

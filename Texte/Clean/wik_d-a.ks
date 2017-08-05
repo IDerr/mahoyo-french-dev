@@ -46,7 +46,7 @@
 「Non, merci ! Retirer sa tenue de cérémonie dans l'antre d'une sorcière est un acte suicidaire ! Je ne suis pas venue m'amuser comme toi !」
 *page11|
 ;詠梨
-「Non, nous sommes là pour en profiter. Même moi, je suis venu les mains vides, mais Sœur Yuika, elle......
+「Non, nous sommes là pour en profiter. Même moi, je suis venu les mains vides, mais sœur Yuika, elle......
 　Pourquoi as-tu acquis ce caractère aiguisé comme un couteau, toujours sur le qui-vive ?」
 ;唯架ちょっと怒り
 「Je suis contrainte de l'être pour pallier à votre manque de sérieux !」

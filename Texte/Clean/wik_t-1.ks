@@ -105,10 +105,10 @@
 *page20|
 ;画面・ロビー・昼
 　La chambre de Tsukiji était vide.
-　Shizuki n'était pas dans la chambre de Père Eiri.
+　Shizuki n'était pas dans la chambre de père Eiri.
 　Celle de Ritsuka était également déserte.
 「Kuonjiii !」
-　Personne ne répondit à mon appel dans l'aile Ouest.
+　Personne ne répondit à mon appel dans l'aile ouest.
 　Il n'y avait... personne.
 *page21|
 ;画面・黒

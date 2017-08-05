@@ -12,7 +12,7 @@
 　Et celle de M. Yamashiro entre quatre et huit heures.
 　Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer dans une plage d'une heure comprise entre quatre et six heures.
 *page3|
-　Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, Père Eiri et Sœur Yuika.
+　Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, père Eiri et sœur Yuika.
 　En ce qui concernait le meurtre de M. Yamashiro, Tsukiji et moi avions également un alibi parfait. À cette heure-ci, nous étions tous les deux dans le salon.
 　Pour ce qui était d'Aozaki, Shizuki et Beo... nous n'avons pas pu établir leur alibi.
 *page4|
@@ -50,7 +50,7 @@
 　On parle seulement de possibilités, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
 　Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
 *page10|
-「... Mon innocence et celle de Père Eiri ont pourtant été établies ?」
+「... Mon innocence et celle de père Eiri ont pourtant été établies ?」
 ;青子にやり
 「Les détails de votre venue à la résidence sont inconnus, si je ne m'abuse ?
 　Alice est venue vous accueillir parce qu'elle a entendu vos voix, pas vrai ? Personne ne peut certifier où vous étiez avant ça.」

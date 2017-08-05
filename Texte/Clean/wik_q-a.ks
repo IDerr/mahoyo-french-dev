@@ -16,7 +16,7 @@
 「... Tu ne les as pas croisés en chemin ?」
 ;青子心配
 「Pas du tout. Ils avaient l'air préoccupés par la forêt lorsqu'on est sortis, mais... [wait canskip=0 time=400][chgfg storage=青子私服a02a(大)|i2 time=400]ils sont quand même pas entrés dans les bois par ce temps...」
-　Aozaki et Sœur Yuika se regardèrent d'un air inquiet.
+　Aozaki et sœur Yuika se regardèrent d'un air inquiet.
 　C'est alors que...
 *page4|
 ;SE玄関の開く音、強風
@@ -30,7 +30,7 @@
 　Malgré son air triste, ses paroles se révélaient aussi peu délicates que d'habitude.
 *page6|
 ;唯架
-「Shizuki. Tu veux dire que Père Eiri est...?」
+「Shizuki. Tu veux dire que père Eiri est...?」
 ;青子
 「... On dirait bien. Et dire que même un type comme Eiri s'est fait avoir... Qui peut bien en être capable...」
 　Le silence s'installa dans le vestibule.
@@ -41,7 +41,7 @@
 　À y regarder de plus près, Shizuki tenait une chose moelleuse d'environ vingt centimètres de long.
 *page8|
 ;草十郎
-「Eh bien, ça gisait du côté Est du manoir... devant la véranda.」
+「Eh bien, ça gisait du côté est du manoir... devant la véranda.」
 　Sur ces mots, Shizuki nous montra une peluche de chien dorée. Un étrange motif était brodé sur son front.
 *page9|
 ;有珠なるほど
@@ -65,7 +65,7 @@
 「... Beo a dû trouver quelque chose. Et moi qui comptais secrètement sur lui. C'est un coup dur.
 　Au fait, Soujyuro, Eiri s'est fait avoir vers où ?」
 ;草十郎
-「Dans la forêt côté Ouest. [l][clall][se storage=se01001 volume=100 loop=1 time=2000][se storage=seex01 volume=100 loop=1 time=2000][bg time=800 rule=crossfade storage=black  noclear=0][wait canskip=0 time=400][clall][fg storage=bg01l久遠寺邸06中庭-(異空間) center=-620 vcenter=-31 index=1200 opacity=64 rotate=15 effect=monocro zoom=200 id=2][fg storage=bg01l久遠寺邸06中庭-(異空間) center=-620 vcenter=-31 index=1100 rotate=15 effect=屋外蒼緑 zoom=200 id=3][fgact page=back props=-storage,center,vcenter,absolute,zoomx,zoomy,-visible keys=(0,0,n,im01オープニング09(オブジェ雨a),598,284,1400,150,150,1)(50,,,im01オープニング09(オブジェ雨b),,,,,,)(100,,,im01オープニング09(オブジェ雨a),,,,,,)(150,,,,747,475,,,,)(200,,,,388,445,,,,)(250,,,,351,201,,,,) loop=0 storage=im01オープニング09(オブジェ雨a) id=1][bg rule=crossfade time=800 storage=black left=-48 top=-48 noclear=1]Il a dit avoir vu quelque chose bouger avant d'entrer dans les bois. J'ai tout de suite entendu son rire.
+「Dans la forêt côté ouest. [l][clall][se storage=se01001 volume=100 loop=1 time=2000][se storage=seex01 volume=100 loop=1 time=2000][bg time=800 rule=crossfade storage=black  noclear=0][wait canskip=0 time=400][clall][fg storage=bg01l久遠寺邸06中庭-(異空間) center=-620 vcenter=-31 index=1200 opacity=64 rotate=15 effect=monocro zoom=200 id=2][fg storage=bg01l久遠寺邸06中庭-(異空間) center=-620 vcenter=-31 index=1100 rotate=15 effect=屋外蒼緑 zoom=200 id=3][fgact page=back props=-storage,center,vcenter,absolute,zoomx,zoomy,-visible keys=(0,0,n,im01オープニング09(オブジェ雨a),598,284,1400,150,150,1)(50,,,im01オープニング09(オブジェ雨b),,,,,,)(100,,,im01オープニング09(オブジェ雨a),,,,,,)(150,,,,747,475,,,,)(200,,,,388,445,,,,)(250,,,,351,201,,,,) loop=0 storage=im01オープニング09(オブジェ雨a) id=1][bg rule=crossfade time=800 storage=black left=-48 top=-48 noclear=1]Il a dit avoir vu quelque chose bouger avant d'entrer dans les bois. J'ai tout de suite entendu son rire.
 　Après ça, j'ai entendu un hurlement qui m'a fait penser à un coup de tonnerre, du sang est tombé en cascade... et quand j'ai regardé en l'air...」
 *page13|
 　Tout le monde retint son souffle.

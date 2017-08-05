@@ -45,7 +45,7 @@
 「Ah, oui. Pardonnez-moi, c'était certes déplacé.
 　Je savais qu'on pouvait se fier à vous dans ces moments-là, Yuika.」
 ;唯架
-「C'est un avertissement parfaitement naturel en tant qu'adulte. Notre position implique de surveiller des étudiants, alors Père Eiri, modérez vos propos inconsidérés.」
+「C'est un avertissement parfaitement naturel en tant qu'adulte. Notre position implique de surveiller des étudiants, alors père Eiri, modérez vos propos inconsidérés.」
 *page9|
 ;画面暗転
 　Les réprimandes mordantes de Yuika refroidirent d'un coup l'ambiance de la pièce.
@@ -65,7 +65,7 @@
 　En plus, Yamashiro ne connaissait pas les règles. Il a dû être facile de le faire rire, mais...」
 *page12|
 　Tsukiji s'adressait à toutes les personnes réunies dans le salon.
-　Comme Père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contre-cœur pour être son substitut, et ça se voyait sur son visage.
+　Comme père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contre-cœur pour être son substitut, et ça se voyait sur son visage.
 *page13|
 ;青子
 「Tu ne poursuis pas, Tobimaru ? C'est bien indécis de ta part.

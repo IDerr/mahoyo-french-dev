@@ -99,7 +99,7 @@
 　Il est un peu tôt pour se prononcer et affirmer que le meurtrier de M. Tokitsu se trouve parmi nous, mais il s'avère tout de même indispensable de remettre de l'ordre dans nos idées.」
 *page18|
 　Je n'avais aucune raison d'objecter.
-　Le résumé de la situation commença sous la tutelle de Père Eiri.
+　Le résumé de la situation commença sous la tutelle de père Eiri.
 *page19|
 ;青子
 「Revenons d'abord sur ce qui s'est passé dans le grenier.
@@ -147,7 +147,7 @@
 「Je vois. Tu es donc d'avis qu'il faudrait réfléchir sur l'arme du crime... sur le moyen employé pour exécuter le meurtre.」
 ;鳶丸
 「En effet, nous en sommes là. Si on peut déterminer l'arme du crime, on pourra en déduire la ou les personnes qui ont eu la possibilité de commettre le meurtre.
-　Par chance, l'arme du crime est évidente. Vous l'avez remarquée, Père Eiri ?」
+　Par chance, l'arme du crime est évidente. Vous l'avez remarquée, père Eiri ?」
 *page29|
 ;詠梨
 「Oui, j'ai ma petite idée là-dessus. Toutefois, il reste toujours à savoir pourquoi nous n'avons rien entendu dans le grenier depuis le salon.

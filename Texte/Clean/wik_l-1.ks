@@ -14,7 +14,7 @@
 　Père Eiri, Ritsuka et moi veillerons ici et accourrons si jamais il semble se passer quelque chose d'anormal.」
 *page3|
 ;青子
-「... Bah, c'est raisonnable.
+「... Ma foi, c'est le plus judicieux.
 　Les membres du groupe de l'église sont aussi des coupables potentiels, mais Yuika est bien la seule qui ne peut pas être le Ploy.」
 ;草十郎
 「Pourquoi ça ?」
@@ -62,7 +62,7 @@
 「Je ne comprends vraiment rien à cette histoire de rire synonyme de mort, mais...」
 　Il était clair que quelqu'un essayait de tous nous tuer.
 　Allongée, je réfléchis.
-　Tsukiji et Père Eiri étaient un peu trop logiques, si bien qu'ils semblaient oublier une certaine question.
+　Tsukiji et père Eiri étaient un peu trop logiques, si bien qu'ils semblaient oublier une certaine question.
 *page13|
 　Ce qui m'intriguait n'était pas l'identité du coupable.
 　Mais pourquoi il en était venu à aller à de telles extrémités.

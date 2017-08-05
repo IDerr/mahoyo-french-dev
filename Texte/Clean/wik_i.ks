@@ -5,8 +5,8 @@
 　J'ai aussi fait des courses et entretenu le jardin, mais c'était dans l'après-midi. [wait canskip=0 time=300][chgfg storage=草十郎私服02a(全)|首輪d zoom=80 time=300]Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokitsu dans un état terrible.」
 *page1|
 ;有珠
-「Moi... Si ma mémoire est bonne, comme je n'avais personne sous la main, j'ai verrouillé l'aile Ouest moi-même, puis je me suis rendue dans le salon avant que Tokkii n'arrive.
-　L'aile Ouest contient le coffre des Ploy et beaucoup de chambres dont l'entrée est interdite.
+「Moi... Si ma mémoire est bonne, comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même, puis je me suis rendue dans le salon avant que Tokkii n'arrive.
+　L'aile ouest contient le coffre des Ploy et beaucoup de chambres dont l'entrée est interdite.
 　Ensuite, j'ai veillé sur les invités dans le salon, mais je ne sais pas qui a quitté son siège, quand et combien de temps.」
 *page2|
 ;金鹿

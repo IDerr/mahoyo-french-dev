@@ -102,7 +102,7 @@
 　Le temps était tellement agité qu'on pouvait parler de tempête.
 　Bien que nous ayons déjà fait le chemin à pied, j'avais le sentiment qu'il serait dangereux de descendre la montagne par ce temps.
 *page17|
-　Par ailleurs, si Père Eiri nous avait déconseillé d'agir individuellement, ce n'était pas particulièrement par inquiétude envers Shizuki.
+　Par ailleurs, si père Eiri nous avait déconseillé d'agir individuellement, ce n'était pas particulièrement par inquiétude envers Shizuki.
 　Agir tout seul dans une telle situation serait désavantageux pour les personnes laissées en arrière.
 　Par exemple―――un certain individu pourrait profiter de se retrouver isolé pour détruire diverses preuves.
 *page18|

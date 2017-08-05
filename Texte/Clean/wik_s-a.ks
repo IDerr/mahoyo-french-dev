@@ -2,7 +2,7 @@
 「Enfin bon, tant qu'on n'a aucun moyen d'être catégorique, nos suppositions restent des suppositions.
 　À part ça, Kumari, tu ne penses pas que la difficulté est de savoir comment ils ont été tués plutôt que quand ?」
 *page1|
-「Que ce soit Yamashiro ou Père Eiri, il faut avoir un sacré sens de l'humour pour faire rire ces masques de fer.
+「Que ce soit Yamashiro ou père Eiri, il faut avoir un sacré sens de l'humour pour faire rire ces masques de fer.
 　On peut considérer que tout le monde est suspect au niveau de l'heure des meurtres, mais ce sens de l'humour se limite à un nombre restreint de personnes. Ma foi, on peut sûrement exclure Soujyuro, Beo et Kinomi sur ce point-là.」
 *page2|
 　Tsukiji releva d'un air intéressé les points fâcheux qui n'avaient pas été étudiés jusqu'à présent.

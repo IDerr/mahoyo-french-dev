@@ -39,11 +39,11 @@
 *page6|
 ;画面・ロビー・昼
 　La chambre de Tsukiji était également propre.
-　Celle de Père Eiri aussi.
+　Celle de père Eiri aussi.
 　De même pour celle de Ritsuka.
 *page7|
 「Hé oh ! Est-ce que quelqu'un est en vie ?」
-　J'élevai la voix en direction de l'aile Ouest, mais je n'obtins aucune réponse.
+　J'élevai la voix en direction de l'aile ouest, mais je n'obtins aucune réponse.
 　Aaah, c'était bien ce que j'avais pressenti.
 　Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du quartier Misaki.
 *page8|

@@ -1,7 +1,7 @@
 ﻿*page0|
 ;Ｂ－１－ａ
 ;画面・一階廊下
-　Aozaki attendait à l'entrée de l'aile Est.
+　Aozaki attendait à l'entrée de l'aile est.
 「Désolée, j'ai été trop longue ?」
 ;青子
 「Non, pas vraiment. Et puis, je n'ai rien à faire pour le moment.

@@ -5,6 +5,6 @@
 ;青子
 「Suivez-moi. La plupart des invités sont déjà là.」
 ;画面・一階廊下
-　Le couloir du rez-de-chaussée dans l'aile Est était plutôt sombre.
+　Le couloir du rez-de-chaussée dans l'aile est était plutôt sombre.
 ;Ｂ－１－ｂへ
 　Le bruit de conversations enjouées filtrait depuis la porte devant nous.

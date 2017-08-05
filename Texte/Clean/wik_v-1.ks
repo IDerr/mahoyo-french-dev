@@ -10,7 +10,7 @@
 　Il y avait une contradiction fatale entre son témoignage et celui de Kuonji.
 　Shizuki avait prétendu être dans la résidence le matin.
 　Pourtant, Kuonji avait affirmé ceci :
-“Comme je n'avais personne sous la main, j'ai verrouillé l'aile Ouest moi-même.”
+“Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
 *page2|
 　Si le verrouillage des portes était son rôle, elle n'aurait pas utilisé une telle formulation.
 　Kuonji avait l'intention de demander à Shizuki, ou alors à Aozaki, de s'en occuper.

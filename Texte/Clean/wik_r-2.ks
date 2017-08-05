@@ -5,11 +5,11 @@
 ;律架
 「On peut enfin dormir.
 　Je vous souhaite bonne nuit !」
-　Ristuka disparut au premier étage de l'aile Ouest.
+　Ristuka disparut au premier étage de l'aile ouest.
 *page2|
 ;有珠
 「... Je vais aussi me coucher.
-　Shizuki, utilise la chambre de Père Eiri. La tienne sera inutilisable jusqu'au lever du soleil.」
+　Shizuki, utilise la chambre de père Eiri. La tienne sera inutilisable jusqu'au lever du soleil.」
 ;草十郎
 「Ah, c'est vrai. Merci, Alice.」
 ;二人消す
@@ -34,7 +34,7 @@
 　Mais y repensant, les choses avaient pris une drôle de tournure.
 *page6|
 　Il était à peu près deux heures du matin, une heure où même la flore dormait.
-　Une tempête infernale se déchaînait de l'autre côté des volets clôturés. 
+　Une tempête infernale se déchaînait de l'autre côté des volets fermés. 
 　Dans un monde étrange où un rire signifiait la mort, je me trouvais seule dans une chambre avec le garçon que j'aimais en secret depuis trois ans.
 *page7|
 ;鳶丸

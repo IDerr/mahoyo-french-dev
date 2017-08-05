@@ -63,7 +63,7 @@
 「Ah, euh, je veux dire... [wait canskip=0 time=400][chgfg storage=青子私服a01b(大)|q time=400]Té hé☆」
 「Soujyuro, où est la chambre d'Aozaki ?」
 ;画面切り替え・二階廊下・深夜に
-「Au fond du premier étage de l'aile Est.」
+「Au fond du premier étage de l'aile est.」
 *page13|
 　Escortés par Ritsuka, nous nous rendîmes dans la chambre d'Aozaki.
 　Cette dernière nous suivait d'un air renfrogné.

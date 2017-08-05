@@ -3,7 +3,7 @@
 ;以下は通っていない場合
 ;画面・ロビー
 　Je chargeai le sac que j'avais posé dans le salon sur une épaule, puis je me rendis au premier étage.
-　D'après Aozaki, on m'avait alloué la deuxième chambre du premier étage de l'aile Est.
+　D'après Aozaki, on m'avait alloué la deuxième chambre du premier étage de l'aile est.
 *page1|
 ;二階廊下
 ;青子01Aa2　ちょっと意外そうに

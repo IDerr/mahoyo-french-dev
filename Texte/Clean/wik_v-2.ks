@@ -25,7 +25,7 @@
 「Tu peux arrêter avec ton jeu d'acteur.」
 *page5|
 　J'endurai l'engourdissement de mes membres et donnai un coup à ses stupides lunettes.
-　Ce truc était vraiment incroyable.
+　Que cette farce ait marché était vraiment incroyable.
 　Si bien que je préférai l'empêcher de parler ainsi que de réfléchir au “Qui ?”, “Quand ?” et  “Comment ?”.
 *page6|
 「――――[wait canskip=0 time=300]Nous sommes [wait canskip=0 time=400]un [wait canskip=0 time=400]martien.」
@@ -44,7 +44,7 @@
 「Kumari. Peux-tu comprendre, toi ?
 　Les sentiments d'un homme à qui on n'a eu de cesse de dire pendant un an qu'il n'avait “aucun sens de l'humour”.
 　Sais-tu ce que ça fait d'être considéré comme une gêne à chaque fois que l'on rassemble son courage pour mettre de l'ambiance dans une fête ?」
-「Bien, j'ai compris, je vais te fracasser.」
+「Bien, j'ai compris, je vais te fracasser le crâne.」
 *page9|
 　Je n'avais même pas envie d'y penser, mais son mobile consistait à prouver qu'il avait un sens de l'humour.
 　Il avait échoué au moment même où il avait décidé d'utiliser ces lunettes-nez, mais malgré tout, cette homme avait donné un coup de main au vrai coupable pour cette raison !
@@ -53,8 +53,8 @@
 　Une autre personne civilisée ne rigolerait pas face à une blague pareille.」
 「Oui, mais Kumari, tu as...」
 ;笑ったぞ、と言いたい草十郎。
-「Je vais vraiment te fracasser.」
-「Désolé, ce n'est rien.」
+「Je vais t'éclater la tronche, vraiment.」
+「Pardon, j'ai rien dit.」
 *page11|
 「... Je sais ce qu'il en est.[r]
 　Ce qui a fait rire Tsukiji et les autres, c'est la photo d'Aozaki, pas vrai ?」
@@ -62,7 +62,7 @@
 　Et c'est aussi ma rémunération.」
 *page12|
 　Tous les garçons qui connaissaient Aozaki riraient en voyant cette photo exhibant sa mésaventure.
-　Spécialement pour le professeur Yamashiro, Tsukiji et Père Eiri, ça devait sans aucun doute être une attaque imparable.
+　Spécialement pour le professeur Yamashiro, Tsukiji et père Eiri, ça devait sans aucun doute être une attaque imparable.
 「En d'autres termes, le coupable est―――」
 　Ma gorge s'effritait tandis que j'essayais de prononcer son nom.
 *page13|

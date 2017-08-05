@@ -95,7 +95,7 @@
 「Hein ? Ah, oui, c'est vrai.
 　... Al... Alors, je vais chercher du côté de ma chambre.」
 ;有珠
-「Moi, j'irai dans l'aile Ouest et au cas où, au sous-sol.
+「Moi, j'irai dans l'aile ouest et au cas où, au sous-sol.
 ;立ち絵消す
 　Quant à Kumari, Tobimaru, Ritsuka et Shizuki, c'est dangereux, alors restez ici.」
 *page17|
@@ -152,7 +152,7 @@
 「Je vais voir. Soujyuro, Tobimaru, je vous confie Kojika.」
 *page24|
 　Aozaki disparut en trottinant vers les ténèbres conduisant au salon.
-　Alarmés par l'agitation, Père Eiri et Sœur Yuika descendaient du premier étage tandis que Kuonji arrivait depuis le rez-de-chaussée de l'aile Ouest.
+　Alarmés par l'agitation, père Eiri et sœur Yuika descendaient du premier étage tandis que Kuonji arrivait depuis le rez-de-chaussée de l'aile ouest.
 *page25|
 ;詠梨
 「Les plombs de la résidence semblent encore avoir sauté, il s'est passé quelque chose ?」
@@ -170,7 +170,7 @@
 *page28|
 ;詠梨
 「Très bien, partons voir ce qu'il en est à l'extérieur.
-　Commençons par les alentours de la véranda. Comme c'est dangereux, ceux qui vont chercher seront moi, Sœur Yuika... et Aoko, je peux te le demander ?」
+　Commençons par les alentours de la véranda. Comme c'est dangereux, ceux qui vont chercher seront moi, sœur Yuika... et Aoko, je peux te le demander ?」
 *page29|
 「... Père Eiri. Avec ce vent, je ne pense pas être d'une très grande aide. Mes oreilles ne seront pas efficaces.」
 *page30|
@@ -184,7 +184,7 @@
 ;詠梨
 「Dans ce cas... Soujyuro, veux-tu m'accompagner ?[r]
 　Tu sais travailler en équipe.」
-　Shizuki accepta d'un air grave la proposition de Père Eiri.
+　Shizuki accepta d'un air grave la proposition de père Eiri.
 　Je―――
 *page32|
 　～Choix P～
