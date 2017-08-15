@@ -21,7 +21,7 @@
 　Selon les prévisions météo, il devait faire beau pendant ces trois jours de congé, mais manifestement, les montagnes n'étaient pas dans la zone de prévision.
 *page4|
 ;画面・ちょっと点滅。久万梨、微睡んでいる。
-　Jusque-là, j'avais salué six personnes parmi les individus présents dans le manoir Kuonji.
+　Jusque-là, j'avais salué six personnes parmi les individus présents dans le manoir Kuonji :
 　Aozaki, [l][fg rule=crossfade time=500 storage=有珠私服01a(中) center=454 vcenter=511 index=1700]Kuonji, [l][fg rule=crossfade time=500 storage=草十郎私服02a(中)|首輪a center=667 vcenter=444 index=1900]Shizuki, [l][fg rule=crossfade time=500 storage=鳶丸私服b01(中) center=102 vcenter=459 index=1800 zoomx=-100]Tsukiji, [l][fg rule=crossfade time=500 storage=木乃実私服01(遠)|c center=270 vcenter=376 index=1500 zoomx=-100]l'Idiot, [l][fg rule=crossfade time=500 storage=山城01(遠) center=574 vcenter=384 index=1600]monsieur Yamashiro [l][fg rule=crossfade time=500 storage=ベオ01a(大) center=297 vcenter=690 index=2100 zoomx=100]et Beo.
 　Kuonji avait sous-entendu qu'il y aurait d'autres invités.
 ;草十郎には会っていないが、まあ、ここで草十郎の顔がでるのはそういうコトである。
@@ -36,5 +36,5 @@
 　...................
 　.....................................
 ;画面ウエイト、長。
-　Durant mon sommeil léger, j'eus l'impression d'entendre au loin un rire semblable à un cri.
+　Durant mon sommeil léger, j'eus l'impression d'entendre au loin un rire aux allures de cri.
 *page7|

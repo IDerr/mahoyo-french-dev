@@ -54,7 +54,7 @@
 　Bah, ça devait juste être mon imagination.
 　Aujourd'hui avait lieu un évènement rare de chez rare, une fête d'anniversaire au manoir Kuonji.
 　Il nous restait peu de temps avant la fin du lycée.
-　Je devais, à ma façon, sans avoir de regret, passer cette dernière saison qui se terminerait en un clin d'œil si je n'y prêtais pas attention.
+　Je devais, à ma façon, sans avoir de regret, affronter cette ultime saison avant la fin du lycée qui se terminerait en un clin d'œil si je n'y prêtais pas attention.
 *page12|
 ;画面・ロビーの上の方にゆっくりパンさせていく//
 「Ouah, si c'est pas Kojika ?! T'as aussi été invitée ?!

@@ -88,11 +88,11 @@
 *page17|
 「Ah, j'ai trouvé une bougie. Personne n'a de briquet ?[r]
 　Ou alors des allumettes ?」
-「Attends le feu.」
+「Attends un feu follet.」
 「Hein ? C'était le prêtre à l'instant ?」
-「Horrible, ce jeu de mots était horrible.」
+「Horrible, cette blague était horrible.」
 「Son cerveau a dû dégénérer.」
-「Non. Dans notre situation primitive, même s'il faisait de l'esprit, ça n'aurait aucun impact. Simple is best.」
+「Non. Dans ce noir complet, même s'il faisait de l'esprit, ça n'aurait aucun impact. Simple is best.」
 ;画面、一回だけ点滅する。電気かつけかける。
 「Ah. Tout le monde, restez tranquille, la lumière revient.」
 *page18|
@@ -121,7 +121,7 @@
 「Riddell ! Reprends-toi, Riddell !
 　Parle avant de mourir ! Qu'as-tu vu ? Le coupable ? C'est le coupable, hein ?!」
 ;リデル02g
-「Fff, fff... Oublie ce type ennuyeux... Il y a quelque chose de pire, un démon, moelleux, il―――[wait canskip=0 time=1500][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,6,l,リデル02(全)|g,940,1258,1300,,23,80,80,2,1,20,1,1)(900,0,,,,1315,,0,28.227,,,,,,0,) storage=リデル02(全)|g]*mort*」[se storage=se10080 volume=100 loop=0]
+「Fff, fff... Oublie ce type sans intérêt... Il y a quelque chose de pire, un démon, moelleux, il―――[wait canskip=0 time=1500][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,6,l,リデル02(全)|g,940,1258,1300,,23,80,80,2,1,20,1,1)(900,0,,,,1315,,0,28.227,,,,,,0,) storage=リデル02(全)|g]*mort*」[se storage=se10080 volume=100 loop=0]
 ;青子
 「Riddellーーーーーーー!」
 *page23|

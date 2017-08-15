@@ -5,7 +5,7 @@
 ;リデル
 「Hein ? Vous voulez aussi mon alibi ?
 　Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.
-　D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains et en finir même si je dois sacrifier les autres.」
+　D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains, quitte à sacrifier mon entourage s'il le fallait.」
 *page2|
 ;鳶丸
 「Ne dis pas de conneries ! T'es tout aussi louche que les autres.
@@ -28,7 +28,7 @@
 ;リデル01h
 「Mais cette histoire n'a rien à voir avec maintenant, enfin ?!
 ;リデル01d
-　Aaah, j'en ai plein la tête ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, cet endroit sera sa première cible !」
+　Raaah, j'en ai plein le crâne ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, cet endroit sera sa première cible !」
 *page7|
 ;青子
 「Tu en es capable ? S'évader est difficile d'après Alice.」
@@ -48,10 +48,10 @@
 ;画面・一階廊下と、リデルの立ち絵02cあたりを口元だけ移すように使う。携帯電話中。
 『Allo. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du quartier Misaki. Oui, ce quartier Misaki. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
-『Quoi ? C'est impossible avec un hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
+『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
 ;あと、この時代の軍用ヘリはアパッチときいたが、さすがにもちっとハクをつけたいので多少時代先取りしても上のものを。ブラックホークは早すぎだが、試作段階という事ならアリか？//
-　Même si tu voudrais en faire décoller un, il n'y a pas d'appareil ? Espèce de gros poulet ! Et tu te prends pour un commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
+　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
 　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans un palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』

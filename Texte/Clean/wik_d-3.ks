@@ -42,7 +42,7 @@
 ;赤フォントで
 　　　　　　car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
 *page9|
-　Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes cherchant à sortir du cercle.
+　Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes solitaires qui cherchaient à vivre à l'écart des autres.
 　Il ne les attaquait pas pour les manger, mais pour les tuer, ce qui rendait le personnage plus humain et avait marqué mon esprit.
 　On pouvait interpréter l'histoire autrement : le village réduisait au silence tout villageois qui s'écartait de ses coutumes.
 　C'est absorbée dans ces sombres chimères que je tombais sur une impasse.

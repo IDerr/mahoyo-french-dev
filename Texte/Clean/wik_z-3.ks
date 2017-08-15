@@ -85,5 +85,5 @@
 「Hein, pas possible ?! C'est pas un choix digne d'une filleーー?!」
 ;スイーツ金鹿消える
 ;画面、ブツリと画面が切れるように黒画面に。久万梨も意識を失ったから。//
-　Tsukiji est mort, alors tu peux oublier tes vœux.
+　Tsukiji est mort, alors tu peux oublier tes histoires de vœux.
 *page18|

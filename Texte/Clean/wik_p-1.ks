@@ -19,7 +19,7 @@
 *page4|
 　De toute évidence, il était dangereux d'aller à l'extérieur,
 　et la possibilité d'être seule avec Tobimaru me tentait,
-　mais ma vie lycéenne avec Aozaki n'était pas assez superficielle pour que je me taise maintenant pour ma pauvre petite chose.
+　mais ma vie lycéenne avec Aozaki n'était pas assez superficielle pour que je me taise maintenant pour le bien de ma pauvre petite personne.
 *page5|
 ;青子、照れ顔で仕方ない
 「... Ok, compris.
