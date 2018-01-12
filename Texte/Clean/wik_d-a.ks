@@ -32,13 +32,13 @@
 ;詠梨神父
 「C'est surprenant. Je ne pensais pas qu'on serait autorisés à se balader librement dans le bâtiment jusqu'au début de la fête. Que nous vaut ce changement d'attitude, Alice ?」
 ;有珠
-「...... Ce n'est rien de tel. Les portes des pièces où il est dangereux d'entrer ont de toute façon été changées en mur. Cette modification se limite à aujourd'hui, mais ainsi, nous n'aurons pas à déplorer de victimes.」
+「...... Ce n'est rien de tel. Les portes des pièces où il est dangereux d'entrer ont de toute façon été changées en mur. Cette disposition est prévue pour aujourd'hui seulement, mais ainsi, nous n'aurons pas à déplorer de victimes.」
 *page8|
 ;木乃美
-「? Changer en mur ? Comment ça ? [l][chgfg storage=木乃実私服01(遠)|c type=13 time=400]Et puis des victimes ? Tu aimes exagérer, Alice ~ ! C'est sûr que c'est un grand manoir, mais personne n'est assez bête pour s'y perdre, tu sais ?」
+「? Changées en mur ? Comment ça ? [l][chgfg storage=木乃実私服01(遠)|c type=13 time=400]Et puis des victimes ? Tu aimes exagérer, Alice ~ ! C'est sûr que c'est un grand manoir, mais personne n'est assez bête pour s'y perdre, tu sais ?」
 *page9|
 ;律架
-「Tu as même eu la gentillesse de nous préparer une chambre d'amis. On avait prévu de rentrer quand il ferait nuit, mais ta sollicitude va bien nous aider ~ ♪
+「Tu as même eu la gentillesse de nous préparer une chambre d'ami. On avait prévu de rentrer quand il ferait nuit, mais ta sollicitude va bien nous aider ~ ♪
 　Yui, puisqu'on y est, tu ne veux pas te changer ?
 　Je veux bien te prêter ma robe chinoise. En plus, une tenue ecclésiastique fait un peu bizarre dans un lieu de fête.」
 *page10|
@@ -61,7 +61,7 @@
 ;有珠
 「...... Il serait temps d'entamer les derniers préparatifs.
 　Où est Tokki ?」
-　À la fin d'une énième partie, Kuonji prononça des propos étranges.
+　À la fin d'une énième partie, Kuonji tint des propos étranges.
 *page14|
 ;金鹿
 「Tokki ? C'est qui Tokki ?」

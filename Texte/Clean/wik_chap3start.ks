@@ -8,7 +8,7 @@
 ;青子
 「C'est la chambre de M. Yamashiro. La porte est fermée à clef ?」
 ;律架
-「Elle ne l'était pas. Je pensais qu'il n'était pas là, alors j'ai jeté un coup d'œil à l'intérieur, mais... [wait canskip=0 time=100][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,律架01b(全)|j,811,905,1300,65,65,1,1,100,1,1)(700,,n,,,,,,,0,0,,0,) storage=律架01b(全)|j]pff, pff.」
+「Elle ne l'était pas. Je pensais qu'il n'était pas là, mais j'ai jeté un coup d'œil à l'intérieur à tout hasard, et... [wait canskip=0 time=100][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,律架01b(全)|j,811,905,1300,65,65,1,1,100,1,1)(700,,n,,,,,,,0,0,,0,) storage=律架01b(全)|j]pff, pff.」
 　Ritsuka se tut sur ces mots.
 　Sur la fin, elle avait vaguement eu l'air de retenir un rire, mais je voulus croire que ce n'était que mon imagination.
 *page2|
@@ -29,7 +29,7 @@
 　Aozaki retenait désespérément son rire.
 *page5|
 　Je n'étais pas en reste, puisque je retenais aussi de toutes mes forces le rire qui montait dans ma gorge.
-　En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait plus le concours de chant télévisé du nouvel an que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
+　En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du nouvel an que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
 *page6|
 ;詠梨ははは笑顔
 「Oh mon dieu ! Moi qui le prenais pour une personne avec la tête sur les épaules.
@@ -68,8 +68,8 @@
 　Comme père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contre-cœur pour être son substitut, et ça se voyait sur son visage.
 *page13|
 ;青子
-「Tu ne poursuis pas, Tobimaru ? C'est bien indécis de ta part.
-　Ta supposition me semble plutôt juste.」
+「Pourquoi tu ne poursuis pas, Tobimaru ? Tu n'as pas l'air sûr de ce que tu avances.
+　Ta supposition me semble plutôt juste, pourtant.」
 ;鳶丸
 「Eh bien, le groupe de l'église ne le connaît pas, mais Kuonji, Kumari, toi et moi, nous connaissons tous plutôt bien M. Yamashiro.
 ;青子、久万梨、そういえばそうね、という顔。
@@ -112,7 +112,7 @@
 　Tout sera réglé si nous les faisons rire. Un humain rit lorsque l'on chatouille ses flancs ou la plante de ses pieds. Du moins, physiquement parlant.」
 *page20|
 ;律架
-「Yu, calme-toi un peu.
+「Yui, calme-toi un peu.
 　Du calme, restons calmes, les amis. Il ne faut pas se battre. C'est ce que veut le coupable, à tous les coups !
 　Réfléchissons-y de manière plus logique. On peut déjà commencer par vérifier les alibis, ou en tout cas, en entreprenant des actions paisibles, physiquement parlant du moins !」
 ;詠梨
@@ -181,7 +181,7 @@
 ;律架
 「Nooon, c'est impossible, je ne peux pas rester calme !
 ;唯架、律架にボディーブロー
-　Monseigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo... [se storage=se05012c volume=100 loop=0][movefg opacity=255 vcenter=1020 time=600 accel=-2 storage=唯架シスター01b(全)|b center=104][wact canskip=0][clall][stopaction][fg storage=金鹿私服01(大)|f2 center=695 vcenter=395 index=1000][fgact page=back props=-storage,center,vcenter,absolute,opacity,-type,-visible keys=(0,0,l,white,512,288,2000,0,13,1)(50,,,,,,,150,,)(150,,,,,,,,,)(200,,n,,,,,0,,) storage=white][fgact page=back props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-effect,-visible keys=(0,0,l,ef07(後方フラッシュ),603,444,1400,0,14.986,,,monoffffff,1)(50,,,,~,~,~,192,~,~,~,,)(200,,,,~,~,~,,~,~,~,,)(400,,n,,725,415,,0,19,180,180,,) storage=ef07(後方フラッシュ)][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|i,425,1077,1500,,75,75,1)(100,,,,543,1047,~,5.93,~,~,)(800,,,,548,1084,~,10.433,,,) storage=律架02a(全)|i][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,唯架シスター01b(全)|b,104,1020,1600,,-77,77,1)(100,,,,156,1008,~,1.103,~,~,)(350,,n,,116,1020,,0,,,) storage=唯架シスター01b(全)|b][se storage=se12071 volume=100 loop=0][se storage=se05096c volume=100 loop=0][shock vmax=15 time=300 count=2][bg rule=crossfade time=200 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][wait canskip=0 time=200][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|k,548,1084,1500,10.433,75,75,1)(1000,,,,583,1162,,11.978,,,) storage=律架02a(全)|k][se storage=se05097 volume=80 loop=0]Ggh !」
+　Mon Seigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo... [se storage=se05012c volume=100 loop=0][movefg opacity=255 vcenter=1020 time=600 accel=-2 storage=唯架シスター01b(全)|b center=104][wact canskip=0][clall][stopaction][fg storage=金鹿私服01(大)|f2 center=695 vcenter=395 index=1000][fgact page=back props=-storage,center,vcenter,absolute,opacity,-type,-visible keys=(0,0,l,white,512,288,2000,0,13,1)(50,,,,,,,150,,)(150,,,,,,,,,)(200,,n,,,,,0,,) storage=white][fgact page=back props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-effect,-visible keys=(0,0,l,ef07(後方フラッシュ),603,444,1400,0,14.986,,,monoffffff,1)(50,,,,~,~,~,192,~,~,~,,)(200,,,,~,~,~,,~,~,~,,)(400,,n,,725,415,,0,19,180,180,,) storage=ef07(後方フラッシュ)][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|i,425,1077,1500,,75,75,1)(100,,,,543,1047,~,5.93,~,~,)(800,,,,548,1084,~,10.433,,,) storage=律架02a(全)|i][fgact page=back props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,唯架シスター01b(全)|b,104,1020,1600,,-77,77,1)(100,,,,156,1008,~,1.103,~,~,)(350,,n,,116,1020,,0,,,) storage=唯架シスター01b(全)|b][se storage=se12071 volume=100 loop=0][se storage=se05096c volume=100 loop=0][shock vmax=15 time=300 count=2][bg rule=crossfade time=200 storage=bg01久遠寺邸03居間-(夜隣明)奥扉開 left=-48 top=-48 noclear=1][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][wait canskip=0 time=200][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,律架02a(全)|k,548,1084,1500,10.433,75,75,1)(1000,,,,583,1162,,11.978,,,) storage=律架02a(全)|k][se storage=se05097 volume=80 loop=0]Ggh !」
 *page33|
 ;青子むう、と思案顔
 「Je ne pensais pas que ce Ploy était aussi absurde.

@@ -14,15 +14,15 @@
 ;SEバン、と居間のドアが開く音。
 ;立ち絵・リデル02d2　か、02c2
 「Hé, la fana des contes de fées, comment oses-tu me mettre à l'écart ?!
-　Si tu veux bien inviter des idiots pareils à ta fête d'anniversaire, pourquoi ne pas avoir convié la plus importante, la super star et super beauté d'Angleterre, la grande Riddell ?!!!」
-　Cent fois plus bruyante que la pluie qui faisait rage dehors,
+　Si tu t'abaisses à inviter des idiots pareils à ta fête d'anniversaire, pourquoi ne pas avoir convié la plus importante, la super star et super beauté d'Angleterre, la grande Riddell ?!!!」
+　Cent fois plus bruyante que l'ouragan qui faisait rage dehors,
 　une femme, incarnation de la tempête, fit son entrée en scène.
 *page2|
 ;画面・場面展開の再表示
 ;画面・居間
 ;リデルの立ち絵、じっくり見せるのもアリ。
 ;鳶丸、うんざり驚き
-「Riddell ?! Aujourd'hui, tu étais censé avoir un concert ailleurs ! Comment tu t'es débrouillée pour rappliquer ici ?!」
+「Riddell ?! Aujourd'hui, tu étais censée avoir un concert ailleurs ! Comment tu t'es débrouillée pour rappliquer ici ?!」
 ;リデル得意げ
 「Pff, c'est évident. J'ai pris l'hélico !
 　Retiens ça, Tobimaru. Contrairement à vous autres, figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
@@ -41,7 +41,7 @@
 　La fille en rose acquiesça d'un air satisfait face à Kuonji, dépitée, et promena enfin son regard autour d'elle.
 *page6|
 ;リデル01i2
-「Bad. On m'explique la présence de tous ces idiots ? Comment les invités pour ton anniversaire ont-ils été sélectionnés ? Tu as même appelé tes ennemis jurés ! Tu es malade à ce point ?
+「Bad. On m'explique la présence de tous ces idiots ? Comment les invités pour ton anniversaire ont-ils été sélectionnés ? Tu as même appelé tes ennemis jurés ! Tu es tombée malade ou quoi ?
 　Toi là, le prêtre. Pour commencer, prosterne-toi devant nous, puis mets-toi à poil et ouvre-toi le ventre tout en te goinfrant de poulet, tu veux ?」
 *page7|
 ;詠梨

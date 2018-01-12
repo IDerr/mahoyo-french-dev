@@ -83,5 +83,5 @@
 *page17|
 　Un objet en forme de hachette s'abattit sur moi.
 ;デッドエンド。
-　L'individu au visage d'ogre me dit ceci tandis que j'agonisais.
+　Telles furent les paroles que m'adressa l'individu au visage d'ogre tandis que j'agonisais.
 *page18|

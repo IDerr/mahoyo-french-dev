@@ -21,9 +21,9 @@
 　Je te dis que je suis venue en hélico ! Je n'ai pas été trempée par la pluie parce que je la repoussais avec un Goblin ! Et pourquoi aurais-je l'intention de tous vous massacrer ?!」
 *page5|
 ;草十郎
-「Eh bien, tu y as déjà pensé, en réalité.」
+「Eh bien, c'est que tu y as déjà pensé, en fait.」
 ;有珠
-「En effet, tu y as vraiment pensé, en réalité.」
+「Effectivement, tu y as vraiment pensé, c'est vrai.」
 *page6|
 ;リデル01h
 「Mais cette histoire n'a rien à voir avec maintenant, enfin ?!

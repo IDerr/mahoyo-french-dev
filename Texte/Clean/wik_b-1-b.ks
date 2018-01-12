@@ -40,10 +40,10 @@
 　En première année, je ne le considérais vaguement que comme un ami d'Aozaki.
 　C'est en deuxième année que je pris petit à petit conscience de mes sentiments.
 　Tsukiji venait souvent me parler. C'était probablement grâce à mon amitié avec Aozaki qu'il me faisait confiance.
-　En rentrant chez moi, après nos conversations, j'étais souvent pris de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
+　En rentrant chez moi, après nos discussions, j'étais souvent pris de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
 *page8|
 　Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
-　Par le plus grand des hasards, on rangeait à deux le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
+　Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
 　On dit que l'amour est aveugle,
 　mais l'être à ce point-là, c'est grave !
 *page9|
@@ -89,7 +89,7 @@
 ;金鹿、頬染めむぅ
 「............」
 　De toute façon, je ne possédais pas de robe ; ce n'est pas comme si mes efforts auraient servi à grand-chose.
-　Je me claquai les joues pour reprendre mes esprits et me comporter comme d'habitude.
+　Je me frappai les joues pour reprendre mes esprits et me comporter comme d'habitude.
 *page18|
 ;時計・午後三時半時
 ;画面・サンルーム
@@ -144,15 +144,15 @@
 *page29|
 　C'était une vieille histoire.
 　Au cours de ma première année, un lycéen avait fumé aux yeux de tous sur le parking de la supérette.
-　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'étais accourue pour l'avertir et lorsque j'avais essayé de l'arroser avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
+　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accourue pour l'avertir, et lorsque j'avais essayé de l'arroser avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
 　Tandis que je m'inclinais avec empressement pour m'excuser, j'avais aperçu dans sa main une cigarette qu'il était justement sur le point d'allumer.
 　La victime en question était ce garçon, Tsukiji Tobimaru.
 *page30|
-「J'aurais jamais cru te revoir dans la salle du conseil étudiant après ça. Je dois être née sous une mauvaise étoile. Mon destin doit vouloir que les filles que j'apprécie m'arrosent ou me cherchent des noises.」
+「J'aurais jamais cru te revoir dans la salle du conseil étudiant après ça. Je dois être né sous une mauvaise étoile. Mon destin doit vouloir que les filles que j'apprécie m'arrosent ou me cherchent des noises.」
 「C'était juste un hasard. Au fait, Tsukiji, depuis quand es-tu là ?」
 *page31|
 「On est arrivés ce matin. Cet abruti de Kinomi était tellement excité que j'ai pas eu le choix.
-　La fête d'anniversaire commence à dix-huit heures. On a encore le temps.
+　La fête d'anniversaire commence à dix-huit heures. On a encore du temps devant nous.
 　Si tu es fatiguée, pourquoi ne pas te reposer dans ta chambre ? Tu es un peu pâle.」
 *page32|
 ;金鹿
@@ -168,7 +168,7 @@
 「Il n'est pas allé faire des courses ?
 　Il m'a dit qu'il n'y avait pas assez de boissons.」
 *page34|
-「Ah bon ? Zut alors, il aurait pu me demander. Je trouve cet aspect de sa personnalité vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire seul.
+「Ah bon ? Zut alors, il aurait pu me le demander. Je trouve cet aspect de sa personnalité vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire seul.
 　Enfin, j'aime bien ça parce qu'il me fait penser à un animal !」
 *page35|
 　Présentons-le de nouveau, cet enfant blond s'appellait Beo.

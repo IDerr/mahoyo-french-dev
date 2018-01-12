@@ -225,12 +225,12 @@
 ;リデル
 [fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,0,,,,,,,3,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,0,,,,,,3,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]「Ne me sous-estimez... pas ! Ggh[se storage=se05012a volume=90 loop=0][shock hmax=10 time=300 count=1]... [l][se storage=se07021 volume=100 loop=0][wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,,,,,,,,-4,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,,,,,,,-4,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]Ce n'est pas un petit arrêt cardiaque, gh[se storage=se05012b volume=90 loop=0][shock hmax=10 time=300 count=1]uuh, [l][wact canskip=0]qui... [se storage=se07021 volume=100 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(700,,,,~,~,~,255,~,~,~,)(800,,,,,1315,,,1.5,,,)(900,,,,~,~,~,,~,~,~,)(1000,,,,,1266,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(800,,,,,1315,,1.5,,,)(1000,,,,,1266,,0,,,) storage=リデル02(全)|d3 id=2]qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storage=se05033 volume=100 loop=0][shock vmax=20 time=300 count=1]me tuer !」[wact canskip=0]
 ;ベオ
-「Ouah... C'est la première fois que je vois un humain endurer un arrêt cardiaque par la seule force de sa volonté... [wait canskip=0 time=400][chgfg storage=ベオ02b(大)|i time=300 textoff=0]On dirait que Riddell ne peut être tuée par une plaisanterie aussi légèreー」
+「Ouah... C'est la première fois que je vois un humain surmonter un arrêt cardiaque par la seule force de sa volonté... [wait canskip=0 time=400][chgfg storage=ベオ02b(大)|i time=300 textoff=0]On dirait que Riddell ne peut être tuée par une plaisanterie aussi légèreー」
 *page37|
 ;草十郎
 「Incroyable ! Tu pourras m'apprendre ton secret ?」
 ;有珠（棒読みの顔）
-「Oui, tu es un vrai mort-vivant. Moi, je croyais en toi, Riddell.」
+「Oui, on aurait cru un vrai mort-vivant. Moi, en tout cas, j'y ai cru, Riddell.」
 ;リデル01d
 「Vo... Vous deux ! Au lieu de me féliciter, vous ne devriez pas plutôt vous excuser ?!
 　D'ailleurs, ce loup-garou aurait mieux convenu pour un test, vous ne croyez pas ?![r]

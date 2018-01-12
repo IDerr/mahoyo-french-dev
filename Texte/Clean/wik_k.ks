@@ -10,7 +10,7 @@
 *page2|
 　On présumait que l'heure du décès de M. Tokitsu pouvait être n'importe quand entre une et six heures de l'après-midi.
 　Et celle de M. Yamashiro entre quatre et huit heures.
-　Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer dans une plage d'une heure comprise entre quatre et six heures.
+　Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.
 *page3|
 　Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, père Eiri et sœur Yuika.
 　En ce qui concernait le meurtre de M. Yamashiro, Tsukiji et moi avions également un alibi parfait. À cette heure-ci, nous étions tous les deux dans le salon.

@@ -19,7 +19,7 @@
 ;木乃美
 「Je regarderai pas, compris ? Hors de question !」
 ;有珠
-「Ce que Tokkii peut être splendide. Même sa façon de mourir évoque un festival.」
+「Tokkii est vraiment incroyable. Même sa façon de mourir évoque un festival.」
 ;ベオ
 「Je veux manger des brochettes !」
 ;金鹿
@@ -47,8 +47,8 @@
 　Comme Housuke s'était enfui, je me retrouvai avec Tsukiji.
 *page7|
 ;槻司
-「―――La cause de sa mort est assez incroyable.
-　Une explosion ? À quoi pouvait bien penser le meurtrier ?」
+「―――La cause de sa mort est plutôt surprenante.
+　Une explosion ? Qu'est-ce que le meurtrier avait derrière la tête ?」
 ;金鹿、ちょっとびっくり
 　Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'un meurtre.
 *page8|

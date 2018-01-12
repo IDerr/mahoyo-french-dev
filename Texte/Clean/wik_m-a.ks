@@ -14,7 +14,7 @@
 ;リデル01a2　お澄まし顔。けなげなが努力が痛々しい感じで//
 「Tobimaru, parlons de choses positives, j'ai dit.」
 ;鳶丸はあ、と頭を抱える
-「... D'accord. J'ai bien compris que tu étais innocente. D'ailleurs, si tu étais Sweets Hearts malgré tout ça, tu ferais tellement pitié que je ne pourrais plus te regarder en face.」
+「... D'accord. J'ai bien compris que tu étais innocente. Et puis, tu me fais tellement pitié que je ne pourrai plus jamais te regarder en face, même si tu étais quand même Sweet Hearts.」
 *page3|
 ;リデル01d
 「Évidemment que je suis innocente ! Je n'arrête pas de vous dire que je n'ai rien à voir avec cette histoire !

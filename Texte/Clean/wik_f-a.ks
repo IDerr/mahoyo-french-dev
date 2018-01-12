@@ -8,7 +8,7 @@
 *page1|
 ;鳶丸
 「L'orage ne fait qu'empirer.
-　Ça m'étonnerait pas qu'un éboulement de terrain se produise à ce rythme. Si ça arrive, on sera vraiment isolés.」
+　Ça m'étonnerait pas qu'un éboulement de terrain se produise à ce rythme. Si jamais ça arrive, on sera vraiment isolés.」
 *page2|
 ;木乃美
 「Quoi ? Sérieux ?! La chance ! Du coup, on passera la nuit ici ! Ça doit être mon jour de chance ! Puis-je me porter volontaire pour réconforter Alice quand elle sera effrayée ?!」
@@ -77,9 +77,9 @@
 　Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous ! [wait canskip=0 time=200][chgfg storage=律架02a(全)|d zoom=80 time=400 textoff=0]Du moins, ça serait bien !」
 *page14|
 ;木乃美
-「Hein ?! C'était ce genre d'évènement ?!」
+「Hein ?! C'est ce genre de truc qui est en train de nous arriver ?!」
 ;律架
-「Tout à fait, Housuke. C'est ce genre d'évènement !
+「Tout à fait, Housuke. C'est là-dedans qu'on est embarqués !
 　La moindre négligence te vaudra un coup de poignard dans le dos !
 　Allez ! Qui veut présenter son hypothèse ?」
 *page15|
@@ -118,7 +118,7 @@
 　Mais attendez...... Je me souviens ! Le vieux a murmuré un truc du genre “c'est l'heure” après avoir regardé l'horloge, puis il a quitté le salon.」
 *page22|
 　Malgré les apparences, Housuke avait une excellente mémoire.
-　Même si elle n'était effective qu'en dehors des études, dans des domaines principalement inutiles.
+　Même si elle n'était effective qu'en dehors des études, dans des domaines relativement inutiles.
 　Finalement, il fut admis que Housuke était la dernière personne à avoir vu M. Tokitsu.
 *page23|
 ;詠梨
@@ -133,7 +133,7 @@
 「Alice ne s'est déplacée que pour accueillir le groupe d'Eiri. Son alibi est parfait.」
 *page26|
 ;詠梨
-「En recoupant les témoignages avec plus de précision, on pourrait déduire des heures d'absence plus précises, mais ça n'aura sûrement pas vraiment d'intérêt. Trop de monde remplit les conditions exigées pour être le coupable.
+「En recoupant les témoignages avec plus de précision, on pourrait déduire des heures d'absence plus précises, mais ça n'aura sûrement pas vraiment d'intérêt. Trop de monde remplit les conditions nécessaires pour être le coupable.
 　Au lieu de l'alibi, parlons donc plutôt du mobile ou de l'arme du crime.」
 *page27|
 ;鳶丸
