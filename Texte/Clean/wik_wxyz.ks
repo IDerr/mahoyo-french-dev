@@ -2,7 +2,7 @@
 ;■Ｗ、Ｘ、Ｚ
 　―――Zut, je n'arrive pas à mettre de l'ordre dans mes idées !
 　Je ne vais pas pouvoir identifier le coupable.
-　De toute façon, c'est plus un duel d'endurance que d'intelligence. Je dois m'enfuir !
+　De toute façon, c'est davantage un duel d'endurance que d'intelligence. Je dois m'enfuir !
 *page1|
 ;画面、とにかく走る久万梨。
 ;ここからの展開はＵ－１とほぼ同じ。なのでスクリプトはコピペで。

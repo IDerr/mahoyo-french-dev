@@ -40,9 +40,9 @@
 　Deux par groupe, deux cœurs, un corps.
 　Sweets Hearts, le Ploy Kickshaw de la prière shinto.
 　Aah, quel nom bien trouvé.
-　Si Sweets désignait le pudding, alors qu'est-ce que Hearts représentait ?
+　Si Sweets désignait le flan, alors qu'est-ce que Hearts représentait ?
 *page8|
-「L'humain. Il y avait plusieurs ennemis―――!」 
+「L'humain qui le mange. Il y avait plusieurs coupables―――!」 
 　Dans ce cas, il y avait deux Sweets Hearts.
 ;犯人と別人Ａは別人、に強調//
 　L'exécuteur et l'individu A étaient deux personnes différentes...!

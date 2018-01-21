@@ -91,7 +91,7 @@
 ;青子
 「Yuika est morte pétrifiéeーーー?!」
 ;有珠
-「C'est tragique. Comme elle perçoit la moitié du monde grâce à son ouïe, elle a pu se faire une image très précise des propos de Shizuki.」
+「C'est tragique. Comme elle perçoit le monde à moitié grâce à son ouïe, elle a pu se faire une image très fidèle des propos de Shizuki.」
 ;槻司
 「... Je suis curieux de savoir quelle sorte de relation orageuse elle entretenait habituellement avec le prêtre, mais en tout cas, ça nous fait sept victimes. Notre nombre a diminué d'un seul coup.」
 *page17|

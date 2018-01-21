@@ -90,7 +90,7 @@
 ;鳶丸、意外顔から、嬉し困り笑顔
 「Mais dans notre cas, c'est précisément un problème. [wait canskip=0 time=400][chgfg storage=鳶丸私服b01(全)|e zoom=80 time=400]Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
 ;金鹿ちょっと残念
-「... C'est vrai. Il vaut mieux les soupçonner un tantinet.」
+「... C'est vrai. Il vaut mieux rester un peu méfiant.」
 *page19|
 ;鳶丸
 「T'as tout compris. Dans cette affaire, celui en qui tu dois avoir le moins confiance, c'est toi-même. Si tu n'as pas un partenaire qui t'observe constamment avec objectivité, tu ne peux pas prouver ton innocence.
@@ -99,13 +99,13 @@
 *page20|
 　En laissant de côté Riddell...
 ;金鹿
-「Alors selon toi, qui paraît le plus suspect ?」
+「Alors, qui est le plus suspect à tes yeux ?」
 *page21|
 「Tout le monde l'est. Et puisqu'on parle de choses suspectes, j'ai encore des doutes sur la véritable identité du cadavre du vieux Tokitsu.
 　Je pense aussi qu'Aozaki s'est fait piéger par le vrai coupable lorsqu'elle a voulu cacher ce qu'il s'est passé dans sa chambre. Le plan du coupable consistait peut-être à neutraliser dès le début son plus redoutable adversaire.」
 *page22|
 「Aozaki s'est fait piéger ?」
-「Ouais. De fait, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
+「Ouais. On sait tous que cette fille est une véritable boule de nerfs, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
 　Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état, [wait canskip=0 time=400][chgfg storage=鳶丸私服b02(大)|a2 time=300]tu t'en rappelles ?」
 *page23|
 　... Je...

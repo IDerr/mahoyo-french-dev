@@ -63,7 +63,7 @@
 　Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est doué pour mettre de l'ambiance.」
 *page11|
 ;木乃美
-「Oh ! Compte sur moi ! J'ai appris plein de nouvelles histoires pour ne pas trahir vos attentes ! J'ai des histoires de fantômes comme des mimes à foison, je risque pas d'être à court !」
+「Oh ! Compte sur moi ! J'ai appris plein de nouvelles histoires pour ne pas trahir vos attentes ! Avec toutes les histoires de fantômes et tous les mimes que j'ai en réserve, je risque pas d'être à court !」
 *page12|
 ;久万梨
 「Une oie aurait amplement suffi à le remplacer pour mettre de l'ambiance.[r]
