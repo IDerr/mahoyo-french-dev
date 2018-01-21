@@ -20,7 +20,7 @@
 *page3|
 「C'est un peu léger de n'avoir que ça comme preuve, mais bon...」
 　J'avais l'impression d'avoir un ou deux autres éléments en main, mais pour le moment, mon cerveau ne fonctionnait pas comme je le voulais.
-　Il fallait que je trouve rapidement Shizuki avant le matin, le trouver et―――
+　Il fallait absolument que je trouve Shizuki avant le matin. Et quand je l'aurais trouvé―――
 ;SEかたり、と足音。ＢＧＭ止める。
 　Dans mon dos. Je sentis. La présence. De quelqu'un.
 *page4|
