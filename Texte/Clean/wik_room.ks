@@ -4,7 +4,7 @@
 ;二階廊下
 ;青子01Aa2　ちょっと意外そうに
 「Tiens ?」
-　Dans le couloir, je croisai Aozaki. 
+　Dans le couloir, je croisai Aozaki.
 　Elle venait apparemment du fond du couloir et se dirigeait vers le hall.
 *page1|
 「Toi aussi, tu prends une pause ? C'est ta chambre au fond ?」

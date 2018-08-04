@@ -5,7 +5,7 @@
 　Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.
 *page1|
 　Étant Sweets Hearts, je ne pouvais pas me rappeler des choses qui me paraissaient dérangeantes.
-   Dans ce cas, je devais voir les choses de façon objective. 
+   Dans ce cas, je devais voir les choses de façon objective.
 　Le jour de la fête, qui avait activé le Ploy Kickshaw ?
 *page2|
 　La réponse était “personne”.

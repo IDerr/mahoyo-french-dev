@@ -48,7 +48,7 @@
 「À plus. On se verra dans le vestibule, au matin.」
 *page10|
 　Puis, la chambre fut soudain plongée dans le silence.
-　Le cœur gros sans savoir pourquoi, 
+　Le cœur gros sans savoir pourquoi,
 “Malgré tout―――”
 “Pas pour toi ?”
 　je repensais aux paroles de Tsukiji.
