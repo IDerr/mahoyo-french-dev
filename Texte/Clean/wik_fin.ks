@@ -23,7 +23,7 @@
 　Je baissai les yeux par hasard et trouvai la page d'un mémo à côté d'une sorte de coquille d'œuf.
 　Une phrase avait été écrite au crayon rose sur le papier.
 *page5|
-　   　     “Qu'y a-t-il de mal à vivre par amour ?”
+　　　　　“Qu'y a-t-il de mal à vivre par amour ?”
 *page6|
 「Ah.」
 　Pas étonnant de la part d'un cerveau bourré au sucre. J'aurais encore préféré mourir.
