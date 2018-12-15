@@ -1,1 +1,2 @@
-*.gc diff utf16
+*.gc diff=utf16
+*.ks diff=utf16
