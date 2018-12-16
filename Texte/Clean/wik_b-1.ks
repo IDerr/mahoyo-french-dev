@@ -8,3 +8,4 @@
 　Le couloir du rez-de-chaussée dans l'aile est était plutôt sombre.
 ;Ｂ－１－ｂへ
 　Le bruit de conversations enjouées filtrait depuis la porte devant nous.
+*page77|
