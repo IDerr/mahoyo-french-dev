@@ -45,7 +45,7 @@
 「Hé oh ! Est-ce que quelqu'un est en vie ?」
 　J'élevai la voix en direction de l'aile ouest, mais je n'obtins aucune réponse.
 　Aaah, c'était bien ce que j'avais pressenti.
-　Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du quartier Misaki.
+　Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du vieux quartier de Misaki.
 *page8|
 ;画面・黒
 ;SE地下室へ下りる久万梨。かつん、かつん、と足音//

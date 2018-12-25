@@ -60,7 +60,7 @@
 「On dirait bien. Moi, c'était Shizuki.」
 *page13|
 　Ritsuka était la sœur aînée de sœur Yuika, et techniquement parlant, elle ne faisait pas partie de l'Église.
-　C'était une résidente parfaitement banale du quartier Misaki que je croisais tous les deux jours dans le quartier marchand.
+　C'était une résidente parfaitement banale du vieux quartier de Misaki que je croisais tous les deux jours dans le quartier marchand.
 *page14|
 「Au fait, Ritsuka. Il s'est mis à pleuvoir ?」
 ;律架
