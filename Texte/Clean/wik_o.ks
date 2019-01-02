@@ -21,13 +21,13 @@
 　En effet, elle n'était qu'un intrus et pas une invitée officielle.
 *page3|
 ;鳶丸
-「Je vois. Riddell n'a pas été invitée. On ne peut pas la compter parmi les convives, donc au final, ça fait douze personnes.」
+「Je vois. Riddell n'a pas été invitée. On ne peut pas la compter parmi les convives, donc en réalité, ça ne fait que douze personnes.」
 ;金鹿
 「Peux-tu nous expliquer ce que cela veut dire, Kuonji ?」
 *page4|
 ;有珠、意外
 「... Hmm. Je n'y avais pas fait attention. Aoko, Shizuki et moi avons envoyé nos invitations séparément.
-　Au final, j'ai cru comprendre qu'on avait envoyé neuf lettres au total. Moi et Tokkii étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors au total, ça faisait treize personnes.
+　J'ai cru comprendre qu'on avait finalement envoyé neuf lettres au total. Tokkii et moi étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors cela faisait un compte de treize personnes.
 　Soit dit en passant, j'ai envoyé mes invitations à [movepartbg opacity=255 srcleft=436 srctop=177 vcenter=271 time=400 accel=0 storage=black center=220 id=pb6 textoff=0]Ritsuka et [wact canskip=0][movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Beo.」[wact canskip=0]
 *page5|
 ;青子

@@ -53,8 +53,8 @@
 「Hein ? C'est quoi cette histoire d'équipe ?」
 *page10|
 ;リデル02f
-「C'est un Survival Game. La probabilité de gagner augmente en participant avec deux esprits ne faisant qu'un, en gros en formant des groupes de deux.
-　Au final, il est clair que la recherche laborieuse du coupable sera vite abandonnée pour l'approche consistant à faire rire les autres de force. Et n'importe qui voudrait survivre jusqu'à la fin.」
+「C'est un “Survival Game”. La probabilité de gagner augmente en participant avec deux esprits ne faisant qu'un, en gros en formant des groupes de deux.
+　Après tout, il est clair que la recherche laborieuse du coupable sera vite abandonnée pour l'approche consistant à faire rire les autres de force. Et n'importe qui voudrait survivre jusqu'à la fin.」
 *page11|
 ;リデル02e
 「Sur ce point, Alice et moi sommes imbattables. Alice ne rit pas, et moi, je peux me charger de faire rire les autres.
