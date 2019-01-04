@@ -9,7 +9,7 @@
 　Si ce mystère n'était pas résolu, nous ne pourrions pas retourner dans nos chambres en toute tranquillité.
 *page2|
 「Déjà, déplaçons la statue de Yuika dans un coin de la pièce. [l][fgact page=fore props=-storage,center,vcenter,-visible keys=(0,0,l,草十郎私服04(中)|h,487,527,1)(350,,,,505,,)(650,,,,491,,)(1300,,n,草十郎私服04(中)|c2,498,,) storage=草十郎私服04(中)|h exchg=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,-visible keys=(0,0,l,唯架シスター石化02(中),639,544,1300,,1)(350,,,,,,,,)(650,,,,625,,,2.426,)(1300,,n,,632,,,0,) storage=唯架シスター石化02(中)][wait canskip=0 time=450][se storage=se06002 volume=100 loop=0][wact canskip=0][wact canskip=0]Tiens ? C'est lourd. Vous êtes vraiment lourde, Yuika. [l][chgfg storage=草十郎私服04(中)|c time=300]Tobimaru, aide-moi.」
-「Ok, je prends le derrière... [l][chgfg storage=鳶丸私服b01(中)|d2 time=300]Hum, comme son apparence le laisse penser, elle a de belles formes.
+「OK, je prends le derrière... [l][chgfg storage=鳶丸私服b01(中)|d2 time=300]Hum, comme son apparence le laisse penser, elle a de belles formes.
 　Il doit y avoir des tas de types qui vont à l'église juste pour voir cette sœur.」
 *page3|
 　Malgré la situation, Shizuki et Tsukiji s'entendaient à merveille.[sestop time=1500 nowait=1 storage=se06009a]

@@ -111,7 +111,7 @@
 ;草十郎
 「Tu devrais trouver une théière encore chaude sur la table de la véranda.」
 ;鳶丸
-「Ok. Je vais la chercher.」
+「OK. Je vais la chercher.」
 　C'était sûrement dans l'intention de se changer les idées.
 　Tsukiji se dirigea spontanément vers la véranda.
 *page19|

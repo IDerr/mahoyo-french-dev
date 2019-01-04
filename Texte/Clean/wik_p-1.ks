@@ -22,7 +22,7 @@
 　mais ma vie lycéenne avec Aozaki n'était pas assez superficielle pour que je me taise maintenant pour le bien de ma pauvre petite personne.
 *page5|
 ;青子、照れ顔で仕方ない
-「... Ok, compris.
+「... OK, compris.
 　Mais ne t'éloigne pas de moi quoi qu'il arrive.
 　Ça te convient aussi, Eiri ?」
 ;詠梨
