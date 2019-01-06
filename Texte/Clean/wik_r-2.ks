@@ -31,7 +31,7 @@
 *page5|
 ;画面・時計で二時。客室、夜。
 ;金鹿、やや照れ戸惑い
-　Mais y repensant, les choses avaient pris une drôle de tournure.
+　Mais en y repensant, les choses avaient pris une drôle de tournure.
 *page6|
 　Il était à peu près deux heures du matin, une heure où même la flore dormait.
 　Une tempête infernale se déchaînait de l'autre côté des volets fermés.

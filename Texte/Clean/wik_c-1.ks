@@ -3,7 +3,7 @@
 　...... J'entrepris de me lancer à sa poursuite.
 　Envahie d'une sensation sinistre, je partis à la recherche de la source du regard.[l][r]
 ;画面・裏庭・曇り
-　Après un rapide tour du manoir je me retrouvai face à un petit bois.
+　Après un rapide tour du manoir, je me retrouvai face à un petit bois.
 　Il était un peu mieux entretenu que la forêt qui camouflait l'édifice.
 　Plus loin,
 ;立ち絵。橙子、眼鏡なし

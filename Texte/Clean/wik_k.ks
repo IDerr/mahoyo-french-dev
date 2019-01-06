@@ -29,7 +29,7 @@
 　Selon ce cas de figure, ce jeu devait être classifié parmi les crimes fortuits.
 　En d'autres termes, il s'agissait d'une tragédie qui se serait produite à cause d'une malheureuse succession de hasards.
 *page6|
-　Au contraire, si on était au courant pour le Ploy avant l'incident et on pouvait l'utiliser n'importe quand, alors il s'agissait d'un crime calculé.
+　Au contraire, si on était au courant pour le Ploy avant l'incident et si on pouvait l'utiliser n'importe quand, alors il s'agissait d'un crime calculé.
 　Dans ce cas, il était inutile de déterminer le moment où le Ploy avait été trouvé.
 　En effet, l'individu A aurait alors déjà échangé de place avec le Ploy, et il lui suffisait ensuite de tranquillement activer les règles lorsque tout le monde serait réuni.
 　Pour le moment, cette possibilité était la plus probable.
@@ -50,7 +50,7 @@
 　On parle seulement de possibilités, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
 　Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
 *page10|
-「... Mon innocence et celle de père Eiri ont pourtant été établies ?」
+「... Mon innocence et celle de père Eiri ont pourtant été établies, non ?」
 ;青子にやり
 「Les détails de votre venue à la résidence sont inconnus, si je ne m'abuse ?
 　Alice est venue vous accueillir parce qu'elle a entendu vos voix, pas vrai ? Personne ne peut certifier où vous étiez avant ça.」
@@ -61,9 +61,9 @@
 「Ritsuka. Tu es de quel côté ?」
 *page12|
 ;律架02Be2
-「Je suis l'alliée de la logique ! Je jure sur mon honneur de fan que je ne couvrirai personne !
+「Je suis l'alliée de la logique ! Je jure sur mon honneur de fan de polars que je ne couvrirai personne !
 ;律架02Ab
-Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」
+　Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」
 *page13|
 　Des étincelles jaillissaient entre la sœur et Aozaki, silencieuses.
 　Ces deux-là s'étaient probablement toujours mal entendues.

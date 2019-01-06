@@ -18,7 +18,7 @@
 *page4|
 ;SE、ごそごそと荷物整理する久万梨。
 　Je n'avais pas de pyjama et je n'avais de toute façon pas l'intention de me changer.
-　Toute habillée, je me défis de mon passe et de mon portefeuille que je sortit de mes poches et me faufilai dans le lit.
+　Toute habillée, je me défis de mon passe et de mon portefeuille que je sortis de mes poches et me faufilai dans le lit.
 *page5|
 ;画面暗転
 　Je n'étais pas comme Tsukiji, mais à peine eus-je fermé les yeux que ma conscience sombra dans les ténèbres.

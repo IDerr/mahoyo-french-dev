@@ -2,7 +2,7 @@
 ;画面・洋館外観・嵐、あたりを見せて導入してもいいかもしんない//
 ;画面・時計、20時
 ;画面・二階廊下・夜
-　La recherche de M. Yamashiro commença à l'unanimité.
+　La recherche de M. Yamashiro fut décidée à l'unanimité.
 　Nous nous séparâmes pour fouiller le manoir, et quelques minutes plus tard, Ritsuka, en charge des chambres d'ami du premier étage, appela tout le monde.
 *page1|
 ;青子
@@ -126,7 +126,7 @@
 　On connaît ses règles, mais on n'a aucune idée de ce à quoi il ressemble.」
 *page22|
 ;有珠
-「C'est vrai, je n'avais pas expliqué le plus important.
+「C'est vrai, je n'ai pas expliqué le plus important.
 　Sweets Hearts est un pudding ovoïde. Il ressemble à un œuf à la coque posé sur une couronne inversée.」
 *page23|
 ;リデル以外、全員、はあ？という顔
@@ -156,7 +156,7 @@
 「Aaah ! Quel puzzle logique fabuleux !
 　J'adore ça ! Vraiment, j'adore ça !」
 ;唯架
-「... On dit qu'un espion de premier ordre s'hypnose afin d'oublier qu'il est un espion... Voilà qui est fâcheux.」
+「... On dit qu'un espion de premier ordre s'hypnotise afin d'oublier qu'il est un espion... Voilà qui est fâcheux.」
 ;詠梨
 「Non, c'est bizarre. Le coupable a clairement l'intention de nous faire rire, non ? Or, s'il n'en a pas conscience, c'est un peu...」
 *page29|

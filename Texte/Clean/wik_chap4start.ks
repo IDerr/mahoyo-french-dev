@@ -37,7 +37,7 @@
 「... Quoi ? Qu'est-ce que tu veux dire par là, Ritsuka ?」
 「Que tu n'as plus besoin de jouer la comédie.
 　Échec et mat, ma petite Ako. J'ignore totalement pourquoi tu as commis ces crimes, mais les preuves matérielles sont incontestables.
-　Je ne peux pas encore être catégorique, mais il y a huit à neuf chances sur dix que tu es la meilleure candidate pour le rôle de Sweets Hearts !」
+　Je ne peux pas encore être catégorique, mais il y a huit à neuf chances sur dix pour que tu sois la meilleure candidate pour le rôle de Sweets Hearts !」
 *page8|
 ;鳶丸、金鹿、有珠、草十郎、びっくり
 ;青子びっくりから、あわて

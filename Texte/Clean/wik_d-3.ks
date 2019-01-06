@@ -38,9 +38,9 @@
 　―――Pendant la descente,
 　une autre légende que l'on racontait aux enfants me revint en mémoire.
 *page8|
-　　　　　『Prends garde lorsque tu descends seul de la montagne,
+『Prends garde lorsque tu descends seul de la montagne,
 ;赤フォントで
-　　　　　　car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
+　car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
 *page9|
 　Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes solitaires qui cherchaient à vivre à l'écart des autres.
 　Il ne les attaquait pas pour les manger, mais pour les tuer, ce qui rendait le personnage plus humain et avait marqué mon esprit.

@@ -15,7 +15,7 @@
 ;唯架
 「... Tu ne les as pas croisés en chemin ?」
 ;青子心配
-「Pas du tout. Ils avaient l'air préoccupés par la forêt lorsqu'on est sortis, mais... [wait canskip=0 time=400][chgfg storage=青子私服a02a(大)|i2 time=400]ils sont quand même pas entrés dans les bois par ce temps...」
+「Pas du tout. Ils avaient l'air préoccupés par la forêt lorsqu'on est sortis, mais... [wait canskip=0 time=400][chgfg storage=青子私服a02a(大)|i2 time=400]ils sont quand même pas entrés dans les bois par ce temps...?」
 　Aozaki et sœur Yuika se regardèrent d'un air inquiet.
 　C'est alors que...
 *page4|
@@ -91,7 +91,7 @@
 ;青子
 「Yuika est morte pétrifiéeーーー?!」
 ;有珠
-「C'est tragique. Comme elle perçoit le monde à moitié grâce à son ouïe, elle a pu se faire une image très fidèle des propos de Shizuki.」
+「C'est tragique. Comme elle perçoit la moitié du monde grâce à son ouïe, elle a pu se faire une image très précise des propos de Shizuki.」
 ;槻司
 「... Je suis curieux de savoir quelle sorte de relation orageuse elle entretenait habituellement avec le prêtre, mais en tout cas, ça nous fait sept victimes. Notre nombre a diminué d'un seul coup.」
 *page17|

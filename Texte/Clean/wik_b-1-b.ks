@@ -15,7 +15,7 @@
 *page3|
 ;立ち絵・鳶丸
 　Et enfin, le vice-président.
-　À bien y réfléchir, compte tenu de ses liens d'amitié avec Aozaki et Shizuki, sans oublier qu'il était le fils d'une famille notable de la ville, son absence aurait été plutôt surprenante.
+　À bien y réfléchir, compte tenu de ses liens d'amitié avec Aozaki et Shizuki, sans oublier qu'il était le fils d'une famille éminente de la ville, son absence aurait été plutôt surprenante.
 　...... Cela aurait été surprenant, oui, mais tout de même...
 *page4|
 ;画面、切り返し早く廊下に戻し、青子と金鹿の立ち絵。
@@ -116,7 +116,7 @@
 *page23|
 ;駒鳥
 『Ha ha ha, alors ces abrutis sont du niveau d'c't idiot d'oiseau qui n'fait qu'tambouriner sur les arbres ou bavarder ! Alice n'a pas reconnu le petit Sou comme un oiseau, j'imagine donc que vous z'avez un rang plus élevé.
-　Mais bon, vous restez des oisillons comparé à moi qui risque toujours mes plumes !』
+　Mais bon, vous restez des oisillons comparés à moi qui risque toujours mes plumes !』
 *page24|
 ;画面・サンルームに。駒鳥を憮然とした顔で見る金鹿
 「...... C'est quoi cet oiseau grassouillet ?」

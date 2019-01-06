@@ -59,7 +59,7 @@
 ;画面・ロビーの上の方にゆっくりパンさせていく//
 「Ouah, si c'est pas Kojika ?! T'as aussi été invitée ?!
 　Tu connais Alice ?!」
-「Évidemment. Ça devait forcément arriver, en étant amie avec Aozaki. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k type=13 zoom=60 partbgid=pb2 time=400]Bref, calme-toi un peu, Housuke. Tu n'as vraiment pas changé depuis que tu es un gamin.」
+「Évidemment. Ça devait forcément arriver, en étant amie avec Aozaki. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k type=13 zoom=60 partbgid=pb2 time=400]Bref, calme-toi un peu, Housuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
 *page13|
 「Oooh. On voit que vous êtes amis d'enfance. Vous vous entendez bien.
 　Continue comme ça et discipline Kinomi, Kumari. Pour les gens autour de lui, et surtout pour lui-même.」
@@ -73,7 +73,7 @@
 　Les voix familières et joyeuses se retirèrent vers le hall.
 　Les grains de la coquille dispersés par la brise passèrent à travers la lucarne et disparurent comme grillés par le soleil.
 “Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
-　Cette voix voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.
+　Cette voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.
 *page17|
 　Ainsi se termina la Rhapsody.
 　La jeune fille avait esquissé un sourire en choisissant d'agir à sa façon, mais en fin de compte, cette décision diffère pour chaque personne.

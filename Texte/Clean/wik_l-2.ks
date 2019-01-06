@@ -54,7 +54,7 @@
 　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
-　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans un palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
+　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
 *page13|
 『T'es chiant ! Sérieusement, arrête de pleurer de joie ! C'est pour l'argent ! Et c'est tout ! Je me fous complètement du showbiz !
 　Si tu as compris, fais-le dans les dix minutes ! Je veux le nouveau prototype super cool ! Si tu m'envoies un Apache de merde, je romps toute relation entre nous, alors tu ferais mieux de te grouiller !』

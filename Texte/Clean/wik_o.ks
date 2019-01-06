@@ -27,7 +27,7 @@
 *page4|
 ;有珠、意外
 「... Hmm. Je n'y avais pas fait attention. Aoko, Shizuki et moi avons envoyé nos invitations séparément.
-　J'ai cru comprendre qu'on avait finalement envoyé neuf lettres au total. Tokkii et moi étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors cela faisait un compte de treize personnes.
+　J'ai cru comprendre qu'on avait finalement envoyé neuf lettres au total. Tokkii et moi étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors cela faisait un total de treize personnes.
 　Soit dit en passant, j'ai envoyé mes invitations à [movepartbg opacity=255 srcleft=436 srctop=177 vcenter=271 time=400 accel=0 storage=black center=220 id=pb6 textoff=0]Ritsuka et [wact canskip=0][movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Beo.」[wact canskip=0]
 *page5|
 ;青子
@@ -78,7 +78,7 @@
 *page12|
 　Après ce discours, la situation changea du tout au tout.
 　J'ignorais qu'Aozaki avait une grande sœur, mais ce n'était pas le moment de me renseigner à ce propos.
-　Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostilité envers toutes les personnes ici présentes.
+　Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostile envers toutes les personnes ici présentes.
 *page13|
 ;唯架
 「Aozaki Touko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.

@@ -37,7 +37,7 @@
 　Alors, mortifiée ? Tu es mortifiée, pas vrai ? Cette surprise doit dépasser tous tes rêves les plus fous, avoue ! Je te permets de te réjouir sans retenue !」
 *page5|
 　... Incroyable.
-　Effectivement, même dans mes rêves les plus fous, je n'aurais jamais imaginé voir cette inexpressive de Kuonji afficher l'expression d'ennui profond qu'elle affichait à présent.
+　Effectivement, même dans mes rêves les plus fous, je n'aurais jamais imaginé voir cette inexpressive de Kuonji afficher l'expression d'ennui profond qu'elle arborait à présent.
 　La fille en rose acquiesça d'un air satisfait face à Kuonji, dépitée, et promena enfin son regard autour d'elle.
 *page6|
 ;リデル01i2

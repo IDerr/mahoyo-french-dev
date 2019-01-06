@@ -94,7 +94,7 @@
 ;草十郎
 「Puisque c'est comme ça, je vais directement aller les chercher.」
 ;詠梨
-「Non, attendez. Il serait déconseillé de se déplacer seul. Regardez dehors.」
+「Non, attendez. Il serait malavisé de se déplacer seul. Regardez dehors.」
 *page16|
 　Le prêtre désigna la lucarne.
 ;演出、落雷

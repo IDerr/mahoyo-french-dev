@@ -215,7 +215,7 @@
 「La mort de Riddell était plutôt normale.
 　La connaissant, j'aurais cru qu'elle se transformerait en avion ou en yacht.」
 ;駒鳥
-『Tu l'as dit ! J'reconnais bien là Ma'mzelle Riddell, on ne peut vraiment pas se fier à son apparence ! Sa mort subite en vomissant du sang était d'un ringard. Même le petit Kinomi a fait mieux. C'est pour ça que les menus fretins sont irrécupérables !』
+『Tu l'as dit ! J'reconnais bien là Mam'zelle Riddell, on ne peut vraiment pas se fier à son apparence ! Sa mort subite en vomissant du sang était d'un ringard. Même le petit Kinomi a fait mieux. C'est pour ça que les menus fretins sont irrécupérables !』
 *page35|
 ;リデル、怒り顔で立ち上がる
 「Qu... [wait canskip=0 time=400]Qui [wait canskip=0 time=300]traites-tu de [wait canskip=0 time=400][se storage=se11036 volume=100 loop=0][se storage=se01091 volume=100 loop=0][se storage=se01062 volume=100 loop=0][se storage=se12052 volume=100 loop=0][shock vmax=20 time=300 count=2]menu fretiiin !」[l][wact canskip=0][wact canskip=0][r]

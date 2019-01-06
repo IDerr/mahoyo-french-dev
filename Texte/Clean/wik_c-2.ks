@@ -7,3 +7,4 @@
 　De retour au vestibule―――j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
 ;Ｂ－１－ａへ合流
 　Je réajustai le sac sur mon épaule et partis vers le salon.
+*page76|

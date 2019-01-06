@@ -22,7 +22,7 @@
 *page4|
 　Au-dessus de la véranda se trouvait justement la chambre d'Aozaki.
 　Et si quelqu'un avait demandé à Beo de vérifier cette pièce depuis l'extérieur ?
-　Ainsi, Beo avait fini par voir à l'intérieur cette chambre depuis la fenêtre.
+　Ainsi, Beo avait fini par voir à l'intérieur de cette chambre depuis la fenêtre.
 　Et donc, la silhouette d'Aozaki Touko ivre morte.
 *page5|
 　Beo avait l'air de connaître Aozaki Touko. [l][movepartbg opacity=255 srcleft=0 srctop=113.5 vcenter=288 time=800 accel=0 storage=ev1403橙子笑死 center=267][movefg opacity=255 vcenter=1271 time=700 accel=-2 storage=橙子01a(全) center=885][wact canskip=0][wact canskip=0]Si l'on voyait une connaissance dans cet état, il y avait une forte probabilité de rire involontairement.

@@ -15,7 +15,7 @@
 *page3|
 　Parmi les membres restants, Aozaki était la plus suspecte.
 　La laisser agir seule pouvait se révéler mauvais sur bien des points.
-　Si elle était le véritable coupable, ce soi-disant Sweets Hearts, alors nos vies étaient en danger, et si ce n'était pas le cas, elle pourrait être suspectée par la suite.
+　Si elle était le véritable coupable, ce soi-disant Sweets Hearts, alors nos vies seraient en danger, et si ce n'était pas le cas, elle pourrait être suspectée à tort par la suite.
 *page4|
 　De toute évidence, il était dangereux d'aller à l'extérieur,
 　et la possibilité d'être seule avec Tobimaru me tentait,

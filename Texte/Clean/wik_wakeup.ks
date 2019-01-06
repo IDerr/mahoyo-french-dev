@@ -56,7 +56,7 @@
 　Vous avez aussi été invitée à la fête ?」
 「Oui, la petite Al a eu la gentillesse de le faire.
 　Apparemment, Eiri et Yui ont reçu une invitation de la part d'Ako.
-　...... Hum ? Les convives auraient donc été invités par une personne différente ?」
+　...... Hum ? Les convives auraient donc été invités par différentes personnes ?」
 「On dirait bien. Moi, c'était Shizuki.」
 *page13|
 　Ritsuka était la sœur aînée de sœur Yuika, et techniquement parlant, elle ne faisait pas partie de l'Église.
