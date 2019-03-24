@@ -14,7 +14,7 @@
 　J'avais proposé de l'accompagner par inquiétude pour elle... mais aussi pour une autre raison que je ne pouvais pas ignorer.
 *page3|
 　Parmi les membres restants, Aozaki était la plus suspecte.
-　La laisser agir seule pouvait se révéler mauvais sur bien des points.
+　La laisser agir seule pouvait se révéler risqué sur bien des points.
 　Si elle était le véritable coupable, ce soi-disant Sweets Hearts, alors nos vies seraient en danger, et si ce n'était pas le cas, elle pourrait être suspectée à tort par la suite.
 *page4|
 　De toute évidence, il était dangereux d'aller à l'extérieur,
@@ -24,7 +24,7 @@
 ;青子、照れ顔で仕方ない
 「... OK, compris.
 　Mais ne t'éloigne pas de moi quoi qu'il arrive.
-　Ça te convient aussi, Eiri ?」
+　Tu es d'accord, Eiri ?」
 ;詠梨
 「Oui, il se trouve que je voulais aussi t'adjoindre quelqu'un. Kumari devrait être qualifiée pour ce rôle.」
 *page6|
@@ -71,11 +71,11 @@
 　Ma voix ne l'atteignit pas.
 　Aozaki s'était précipitée dans la forêt dense dans la direction opposée au manoir.
 *page15|
-「Elle me dit de revenir en longeant le mur... Sauf que je ne peux pas revenir jusqu'au manoir, imbécileーーー!」
+「Elle me dit de repartir en longeant le mur... Sauf que je ne peux pas revenir au manoir comme ça, imbécileーーー!」
 　Désespérée, je criai.
 　Puis, peut-être avait-elle entendu ma voix,
 「Hein, quoiーーー?! Tu as dit quelque chose, Kumaーーーー?!」
-　la voix d'Aozaki me parvint depuis la forêt.
+　car la voix d'Aozaki me parvint depuis la forêt.
 *page16|
 「Je te dis que je ne peux pas retourner toute seule jusqu'au manoir...」
 「Derrière toi, le manoir est juste derrière toi !
@@ -105,8 +105,8 @@
 　Je courais, le souffle court.
 　Je sprintai à une vitesse que je n'avais encore jamais déployée en EPS.
 　Apparemment, moi aussi, j'étais capable de courir quand je le voulais vraiment.
-　Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains, s'ils y mettent du leur, pensai-je en souriant.
-　Ce fut sur cette note optimiste nécessaire pour fuir la réalité,
+　Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains s'ils y mettent du leur, pensai-je en souriant.
+　Ce fut sur cette note optimiste tentant de fuir la réalité,
 *page21|
 「Hein ?」
 　que mon corps fut assailli par une sensation d'apesanteur.
@@ -121,7 +121,7 @@
 *page23|
 　... Je regardai le liquide fixement.
 　Ça me faisait horreur de le dire, mais c'était rouge, rouge comme une fraise.
-　Je le léchai, et comme je m'en doutai, ma langue détecta un léger goût de fer.
+　Je le léchai, et comme je le craignais, ma langue détecta un léger goût de fer.
 　L'hémorragie dépassait déjà un litre et le volume augmentait encore.
 *page24|
 「... J'y crois... pas...」

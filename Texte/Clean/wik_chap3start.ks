@@ -156,7 +156,7 @@
 「Aaah ! Quel puzzle logique fabuleux !
 　J'adore ça ! Vraiment, j'adore ça !」
 ;唯架
-「... On dit qu'un espion de premier ordre s'hypnotise afin d'oublier qu'il est un espion... Voilà qui est fâcheux.」
+「... On dit qu'un espion de premier ordre s'hypnotise lui-même afin d'oublier qu'il est un espion... Voilà qui est fâcheux.」
 ;詠梨
 「Non, c'est bizarre. Le coupable a clairement l'intention de nous faire rire, non ? Or, s'il n'en a pas conscience, c'est un peu...」
 *page29|

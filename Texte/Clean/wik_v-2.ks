@@ -1,10 +1,10 @@
 ﻿*page0|
 「Ça ne va pas, je n'ai pas assez d'indices...[r]
-　Si je le désigne sans preuve, je serai éliminée...」
+　Si je l'accuse sans preuve, je serai éliminée...」
 *page1|
 　Je ne pouvais pas dévoiler l'identité du coupable.
 　Le manoir n'abritait plus que moi et le vrai coupable.
-　Si je le nommais au hasard et je disparaissais, tout serait terminé.
+　Si je le désignais au hasard et je disparaissais, tout serait terminé.
 　Plutôt que d'en arriver là, ne serait-il pas plus sage de fuir en attendant la fin de la partie―――?
 *page2|
 ;背後で物音。久万梨、ゆっくり振り返ってしまう。
@@ -25,8 +25,8 @@
 「Tu peux arrêter avec ton jeu d'acteur.」
 *page5|
 　J'endurai l'engourdissement de mes membres et donnai un coup à ses stupides lunettes.
-　Que cette farce ait marché était vraiment incroyable.
-　Si bien que je préférai l'empêcher de parler ainsi que de réfléchir au “Qui ?”, “Quand ?” et  “Comment ?”.
+　Que cette farce ait fonctionné était vraiment incroyable.
+　Si bien que je préférai l'empêcher de parler ainsi que de réfléchir au “Qui ?”, “Quand ?” et “Comment ?”.
 *page6|
 「――――[wait canskip=0 time=300]Nous sommes [wait canskip=0 time=400]un [wait canskip=0 time=400]martien.」
 ;草十郎、宇宙人ダ、がダメだと言われたので、火星人にした。
@@ -43,7 +43,7 @@
 *page8|
 「Kumari. Peux-tu comprendre, toi ?
 　Les sentiments d'un homme à qui on n'a eu de cesse de dire pendant un an qu'il n'avait “aucun sens de l'humour”.
-　Sais-tu ce que ça fait d'être considéré comme une gêne à chaque fois que l'on rassemble son courage pour mettre de l'ambiance dans une fête ?」
+　Sais-tu ce que ça fait de passer pour un nigaud à chaque fois que l'on rassemble son courage pour mettre de l'ambiance dans une fête ?」
 「Bien, j'ai compris, je vais te fracasser le crâne.」
 *page9|
 　Je n'avais même pas envie d'y penser, mais son mobile consistait à prouver qu'il avait un sens de l'humour.

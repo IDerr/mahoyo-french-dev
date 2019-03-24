@@ -10,7 +10,7 @@
 *page2|
 　La réponse était “personne”.
 　Kuonji avait elle-même fermé la pièce dans laquelle les Ploy étaient conservés.
-　Personne ne pouvait s'introduire dans une pièce dont la porte s'est transformée en mur.
+　Personne ne pouvait s'introduire dans une pièce dont la porte s'était transformée en mur.
 　Puisqu'aucune astuce pour y entrer n'avait été mentionnée, on pouvait rejeter la possibilité que quelqu'un ait ouvert le mur d'une manière ou d'une autre.
 　C'était une règle inflexible de tout polar.
 *page3|

@@ -14,7 +14,7 @@
 ;リデル01a2　お澄まし顔。けなげなが努力が痛々しい感じで//
 「Tobimaru, parlons de choses positives, j'ai dit.」
 ;鳶丸はあ、と頭を抱える
-「... D'accord. J'ai bien compris que tu étais innocente. Et puis, tu me fais tellement pitié que je ne pourrai plus jamais te regarder en face, même si tu étais quand même Sweet Hearts.」
+「... D'accord. J'ai bien compris que tu étais innocente. D'ailleurs, si tu étais Sweets Hearts malgré tout ça, tu ferais tellement pitié que je ne pourrais plus te regarder en face.」
 *page3|
 ;リデル01d
 「Évidemment que je suis innocente ! Je n'arrête pas de vous dire que je n'ai rien à voir avec cette histoire !
@@ -46,13 +46,13 @@
 　Et toi, Kumari ?」
 *page9|
 ;金鹿
-「Moi, peu importe mais... Tsukiji, qu'est-ce que tu en penses ?」
+「Moi, peu importe, mais... Tsukiji, qu'est-ce que tu en penses ?」
 ;鳶丸
 「Moi ? Je suis pour trouver le coupable.
 　J'ai envie de me plaindre comme il faut à l'idiot qui a provoqué cette situation.」
 *page10|
 ;唯架
-「Moi, peu importe. Je ne dirai pas les choses à la façon de Riddell, mais je suis en sécurité, peu importe ce qui arrive.」
+「Me concernant, cela ne m'importe pas. Je ne dirai pas les choses à la façon de Riddell, mais je suis en sécurité, quoi qu'il arrive.」
 ;律架
 「Moi, je suis d'accord avec Tsukiji ![r]
 　Enquêtons, enquêtons ! Tous ensemble !」

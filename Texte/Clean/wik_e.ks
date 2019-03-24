@@ -28,7 +28,7 @@
 　Retiens ça, Tobimaru. Contrairement à vous autres, figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
 「Non mais n'importe quoi, lancer un missile...」
 *page3|
-　La jeune femme, toute de rose vêtue, ne posa pas un regard sur moi ou Housuke et s'approcha de Kuonji.
+　La jeune femme, toute de rose vêtue, ne posa pas un regard sur Housuke ou moi et s'approcha de Kuonji.
 　Le son de ses bottes résonnait ostensiblement. Comme des bottes militaires provocatrices.
 *page4|
 ;リデル02e
@@ -59,7 +59,7 @@
 ;リデル02b
 「Toi alors, tu caches encore ton embarras ! ～♪
 ;有珠、超うんざり
-　Tu es vraiment douée en marchandage. Tu prétends que “tu ne céderas pas pour de l'argent” tout en augmentant les prix habilement.」
+　Tu es vraiment douée en marchandage. Tu prétends que “tu ne le céderas pas contre de l'argent” tout en faisant monter habilement les enchères.」
 *page10|
 ;木乃美ぽかーん
 「...... Dis, Ton Altesse. Je crois avoir déjà vu cette gonzesse incroyable quelque part. C'est une connaissance d'Alice ?」
@@ -156,7 +156,7 @@
 *page28|
 ;唯架
 「...... Ahem.
-　Puisqu'on en parle, Mlle Kuonji, où est M. Tokitsu Yurihiko, l'invité d'honneur ?
+　Puisqu'il en est question, Mlle Kuonji, où est M. Tokitsu Yurihiko, l'invité d'honneur ?
 　Nous n'avons pas encore pu le saluer.」
 ;有珠驚き
 「Maintenant que vous le faites remarquer, c'est vrai. [l][chgfg storage=有珠私服01a(全) zoom=75 time=300]Aoko, où est Tokkii ?」
@@ -165,7 +165,7 @@
 「Hein? Il n'est pas là ? C'est pourtant lui qui est en charge des préparatifs du dîner. Il s'est même vanté qu'il ferait appel à un groupe de chefs hors pair et qu'on pouvait être tranquilles.」
 *page30|
 ;鳶丸
-「C'est louche tout ça. D'après ces arrangements, ces soi-disant chefs n’auront jamais le temps de tout préparer puisqu'ils n'étaient pas là à quatre heures.
+「C'est louche tout ça. D'après ces arrangements, ces soi-disant chefs n'auront jamais le temps de tout préparer puisqu'ils n'étaient pas là à quatre heures.
 　Personne n'a vu le vieux Tokitsu ?」
 *page31|
 ;ベオ

@@ -16,9 +16,9 @@
 　Le courant du manoir n'avait pas encore été rétabli.
 ;有珠
 「Visiblement, le courant ne reviendra pas avant le matin.
-　Les chambres d'ami sont reliées à un circuit électrique différent, alors j'espère que l'électricité y marche encore.」
-　Apparemment, les chambres d'ami du manoir Kuonji avait été construites après coup.
-　Les parties existant depuis plus longtemps... en l'occurrence, le salon, le couloir et l'aile ouest, avaient semblait-il complètement sombré dans les ténèbres.
+　Les chambres d'ami sont reliées à un circuit électrique auxiliaire, alors j'espère que l'électricité y marche encore.」
+　Apparemment, les chambres d'ami du manoir Kuonji avaient été construites après coup.
+　Les parties qui existaient depuis plus longtemps... en l'occurrence, le salon, le couloir et l'aile ouest, avaient semblait-il complètement sombré dans les ténèbres.
 *page3|
 「Attends. Où est passé Beo ?」
 「! Maintenant que tu le dis, je ne le vois nulle part...」

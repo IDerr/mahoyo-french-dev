@@ -13,7 +13,7 @@
 *page2|
 「...... Aah.」
 ;SE、スイッチの音とともに部屋の電気が消える。
-　Mon dieu, je vous en prie.
+　Mon Dieu, je vous en prie.
 　Faites que tout soit revenu à la normale quand je me réveillerai―――
 *page3|
 ;画面、白フェイドで白に。ウエイトの後、鳥の鳴き声とともに、客室・朝

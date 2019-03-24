@@ -10,9 +10,9 @@
 ;鳶丸
 「Ne dis pas de conneries ! T'es tout aussi louche que les autres.
 　Tu connais les Ploy machin, tu nourris de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
-　Pour commencer, pourquoi t'es venue alors qu'on ne t'a pas invitée ? En allant jusqu'à arriver par hélico ?」
+　Pour commencer, pourquoi tu t'es pointée alors qu'on ne t'a pas invitée ? En poussnt le bouchon jusqu'à venir en hélico ?」
 *page3|
-「Maintenant que j'y pense, quand t'es venue avec l'hélico, t'étais pas du tout trempée par la pluie, je me trompe ?
+「Maintenant que j'y pense, quand t'es soi-disant venue avec l'hélico, t'étais pas du tout trempée par la pluie, je me trompe ?
 　Comment t'expliques ça ?
 　Si tu t'es planquée tout ce temps dans le manoir et t'es entrée en scène après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
 *page4|
@@ -46,7 +46,7 @@
 　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
 ;画面・一階廊下と、リデルの立ち絵02cあたりを口元だけ移すように使う。携帯電話中。
-『Allo. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+『Allô. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
 『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
@@ -62,7 +62,7 @@
 ;画面・居間に戻す
 ;鳶丸、金鹿、呆然とした顔で
 　... De terribles paroles retentissaient.
-　La fille en rose semblait murmurer quelque chose en anglais, mais elle parlait tellement rapidement et avec des mots d'argot que je ne saisissais pas ce qu'elle disait.
+　La fille en rose semblait murmurer quelque chose en anglais, mais elle parlait avec des mots d'argot et tellement rapidement que je ne saisissais pas ce qu'elle disait.
 　... Pour en rajouter, je n'étais pas très douée à l'écoute.
 *page15|
 ;鳶丸
@@ -73,7 +73,7 @@
 　Les règles de Sweets Hearts sont limitées à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première, et profiter d'un dîner magnifique.」
 *page16|
 「Ah, mais rassurez-vous.
-　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter avec moi, si vous voulez ? Alors, ceux qui en ont assez avec ce jeu d'enquête feraient bien de me rejoindre tout de suite.」
+　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez avec ce jeu d'enquête feraient bien de me rejoindre tout de suite.」
 *page17|
 ;草十郎、リデル側に移動しようとする//
 ;青子腕組み呆れ睨み

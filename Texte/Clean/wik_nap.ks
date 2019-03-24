@@ -5,11 +5,11 @@
 　Discuter avec Tsukiji me mettait sur mes gardes, et une autre sorte de tension m'envahissait quand j'étais avec Kuonji.
 *page1|
 　Sous son regard, un sentiment étrange de culpabilité m'assaillait.
-　C'était comme si elle me soupçonnait sans raison ou comme si elle me blâmait pour mes nombreuses erreurs passés.
+　C'était comme si elle me soupçonnait sans raison ou comme si elle me blâmait pour mes nombreuses erreurs passées.
 　Comme l'intéressée ne semblait pas du tout avoir cette intention, le problème devait venir de mon côté.
 　Comme on dit : tout le monde a un cadavre dans son placard.
 *page2|
-「C'est à se demander comment Aozaki et Shizuki peuvent vivre avec elle.」
+「C'est à se demander comment Aozaki et Shizuki arrivent à vivre avec elle.」
 　Ils méritaient sincèrement mon respect pour cela.
 　Aozaki y parvenait probablement grâce à sa volonté de fer et parce qu'elle avait bonne conscience.
 　Quant à Shizuki, c'était certainement le contraire. J'étais sûre qu'il ne réalisait tout simplement pas à quel point le regard de Kuonji était effrayant.

@@ -73,11 +73,11 @@
 ;画面・駒鳥あらわれる
 ;有珠、駒鳥から報告を聞く。
 　... Soudainement,
-　le rouge-gorge bleu qui avait disparu quelque temps était revenu d'un battement d'ailes dans le salon.
+　le rouge-gorge bleu, qui avait disparu quelque temps auparavant, était revenu d'un battement d'ailes dans le salon.
 　Il se posa sur l'épaule de Kuonji et émit un gazouillis perçant.
 *page12|
 ;有珠、まあ
-「Aah.」
+「Ah.」
 　Kuonji se leva du sofa et promena son regard sur les personnes présentes.
 *page13|
 ;有珠
@@ -138,7 +138,7 @@
 ;有珠
 「C'est simple à expliquer.
 　Quelque chose m'a intriguée sur la scène de meurtre de Tokkii, alors tout à l'heure, j'ai demandé à Robin de vérifier le contenu du coffre.
-　Et il se trouve qu'un Ploy Kickshaw est manquant à l'appel.」
+　Et il s'avère qu'un Ploy Kickshaw est manquant à l'appel.」
 *page22|
 ;青子愕然
 「Un Ploy...? Tu insinues que c'est ce Ploy qui a tué le grand-père et Riddell ?」
@@ -165,14 +165,14 @@
 「...... On dirait que c'est sérieux.」
 ;有珠
 「Grâce à Kinomi, je comprends mieux les règles.
-　Lorsque l'on rit de soi-même, ça ne compte pas. Idem pour les sourires de courtoisie.
+　Lorsque l'on rit de soi-même, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
 　Mais si l'on rit du fond du cœur à cause des actes ou d'une farce de quelqu'un, le Ploy considère qu'on a enfreint la règle.」
 ;鳶丸、金鹿驚き
 「Hein... Quoi ?」
 *page26|
 　Attendez, je comprends vraiment rien.
 　Si on nous fait rire, on meurt ? Pardon ?
-　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ? Sauf que deux personnes viennent tout juste de mourir sous mes yeux, après s'être esclaffés. Alors quoi ? C'est vrai ?
+　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ? Sauf que deux personnes viennent tout juste de mourir sous mes yeux, après s'être esclaffées. Alors quoi ? C'est vrai ?
 *page27|
 ;詠梨
 「Ça veut dire que le Ploy Kickshaw est actif ?
@@ -225,19 +225,19 @@
 ;リデル
 [fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,0,,,,,,,3,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,0,,,,,,3,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]「Ne me sous-estimez... pas ! Ggh[se storage=se05012a volume=90 loop=0][shock hmax=10 time=300 count=1]... [l][se storage=se07021 volume=100 loop=0][wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(400,,,,~,~,~,255,~,~,~,)(500,,,,,,,,-4,,,)(600,,,,~,~,~,,~,~,~,)(700,,,,,,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(500,,,,,,,-4,,,)(700,,,,,,,0,,,) storage=リデル02(全)|d3 id=2]Ce n'est pas un petit arrêt cardiaque, gh[se storage=se05012b volume=90 loop=0][shock hmax=10 time=300 count=1]uuh, [l][wact canskip=0]qui... [se storage=se07021 volume=100 loop=0][fgact page=fore props=-storage,center,vcenter,absolute,opacity,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|g,382,1266,1200,0,,80,80,1)(700,,,,~,~,~,255,~,~,~,)(800,,,,,1315,,,1.5,,,)(900,,,,~,~,~,,~,~,~,)(1000,,,,,1266,,0,0,,,) storage=リデル02(全)|g id=1][fgact page=fore props=-storage,center,vcenter,absolute,rotate,zoomx,zoomy,-visible keys=(0,0,l,リデル02(全)|d3,382,1266,1100,,80,80,1)(800,,,,,1315,,1.5,,,)(1000,,,,,1266,,0,,,) storage=リデル02(全)|d3 id=2]qui va [wait canskip=0 time=400][se storage=se07020 volume=100 loop=0][se storage=se05033 volume=100 loop=0][shock vmax=20 time=300 count=1]me tuer !」[wact canskip=0]
 ;ベオ
-「Ouah... C'est la première fois que je vois un humain surmonter un arrêt cardiaque par la seule force de sa volonté... [wait canskip=0 time=400][chgfg storage=ベオ02b(大)|i time=300 textoff=0]On dirait que Riddell ne peut être tuée par une plaisanterie aussi légèreー」
+「Ouah... C'est la première fois que je vois un humain surmonter un arrêt cardiaque par la seule force de sa volonté... [wait canskip=0 time=400][chgfg storage=ベオ02b(大)|i time=300 textoff=0]On dirait que Riddell ne peut pas être tuée par une plaisanterie aussi légèreー」
 *page37|
 ;草十郎
 「Incroyable ! Tu pourras m'apprendre ton secret ?」
 ;有珠（棒読みの顔）
 「Oui, on aurait cru un vrai mort-vivant. Moi, en tout cas, j'y ai cru, Riddell.」
 ;リデル01d
-「Vo... Vous deux ! Au lieu de me féliciter, vous ne devriez pas plutôt vous excuser ?!
-　D'ailleurs, ce loup-garou aurait mieux convenu pour un test, vous ne croyez pas ?![r]
+「Vo... Vous deux ! Vous ne devriez pas vous excuser au lieu de me féliciter ?!
+　D'ailleurs, ce loup-garou aurait été mieux pour un test, vous ne croyez pas ?![r]
 　Il revient à la vie même si on le tue ! Pourquoi m'avoir choisie, moi ?」
 *page38|
 ;有珠
-「Hein...? Eh bien, nous sommes rivales, n'est-ce pas ?
+「Oh...? Eh bien, nous sommes rivales, n'est-ce pas ?
 　Dans ce cas, c'est normal de s'entretuer.」
 ;リデル02d2
 「Hein ? Ah, oui, c'est vrai. Les rivales agissent effectivement comme ça.
@@ -261,13 +261,13 @@
 「Je ne peux pas ! Housuke est mort, tu te rends compte ?!」
 ;有珠
 「Kumari. Il est encore trop tôt pour pleurer la mort de Kinomi.[r]
-　Tokkii et lui ont été considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont simplement “portés disparus”.
+　Tokkii et lui sont considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont seulement “portés disparus”.
 　Si quelqu'un termine ce jeu, tout ce qui s'est passé pendant la partie sera annulé et ils reviendront parmi nous.」
 *page44|
 ;金鹿
 「... Ils ne sont pas morts ? Si on termine le jeu, ils reviendront parmi nous...?」
-　Je comprenais le sens de ses paroles, mais malheureusement, j'étais du même genre qu'Aozaki : une personne réaliste.
-　Je ne pouvais pas avaler si facilement des phrases tout droit sorties d'un roman de SF.
+　Je comprenais le sens de ses propos, mais malheureusement, j'étais du même genre qu'Aozaki : une personne réaliste.
+　Je ne pouvais pas avaler aussi facilement des phrases tout droit sorties d'un roman de SF.
 *page45|
 ;青子
 「Kuma, calme-toi. Je comprends tes principes et ce que tu ressens, mais pour le moment, écoutons ce qu'elle a à dire.
@@ -290,7 +290,7 @@
 ;唯架、安堵
 「......... J'étais inquiète, mais si ces explications sont justes, il n'y aura pas de problème. Il nous suffit d'attendre que le jour se lève.」
 　La sœur semblait rassurée, mais je ne partageais pas son optimisme.
-　La situation dépassait ma compréhension, mais ce n'était pas tout ; je ne pouvais pas me débarrasser de mon inquiétude.
+　La situation dépassait mon entendement, mais ce n'était pas tout ; je ne pouvais pas me débarrasser de mon inquiétude.
 　Je―――
 *page50|
 　～Choix H～

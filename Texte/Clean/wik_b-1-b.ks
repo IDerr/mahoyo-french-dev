@@ -144,7 +144,7 @@
 *page29|
 　C'était une vieille histoire.
 　Au cours de ma première année, un lycéen avait fumé aux yeux de tous sur le parking de la supérette.
-　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accourue pour l'avertir, et lorsque j'avais essayé de l'arroser avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
+　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accouru pour l'avertir, et lorsque j'avais essayé de l'asperger avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
 　Tandis que je m'inclinais avec empressement pour m'excuser, j'avais aperçu dans sa main une cigarette qu'il était justement sur le point d'allumer.
 　La victime en question était ce garçon, Tsukiji Tobimaru.
 *page30|
@@ -161,7 +161,7 @@
 　J'ai un caractère plutôt farouche.
 　Même avec des connaissances, je me fatigue vite à discuter dans un endroit peu familier.
 *page33|
-「Pourquoi pas ? Je crois que je vais prendre une pause dans la chambre d'ami.」
+「Pourquoi pas ? Je crois que je vais aller faire une sieste dans ma chambre.」
 「Ouais, te prive pas. Si je me souviens bien, ta chambre est...」
 ;ベオ
 「Dis, Tobi. Tu ne sais pas où est Soujyuro ?」
@@ -171,7 +171,7 @@
 「Ah bon ? Zut alors, il aurait pu me le demander. Je trouve cet aspect de sa personnalité vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire seul.
 　Enfin, j'aime bien ça parce qu'il me fait penser à un animal !」
 *page35|
-　Présentons-le de nouveau, cet enfant blond s'appellait Beo.
+　Présentons-le de nouveau, cet enfant blond s'appelait Beo.
 　Je ne connaissais pas son nom complet. Il ne s'était même jamais présenté.
 　Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appellaient ainsi.
 　Il était bizarrement attaché à Shizuki.

@@ -32,7 +32,7 @@
 　le hall était désert, et j'eus beau descendre au vestibule du rez-de-chaussée, pensant qu'il s'y était rendu, je ne l'y trouvai pas.
 *page6|
 「Il est peut-être allé dans l'aile ouest ?」
-　La curiosité me rongeait, mais il aurait été impoli de se balader dans la demeure sans avoir salué la maîtresse de maison.
+　La curiosité me rongeait, mais il aurait été impoli de se promener dans la demeure sans avoir salué la maîtresse de maison.
 　Je pris donc la direction du salon de l'aile est d'où me parvenaient des éclats de rire.
 *page7|
 ;Ｂ－１－ａに合流

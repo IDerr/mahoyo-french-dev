@@ -74,7 +74,7 @@
 　Nous passâmes du couloir sombre à une pièce sinistre.
 　Nous entrâmes dans la chambre d'Aozaki.
 *page15|
-　Là se trouvait une femme que même une fille comme moi aurait trouvé d'une beauté ensorcelante,
+　Là se trouvait une femme que même une fille comme moi aurait trouvée d'une beauté ensorcelante,
 　qui tenait un micro dans une main,
 　une bouteille d'alcool dans l'autre,
 　et qui dormait paisiblement d'un sommeil éternel.
@@ -87,7 +87,7 @@
 「Voilà la preuve irréfutable. Ma petite Ako, la petite Touko avait beau être une épine dans le pied pour toi, l'abandonner dans un état aussi pitoyable est cruel...!
 　Elle disait être fan de rock progressif, mais en réalité, elle préférait l'enka... [wait canskip=0 time=1000][chgfg storage=律架01b(中)|i6 time=300]En plus, elle avait même son propre micro...」
 *page18|
-「Aaah, elle me met trop la honte... C'est pour ça que je ne voulais pas vous la montrer !」
+「Aaah, elle me fout trop la honte... C'est pour ça que je ne voulais pas vous la montrer !」
 　Aozaki était à l'agonie.
 　Cependant, peu importait la raison, elle avait délibérément dissimulé une victime.
 *page19|

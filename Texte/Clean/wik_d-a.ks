@@ -26,7 +26,7 @@
 　Il prenait même la tournure d'une querelle.
 *page6|
 　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantôche passe”.
-　Le but était de gêner au mieux ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'ils ne souriaient pas intérieurement et guettaient une occasion d'attaquer par surprise.
+　Le but était de mettre des bâtons dans les roues de ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'ils ne souriaient pas intérieurement et guettaient une occasion d'attaquer par surprise.
 　De son côté, le groupe des adultes observait les lycéens depuis la véranda, un verre de vin à la main.
 *page7|
 ;詠梨神父
@@ -47,7 +47,7 @@
 *page11|
 ;詠梨
 「Non, nous sommes là pour en profiter. Même moi, je suis venu les mains vides, mais sœur Yuika, elle......
-　Pourquoi as-tu acquis ce caractère aiguisé comme un couteau, toujours sur le qui-vive ?」
+　Pourquoi avez-vous acquis ce caractère aiguisé comme un couteau, toujours sur le qui-vive ?」
 ;唯架ちょっと怒り
 「Je suis contrainte de l'être pour pallier à votre manque de sérieux !」
 *page12|

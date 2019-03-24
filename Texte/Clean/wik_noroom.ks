@@ -22,7 +22,7 @@
 ;画面・黒にしてからSE扉の音。客室に。
 　La chambre était déserte.
 　Après avoir vérifié qu'il n'y avait bien personne, je posai mes affaires et rangeai mon portefeuille dans ma poche.
-　J'hésitai à prendre mon porte-passe favori - un lapin avec une bouche en X - qui faisait également office de porte-bonheur, mais comme il ne contenait que ma carte de transport et une photo souvenir du festival de l'école, je le laissai finalement sur la table.
+　J'hésitai à prendre mon porte-passe favori - un lapin avec une bouche en croix - qui faisait également office de porte-bonheur, mais comme il ne contenait que ma carte de transport et une photo souvenir du festival de l'école, je le laissai finalement sur la table.
 　J'allais passer la journée dans une demeure inconnue. Plus mon corps serait léger, moins je me fatiguerais.
 *page4|
 「La clef...... Ah, la voilà.」

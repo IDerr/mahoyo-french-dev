@@ -141,7 +141,7 @@
 　Je refoulai désespérément ma respiration haletante et mes pensées désordonnées.
 　Ils étaient tous morts.
 　Tous morts.
-　Tout le monde avait probablement péri à part moi et le coupable.
+　Tout le monde avait probablement péri à part le coupable et moi.
 *page26|
 　Pourtant, il faisait jour ?
 　Non, le soleil n'était pas encore levé.

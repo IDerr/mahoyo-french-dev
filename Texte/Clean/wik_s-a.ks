@@ -14,7 +14,7 @@
 　L'aiguille de l'horloge avait fini par pointer vers trois heures du matin, alors qu'on discutait de ces points problématiques.
 「Aaah...」
 　Je ne m'étais pas laissée aller, loin de là mon intention, mais le sommeil commençait à m'assaillir.
-　N'importe qui aurait été à bout de force après avoir vécu une journée pareille.
+　N'importe qui aurait été à bout de forces après avoir vécu une journée pareille.
 *page4|
 ;鳶丸
 「Il est tard. Il serait temps de se coucher, mais comment on fait ? Je pourrais dormir sur ce canapé si tu veux.」

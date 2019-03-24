@@ -27,14 +27,14 @@
 「L'invitation au manoir Kuonji ne mentionnait pas le fait qu'on avait tout préparé pour la fête et que vous pouviez venir les mains vides ?」
 ;久万梨
 「Quoi ? Je suis pas au courant.
-　...... Décidément, vous avez fait plein d'erreurs. Ça disait juste que j'étais invitée à un anniversaire au début des congés et que tout le monde devait apporter à manger.」
+　...... Décidément, vous avez tout fait de travers. Ça disait juste que j'étais invitée à un anniversaire au début des congés et que tout le monde devait apporter à manger.」
 *page7|
 ;青子
 「Vraiment ? Désolée. Alice n'est pas encore habituée à ce genre de chose. C'est donc pour ça que tu m'as appelée de bon matin afin que je vienne te chercher.
 ;青子眉寄せ
 　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret à l'allure louche derrière toi, il est avec toi ?」
 *page8|
-「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas habillé ?」
+「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas assez bien habillé ?」
 「Il ressemble tellement à votre costume habituel qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
 　Et donc, que voulez-vous aujourd'hui ?[r]
 　Commencez à faire la filature à vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
@@ -56,8 +56,8 @@
 *page13|
 「Ha ha ha, c'est une attention admirable !
 　Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement... enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.
-　Et voilà que ce même élève m'envoie une lettre où il me demande de venir surveiller,
-　par inquiétude de ce que tu pourrais faire au cours de ce genre de festivités.
+　Et voilà que ce même élève m'envoie une lettre où il me demande de venir vous surveiller,
+　par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivités.
 ;青子、ッチ。草十郎、後でしめる、という顔
 　C'est remarquable comme il a mûri. Il fait preuve d'une capacité étonnante à gérer les crises.」
 *page14|
@@ -125,7 +125,7 @@
 　Honnêtement, ils sont pénibles.
 　En plus, les épreuves de gymnastique qu'ils avaient mentionnées étaient toutes réservées aux hommes.
 *page28|
-『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne veux pas augmenter le nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
+『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne voulais pas causer une recrudescence du nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
 　Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.
 *page29|
 　J'étais morte de honte en pensant qu'il s'agissait de ma propre famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
