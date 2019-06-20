@@ -12,7 +12,7 @@
 　Avec Beo, c'était nous qui l'emportions.
 *page3|
 ;青子
-「C'est décidé. Que chacun s'enferme dans sa chambre, ferme bien à clef et n'en sorte pas jusqu'au matin.
+「C'est décidé. Que chacun aille dans sa chambre, ferme bien à clef et n'en sorte pas jusqu'au matin.
 　Si vous avez besoin de quelque chose, prenez-le dans la cuisine.
 　Et s'il vous vient l'envie d'aller aux toilettes, eh bien, retenez-vous.」
 *page4|

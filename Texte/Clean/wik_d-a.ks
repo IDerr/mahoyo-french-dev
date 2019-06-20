@@ -21,12 +21,12 @@
 　En jetant un coup d'œil au salon et à la véranda,
 ;画面・居間、立ち絵・有珠、木乃美、鳶丸、ベオ
 ;画面・サンルーム、立ち絵・詠梨、唯架、律架、、駒鳥、久万梨
-　on réalisait qu'un nombre non négligeable de personnes étaient absorbées dans leur conversation.
-　Dans le salon, le jeu de cartes d'Housuke agitait bien plus la foule que prévu.
+　on réalisait qu'un nombre non négligeable de personnes étaient absorbées dans leurs conversations.
+　Dans le salon, le jeu de cartes d'Housuke agitait la foule bien plus que prévu.
 　Il prenait même la tournure d'une querelle.
 *page6|
 　Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantôche passe”.
-　Le but était de mettre des bâtons dans les roues de ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'ils ne souriaient pas intérieurement et guettaient une occasion d'attaquer par surprise.
+　Le but était de mettre des bâtons dans les roues de ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'ils ne souriaient pas intérieurement et guettaient la moindre occasion d'attaquer par surprise.
 　De son côté, le groupe des adultes observait les lycéens depuis la véranda, un verre de vin à la main.
 *page7|
 ;詠梨神父
@@ -71,7 +71,7 @@
 「Je ne suis pas au courant. Il y a encore d'autres gens dans cette maison......? C'est un peu tard pour demander, mais combien de personnes sont prévues à cette fête ?」
 *page15|
 ;有珠
-「Avec moi, Aoko, Shizuki, Tsukiji, Kinomi, toi, Tokki, et les autres, ça fait un total de treize personnes.
+「Avec moi, Aoko, Shizuki, Tsukiji, Kinomi, toi, Tokki, et les autres, cela fait un total de treize personnes.
 　Cela dit, on ne s'est pas retrouvés une seule fois tous ensemble dans la même pièce.」
 「Treize, hein?」
 　Un, deux, trois, me mis-je à compter.

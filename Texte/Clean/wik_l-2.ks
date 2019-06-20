@@ -12,13 +12,13 @@
 　Tu connais les Ploy machin, tu nourris de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
 　Pour commencer, pourquoi tu t'es pointée alors qu'on ne t'a pas invitée ? En poussnt le bouchon jusqu'à venir en hélico ?」
 *page3|
-「Maintenant que j'y pense, quand t'es soi-disant venue avec l'hélico, t'étais pas du tout trempée par la pluie, je me trompe ?
+「Maintenant que j'y pense, quand t'es soi-disant venue avec l'hélico, t'étais pas du tout trempée par la pluie, si je me souviens bien ?
 　Comment t'expliques ça ?
 　Si tu t'es planquée tout ce temps dans le manoir et t'es entrée en scène après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
 *page4|
 ;リデル02d3
 「Qu... Quoi ?!
-　Je te dis que je suis venue en hélico ! Je n'ai pas été trempée par la pluie parce que je la repoussais avec un Goblin ! Et pourquoi aurais-je l'intention de tous vous massacrer ?!」
+　Je te dis que je suis venue en hélico ! Je n'étais pas trempée par la pluie parce que je la repoussais avec un Goblin ! Et pourquoi aurais-je l'intention de tous vous massacrer ?!」
 *page5|
 ;草十郎
 「Eh bien, c'est que tu y as déjà pensé, en fait.」
@@ -31,13 +31,13 @@
 　Raaah, j'en ai plein le crâne ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, cet endroit sera sa première cible !」
 *page7|
 ;青子
-「Tu en es capable ? S'évader est difficile d'après Alice.」
+「Tu en es capable ? S'échapper d'ici sera difficile d'après Alice.」
 ;有珠、頷く
 「Oui. À cause de la fluctuation de probabilité de Sweets Hearts, il y a de grandes chances qu'un éboulement de terrain se soit produit sur le chemin.
 　Et comme la ligne du téléphone est coupée, on ne peut pas contacter l'extérieur.」
 *page8|
 ;リデル02c
-「Pff, si c'est impossible par la terre ferme, il reste les airs.
+「Pff, si c'est impossible par la terre ferme, il reste la voie des airs.
 ;リデル02c2
 　Vous voulez voir l'hélico, c'est ça ? Très bien, je vais l'appeler.
 ;立ち絵消す
@@ -51,7 +51,7 @@
 『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
 ;あと、この時代の軍用ヘリはアパッチときいたが、さすがにもちっとハクをつけたいので多少時代先取りしても上のものを。ブラックホークは早すぎだが、試作段階という事ならアリか？//
-　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un commerçant ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
+　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
 　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
@@ -61,9 +61,9 @@
 *page14|
 ;画面・居間に戻す
 ;鳶丸、金鹿、呆然とした顔で
-　... De terribles paroles retentissaient.
+　... De terribles paroles étaient vociférées.
 　La fille en rose semblait murmurer quelque chose en anglais, mais elle parlait avec des mots d'argot et tellement rapidement que je ne saisissais pas ce qu'elle disait.
-　... Pour en rajouter, je n'étais pas très douée à l'écoute.
+　... Pour en rajouter, je n'étais pas très douée à l'oral.
 *page15|
 ;鳶丸
 「... Cette idiote, elle a vraiment appelé un hélico militaire...」
@@ -73,7 +73,7 @@
 　Les règles de Sweets Hearts sont limitées à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première, et profiter d'un dîner magnifique.」
 *page16|
 「Ah, mais rassurez-vous.
-　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez avec ce jeu d'enquête feraient bien de me rejoindre tout de suite.」
+　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez avec ce jeu d'enquête feraient bien de me rejoindre sans attendre.」
 *page17|
 ;草十郎、リデル側に移動しようとする//
 ;青子腕組み呆れ睨み
@@ -93,7 +93,7 @@
 *page19|
 ;リデル02c
 「Tch, vous jouez encore aux meilleurs amis dans cette situation ? Il faudrait vous réveiller !
-　Très bien, faites comme ça vous chante. Mais faites bien attention à ce que les titres à la une de demain ne ressemblent pas à “Tous les invités de la résidence en haut de la montagne portés disparus ?”」
+　Très bien, faites comme bon vous semble. Mais prenez garde à ce que les titres à la une de demain ne ressemblent pas à “Tous les invités de la résidence en haut de la montagne portés disparus ?”」
 *page20|
 ;金鹿
 「Pff. Bien dit pour une femme qui fuit.
@@ -103,7 +103,7 @@
 *page21|
 ;SE　外からヘリのローター音。
 　... C'est alors que,
-　sans attendre les dix minutes, on entendit à l'extérieur un rugissement de nature différente à celle des rafales de vent.
+　sans attendre les dix minutes, on entendit à l'extérieur un rugissement de nature différente de celle des rafales de vent.
 *page22|
 ;リデル02b
 「Aha ! Il est arrivé plus vite que prévu !

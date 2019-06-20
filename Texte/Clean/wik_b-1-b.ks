@@ -28,7 +28,7 @@
 「Non... Non, ce n'est pas ça, mais...」
 *page5|
 「Ben ça va alors. Vous vous voyez tous les jours au conseil étudiant, alors il n'y a pas de quoi se sentir gêné.」
-「Se voir à l'école et en dehors sont deux choses différentes ! En plus, j'ai une tenue banale.」
+「Se voir à l'école et en dehors sont deux choses différentes ! En plus, j'ai une tenue de tous les jours.」
 *page6|
 　Aozaki prit un air interrogateur ; elle se demandait visiblement en quoi cela posait problème.
 　Évidemment qu'il y avait un hic !
@@ -40,7 +40,7 @@
 　En première année, je ne le considérais vaguement que comme un ami d'Aozaki.
 　C'est en deuxième année que je pris petit à petit conscience de mes sentiments.
 　Tsukiji venait souvent me parler. C'était probablement grâce à mon amitié avec Aozaki qu'il me faisait confiance.
-　En rentrant chez moi, après nos discussions, j'étais souvent pris de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
+　En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
 *page8|
 　Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
 　Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
@@ -95,7 +95,7 @@
 ;画面・サンルーム
 　Je saluai Kuonji, la maîtresse de maison, avant de me rendre dans la véranda adjacente.
 　Il fut inutile de faire les présentations : tous les invités se connaissaient.
-　La véranda et le salon étant connectés, on pouvait observer le second depuis le premier.
+　La véranda et le salon étant reliés, on pouvait observer une pièce depuis l'autre.
 *page19|
 ;画面・居間、立ち絵・有珠
 　Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
@@ -135,7 +135,7 @@
 　Tsukiji vint engager la discussion sur son habituel ton badin.
 　Avec ses membres sveltes, il faisait forte impression avec un simple verre de jus de fruit en main.
 *page27|
-「Je suis de repos. J'ai pris mes jours de congés pour ces trois jours de vacances consécutifs. Et puis, j'ai économisé la somme prévue.」
+「Je suis de repos. J'ai pris mes jours de congé pour ces trois jours de vacances consécutifs. Et puis, j'ai économisé la somme prévue.」
 *page28|
 ;鳶丸笑顔
 「Ah bon ? C'est cool. La fusée d'évasion de Misaki en est donc au stade du compte à rebours. [l]Je ne te verrai bientôt plus à la supérette le matin, du coup.[r]
@@ -168,10 +168,10 @@
 「Il n'est pas allé faire des courses ?
 　Il m'a dit qu'il n'y avait pas assez de boissons.」
 *page34|
-「Ah bon ? Zut alors, il aurait pu me le demander. Je trouve cet aspect de sa personnalité vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire seul.
+「Ah bon ? Zut alors, il aurait pu me le demander. Je trouve cet aspect de sa personnalité vraiment bizarre. Quand ça lui est possible, il cherche toujours à tout faire tout seul.
 　Enfin, j'aime bien ça parce qu'il me fait penser à un animal !」
 *page35|
-　Présentons-le de nouveau, cet enfant blond s'appelait Beo.
+　Présentons-le de nouveau, cet enfant blond s'appelle Beo.
 　Je ne connaissais pas son nom complet. Il ne s'était même jamais présenté.
 　Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appellaient ainsi.
 　Il était bizarrement attaché à Shizuki.

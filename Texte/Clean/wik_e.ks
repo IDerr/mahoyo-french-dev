@@ -25,7 +25,7 @@
 「Riddell ?! Aujourd'hui, tu étais censée avoir un concert ailleurs ! Comment tu t'es débrouillée pour rappliquer ici ?!」
 ;リデル得意げ
 「Pff, c'est évident. J'ai pris l'hélico !
-　Retiens ça, Tobimaru. Contrairement à vous autres, figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
+　Retiens bien ça, Tobimaru. Contrairement à vous autres, figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
 「Non mais n'importe quoi, lancer un missile...」
 *page3|
 　La jeune femme, toute de rose vêtue, ne posa pas un regard sur Housuke ou moi et s'approcha de Kuonji.
@@ -46,10 +46,10 @@
 *page7|
 ;詠梨
 「Ha ha ha ha. Je n'ai vraiment pas envie d'entendre ça venant de toi.
-　Si quelqu'un doit faire des excuses à Alice, ne serait-ce pas plutôt toi ? Tu devrais rendre ce que tu as dérobé à sa propriétaire.」
+　Si quelqu'un avait des excuses à faire à Alice, ne serait-ce pas plutôt toi ? Tu devrais rendre ce que tu as dérobé à sa propriétaire.」
 *page8|
 ;リデル02d2
-「Pas la peine pour moi, j'ai payé après !
+「Pas la peine, j'ai payé après !
 　En plus, Alice a accepté le paiement en cash, alors ça m'appartient maintenant ! [wait canskip=0 time=400][chgfg storage=リデル02(大)|c2 type=13 time=300]Mêle-toi de ce qui te regarde !」
 ;詠梨驚き
 「Tiens donc ? Je n'aurais jamais cru qu'Alice vendrait un de ses précieux Ploy.」
@@ -64,12 +64,12 @@
 ;木乃美ぽかーん
 「...... Dis, Ton Altesse. Je crois avoir déjà vu cette gonzesse incroyable quelque part. C'est une connaissance d'Alice ?」
 ;鳶丸
-「Ça doit être ton imagination, oublie ça. C'est le genre de femme qui ne t'apporte que des ennuis une fois que tu t'impliques avec elle. Que des dommages et zéro profit.」
+「Ça doit être ton imagination, oublie ça. C'est le genre de femme qui ne t'apporte que des ennuis dès l'instant où tu as affaire à elle. Que des pertes et zéro profit.」
 ;木乃美
 「T... T'as pas tort. Moi non plus, je suis pas très à l'aise avec les filles aussi tape-à-l'œil...」
 *page11|
 　Malgré l'ignorance feinte de Tsukiji, je savais ce qu'il en était réellement.
-　La jeune fille s'appelait Riddell.
+　Cette jeune fille s'appelait Riddell.
 　Elle avait séjourné chez Tsukiji un certain temps.
 　Apparemment, le père de Tsukiji et celui de Riddell se connaissaient à travers leur travail.
 　...... Néanmoins, même si elle avait séjourné chez lui, la demeure de Tsukiji étant spacieuse, cela n'impliquait pas qu'ils avaient vécu sous le même toit ou qu'ils étaient proches, du moins aimerais-je le penser.
@@ -118,20 +118,20 @@
 　Je lus de nouveau la lettre d'invitation.
 “Nous organisons une fête d'anniversaire au manoir Kuonji et je serais heureux que tu y participes.”
 　“Je vois.”
-　Le nom de la personne à célébrer n'était effectivement pas mentionné.
+　Le nom de la personne dont on célébrait l'anniversaire n'était effectivement pas explicitement mentionné.
 *page21|
 ;青子登場
 「Salut ! Vous m'avez l'air bien agités, c'est quoi tout ce tapage ?
-　...... Hein ? Riddell Riddle ?! Que fais-tu ici ?! Et le live ?! Tu ne devais pas chanter au Hall NK, en ce moment même ?!
+　...... Hein ? Riddell Riddle ?! Que fais-tu ici ?! Et le live ?! Tu ne devais pas chanter au Hall NK en ce moment même ?!
 　J'ai programmé l'enregistrement vidéo, en plus !」[l][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][r]
 ;リデル
 「Sabotage. Le curry du déjeuner était trop épicé.」
 *page22|
 ;青子
-「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupideーーーー! Excuse-toi auprès du dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
+「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupideーーーー! Excuse-toi auprès du Dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
 *page23|
 ;リデル01e2
-「Tch, elle est vraiment bruyante.
+「Tch, elle me casse les oreilles.
 ;リデル01i2
 　Primo, je m'en bats les steaks de la musique. Deuxio, les fans sont des fourmis ouvrières qui n'existent que pour m'entretenir. Tertio, à la fin de chaque concert, je me sens toujours vide et abattue.
 ;リデル01i
@@ -157,15 +157,15 @@
 ;唯架
 「...... Ahem.
 　Puisqu'il en est question, Mlle Kuonji, où est M. Tokitsu Yurihiko, l'invité d'honneur ?
-　Nous n'avons pas encore pu le saluer.」
+　Nous n'avons pas encore eu l'opportunité de le saluer.」
 ;有珠驚き
 「Maintenant que vous le faites remarquer, c'est vrai. [l][chgfg storage=有珠私服01a(全) zoom=75 time=300]Aoko, où est Tokkii ?」
 *page29|
 ;青子
-「Hein? Il n'est pas là ? C'est pourtant lui qui est en charge des préparatifs du dîner. Il s'est même vanté qu'il ferait appel à un groupe de chefs hors pair et qu'on pouvait être tranquilles.」
+「Hein ? Il n'est pas là ? C'est pourtant lui qui est en charge des préparatifs du dîner. Il s'est même vanté qu'il ferait appel à un groupe de chefs hors pair et qu'on pouvait être tranquilles.」
 *page30|
 ;鳶丸
-「C'est louche tout ça. D'après ces arrangements, ces soi-disant chefs n'auront jamais le temps de tout préparer puisqu'ils n'étaient pas là à quatre heures.
+「C'est louche tout ça. Avec de telles dispositions, ces soi-disant chefs n'auront jamais le temps de tout préparer puisqu'ils n'étaient pas là à quatre heures.
 　Personne n'a vu le vieux Tokitsu ?」
 *page31|
 ;ベオ

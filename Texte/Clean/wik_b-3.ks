@@ -16,7 +16,7 @@
 ;山城
 「Aozaki, pourrais-tu d'abord nous guider jusqu'au salon ? Il fait plutôt froid dans ce vestibule.」
 ;青子、あせり。露骨に怪しく
-「Oui, mais je ne peux pas laisser une invitée toute seule...」
+「Oui, mais je ne peux pas abandonner une invitée...」
 ;金鹿
 「C'est bon, ne t'en fais pas. Je reviens tout de suite.
 ;青子あわて

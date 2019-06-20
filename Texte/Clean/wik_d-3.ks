@@ -23,7 +23,7 @@
 *page5|
 ;画面・久遠寺邸外観から曇り空。画面下に木のシルエットを重ねて森っぽさをだすとなおよし。
 ;空は鉛色の曇り空。
-　Pourquoi avais-je eu envie de rentrer ? Moi-même, je n'en avais pas la moindre idée.
+　Pourquoi avais-je eu envie de rentrer ? Même moi, je n'en avais pas la moindre idée.
 　L'atmosphère oppressante du manoir,
 　le fait que je n'étais pas à ma place,
 　et la présence de Tsukiji étaient probablement autant de facteurs qui m'avaient dérangée.

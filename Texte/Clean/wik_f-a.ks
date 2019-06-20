@@ -51,10 +51,10 @@
 *page9|
 ;ベオ
 「Oh ? Tu pensais vraiment que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.
-　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide comme la marchandise de piètre qualité que tu es.」
+　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide, à l'image de la marchandise de piètre qualité que tu es.」
 *page10|
 ;リデル
-「OK, tu peux aller crever ! Mourez dans la joie comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
+「OK, tu peux aller crever ! Mourez dans la joie et la bonne humeur comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
 *page11|
 　L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
 　La femme en rose, Beo et Shizuki se disputaient.
@@ -122,7 +122,7 @@
 　Finalement, il fut admis que Housuke était la dernière personne à avoir vu M. Tokitsu.
 *page23|
 ;詠梨
-「Donc...... M. Tokitsu a disparu à midi passé. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à partir de cette heure-ci.」
+「Donc...... M. Tokitsu a disparu peu après midi. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à partir de cette heure-là.」
 *page24|
 　En effet, la période entre sa disparition et la découverte du corps était trop longue.
 　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou prendre une pause.

@@ -18,7 +18,7 @@
 ;画面・窓から見た空。曇り
 　Je m'étendis de tout mon long sur le lit.
 　Le ciel que je voyais à travers la fenêtre était couvert.
-　Selon les prévisions météo, il devait faire beau pendant ces trois jours de congé, mais manifestement, les montagnes n'étaient pas dans la zone de prévision.
+　Selon les prévisions météo, il devait faire beau pendant ces trois jours de congé, mais manifestement, les montagnes n'entraient pas dans la zone de prévision.
 *page4|
 ;画面・ちょっと点滅。久万梨、微睡んでいる。
 　Jusque-là, j'avais salué six personnes parmi les individus présents dans le manoir Kuonji :

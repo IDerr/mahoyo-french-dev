@@ -67,7 +67,7 @@
 「Oui, à verse. J'espère que ça se calmera vite.」
 ;消す
 ;画面・玄関出口側・曇り
-　Ritsuka jetta un regard inquiet vers l'extérieur.
+　Ritsuka jeta un regard inquiet vers l'extérieur.
 　Je...
 *page15|
 ～Choix Ｄ～

@@ -77,7 +77,7 @@
 　N'est-ce pas, Yuika ?」
 *page15|
 ;唯架
-「C'est exact. Je ne comprends pas le comique.
+「C'est exact. Je ne comprends pas l'humour.
 ;青子、むかっ
 　Il m'est impossible de rire à une blague. Donc, la première personne à quitter la partie sera sûrement Aoko.」
 *page16|

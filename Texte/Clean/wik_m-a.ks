@@ -26,7 +26,7 @@
 ;リデル01h
 「L'hélico et moi, ça n'a rien à voir !
 　Et tout à l'heure, j'ai rigolé mais j'ai enduré le coup, non ?
-　Je vous préviens, je ne rigolerai jamais ! Je vais simplement profiter du spectacle pendant que ce Ploy démodé vous élimine les uns après les autres !」
+　Je vous préviens, je ne rigolerai jamais ! Je vais simplement profiter du spectacle pendant que ce stupide Ploy vous élimine les uns après les autres !」
 *page5|
 ;青子、鳶丸、やれやれ
 　Malgré toutes les insultes qu'elle proférait à notre encontre, la femme en rose s'était résignée.
@@ -34,11 +34,11 @@
 　Elle semblait s'être résolue à passer la nuit avec nous.
 *page6|
 ;有珠、席を外す
-「Excusez-moi. Je dois m'absenter un instant. Je reviens tout de suite, alors continuez la conversation.」
+「Veuillez m'excuser. Je dois m'absenter un instant. Je reviens tout de suite, alors poursuivez la conversation.」
 　Kuonji... s'était probablement rendue aux toilettes.
 *page7|
 ;詠梨
-「Quoi qu'il en soit, il a été inopinément prouvé que s'évader était impossible.
+「Quoi qu'il en soit, il a été inopinément prouvé que s'échapper d'ici était impossible.
 　Soit nous enquêtons sur l'identité de Sweets Hearts, soit nous restons sur nos gardes pour éviter l'extermination au petit matin. Personnellement, je voudrais choisir la seconde option.」
 *page8|
 ;青子
@@ -58,7 +58,7 @@
 　Enquêtons, enquêtons ! Tous ensemble !」
 *page11|
 ;草十郎
-「Moi... Eh bien, la tempête ne fait qu'empirer, alors je pense qu'il serait préférable que tout le monde s'enferme dans sa chambre. Si on s'enferme à clef et on dort, personne ne pourra nous faire rire.」
+「Moi... Eh bien, la tempête ne fait qu'empirer, alors je pense qu'il serait préférable que tout le monde retourne dans sa chambre. Si on s'enferme à clef et on dort, personne ne pourra nous faire rire.」
 ;ベオ
 「Hééé, c'est d'un ennui !
 　Soujyuro, observons un peu la situation ! Tu n'es pas intrigué par la façon dont mourrait Aoko ?」
@@ -84,7 +84,7 @@
 *page16|
 　La conversation se poursuivait malgré l'obscurité.
 　... C'était comme les histoires de fantôme lors des voyages scolaires, ou, comment dire, un de ces échanges dans les ténèbres qui vous excitent bizarrement.
-　D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas si grave si une personne rigolait.
+　D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas si grave si quelqu'un se mettait à rire.
 *page17|
 「Ah, j'ai trouvé une bougie. Personne n'a de briquet ?[r]
 　Ou alors des allumettes ?」
@@ -102,7 +102,7 @@
 ;立ち絵はあえてださない
 「Eh bien, malgré l'âge de cette demeure, l'équipement est de qualité. J'ai eu peur qu'on doive passer le reste de la nuit dans ces ténèbres.」
 　La fille en rose, qui s'était placée à mes côtés sans que je m'en rende compte, leva le visage.
-　Je l'imitai inconsciemment, et,
+　Je l'imitai inconsciemment, et...
 *page20|
 ;画面・着ぐるみ有珠。ものじ博士が作った例の画像で。メンバーは青子、鳶丸、律架、詠梨、ベオ//
 ;リデル吐血
@@ -126,7 +126,7 @@
 「Riddellーーーーーーー!」
 *page23|
 　Aozaki se lamenta, la dépouille de Riddell dans les bras.
-　Comme elles étaient similaires en de nombreux points, sa mort semblait l'émouvoir.
+　Comme elles étaient similaires sur de nombreux points, sa mort semblait l'émouvoir.
 ;SEドアの開く音
 ;有珠、通常立ち絵で登場
 　Pendant ce temps, Kuonji revint comme si de rien n'était.

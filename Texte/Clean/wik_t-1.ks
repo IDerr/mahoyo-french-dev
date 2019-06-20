@@ -9,7 +9,7 @@
 *page2|
 ;※ここ、久万梨01 l3に
 ;立ち絵消す
-　“Bon, ben à plus”, dit Tsukiji en se dirigeant vers la porte.
+　“Bon ben, à plus”, dit Tsukiji en se dirigeant vers la porte.
 　J'essayai de dire quelque chose et...
 *page3|
 「Ça... Ça n'a rien à voir, mais...
@@ -38,14 +38,14 @@
 *page8|
 「... C'est un peu tard pour demander ça,
 　mais tu es plutôt acerbe en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
-「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que je montre du respect envers une personne qui s'est battue toute seule pendant six ans sans jamais compter sur ses parents ou sur les profs.」
+「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui as dû te battre toute seule pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 *page9|
 ;金鹿、ぽかん。実は感じ入っている//
 「――――――」
 ;鳶丸
 ;立ち絵消す。
 ;SEドア、締まる音。
-「À plus. On se verra dans le vestibule, au matin.」
+「À plus. On se verra dans le vestibule demain matin.」
 *page10|
 　Puis, la chambre fut soudain plongée dans le silence.
 　Le cœur gros sans savoir pourquoi,
@@ -78,10 +78,10 @@
 *page15|
 　Peut-être avait-elle bu du champagne qu'elle avait confondu avec du jus de fruit,
 　ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, à savoir de l'alcool, dans le Mont Blanc,
-　mais une chose était sûre, au moment où on l'avait lâchée des yeux, Aozaki s'était retrouvée d'une humeur joviale et se débattait en disant vouloir porter cette tenue.
+　mais une chose était sûre, au moment où on l'avait quittée des yeux, Aozaki s'était retrouvée d'une humeur joviale et s'était débattue en disant vouloir porter cette tenue.
 *page16|
 ;※同上。この演出方針をエンド前にもっていく。
-　La photo représentait cette fameuse scène prise avec un appareil jetable.
+　La photo représentait cette fameuse scène immortalisée avec un appareil jetable.
 　Elle était tellement amusante que je la gardais constamment dans mon passe.
 　Lorsque j'étais déprimée et que je voyais cette photo charmante, inimaginable pour quelqu'un connaissant Aozaki, ça me remontait le moral.
 　Principalement dans un aspect comique.
@@ -89,19 +89,19 @@
 「―――Tiens ?」
 　À l'instant,
 ;このモノローグ、要らないと言えば要らない。//
-　ne venais-je pas de présenter quelque chose que je n'aurais surtout pas voulu dire actuellement ?
+　ne venais-je pas d'évoquer quelque chose que je n'aurais surtout pas voulu dire actuellement ?
 *page18|
 「Ah oui―――Et les autres ?」
 　Je fouillai dans mon sac de voyage et regardai s'il n'y avait pas quelque chose qui pourrait servir au cas où.
 　Les outils que j'avais apportés pour faire de la cuisine chinoise pouvaient m'être utiles.
-　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais je jetais finalement mon dévolu sur la casserole.
+　J'hésitai entre ma wok préférée et mes couteaux de cuisine chinois, mais je jetai finalement mon dévolu sur la casserole.
 *page19|
 ;画面・二階廊下・朝
 　Je sortis dans le couloir.
 　L'air y était plus froid que dans la chambre.
 　Le silence régnait sur le manoir.
 　Je n'entendis rien et ne perçus aucune présence.
-　La tempête de la veille s'était évanouie comme un rêve.
+　La tempête de la veille s'était évanouie comme dans un rêve.
 *page20|
 ;画面・ロビー・昼
 　La chambre de Tsukiji était vide.
@@ -124,7 +124,7 @@
 　Ses longs cheveux foncés, qui laissaient une impression différente de ceux des Japonais, appartenaient sans aucun doute à Aozaki.
 　Elle ne respirait plus du tout.
 　Allongée, elle avait écrit des caractères sur le sol avec sa main gauche.
-　Un dernier message en lettre de sang.
+　Un dernier message en lettres de sang.
 *page23|
 　Ces mots, pleins de rancune, disaient ceci :
 『Ne dis pas “Je le savais”.』

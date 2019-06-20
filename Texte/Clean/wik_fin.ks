@@ -62,7 +62,7 @@
 「Évidemment. Ça devait forcément arriver, en étant amie avec Aozaki. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k type=13 zoom=60 partbgid=pb2 time=400]Bref, calme-toi un peu, Housuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
 *page13|
 「Oooh. On voit que vous êtes amis d'enfance. Vous vous entendez bien.
-　Continue comme ça et discipline Kinomi, Kumari. Pour les gens autour de lui, et surtout pour lui-même.」
+　Continue comme ça et discipline Kinomi, Kumari. Pour le bien des gens autour de lui, et surtout pour le sien.」
 *page14|
 「Hors de question. Même si on me proposait cent millions pour ça, je refuserais. Aucun salaire ne sera jamais à la hauteur de la difficulté de la tâche. Et j'ai pas de temps à gaspiller en efforts inutiles. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k2 type=13 zoom=60 partbgid=pb2 time=400]En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient toujours comme avant, comme un métal à mémoire de forme.」
 「Haha, t'as pas tort ! Bon, laissons-le là et allons saluer Kuonji. Elle et Aozaki doivent être dans le salon, j'imagine.」
@@ -70,7 +70,7 @@
 「Attends, regarde ! Une nonne est évanouie juste là, Ton Altesse ! [l][chgfg storage=木乃実私服01(中)|c type=13 partbgid=pb1 time=400]Oooh, je peux aller l'enlacer pour la réveiller ?!」
 「Pourquoi pas ? Au pire, tu finiras juste assommé.」
 *page16|
-　Les voix familières et joyeuses se retirèrent vers le hall.
+　Les voix familières et joyeuses se retirèrent vers le salon.
 　Les grains de la coquille dispersés par la brise passèrent à travers la lucarne et disparurent comme grillés par le soleil.
 “Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
 　Cette voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.

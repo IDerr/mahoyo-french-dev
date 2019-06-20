@@ -28,14 +28,14 @@
 「Le... Le sommeil du pharaon...!」
 　Aozaki retenait désespérément son rire.
 *page5|
-　Je n'étais pas en reste, puisque je retenais aussi de toutes mes forces le rire qui montait dans ma gorge.
+　Je n'étais pas en reste, puisque je retenais moi aussi le rire qui montait dans ma gorge de toutes mes forces.
 　En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du nouvel an que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
 *page6|
 ;詠梨ははは笑顔
-「Oh mon dieu ! Moi qui le prenais pour une personne avec la tête sur les épaules.
-　Je me demande quel genre de vie voulait avoir M. Yamashiro ?」
+「Oh mon Dieu ! Moi qui le prenais pour une personne avec la tête sur les épaules.
+　Je me demande quel genre de vie voulait avoir M. Yamashiro.」
 ;リデル01i
-「Qu'est-ce que ça signifie ? Un simple enseignant a une façon de mourir plus tape-à-l'œil que la mienne ? Il se fout de moi ?」
+「Qu'est-ce que ça signifie ? Un simple enseignant a une façon de mourir plus tape-à-l'œil que la mienne ? Il se fout de moi ou quoi ?」
 *page7|
 ;唯架
 「La fouille s'arrête ici. Vous manquez de décence à dénigrer ainsi la nature du défunt.
@@ -158,10 +158,10 @@
 ;唯架
 「... On dit qu'un espion de premier ordre s'hypnotise lui-même afin d'oublier qu'il est un espion... Voilà qui est fâcheux.」
 ;詠梨
-「Non, c'est bizarre. Le coupable a clairement l'intention de nous faire rire, non ? Or, s'il n'en a pas conscience, c'est un peu...」
+「Non, c'est plutôt étrange. Le coupable a clairement l'intention de nous faire rire, non ? Or, s'il n'en a pas conscience, c'est un peu...」
 *page29|
 ;有珠
-「Sweets Hearts et l'humain qu'il remplace échangent leur personnalité comme si on appuyait sur un interrupteur.
+「Sweets Hearts et l'humain qu'il remplace peuvent échanger leur personnalité comme si on appuyait sur un interrupteur.
 　En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
 ;律架ちょう楽しそう。真剣に聞いている。02Be
 　Bien sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」

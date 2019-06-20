@@ -2,19 +2,19 @@
 　―――Deux.
 　C'est ça, ils sont deux, pensai-je.
 *page1|
-　Les choses ne tenaient pas debout parce qu'on croyait qu'il n'y avait qu'un seul coupable.
+　Nos hypothèses ne tenaient pas debout parce qu'on croyait qu'il n'y avait qu'un seul coupable.
 　Mais s'il y en avait deux ?
 *page2|
-　Il fallait d'abord songer aux différents genres de meurtres.
-　On pouvait les diviser en plusieurs catégories :
+　Il fallait d'abord réfléchir aux différents genres de meurtres.
+　On pouvait les diviser en deux catégories :
 　ceux où le “coupable” avait clairement fait rire la victime, et ceux où celle-ci avait ri en voyant les corps.
-　Housuke, Riddell et Yuika faisaient partie du groupe à part dit de “l'auto-élimination”.
+　Housuke, Riddell et Yuika faisaient partie du second groupe, celui de “l'auto-élimination”.
 　Mais il existait une autre personne qui pouvait être incluse dans cette dernière catégorie.
 　―――Beo.
 *page3|
 　Beo était mort après avoir ri devant la véranda.
 　Pourtant, la pièce ne contenait aucun élément susceptible de le faire rire.
-　Et il était dur de croire qu'un piège avait été installé à la lisière de la forêt.
+　Et il était difficile de croire qu'un piège avait été installé à la lisière de la forêt.
 　En effet, un tel piège se serait montré peu efficace, étant donné la tempête qui se déchaînait dehors.
 　On pouvait donc en conclure que le piège était à l'intérieur.
 　Il n'était pas dans la véranda.

@@ -3,12 +3,12 @@
 　Je songeai qu'il était préférable d'attendre le retour du trio dans le manoir.
 *page1|
 ;青子
-「Bon, eh ben, on y va. Si nous ne trouvons rien après vingt minutes, revenons ici.」
+「Bon, eh ben, on y va. Si on ne trouve rien après vingt minutes, revenons ici.」
 ;詠梨
 「C'est une sage décision. Allons-y, Soujyuro.」
 ;草十郎、シリアス頷き
 ;立ち絵、すべて消す
-　D'habitude, Shizuki ne s'approchait pas de père Eiri, mais il faisait une exception cette nuit.
+　D'habitude, Shizuki ne s'approchait pas de père Eiri, mais cette nuit, il faisait une exception.
 　Il ne le lâcha pas et courut de façon à protéger ses arrières.
 *page2|
 ;時計・０時半

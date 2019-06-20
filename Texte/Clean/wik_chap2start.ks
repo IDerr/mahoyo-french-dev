@@ -112,7 +112,7 @@
 *page19|
 　Tout le monde se rangea à l'avis du prêtre.
 ;木乃美、一人で状況が分かってない顔
-　Je retire ce que j'ai dit. Housuke marmonna : “C'est quoi, cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
+　Je retire ce que j'ai dit. Housuke marmonna : “C'est quoi cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
 *page20|
 ;画面・出口側の玄関（雨、雨の跡）
 「..................」

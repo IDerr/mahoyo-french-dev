@@ -20,9 +20,9 @@
 「Pourquoi ça ?」
 *page4|
 ;青子
-「Yuika, qui déteste les sorcières, ne se laisserait jamais enjôler par un Ploy Kickshaw.
+「Yuika, qui déteste les Mages, ne se laisserait jamais enjôler par un Ploy Kickshaw.
 　Allez, maintenant que c'est décidé, on se disperse. Récupérez ce dont vous avez besoin, retournez dans votre chambre et restez-y enfermés jusqu'au matin.
-　Et si l'envie d'aller aux toilettes vous prend, eh bien retenez-vous.」
+　Et si l'envie d'aller aux toilettes vous prend, eh bien, retenez-vous.」
 *page5|
 ;金鹿（あぜん、ぼうぜん。自分の思った通りに進んだから）
 「............」
@@ -65,7 +65,7 @@
 　Tsukiji et père Eiri étaient un peu trop logiques, si bien qu'ils semblaient oublier une certaine question.
 *page13|
 　Ce qui m'intriguait n'était pas l'identité du coupable.
-　Mais pourquoi il en était venu à aller à de telles extrémités.
+　Mais pourquoi il en était arrivé à de telles extrémités.
 ;画面暗転、久万梨、眠ってしまう。
 ;Ｎ－１－ａに合流
 　Je n'eus de cesse de réfléchir à l'intérêt que l'individu A avait de tous nous tuer et―――

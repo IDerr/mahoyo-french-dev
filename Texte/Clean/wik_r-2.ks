@@ -35,7 +35,7 @@
 *page6|
 　Il était à peu près deux heures du matin, une heure où même la flore dormait.
 　Une tempête infernale se déchaînait de l'autre côté des volets fermés.
-　Dans un monde étrange où un rire signifiait la mort, je me trouvais seule dans une chambre avec le garçon que j'aimais en secret depuis trois ans.
+　Dans un monde étrange où un simple rire signifiait la mort, je me retrouvais seule dans une chambre avec le garçon que j'aimais en secret depuis trois ans.
 *page7|
 ;鳶丸
 「On peut se préparer du thé ici. Ça te dit, du thé noir ?」
@@ -90,12 +90,12 @@
 ;鳶丸、意外顔から、嬉し困り笑顔
 「Mais dans notre cas, c'est précisément un problème. [wait canskip=0 time=400][chgfg storage=鳶丸私服b01(全)|e zoom=80 time=400]Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
 ;金鹿ちょっと残念
-「... C'est vrai. Il vaut mieux les soupçonner un tantinet.」
+「... C'est vrai. Il vaut mieux garder un œil sur eux aussi.」
 *page19|
 ;鳶丸
 「T'as tout compris. Dans cette affaire, celui en qui tu dois avoir le moins confiance, c'est toi-même. Si tu n'as pas un partenaire qui t'observe constamment avec objectivité, tu ne peux pas prouver ton innocence.
 ;金鹿、むっ
-　C'est sûrement l'une des raisons pour laquelle Riddell a dit que l'on devait agir par groupe de deux. Deux esprits dans un corps, Sweets Hearts, c'est plutôt bien tourné.」
+　C'est sûrement l'une des raisons pour lesquelles Riddell a dit que l'on devait agir par groupe de deux. Deux esprits dans un corps, Sweets Hearts, c'est plutôt bien tourné.」
 *page20|
 　En laissant de côté Riddell...
 ;金鹿
@@ -106,7 +106,7 @@
 *page22|
 「Aozaki s'est fait piéger ?」
 「Ouais. De fait, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
-　Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état, [wait canskip=0 time=400][chgfg storage=鳶丸私服b02(大)|a2 time=300]tu t'en rappelles ?」
+　Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état, [wait canskip=0 time=400][chgfg storage=鳶丸私服b02(大)|a2 time=300]tu te rappelles ?」
 *page23|
 　... Je...
 *page24|

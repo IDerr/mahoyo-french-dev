@@ -2,14 +2,14 @@
 　Je... Je songeai qu'au vu de la situation, c'était inévitable.
 *page1|
 ;久万梨あわてつつツン。
-「Po... Pourquoi pas, ça pourrait être pratique au cas où.
+「Po... Pourquoi pas, ça pourrait être plus prudent, juste au cas où.
 　Et puis, j'ai assez de frères pour en vendre quelques-uns, alors j'imagine que je suis habituée à dormir dans la même chambre qu'un garçon.」
 ;鳶丸
 「C'est encourageant. Je t'emprunte le canapé.
 ;久万梨、赤面
-　Ça commençait à me fatiguer de rester sur mes gardes. Je pourrai dormir tranquillement avec toi.」
+　Ça commençait à me fatiguer de rester sur mes gardes. Je pourrai dormir sur mes deux oreilles avec toi.」
 *page2|
-　“Bonne nuit”, dit Tsukiji en levant une main avant de s'endormir sur-le-champ.
+　“Bonne nuit”, dit Tsukiji en levant la main avant de s'endormir sur-le-champ.
 　Il s'était affalé sur le canapé, enroulé dans une couverture.
 *page3|
 「J'y crois pas.」
@@ -37,16 +37,16 @@
 　Le jour se levait lentement à l'extérieur.
 *page7|
 　La facilité avec laquelle je pouvais me réveiller comptait parmi mes rares qualités, mais la fatigue avait dû s'accumuler.
-　L'esprit brumeux, je promenai mon regard dans la chambre.
+　L'esprit brumeux, je promenai mon regard à travers la chambre.
 「Ah, oui, Tsukiji―――!」
 　Je me rappelai être dans la même chambre que Tsukiji.
 *page8|
 「Hein ?」
-　Et je me rendis enfin compte que la personne censée être là ne l'était pas.
+　Et je me rendis enfin compte que la personne censée être présente ne l'était pas.
 *page9|
-　Personne n'était sur le canapé.
+　Personne ne se trouvait sur le canapé.
 　Il n'y avait que les vêtements de Tsukiji.
-　Seuls ses habits étaient posés dessus, tel un exemplaire.
+　Ses habits étaient posés sur le meuble, tel un exemplaire dans une vitrine.
 　Cela donnait l'impression qu'il avait rapetissé ou qu'il avait fondu comme de la glace.
 　Manifestement, la mort qu'il désirait consistait à disparaître sans laisser de traces.
 *page10|

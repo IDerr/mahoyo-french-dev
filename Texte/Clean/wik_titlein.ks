@@ -24,7 +24,7 @@
 　Si je devais donner une image d'elle, elle serait une boisson rafraîchissante mais gazeuse. C'est une femme prête à employer n'importe quel moyen pour atteindre ses objectifs, du moins est-ce ainsi que je la vois.
 *page6|
 ;青子
-「L'invitation au manoir Kuonji ne mentionnait pas le fait qu'on avait tout préparé pour la fête et que vous pouviez venir les mains vides ?」
+「L'invitation au manoir Kuonji ne précisait pas qu'on avait tout préparé pour la fête et que vous pouviez venir les mains vides ?」
 ;久万梨
 「Quoi ? Je suis pas au courant.
 　...... Décidément, vous avez tout fait de travers. Ça disait juste que j'étais invitée à un anniversaire au début des congés et que tout le monde devait apporter à manger.」
@@ -34,7 +34,7 @@
 ;青子眉寄せ
 　Enfin, passons. Kumari, [wait canskip=0 time=400][clall][fg storage=青子私服a02b(大)|l center=683 vcenter=369 index=1100][fg storage=金鹿私服01(全) center=343 vcenter=1173 index=1300 zoom=85][fg storage=bg04l三咲町04商店街-(昼) center=506 vcenter=241 index=1000][bg rule=crossfade time=300 storage=black noclear=1]le type discret à l'allure louche derrière toi, il est avec toi ?」
 *page8|
-「Allons, que dis-tu ? Je n'ai étrenné ce costume qu'hier. Il ne fait pas assez bien habillé ?」
+「Allons, que dis-tu ? J'ai étrenné ce costume hier. Il ne fait pas assez bien habillé ?」
 「Il ressemble tellement à votre costume habituel qu'on pourrait prendre ça pour du copier-coller, monsieur Yamashiro.
 　Et donc, que voulez-vous aujourd'hui ?[r]
 　Commencez à faire la filature à vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
@@ -42,7 +42,7 @@
 　Même à l'extérieur de l'école, Aozaki ne faisait preuve d'aucune pitié.
 　Tout particulièrement envers monsieur Yamashiro. Elle le ménageait si peu qu'on aurait pu croire qu'ils étaient frère et sœur.
 *page10|
-「Oh ! Tu parles de stalking, c'est ça ? [chgfg storage=山城01(全)|b time=400 textoff=0]C'est plutôt toi qui as un talent pour cela. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
+「Oh ! Tu parles de stalking, c'est ça ? [chgfg storage=山城01(全)|b time=400 textoff=0]C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
 　Allons, ne fais pas cette tête. Regarde plutôt ça.
 ;青子、驚き。可愛い驚きで
 　Ce matin, j'ai reçu une invitation moi aussi. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
@@ -91,12 +91,12 @@
 　Comme tu es quelqu'un de responsable, je n'ai aucune raison de m'inquiéter, mais bon.」
 「Je n'ai pas besoin de vous pour m'y mettre.
 ;青子つーん
-　Inutile de vous inquiéter.」
+　Inutile de vous en faire.」
 *page20|
 「Ça me rassure. Mais il faut dire que tu refuses toutes les recommandations. Les universités locales te déplaisent tant que ça ?」
 「Là n'est pas la question. C'est juste que je ne voulais pas être limitée dans mes choix. Oubliez-moi et gardez plutôt vos conseils pour Kumari.」
 *page21|
-「Elle s'est déjà décidée, il me semble ? Elle a une recommandation de Mizora. Ses parents et elle-même ont déjà arrêté leur choix sur cette université.」
+「Elle s'est déjà décidée, il me semble ? Elle a reçu une recommandation de Mizora. Ses parents et elle-même ont déjà arrêté leur choix sur cette université.」
 ;青子しまった
 「Ah.」
 *page22|
@@ -123,7 +123,7 @@
 『Et moi, j'veux pouvoir frimer ! Car notre petite sœur est la fille la plus mignonne de Misaki ! Les merdeux du club de patinage se prosterneront devant nous ! Pourquoi ? Pour qu'elle rejoigne leur club, tiens !』
 *page27|
 　Honnêtement, ils sont pénibles.
-　En plus, les épreuves de gymnastique qu'ils avaient mentionnées étaient toutes réservées aux hommes.
+　En plus, toutes les épreuves de gymnastique qu'ils avaient mentionnées étaient réservées aux hommes.
 *page28|
 『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne voulais pas causer une recrudescence du nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
 　Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.

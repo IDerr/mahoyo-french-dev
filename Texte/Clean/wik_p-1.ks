@@ -32,7 +32,7 @@
 　... Il renvoyait une image froide, mais en réalité, c'était probablement la personne qui s'inquiétait le plus pour Aozaki.
 *page7|
 ;青子
-「Tobimaru, je te laisse Yuika et Alice. Si on ne trouve rien après vingt minutes, on reviendra.
+「Tobimaru, je te confie Yuika et Alice. Si on ne trouve rien après vingt minutes, on reviendra.
 　Eiri, en sortant, fais le tour en passant par le côté droit. Nous, on passera par la gauche.」
 ;詠梨
 ;草十郎、シリアス頷き
@@ -83,7 +83,7 @@
 　Hein ?
 *page17|
 「Me... Merdeーーーー!
-　Tu as été appâtée par un truc pareil, Kumaーーーー?!」
+　Tu t'es fait embobiner par un truc pareil, Kumaーーーー?!」
 　Puis, un corps qui évoquait celui d'Aozaki bondit sur le côté. Comme si on lui avait tiré dessus avec un fusil.
 　Aozaki s'écroula au sol et ne bougea plus d'un pouce.
 *page18|
@@ -96,22 +96,22 @@
 　Noyés dans le vacarme de la pluie, des bruits de pas se rapprochaient furtivement.
 「―――!」
 ;SE久万梨の走る音
-　Je ne pris ni le temps de me retourner ni d'hésiter.
-　Je me mis à courir de toutes mes forces.
+　Je ne pris ni le temps de me retourner ni celui d'hésiter.
+　Je me mis à courir à toutes jambes.
 　Pour fuir la silhouette qui s'était faufilée derrière moi.
 　Je me précipitai dans la sombre, sombre forêt sous la tempête, dans la direction opposée au manoir.
 *page20|
 「Ah, ah, ah, ah―――!」
 　Je courais, le souffle court.
-　Je sprintai à une vitesse que je n'avais encore jamais déployée en EPS.
+　Je sprintai à une vitesse que je n'avais encore jamais atteinte en EPS.
 　Apparemment, moi aussi, j'étais capable de courir quand je le voulais vraiment.
 　Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains s'ils y mettent du leur, pensai-je en souriant.
-　Ce fut sur cette note optimiste tentant de fuir la réalité,
+　Ce fut sur cette note optimiste, tentant de fuir la réalité,
 *page21|
 「Hein ?」
 　que mon corps fut assailli par une sensation d'apesanteur.
 ;SE　落下音から、倒れた音。
-　Mes jambes ne frappaient pas le sol mais le vide.
+　Mes jambes ne frappaient plus le sol mais le vide.
 *page22|
 ;画面・嵐の空。雨が降ってきている。
 「He―――in ?」
@@ -125,7 +125,7 @@
 　L'hémorragie dépassait déjà un litre et le volume augmentait encore.
 *page24|
 「... J'y crois... pas...」
-　Ma gorge râlait face au fait irrémédiable.
+　Ma gorge râlait face à ce fait irrémédiable.
 ;SE、ガサリ、ガサリとやってくる足音。
 　“Quelqu'un” se rapprochait.
 　Mais pour moi, ça n'avait plus d'importance.

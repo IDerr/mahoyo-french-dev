@@ -141,7 +141,7 @@
 　Et il s'avère qu'un Ploy Kickshaw est manquant à l'appel.」
 *page22|
 ;青子愕然
-「Un Ploy...? Tu insinues que c'est ce Ploy qui a tué le grand-père et Riddell ?」
+「Un Ploy...? Tu insinues que c'est un Ploy qui a tué le grand-père et Riddell ?」
 「Il serait plus juste de dire qu'ils ont enfreint ses règles.
 　Ça ne sert à rien de le cacher, alors je vais le dire clairement.
 　Dorénavant, et ce jusqu'à demain matin, il est formellement interdit de rire.」
@@ -149,7 +149,7 @@
 ;金鹿
 「Pourquoi ?」
 ;有珠
-「Parce que ce manoir est à présent un monde où le rire est synonyme de mort.」
+「Parce que ce manoir est à présent un monde où rire est synonyme de mort.」
 *page24|
 ;鳶丸、青子、はあ？と呆然
 ;木乃美、爆笑
@@ -166,7 +166,7 @@
 ;有珠
 「Grâce à Kinomi, je comprends mieux les règles.
 　Lorsque l'on rit de soi-même, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
-　Mais si l'on rit du fond du cœur à cause des actes ou d'une farce de quelqu'un, le Ploy considère qu'on a enfreint la règle.」
+　Mais si l'on rit du fond du cœur à cause des actes ou de la farce de quelqu'un d'autre, le Ploy considère qu'on a enfreint les règles.」
 ;鳶丸、金鹿驚き
 「Hein... Quoi ?」
 *page26|
@@ -255,7 +255,7 @@
 　Comme l'a dit Kuonji, cette résidence est devenue un monde avec ses propres règles, et Riddell les a enfreintes, mais s'y est opposée par la force brute.
 　Ça me fiche des maux de crâne, mais les incidents occultes ne sont pas de l'ordre de l'impossible avec des filles comme Kuonji et Riddell.」
 *page42|
-「Sauf que je connais pas les détails. Si on pénètre dans leur monde, on se retrouve mêlé à leurs affaires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, fais-toi à l'idée.」
+「Sauf que je connais pas les détails. Si on pénètre dans leur monde, on se retrouve mêlé à leurs affaires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, habitue-toi à cette idée.」
 *page43|
 ;金鹿、眉ひそめ
 「Je ne peux pas ! Housuke est mort, tu te rends compte ?!」

@@ -5,7 +5,7 @@
 　De plus, je soupçonne que quand nous avons découvert son cadavre, M. Yamashiro avait déjà disparu.」
 *page1|
 ;唯架
-「En ce qui me concerne, ma déposition est la même que père Eiri.
+「En ce qui me concerne, ma déposition est identique à celle de père Eiri.
 　Je n'ai pas quitté le salon une seule fois entre le moment où je suis arrivée dans cette demeure et celui où l'incident s'est déclaré.」
 *page2|
 ;律架

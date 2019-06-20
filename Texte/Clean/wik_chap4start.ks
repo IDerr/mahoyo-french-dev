@@ -26,13 +26,13 @@
 　Ce qui est arrivé à Eiri et Yuika est regrettable, mais dans un certain sens, je me sens rassurée. On se connaît tous bien, alors nous n'avons pas à nous soupçonner.
 　Si seulement on pouvait trouver Touko...」
 ;律架
-「Non, ce sera inutile. Le jeu est terminé.
+「Non, ce sera inutile. La partie est terminée.
 　Tu t'es bien jouée de nous jusqu'à présent, ma petite Ako.」
 *page6|
 ;有珠
 「Ritsuka ?」
 　La voix provenait des escaliers.
-　Ritsuka qui était allée chercher Beo venait de revenir.
+　Ritsuka, qui était allée chercher Beo, venait de revenir.
 *page7|
 「... Quoi ? Qu'est-ce que tu veux dire par là, Ritsuka ?」
 「Que tu n'as plus besoin de jouer la comédie.

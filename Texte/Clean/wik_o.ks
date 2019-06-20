@@ -82,14 +82,14 @@
 *page13|
 ;唯架
 「Aozaki Touko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.
-　Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même en ce qui concerne le mobile qui nous échappait jusqu'à présent, elle est le parfait candidat.」
+　Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même en ce qui concerne le mobile qui nous échappait jusqu'à présent, elle est le candidat parfait.」
 *page14|
 「En effet. Si Touko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importent les mesures que nous prendrions, elle entrerait de force.」
 *page15|
 ;律架
 「Oui, elle en serait bien capable. Elle adore les films d'horreur...! Hum. C'est bien dommage qu'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
 ;詠梨
-「Séparons-nous et fouillons le manoir. Nous devons être sûrs que Touko est bien là.」
+「Séparons-nous et fouillons le manoir. Nous devons nous assurer que Touko est bien là.」
 *page16|
 ;青子、やばいって顔。実は橙子が来ている事を知っていて、かつ、彼女の死体を隠しているので//
 「Hein ? Ah, oui, c'est vrai.
@@ -139,8 +139,8 @@
 　J'avais beau y penser, cela ne pouvait être que le treizième invité à l'identité inconnue.
 *page22|
 ;画面切り替え・ロビー・夜
-　Nous fuyâmes dans le hall.
-　Les lampes du mur semblaient avoir une source d'électricité différente. Nous n'étions pas complètement plongés dans le noir.
+　Nous nous réfugiâmes dans le hall.
+　Les lampes murales semblaient être alimentées par une autre source d'électricité. Nous n'étions pas complètement plongés dans le noir.
 *page23|
 ;青子
 「Kuma ? Qu'est-ce qui se passe ? Tu es blême !」
@@ -178,8 +178,8 @@
 「En effet.
 　Je pourrai m'en sortir, mais je n'aime pas l'idée de laisser Aoko seule...」
 ;青子
-「Ne t'en fais pas, je peux me protéger toute seule.
-　Et toi alors, ça va aller ? Tu n'es pas armé, si ?」
+「Ne t'en fais pas, je peux me débrouiller toute seule.
+　Et toi alors, ça va aller ? Tu n'es pas armé, pas vrai ?」
 *page31|
 ;詠梨
 「Dans ce cas... Soujyuro, veux-tu m'accompagner ?[r]

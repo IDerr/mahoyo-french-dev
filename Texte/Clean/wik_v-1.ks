@@ -12,7 +12,7 @@
 　Pourtant, Kuonji avait affirmé ceci :
 “Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
 *page2|
-　Si le verrouillage des portes était son rôle, elle n'aurait pas utilisé une telle formulation.
+　Si le verrouillage des portes était son rôle, elle n'aurait pas employé une telle formulation.
 　Kuonji avait l'intention de demander à Shizuki, ou alors à Aozaki, de s'en occuper.
 　Aozaki avait témoigné être en ville dans la matinée.
 　On pouvait le prouver par le fait que son absence avait permis à sa sœur de s'introduire dans sa chambre.
@@ -20,7 +20,7 @@
 *page3|
 「C'est un peu léger de n'avoir que ça comme preuve, mais bon...」
 　J'avais l'impression d'avoir un ou deux autres éléments en main, mais pour le moment, mon cerveau ne fonctionnait pas comme je le voulais.
-　Il fallait absolument que je trouve Shizuki avant le matin. Et quand je l'aurais trouvé―――
+　Il fallait que je trouve rapidement Shizuki avant le matin, le trouver et―――
 ;SEかたり、と足音。ＢＧＭ止める。
 　Dans mon dos. Je sentis. La présence. De quelqu'un.
 *page4|
@@ -34,7 +34,7 @@
 　Je me retournai et avant de me faire attaquer, je fis un swing monstrueux avec la casserole que j'avais dans les mains.
 　C'était réglé.
 　Le coup était parfait.
-　Shizuki... en fin de compte, c'était bien lui, même si je ne l'avais vu qu'un instant... [se storage=se08015 volume=100 loop=0][se storage=se08027 volume=100 loop=0]s'écroula, et un étrange objet roula au sol.
+　Shizuki... en fin de compte, c'était bien lui, même si je ne l'avais vu qu'une fraction de seconde... [se storage=se08015 volume=100 loop=0][se storage=se08027 volume=100 loop=0]s'écroula, et un étrange objet roula au sol.
 　C'était―――un objet de déguisement assez standard comme objet de fête, une lunette-nez.
 *page6|
 ;画面・出口方面の玄関
@@ -78,14 +78,14 @@
 *page12|
 　Souviens-toi des règles.
 　Si on fait une erreur en accusant le coupable, on meurt.
-　Puisque j'étais en vie, la théorie selon laquelle Shizuki était coupable devait être correcte.
+　Puisque j'étais encore en vie, la théorie selon laquelle Shizuki était coupable devait être correcte.
 　Si je ne me trompais pas, alors―――il devait sûrement manquer quelque chose !
 *page13|
 「Ma théorie sur le coupable―――
 　Il ne fait aucun doute que c'était un indice...! Réfléchis méthodiquement, d'abord, qu'est-ce qui est la cause de tout ça...!」
 *page14|
 　Des bruits de pas se rapprochaient.
-　Le matin se rapprochait.
+　Le matin était imminent.
 　C'était vraiment ma dernière chance.
 　Je...
 *page15|
