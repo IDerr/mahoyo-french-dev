@@ -95,7 +95,7 @@
 　Après tout, la découverte de ce corps aurait été fâcheuse pour toi à bien des égards.」
 *page20|
 「Tu te trompes ! C'est un malentendu ! Moi aussi, je suis une victime !
-　Lorsque je suis revenue dans ma chambre après midi, je suis tombé sur le cadavre de ma sœur ! N'importe qui aurait caché ça, non ?」
+　Lorsque je suis revenue dans ma chambre après midi, je suis tombée sur le cadavre de ma sœur ! N'importe qui aurait caché ça, non ?」
 *page21|
 ;鳶丸
 「... Malheureusement, tes explications arrivent trop tard, Aozaki.
