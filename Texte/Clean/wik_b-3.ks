@@ -5,7 +5,7 @@
 *page1|
 「Je crois que j'ai perdu quelque chose. Partez devant, je vais chercher dehors.」
 ;青子
-「Tu ressors ? Dans ce cas, je viens avec toi.」
+「Tu ressors ? Dans ce cas, je t'accompagne.」
 *page2|
 ;木乃美
 「Hein ? Qu'est-ce que tu racontes, présidente ? C'est sa faute si elle a perdu un truc. Tu n'y es pour rien.[r]

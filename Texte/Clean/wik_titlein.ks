@@ -106,14 +106,14 @@
 　Faisons à présent le point sur mes antécédents et la raison qui nous amène ici aujourd'hui.
 *page23|
 ;久万梨の回想、本格的に開始。画面を街に飛ばすか、黒画面に//
-　Je suis Kumari Kojika, élève de terminale.
+　Mon nom est Kumari Kojika, élève de terminale.
 　Une étudiante désespérée en pleine préparation pour les examens de février.
-　...... Du moins, le serais-je si je visais une université dans une grande ville, mais ça ne m'intéresse pas.
-　En effet, j'ai déjà une recommandation pour Mizora, l'université locale, et même sans celle-ci, je pourrais y entrer aisément avec mon niveau actuel.
+　...... Du moins, le serais-je si je visais une université dans une grande ville, mais ça ne m'intéressait pas.
+　En effet, j'avais déjà une recommandation pour Mizora, l'université locale, et même sans celle-ci, j'aurais pu y entrer aisément avec mon niveau actuel.
 *page24|
 　À l'origine, mes parents voulaient que je travaille après le lycée et étaient contre l'idée que j'étudie dans une université, même locale.
 『Tu vas reprendre l'entreprise familiale. Tu n'as pas besoin d'aller à la fac.』
-　C'était le speech de mon père, énorme et borné comme un ours des montagnes.
+　C'était le discours que tenait mon père, énorme et borné comme un ours des montagnes.
 　Mes frères s'allièrent pour persuader mon géniteur barbare et vieux jeu.
 *page25|
 『Mad Daddy, Kojika a besoin d'une vie étudiante ! Et tout spécialement les épreuves de gymnastique. Comment pourrait-elle profiter de sa jeunesse sans faire de cheval d'arceaux ?』
@@ -122,7 +122,7 @@
 *page26|
 『Et moi, j'veux pouvoir frimer ! Car notre petite sœur est la fille la plus mignonne de Misaki ! Les merdeux du club de patinage se prosterneront devant nous ! Pourquoi ? Pour qu'elle rejoigne leur club, tiens !』
 *page27|
-　Honnêtement, ils sont pénibles.
+　Honnêtement, ils étaient pénibles.
 　En plus, toutes les épreuves de gymnastique qu'ils avaient mentionnées étaient réservées aux hommes.
 *page28|
 『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne voulais pas causer une recrudescence du nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
@@ -137,8 +137,8 @@
 *page31|
 　Ces quelques mots achevèrent de duper mon père.
 　Bien sûr, mon véritable objectif était ce deuxième vœu.
-　Pour atteindre ce but, j'ai continué de trimer dur dans le plus grand secret.
-　J'ai économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
+　Pour atteindre ce but, j'avais continué de trimer dur dans le plus grand secret.
+　J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
 *page32|
 　Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts des autres.
 　Une fois que j'aurais obtenu de bons résultats et qu'il saurait que j'avais économisé suffisamment d'argent, il accepterait sûrement, de mauvaise grâce certes, que j'aille à l'université de Tokyo.
@@ -157,8 +157,8 @@
 　Yamashiro s'était sans doute laissé emporter par la joie que lui procurait ce beau temps et la perspective de l'évènement rarissime qu'était la fête au manoir Kuonji.
 　Par malheur, il aborda le sujet le plus tabou du lycée Misaki.
 *page35|
-　Étrangement―――non, en réalité, il n'y a rien d'étrange là-dedans, mais Aozaki n'a pas de petit ami.
-　Lorsqu'elle se tait, tout le monde reconnaît qu'Aozaki est une beauté, [l][movefg opacity=0 vcenter=288 time=800 accel=0 storage=white center=512][movefg opacity=0 vcenter=334 time=800 accel=-2 storage=im白グラデ上から center=512 id=1][movefg opacity=0 vcenter=1405 time=600 accel=-2 storage=青子私服aブーツ03b(全)|a2 center=451][movefg opacity=0 vcenter=401 time=600 accel=-2 storage=青子私服aブーツ02a(大) center=623][movefg opacity=255 vcenter=1405 time=600 accel=-2 storage=青子私服aブーツ01b(全)|u center=670][movefg opacity=255 vcenter=401 time=600 accel=-2 storage=青子私服aブーツ02b(大)|k center=276][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0]mais comme elle est généralement de mauvaise humeur, on n'entend aucune histoire frivole à son sujet.
+　Étrangement―――non, en réalité, il n'y avait rien d'étrange là-dedans, mais Aozaki n'avait pas de petit ami.
+　Lorsqu'elle se taisait, tout le monde reconnaissait qu'Aozaki était une beauté, [l][movefg opacity=0 vcenter=288 time=800 accel=0 storage=white center=512][movefg opacity=0 vcenter=334 time=800 accel=-2 storage=im白グラデ上から center=512 id=1][movefg opacity=0 vcenter=1405 time=600 accel=-2 storage=青子私服aブーツ03b(全)|a2 center=451][movefg opacity=0 vcenter=401 time=600 accel=-2 storage=青子私服aブーツ02a(大) center=623][movefg opacity=255 vcenter=1405 time=600 accel=-2 storage=青子私服aブーツ01b(全)|u center=670][movefg opacity=255 vcenter=401 time=600 accel=-2 storage=青子私服aブーツ02b(大)|k center=276][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0]mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
 *page36|
 ;青子
 「Monsieur Yamashiro, auriez-vous perdu la raison ?」
@@ -182,7 +182,7 @@
 　Même si c'est une fête, ça ne reste qu'un anniversaire.」
 *page40|
 　La naïveté dont je faisais preuve me déprimait.
-　Je ne suis ni aussi cool ni aussi bien faite qu'Aozaki.
+　Je n'étais ni aussi cool ni aussi bien faite qu'Aozaki.
 　Après tous ces préparatifs, j'hésitais à appliquer mon plan. On pouvait presque parler de frousse.
 　J'étais la première à trouver cela pitoyable :
 　apparemment, il y avait dans ma vie un élève masculin qui revêtait la même importance que mon problème scolaire.
@@ -191,7 +191,7 @@
 「Je suis étonnée que Kuonji ait donné son accord. D'après ce que tu m'as dit, elle laisse rarement entrer son propre père, non ?」
 「Oui, moi aussi, ça m'a surprise. Les humains peuvent vraiment changer.
 ;ここ、一瞬だけ洋館ロビー、有珠の立ち絵をだすか。少し恥じらうかんじの有珠。二話の後なので、有珠は完全に草十郎に片思いモードです//
-“Je ne vois aucun problème à inviter les amis de Shizuki.”
+　“Je ne vois aucun problème à inviter les amis de Shizuki.”
 　Je n'aurais jamais cru qu'une telle phrase sortirait de la bouche d'Alice.」
 *page42|
 　Un portail se dressait au cœur de la colline Shiroinuzaka comme pour refouler tout visiteur.

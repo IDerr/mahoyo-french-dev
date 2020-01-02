@@ -35,8 +35,8 @@
 　Ne trouvant pas la volonté de la suivre, j'entrepris de retourner à la porte principale.
 *page5|
 ;画面・少しだけウエイトして洋館・ロビーに
-　De retour au vestibule――― j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
+　De retour au vestibule―――j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
 　Aozaki devait sûrement m'attendre.
 ;Ｂ－１－ａへ合流
-　Je réajustai le sac sur mon épaule et partis vers le salon.
+　Je réajustai mon sac sur l'épaule et partis vers le salon.
 *page6|

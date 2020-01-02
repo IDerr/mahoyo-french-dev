@@ -36,9 +36,9 @@
 　Et cela durait depuis trois ans.
 　Incapable de me confesser, je tournais en rond depuis tout ce temps. Je faisais preuve d'une lâcheté absolument misérable.
 *page7|
-　Cela dit, pour ma pitoyable défense, ce n'est pas comme si j'étais aussi froussarde depuis le début.
+　Cela dit, pour ma pitoyable défense, ce n'était pas comme si j'étais aussi froussarde depuis le début.
 　En première année, je ne le considérais vaguement que comme un ami d'Aozaki.
-　C'est en deuxième année que je pris petit à petit conscience de mes sentiments.
+　Ce fut en deuxième année que je pris petit à petit conscience de mes sentiments.
 　Tsukiji venait souvent me parler. C'était probablement grâce à mon amitié avec Aozaki qu'il me faisait confiance.
 　En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
 *page8|
@@ -51,14 +51,14 @@
 　Je tenais tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
 　Je me révoltais contre mon destin consistant à reprendre l'affaire familiale.
 　Et je n'étais pas peu fière de me préparer assidûment à ça depuis le collège.
-　C'est pourquoi je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
+　C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
 　On aurait aussi pu dire que je n'avais pas de courage.
 *page10|
 　Et puis, le temps commença à manquer.
 　J'étais toujours dans les nuages.
 　L'automne de notre troisième et dernière année arrivé, j'avais sérieusement perdu de vue ce que je voulais faire.
 *page11|
-　Apparemment, Tsukiji allait s'inscrire, choix étonnant, dans une université locale. J'étais sûre de cette information car j'avais utilisé tous mes privilèges de membre du conseil étudiant pour enquêter.
+　Apparemment, Tsukiji allait s'inscrire, choix étonnant, dans une université locale. J'étais sûre de cette information car j'avais utilisé tous mes privilèges de membre du conseil étudiant pour me renseigner.
 　Pas de surprise, il n'avait pas choisi Mizora, mais son inscription dans une université locale ouvrait pour moi, pleine de regrets, la porte à certaines possibilités.
 　Notre relation ne s'achèverait pas là si j'optais moi aussi pour une université locale, pensai-je alors.
 *page12|
@@ -88,7 +88,7 @@
 *page17|
 ;金鹿、頬染めむぅ
 「............」
-　De toute façon, je ne possédais pas de robe ; ce n'est pas comme si mes efforts auraient servi à grand-chose.
+　De toute façon, je ne possédais pas de robe ; ce n'était pas comme si mes efforts auraient servi à grand-chose.
 　Je me frappai les joues pour reprendre mes esprits et me comporter comme d'habitude.
 *page18|
 ;時計・午後三時半時
@@ -99,7 +99,7 @@
 *page19|
 ;画面・居間、立ち絵・有珠
 　Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
-　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Housuke et aussi, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
+　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Housuke, et aussi, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
 *page20|
 ;木乃美、山城
 「Oh ! Les arbres que j'ai aperçus brièvement dans l'arrière-cour étaient des Oak ? En français, on appelle ça des chênes... Hum, ils sont différents de ceux dont je me rappelle.
@@ -144,7 +144,7 @@
 *page29|
 　C'était une vieille histoire.
 　Au cours de ma première année, un lycéen avait fumé aux yeux de tous sur le parking de la supérette.
-　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accouru pour l'avertir, et lorsque j'avais essayé de l'asperger avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
+　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accouru pour l'avertir, et quand j'avais essayé de l'asperger avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
 　Tandis que je m'inclinais avec empressement pour m'excuser, j'avais aperçu dans sa main une cigarette qu'il était justement sur le point d'allumer.
 　La victime en question était ce garçon, Tsukiji Tobimaru.
 *page30|

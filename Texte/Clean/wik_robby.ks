@@ -33,7 +33,7 @@
 「Aozaki. Cette histoire, c'est vrai ?」
 ;青子、01Aa
 ;青子
-「En faisant omission des fantômes, il arrive que des choses étranges se produisent. [wait canskip=0 time=400][chgfg storage=青子私服a02a(全)|h zoom=82 time=400 textoff=0]Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
+「Eh bien, si on met de côté les fantômes, il arrive que des choses étranges se produisent. [wait canskip=0 time=400][chgfg storage=青子私服a02a(全)|h zoom=82 time=400 textoff=0]Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
 「――――――」
 　J'étais d'accord avec le professeur Yamashiro.
 　Le plus effrayant était le caractère d'Aozaki qui affirmait qu'on pouvait ignorer les fantômes.
@@ -45,7 +45,7 @@
 　Il faisait si froid qu'on aurait cru être en hiver.
 *page8|
 ;山城だけど、立ち絵ださなくて良し
-「L'intérieur est également fascinant. D'après la façade, j'imaginais un style Tudor typique, mais le vestibule se rapproche plus d'une architecture romanesque.
+「L'intérieur est également fascinant. D'après la façade, j'imaginais un style Tudor typique, mais le vestibule se rapproche plus d'une architecture romane.
 　Le couloir et le vestibule sont de deux époques différentes. On croirait presque que seule cette partie vient d'un autre bâtiment...... Tiens ?」
 「Hein ? J'suis surpris ! Yamashiro est là ?」
 *page9|
@@ -68,7 +68,7 @@
 ;久万梨
 「Une oie aurait amplement suffi à le remplacer pour mettre de l'ambiance.[r]
 　Je ne comprends vraiment pas Shizuki.
-　Housuke, ne fais pas l'idiot et porte les bagages !」
+　Housuke, ne fais pas l'idiot et occupe-toi de mes bagages !」
 ;木乃美
 「Tu veux dire un clown, non ? Pas une oie, un clown !」
 *page13|

@@ -8,5 +8,5 @@
 　Entre donc. Même si tu connais tout le monde, les saluer ne peut pas faire de mal.」
 　Même entre bons amis, il y a une politesse à respecter.
 ;Ｂ－１－ｂへ
-　Elle tourna la poignée tout en prononçant ces paroles qui mettait en exergue la droiture propre à son caractère.
+　Elle tourna la poignée tout en prononçant ces paroles qui mettaient en exergue la droiture propre à son caractère.
 *page1|
