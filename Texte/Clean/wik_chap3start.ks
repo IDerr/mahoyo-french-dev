@@ -6,14 +6,14 @@
 　Nous nous séparâmes pour fouiller le manoir, et quelques minutes plus tard, Ritsuka, en charge des chambres d'ami du premier étage, appela tout le monde.
 *page1|
 ;青子
-「C'est la chambre de M. Yamashiro. La porte est fermée à clef ?」
+「C'est la chambre de M. Yamashiro. La porte était-elle fermée à clef ?」
 ;律架
 「Elle ne l'était pas. Je pensais qu'il n'était pas là, mais j'ai jeté un coup d'œil à l'intérieur à tout hasard, et... [wait canskip=0 time=100][fgact page=fore props=-storage,center,vcenter,absolute,zoomx,zoomy,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,律架01b(全)|j,811,905,1300,65,65,1,1,100,1,1)(700,,n,,,,,,,0,0,,0,) storage=律架01b(全)|j]pff, pff.」
 　Ritsuka se tut sur ces mots.
-　Sur la fin, elle avait vaguement eu l'air de retenir un rire, mais je voulus croire que ce n'était que mon imagination.
+　Sur la fin, elle avait vaguement eu l'air de se retenir de rire, mais je voulus croire que ce n'était que mon imagination.
 *page2|
 ;律架
-「Déjà, regardez dedans. On en parlera ensuite.」
+「Déjà, regardez à l'intérieur. On en discutera ensuite.」
 ;律架消す、画面暗転
 　Sur le conseil de Ritsuka, nous pénétrâmes dans la chambre.
 *page3|
@@ -39,7 +39,7 @@
 *page7|
 ;唯架
 「La fouille s'arrête ici. Vous manquez de décence à dénigrer ainsi la nature du défunt.
-　Dorénavant, faites en sorte de ne pas vous moquer du cadavre d'une éventuelle prochaine victime. Est-ce bien clair ?」
+　Dorénavant, faites en sorte de ne pas vous moquer du cadavre d'une éventuelle prochaine victime. Est-ce clair ?」
 *page8|
 ;詠梨
 「Ah, oui. Pardonnez-moi, c'était certes déplacé.
@@ -54,14 +54,14 @@
 ;画面・居間
 ;時計21時
 ;外、落雷が落ちる。雨はますます酷くなる。//
-　Une lourde atmosphère pesait sur le salon.
-　L'augmentation du nombre de morts n'était pour rien dans cet air vicié par la tristesse.
+　Une atmosphère pesante régnait dans le salon.
+　Le nombre croissant de victimes n'était pour rien dans cet air vicié par la tristesse.
 　J'avais remarqué que le fait de nous être divisés en groupe de deux avait donné naissance à une drôle d'ambiance :
 　... nous commencions malheureusement à soupçonner les autres équipes.
 *page11|
 ;槻司
 「La chambre n'avait pas l'air d'être en désordre. Soit le coupable a invité Yamashiro à l'intérieur, soit il est entré quand le prof y était déjà.
-　Dans les deux cas, il s'est probablement agi d'une attaque-surprise et le coupable était quelqu'un d'assez proche de lui.[r]
+　Dans les deux cas, il s'agissait très probablement d'une attaque-surprise, et le coupable était quelqu'un d'assez proche de lui.[r]
 　En plus, Yamashiro ne connaissait pas les règles. Il a dû être facile de le faire rire, mais...」
 *page12|
 　Tsukiji s'adressait à toutes les personnes réunies dans le salon.
@@ -134,7 +134,7 @@
 「Ce que c'est original. Je n'avais encore jamais entendu parler d'un roman policier où le meurtrier est un pudding.」
 *page24|
 ;リデル
-「Vous êtes idiots ou quoi ? Il n'y a que des idiots ici ?
+「Vous êtes bêtes ou quoi ? Il n'y a que des idiots ici ?
 　Ça, c'est sa forme avant d'être activé. Sweets Hearts devient le sosie parfait de la personne qui le mange.」
 *page25|
 「Pour être plus précise, à partir du moment où il a mangé Sweets Hearts, l'humain qui l'a ingéré... l'utilisateur donc, est enfermé dans l'œuf, et c'est Sweets Hearts qui apparaît sous la forme de celui-ci à la surface.
@@ -167,14 +167,14 @@
 　Bien sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」
 *page30|
 ;金鹿呆然
-　... Ces conditions sont absurdes.
+　... Ces conditions étaient absurdes.
 　On croirait presque avoir affaire à un serial killer sans forme, à un tueur fou sans soif de sang.
 　N'importe qui―――même moi―――pouvait répondre à ces conditions.
 　Dans la situation présente, cela signifiait que Sweets Hearts pouvait être n'importe lequel d'entre nous...!
 *page31|
 ;律架
 「Mes chers, calmez-vous. Gardons notre sang-froid.
-　Il ne faut pas commencer à sauter de joie parce que c'est amusant, se battre, ou décider de rentrer à la maison et s'élancer dehors juste parce que vous en avez assez, d'accord ? Vous seriez sûrs de mourir.」
+　Il ne faut pas commencer à sauter de joie parce que c'est amusant, se battre, ou décider de rentrer chez vous et sortir dehors juste parce que vous en avez assez, d'accord ? Vous seriez sûrs de mourir.」
 ;唯架
 「En ce qui me concerne, je voudrais d'abord que toi, tu te calmes.」
 *page32|
@@ -189,14 +189,14 @@
 ;鳶丸
 「Effectivement. On n'identifiera pas Sweets Hearts, mais on aura peut-être une piste quant à savoir qui a tué ces deux-là.」
 *page34|
-「Détaillons nos actions de la journée. Si quelque chose ne correspond pas à nos souvenirs, faites-en la remarque sans pitié.
+「Détaillons nos actions de la journée. Si quelque chose ne correspond pas à nos souvenirs, faites-en la remarque sans la moindre pitié.
 　Allez, je commence.」
 *page35|
 　Si l'auteur de la proposition, en l'occurence Tsukiji, commençait, personne ne pouvait émettre d'objection.
 　Demander une pause maintenant aurait suscité des soupçons.
 *page36|
 ;鳶丸
-「Je suis arrivé à la résidence Kuonji avec Beo, Kinomi, et le vieux Tokitsu à 10 heures du matin.
+「Je suis arrivé à la résidence Kuonji avec Beo, Kinomi et le vieux Tokitsu à 10 heures du matin.
 　Après avoir salué Kuonji, nous nous sommes reposés dans les chambres d'ami qui ont été allouées à chacun, puis nous nous sommes de nouveau réunis dans le salon à 11 heures et avons pris le déjeuner.
 　... Si je me souviens bien, c'est vers ce moment-là que le vieux Tokitsu a disparu.」
 *page37|
@@ -207,15 +207,15 @@
 *page38|
 ;青子
 「J'ai fait des courses en ville dans la matinée, et après ça, à midi passé, j'ai rejoint Kumari. J'ai été étonnée de voir aussi M. Yamashiro avec elle.
-　Nous sommes arrivés tous les trois au manoir à deux heures passées.
-　J'ai salué Tobimaru et les autres dans le salon, et ensuite, j'ai passé le plus clair de mon temps entre le salon et la véranda.
+　Nous sommes arrivés tous les trois au manoir peu après deux heures.
+　J'ai salué Tobimaru et les autres dans le salon, et ensuite, j'ai moi aussi passé le plus clair de mon temps entre le salon et la véranda.
 　J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais je n'ai pas croisé une seule fois Tokkii.」
 *page39|
 ;ベオ
 「Moi aussi, je dois le faire ? Je veux bien, mais c'est pas bien différent de ce qu'ont fait les autres, vous savez ?
-　Voyons, comme il y a trois jours de congé consécutifs, hier, j'ai passé la nuit chez Tobi. Comme Housuke était aussi avec nous, c'était affreusement bruyant.
+　Voyons, comme on était au début des trois jours de congé consécutifs, hier, j'ai passé la nuit chez Tobi. Comme Housuke était aussi avec nous, c'était affreusement bruyant.
 　Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
-　À 10 heures, j'ai salué Alice, et ensuite, je n'ai rien fait !」
+　À 10 heures, j'ai dit bonjour Alice, et ensuite, je n'ai rien fait !」
 *page40|
 　... Je...
 *page41|

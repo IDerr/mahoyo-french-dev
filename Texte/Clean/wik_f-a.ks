@@ -11,7 +11,7 @@
 　Ça m'étonnerait pas qu'un éboulement de terrain se produise à ce rythme. Si jamais ça arrive, on sera vraiment isolés.」
 *page2|
 ;木乃美
-「Quoi ? Sérieux ?! La chance ! Du coup, on passera la nuit ici ! Ça doit être mon jour de chance ! Puis-je me porter volontaire pour réconforter Alice quand elle sera effrayée ?!」
+「Quoi ? Sérieux ?! La chance ! Du coup, on va devoir passer la nuit ici ! Ça doit être mon jour de chance ! Puis-je me porter volontaire pour réconforter Alice quand elle sera effrayée ?!」
 ;青子
 「Agis donc à ta guise.
 　On a déjà un cadavre sur les bras, alors un de plus ne fera pas une grande différence.」
@@ -37,7 +37,7 @@
 　Une personne vient de mourir, alors demander du thé et des pâtisseries, c'est bien plus impoli, tu ne crois pas ?」
 *page7|
 ;リデル
-「Quoi ? Répète un peu ? Comment un chien de garde comme toi ose imposer son opinion à son maître ? Pourquoi ne prêches-tu le bon sens qu'à des moments pareils ?」
+「Quoi ? Répète un peu ? Comment un chien de garde comme toi ose imposer son opinion à son maître ? Pourquoi ne prêches-tu le bon sens qu'en des moments pareils ?」
 ;リデル、草十郎の首輪をつかんでガクガク揺さぶる
 　La femme en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
 ;草十郎
@@ -50,7 +50,7 @@
 「Comment ? Essaie donc pour voir ! [chgfg storage=リデル02(全)|d2 quakeHMax=2 quakeVMax=0 zoom=80 time=400 textoff=0]Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
 *page9|
 ;ベオ
-「Oh ? Tu pensais vraiment que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.
+「Oh ? Tu pensais réellement que j'étais sérieux à ce moment-là ? Ton jugement laisse franchement à désirer.
 　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide, à l'image de la marchandise de piètre qualité que tu es.」
 *page10|
 ;リデル
@@ -68,10 +68,10 @@
 　En ces superbes circonstances...... [chgfg storage=律架01b(全)|g zoom=80 time=400 textoff=0]Ahem, [wait canskip=0 time=200][chgfg storage=律架01a(全)|e2 zoom=80 time=400 textoff=0]en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 　La situation est claire comme de l'eau de roche. M. Tokitsu Yurihiko est décédé et le fil du téléphone a été arraché.
 　L'enchaînement de ces deux évènements ne peut pas être une coïncidence.
-　Il serait plus logique de penser que ces deux cas sont intrinsèquement liés et qu'ils sont dus aux actes d'une tierce personne. En d'autres termes―――」
+　Il serait plus logique de penser que ces deux cas sont intrinsèquement liés et qu'ils sont dus aux actes d'une seule et même personne. En d'autres termes―――」
 *page13|
 ;金鹿
-「Ce serait donc un meurtre...... La personne qui a assassiné M. Tokitsu a mis le téléphone hors service afin de nous empêcher de contacter la police. C'est ce que vous pensez ?」
+「Ce serait donc un meurtre...... L'individu qui a assassiné M. Tokitsu a mis le téléphone hors service afin de nous empêcher de contacter la police. C'est ce que vous pensez ?」
 ;律架
 「Oui ! C'est exactement ça, Kojika !
 　Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous ! [wait canskip=0 time=200][chgfg storage=律架02a(全)|d zoom=80 time=400 textoff=0]Du moins, ça serait bien !」
@@ -81,7 +81,7 @@
 ;律架
 「Tout à fait, Housuke. C'est là-dedans qu'on est embarqués !
 　La moindre négligence te vaudra un coup de poignard dans le dos !
-　Allez ! Qui veut présenter son hypothèse ?」
+　Allez ! Qui veut nous faire part de ses hypothèses ?」
 *page15|
 　Je n'avais jamais vu Ritsuka aussi excitée.
 　Peut-être avait-elle perdu la boule à cause de la peur.
@@ -96,7 +96,7 @@
 ;詠梨
 「Veuillez excuser notre camarade pour les propos inquiétants qu'elle vient de tenir.
 　Mais comprenez que ce n'est en aucun cas de la comédie.[r]
-　Il est un peu tôt pour se prononcer et affirmer que le meurtrier de M. Tokitsu se trouve parmi nous, mais il s'avère tout de même indispensable de remettre de l'ordre dans nos idées.」
+　Il est encore trop tôt pour se prononcer et affirmer que le meurtrier de M. Tokitsu se trouve parmi nous, mais il s'avère tout de même indispensable de remettre de l'ordre dans nos idées.」
 *page18|
 　Je n'avais aucune raison d'objecter.
 　Le résumé de la situation commença sous la tutelle de père Eiri.
@@ -111,10 +111,10 @@
 *page21|
 ;詠梨
 「Qui a vu M. Tokitsu en dernier ?
-　À notre arrivée dans la soirée, nous ne l'avons pas vu.」
+　À notre arrivée à la soirée, nous ne l'avons pas vu.」
 ;木乃美
-「Nous sommes arrivés dans la matinée et à ce moment-là, il était avec nous.
-　Je me souviens m'être battu avec lui pour être à côté d'Alice, alors je suis sûr de moi.
+「Nous sommes arrivés dans la matinée, et à ce moment-là, il était avec nous.
+　Je me souviens de m'être battu avec lui pour être à côté d'Alice, alors je suis sûr de moi.
 　Mais attendez...... Je me souviens ! Le vieux a murmuré un truc du genre “c'est l'heure” après avoir regardé l'horloge, puis il a quitté le salon.」
 *page22|
 　Malgré les apparences, Housuke avait une excellente mémoire.
@@ -124,9 +124,9 @@
 ;詠梨
 「Donc...... M. Tokitsu a disparu peu après midi. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à partir de cette heure-là.」
 *page24|
-　En effet, la période entre sa disparition et la découverte du corps était trop longue.
-　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou prendre une pause.
-　En d'autres termes, tout le monde s'était retrouvé seul à un moment donné, entre cinq ou dix minutes.
+　En effet, la période entre sa disparition et la découverte de son corps était trop longue.
+　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou se reposer.
+　En d'autres termes, tout le monde s'était retrouvé seul à un moment donné, pendant cinq ou dix minutes.
 　La seule personne qui avait toujours été accompagnée et était restée dans cette pièce était Kuonji.
 *page25|
 ;青子

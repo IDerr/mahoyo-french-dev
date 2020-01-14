@@ -10,11 +10,11 @@
 　De par sa nature strictement réaliste, Aozaki sautait parfois à des conclusions hors normes.
 *page1|
 ;鳶丸
-「Ça aurait pu être possible, mais cette fois, c'est différent.
-　J'ignore encore ce qui a poussé le vieux Tokitsu à venir dans cette chambre, mais je sais ce qu'il s'y est produit. Une explosion de poussière.」
+「Ça aurait pu être possible, mais là, c'est différent.
+　J'ignore encore ce qui a poussé le vieux Tokitsu à aller dans cette chambre, mais je sais ce qu'il s'y est produit. Une explosion de poussière.」
 *page2|
 ;青子
-「Quoi ? Par explosion de poussière, tu veux parler du phénomène dû à l'ignition, à cause d'une étincelle par exemple, de poussières de charbon flottant dans l'air ? C'est ça ?」
+「Quoi ? Par explosion de poussière, tu veux parler du phénomène dû à l'ignition, généralement provoquée par une étincelle, de poussières de charbon flottant dans l'air ? C'est ça ?」
 *page3|
 ;詠梨
 「En résumé, c'est bien ça. Mais le phénomène ne se limite pas au charbon. Si l'endroit est un lieu confiné et s'il y a une certaine quantité de particules combustibles dans l'air, alors une explosion peut s'y produire. Pour vous donner un exemple parmi les articles ménagers, vous avez la farine de blé.
@@ -26,7 +26,7 @@
 ;リデル、青子の後ろでうんうんと頷いている。01fか、01d//
 ;鳶丸
 「On va enquêter sur la question, mais connaissant le vieux, il portait peut-être un gilet pare-balles.
-　Et puis, la cause de la mort n'est pas forcément l'explosion de poussière. Cette dernière a pu aussi être provoquée après qu'on l'a tué. L'explosion en elle-même était peut-être petite, et on aurait brûlé les membres et la tête à l'avance.」
+　Et puis, la cause de la mort n'est pas forcément l'explosion de poussière. Cette dernière a pu aussi être provoquée après le meurtre. L'explosion en elle-même était peut-être petite, et on aurait juste brûlé les membres et la tête à l'avance.」
 *page5|
 ;詠梨
 「En effet, cela expliquerait aussi pourquoi le son de l'explosion n'est pas parvenu jusqu'au salon.
@@ -37,7 +37,7 @@
 ;詠梨
 「Eh bien, ce qui n'est pas naturel.
 　Par exemple, ce cadavre pourrait ne pas appartenir à M. Tokitsu, mais à un parfait inconnu.
-　Dans ce cas, le visage prouverait que le corps n'est pas celui du vieil homme. Le coupable aurait voulu à tout prix cacher les traits du cadavre. Toutefois, brûler le visage jusqu'à le rendre méconnaissable deviendrait une preuve de la falsification d'identité.」
+　Dans ce cas, le visage prouverait que le corps n'est pas celui du vieil homme. Le coupable aurait voulu à tout prix cacher les traits du cadavre. Toutefois, brûler le visage jusqu'à le rendre méconnaissable donnerait un indice sur la falsification d'identité.」
 *page7|
 ;詠梨
 「Par conséquent, afin de mettre en scène un corps dont les brûlures ne paraîtraient pas étranges, le coupable aurait caché l'indice le plus important en provoquant à dessein une explosion de poussière étrange. Par exemple.
@@ -81,7 +81,7 @@
 　Kuonji se leva du sofa et promena son regard sur les personnes présentes.
 *page13|
 ;有珠
-「Je suis désolée de vous déranger alors que vous débattez sérieusement, mais j'ai une terrible nouvelle à vous annoncer.
+「Je suis désolée de vous interrompre alors que vous débattez sérieusement, mais j'ai une terrible nouvelle à vous annoncer.
 ;※ここの有珠の照れ顔、他候補で。口頭でチョイス
 ;有珠、最後の「少しいい？」のところはちょっと恥じらいこみで。二話の後なので、有珠は草十郎を意識しまくりなのです//
 ;草十郎、不思議そうな顔
@@ -90,14 +90,14 @@
 　Kuonji fit un signe de la main à Shizuki et lui parla à voix basse.
 ;リデル01j
 「Hé, vous deux ! Vous n'êtes pas un peu trop proches ?
-　C'est dégueulasse de faire des cachotteries.」
+　C'est dégueulasse de faire des messes basses.」
 *page15|
 ;有珠
-「Désolée, Riddell. Mais avant de vous expliquer, Shizuki aurait une anecdote toute spéciale pour toi.
+「Désolée, Riddell. Mais avant de vous expliquer, Shizuki aurait une anecdote toute spéciale à te raconter.
 　C'est probablement une histoire merveilleuse, alors écoute-la donc.」
 *page16|
 ;草十郎・かっこよく、真面目に
-「Oui. Si une chose aussi simple peut te faire plaisir, je serais heureux que tu écoutes.
+「Oui. Si une chose aussi simple peut te faire plaisir, je serais heureux que tu l'écoutes.
 　D'après Alice, ça te touchera en plein cœur, c'est sûr et certain. Tu m'as sauvé à plusieurs reprises, alors si ça peut te rendre heureuse, je le serai aussi.」
 *page17|
 ;リデル02d、してから02d2
@@ -129,7 +129,7 @@
 ;詠梨、鳶丸、真剣な顔//
 　d'autres se mettaient sur le qui-vive,
 ;木乃美、草十郎、何が起きてるの？みたいな顔
-　et enfin, les deniers ne comprenaient rien du tout à la situation.
+　et enfin, les derniers ne comprenaient rien du tout à la situation.
 *page21|
 ;有珠
 「C'est bien ce que je pensais. Cela risque d'être fâcheux.」
@@ -170,9 +170,9 @@
 ;鳶丸、金鹿驚き
 「Hein... Quoi ?」
 *page26|
-　Attendez, je comprends vraiment rien.
-　Si on nous fait rire, on meurt ? Pardon ?
-　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ? Sauf que deux personnes viennent tout juste de mourir sous mes yeux, après s'être esclaffées. Alors quoi ? C'est vrai ?
+　Attendez, je comprenais vraiment plus rien.
+　Si on nous faisait rire, on mourait ? Pardon ?
+　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ? Sauf que deux personnes venaient tout juste de mourir sous mes yeux, après s'être esclaffées. Alors quoi ? C'était vrai ?
 *page27|
 ;詠梨
 「Ça veut dire que le Ploy Kickshaw est actif ?
@@ -185,10 +185,10 @@
 ;詠梨
 「Vous avez raison... C'est embarrassant, il semblerait que je sois également confus.」
 *page29|
-　Non, il serait plus étrange de rester calme dans cette situation.
+　Au contraire, il serait bien plus étrange de rester calme dans cette situation.
 　Père Eiri ne me laissait qu'une image froide, mais il n'était peut-être en réalité qu'une personne affreusement sérieuse.
-　Mais un Ploy, c'est quoi ?
-　Les explications avançaient et je me retrouvais complètement perdue.
+　Mais un Ploy, c'était quoi ?
+　Au fur et à mesure que les explications avançaient, je me retrouvais de plus en plus perdue.
 *page30|
 ;鳶丸、有珠に対して//
 「... Je peux demander quelque chose ? Je veux bien admettre cette histoire de mort au moindre rire. C'est de toi qu'on parle, ça m'étonnerait pas que ce soit possible.
@@ -212,7 +212,7 @@
 「Mais vu ces billets, c'est vraiment un cas désespéré.」
 *page34|
 ;草十郎
-「La mort de Riddell était plutôt normale.
+「En comparaison, la mort de Riddell était plutôt normale.
 　La connaissant, j'aurais cru qu'elle se transformerait en avion ou en yacht.」
 ;駒鳥
 『Tu l'as dit ! J'reconnais bien là Mam'zelle Riddell, on ne peut vraiment pas se fier à son apparence ! Sa mort subite en vomissant du sang était d'un ringard. Même le petit Kinomi a fait mieux. C'est pour ça que les menus fretins sont irrécupérables !』
@@ -230,7 +230,7 @@
 ;草十郎
 「Incroyable ! Tu pourras m'apprendre ton secret ?」
 ;有珠（棒読みの顔）
-「Oui, on aurait cru un vrai mort-vivant. Moi, en tout cas, j'y ai cru, Riddell.」
+「Oui, on aurait dit un vrai mort-vivant. Moi, en tout cas, j'y ai cru, Riddell.」
 ;リデル01d
 「Vo... Vous deux ! Vous ne devriez pas vous excuser au lieu de me féliciter ?!
 　D'ailleurs, ce loup-garou aurait été mieux pour un test, vous ne croyez pas ?![r]
@@ -244,7 +244,7 @@
 　Tu... Tu vois quand tu veux ! J'ai déjà une meilleure opinion de toi si tu élabores une attaque dès que l'occasion se présente.」
 *page39|
 ;鳶丸
-「Comme je le pensais, cette femme est du genre immortel... Incroyable.」
+「Comme je le pensais, cette fille est du genre immortel... Incroyable.」
 　Bien que stupéfait, Tsukiji accepta sans broncher le spectacle horrifique offert par cette femme en rose.
 *page40|
 ;金鹿

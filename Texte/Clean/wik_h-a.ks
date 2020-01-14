@@ -47,14 +47,14 @@
 　C'est le nom de ce Ploy, Alice ?」
 *page9|
 ;リデル
-「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester son courage avant le combat. Sauf qu'en général, tout le monde est décimé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
+「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester son courage avant le combat. Sauf qu'en général, tout le monde est exterminé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
 　Bref, je fais équipe avec Alice.」
 ;青子
 「Hein ? C'est quoi cette histoire d'équipe ?」
 *page10|
 ;リデル02f
 「C'est un “Survival Game”. La probabilité de gagner augmente en participant avec deux esprits ne faisant qu'un, en gros en formant des groupes de deux.
-　Après tout, il est clair que la recherche laborieuse du coupable sera vite abandonnée pour l'approche consistant à faire rire les autres de force. Et n'importe qui voudrait survivre jusqu'à la fin.」
+　Après tout, il est clair que la recherche laborieuse du coupable sera vite abandonnée au profit de l'approche consistant à faire rire les autres de force. Et n'importe qui voudrait survivre jusqu'à la fin.」
 *page11|
 ;リデル02e
 「Sur ce point, Alice et moi sommes imbattables. Alice ne rit pas, et moi, je peux me charger de faire rire les autres.
@@ -92,7 +92,7 @@
 「!」
 *page17|
 　Les... Les choses prenaient une tournure inattendue...!
-　Entre le coup du grenier et les évènements actuels, la situation ne pouvait être pire, mais elle se mouvait aussi dans une direction imprévue.
+　Entre le coup du grenier et les évènements actuels, la situation ne pouvait pas être pire, mais elle se mouvait aussi dans une direction imprévue.
 *page18|
 ;ベオ
 「Hmm, si je ne peux pas être avec Soujyuro, alors je préfère rester seul. [chgfg storage=ベオ02c(大)|f time=300 textoff=0]De toute façon, c'est qu'un jeu.」

@@ -28,8 +28,8 @@
 「La chambre de Soujyu...... Je veux dire, le grenier n'a pas de serrure. N'importe qui peut y entrer n'importe quand.」
 *page3|
 ;リデル
-「Shit. La mort a été entraînée par des blessures et brûlures dues à une explosion.
-　Je ne vois pas la source de la détonation mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est bien ce que disait Taro Okamoto, non ?」
+「Shit. La mort a été entraînée par des blessures et brûlures consécutives à une explosion.
+　Je ne vois pas la source de la détonation, mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est ce que disait Taro Okamoto, non ?」
 ;律架
 「Que tout le monde se calme. Ceci est une scène de crime ! Je flaire l'odeur du crime.」
 ;草十郎
