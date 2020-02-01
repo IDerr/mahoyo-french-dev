@@ -5,7 +5,7 @@
 *page1|
 ;唯架
 「La discussion s'arrête ici.
-　Il est inutile d'attiser davantage notre méfiance. Même si nous ignorons qui est le coupable, la manière de résoudre cette affaire est claire.」
+　Il est inutile d'attiser davantage notre méfiance. Même si nous ignorons qui est le coupable, la manière de résoudre cette affaire est limpide.」
 　Yuika exerça son emprise sur les lieux.
 　Devant tant de vigueur, personne n'osa émettre d'objection... hormis Ritsuka qui boudait dans son coin.
 *page2|
@@ -36,7 +36,7 @@
 「Ouais, Kinomi a disparu, alors c'est parfait.」
 　Tsukiji se dirigea d'un air las vers le vestibule après avoir récupéré des cookies et une cruche remplie d'eau des bras de Shizuki.
 *page7|
-「Attends un peu ! Tsukiji, ça te convient vraiment ?!」
+「Attends un peu ! Tsukiji, tu es vraiment d'accord avec ça ?!」
 「Non, mais c'est la règle de la majorité, j'ai pas le choix. Le plus gros défaut de la démocratie, c'est qu'elle met de côté les problèmes, sans les résoudre.
 ;鳶丸、去る。金鹿、ちょっと不安な顔
 　Enfin bref, cette décision est irrévocable. S'il t'arrive quelque chose, appelle à l'aide. Comme je suis aussi au premier étage, je pourrai te rejoindre rapidement.」
@@ -57,7 +57,7 @@
 ;画面暗転、ウエイトから客室・夜
 「..................」
 　Je fermai à clef et m'allongeai sur le lit.
-　Pour réagir au plus vite en cas d'incident, je ne mis pas mon pyjama.
+　Pour réagir au plus vite en cas d'incident, je n'enfilai pas mon pyjama.
 *page12|
 「Je ne comprends vraiment rien à cette histoire de rire synonyme de mort, mais...」
 　Il était clair que quelqu'un essayait de tous nous tuer.

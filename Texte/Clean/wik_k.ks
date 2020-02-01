@@ -2,7 +2,7 @@
 ;時計・22時
 ;金鹿、思案
 「..................」
-　Un léger malaise régnait certes sur les convives, mais les témoignages ne révèlèrent pas de contradictions manifestes, et le silence s'installa dans le salon.
+　Un léger malaise régnait certes sur les convives, mais les témoignages n'avaient pas permis d'établir de contradictions manifestes, et le silence s'installa dans le salon.
 　Il nous était impossible de déterminer à quelle heure M. Tokitsu était mort.
 　Personne n'avait entendu le bruit de l'explosion, et à cause de ce soi-disant Ploy Kickshaw, l'analyse de la rigidité cadavérique voyait sa pertinence altérée.
 *page1|
@@ -13,11 +13,11 @@
 　Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.
 *page3|
 　Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, père Eiri et sœur Yuika.
-　En ce qui concernait le meurtre de M. Yamashiro, Tsukiji et moi avions également un alibi parfait. À cette heure-ci, nous étions tous les deux dans le salon.
-　Pour ce qui était d'Aozaki, Shizuki et Beo... nous n'avons pas pu établir leur alibi.
+　En ce qui concernait le meurtre de M. Yamashiro, Tsukiji et moi possédions également un alibi en béton. À cette heure-ci, nous étions tous les deux dans le salon.
+　Quant à Aozaki, Shizuki et Beo... nous n'avons pas pu établir leur alibi.
 *page4|
 ;ベオ
-「Mais les plus louches sont Aoko et Alice qui connaissaient le Ploy, et Ritsuka aussi. Nous, nous n'étions pas au courant pour ce Sweets Hearts.」
+「Mais les principales suspectes sont Aoko et Alice car elles connaissaient le Ploy, et Ritsuka aussi. Nous, nous n'étions pas au courant pour ce Sweets Hearts.」
 ;槻司
 「Ouais. Mis à part la possibilité qu'on ait appris son existence auparavant, il faut d'abord prendre ce détail en considération.
 ;青子、律架、“私も？”という顔。
@@ -35,22 +35,22 @@
 　Pour le moment, cette possibilité était la plus probable.
 *page7|
 ;槻司
-「Si on doit limiter le nombre de suspects avec comme prérequis que l'individu A connaissait le Ploy depuis le début, alors c'est Aozaki qui est la plus louche.
+「Si on doit réduire le nombre de suspects avec comme prérequis que l'individu A connaissait le Ploy depuis le début, alors c'est Aozaki qui est la plus louche.
 　Elle avait le temps de les tuer tous les deux.
 　Il aurait été difficile pour Ritsuka de tuer le vieux Tokitsu.
 　Quant à Kuonji... Elle est la seule personne à n'avoir jamais quitté le salon. Elle ne pouvait pas commettre le crime.」
 *page8|
 ;青子。困り納得
-「C'est vrai. Je ne peux pas le nier. J'aurais eu autant d'opportunités que je voulais de tuer ces deux-là.」
+「C'est vrai. Je ne peux pas le nier. J'aurais eu autant d'opportunités que je voulais de les tuer, l'un comme l'autre.」
 ;唯架
 「C'est bien ce que je pensais.」
 *page9|
 ;青子
-「Qu'est-ce que tu entends par là, dis-moi ?!
+「Qu'est-ce que tu insinues par là, dis-moi ?!
 　On parle seulement de possibilités, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
 　Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
 *page10|
-「... Mon innocence et celle de père Eiri ont pourtant été établies, non ?」
+「... Mon innocence et celle de père Eiri ont pourtant été établies, il me semble ?」
 ;青子にやり
 「Les détails de votre venue à la résidence sont inconnus, si je ne m'abuse ?
 　Alice est venue vous accueillir parce qu'elle a entendu vos voix, pas vrai ? Personne ne peut certifier où vous étiez avant ça.」
@@ -73,7 +73,7 @@
 「Aoko, tu ferais mieux de ne pas provoquer Yuika. Compte tenu des règles actuelles, elle est notre meilleur atout.」
 ;青子
 「Pardon ? Tu ne veux pas plutôt dire notre pire ennemie ?」
-「Non, un atout. Après tout, c'est la personne la plus à même de survivre parmi nous.
+「Non, notre meilleur atout. Après tout, c'est la personne la plus à même de survivre parmi nous.
 　N'est-ce pas, Yuika ?」
 *page15|
 ;唯架
@@ -93,7 +93,7 @@
 　Kuonji démolit sans pitié l'oiseau bleu d'un coup de la tranche de sa main.
 ;有珠
 「... En tout cas,
-　si vous croyez encore qu'il s'agit d'une plaisanterie, vous allez être anéantis.」
+　si vous croyez encore qu'il s'agit d'une plaisanterie, vous allez vous faire massacrer.」
 *page18|
 ;ベオ
 「C'est vrai. Yuika semble invulnérable. Par contre, ne serait-il pas préférable que les personnes au rire facile aillent se cacher quelque part ?」

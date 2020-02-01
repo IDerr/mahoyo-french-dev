@@ -32,17 +32,17 @@
 　... Il renvoyait une image froide, mais en réalité, c'était probablement la personne qui s'inquiétait le plus pour Aozaki.
 *page7|
 ;青子
-「Tobimaru, je te confie Yuika et Alice. Si on ne trouve rien après vingt minutes, on reviendra.
+「Tobimaru, je te confie Yuika et Alice. Si on ne trouve rien d'ici vingt minutes, on reviendra ici.
 　Eiri, en sortant, fais le tour en passant par le côté droit. Nous, on passera par la gauche.」
 ;詠梨
 ;草十郎、シリアス頷き
-「C'est une sage décision. Allons-y, Soujyuro.」
+「C'est un plan judicieux. Allons-y, Soujyuro.」
 *page8|
 ;青子
 「Soujyuro.」
 ;草十郎
 「Ne t'inquiète pas pour moi, mais plutôt pour Kumari.
-　Kumari, il y a peut-être des branches qui volent, alors garde la tête baissée. Aozaki fait preuve, mais seulement dans ce genre de moment, d'une étrange efficacité, alors si ça arrive, soutiens-la.」
+　Kumari, il y aura peut-être des branches qui volent, alors garde la tête baissée. Aozaki fait preuve, mais seulement dans ce genre de moment, d'une étrange efficacité, alors si ça arrive, soutiens-la.」
 ;青子拗ね怒り
 「Qu'est-ce que ça veut dire, ça ?」
 *page9|
@@ -65,7 +65,7 @@
 　Après un instant de réflexion, Aozaki ajouta :
 *page13|
 「Retourne jusqu'à l'entrée en longeant le mur ![r]
-　La lumière d'à l'instant, ça ne peut être que lui...!」
+　La lumière d'à l'instant, ça ne pouvait être que lui...!」
 「Hein ?! N... Non Aozaki ! Ne t'isole pasーーー!」
 *page14|
 　Ma voix ne l'atteignit pas.

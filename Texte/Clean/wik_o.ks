@@ -16,7 +16,7 @@
 「―――Quoi ?」
 *page2|
 　Tsukiji écarquilla les yeux.
-　Pour Tsukiji qui connaissait Riddell, il n'y avait rien d'étrange à ce que cette dernière participe à la fête.
+　Comme il connaissait Riddell, il n'y avait rien d'étrange pour lui à ce que cette dernière participe à la fête.
 　Mais pour moi qui ne la fréquentais pas autant, l'entrée en scène de la star s'était révélée peu naturelle et inattendue.
 　En effet, elle n'était qu'un intrus et pas une invitée officielle.
 *page3|
@@ -27,7 +27,7 @@
 *page4|
 ;有珠、意外
 「... Hmm. Je n'y avais pas fait attention. Aoko, Shizuki et moi avons envoyé nos invitations séparément.
-　J'ai cru comprendre qu'on avait finalement envoyé neuf lettres au total. Tokkii et moi étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors cela faisait un total de treize personnes.
+　J'ai cru comprendre que nous avions finalement envoyé neuf lettres au total. Tokkii et moi étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors cela faisait un total de treize personnes.
 　Soit dit en passant, j'ai envoyé mes invitations à [movepartbg opacity=255 srcleft=436 srctop=177 vcenter=271 time=400 accel=0 storage=black center=220 id=pb6 textoff=0]Ritsuka et [wact canskip=0][movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Beo.」[wact canskip=0]
 *page5|
 ;青子
@@ -44,7 +44,7 @@
 ;草十郎
 「... C'est que, ce n'est pas correct de la tenir à l'écart.」
 ;青子
-「C'est Touko, c'est ça ? C'est toi qui as appelé Touko, hein ?!」
+「C'est Touko, c'est ça ? C'est toi qui as invitéé Touko à la fête, hein ?!」
 　Aozaki attrapa le col de Shizuki et le secoua dans tous les sens.
 ;草十郎
 「Deux Riddell... Il y a deux Riddell...」
@@ -52,31 +52,31 @@
 ;詠梨
 「Tu as envoyé une invitation à Touko... Pourtant, elle n'est pas censée pouvoir entrer dans la ville de Misaki.」
 ;ベオ
-「Hm ? Pour ce qui est de la malédiction, Touko a dit qu'elle avait réglé le problème depuis longtemps. Elle a parlé de changement de concept. Il paraît que si on ne peut pas retirer une malédiction jetée sur le corps physique, il suffit de ne pas utiliser ce dernier, ou quelque chose dans ces eaux-là.」
+「Hm ? Pour ce qui est de la malédiction, Touko m'a dit qu'elle a réglé le problème depuis un moment déjà. Elle a parlé de changement de concept. Il paraît que si on ne peut pas retirer une malédiction jetée sur le corps physique, il suffit de ne pas utiliser ce dernier, ou quelque chose dans ces eaux-là.」
 *page9|
 ;青子
 「C'est quoi ce raisonnement ?[r]
 　... Comme d'habitude, il lui manque une case, à ma frangine.」
 ;有珠
-「... Quoi qu'il en soit, à partir du moment où Touko a reçu une invitation, il est possible qu'elle soit venue.」
+「... Quoi qu'il en soit, étant donné que Touko a reçu une invitation, il est fort possible qu'elle soit venue.」
 *page10|
 ;金鹿
 「Oui. Et je voudrais que vous vous rappeliez du moment où on a découvert que la ligne du téléphone avait été coupée.
 ;画像・雨に濡れた玄関をだす//
-　À ce moment-là, le parquet du vestibule était couvert de gouttes d'eau.
+　À ce moment-là, le parquet du vestibule était couvert de flaques d'eau.
 　Nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
 　Du coup, j'ai cru que ces traces étaient l'œuvre de Riddell arrivée juste avant l'incident, mais elle n'était pas du tout mouillée par la pluie.
 　En d'autres termes,」
 *page11|
 ;律架
-「ces traces d'eau sont la preuve que quelqu'un à part Riddell est entré dans le manoir... C'est ça ?
-　À ce moment-là, tout le monde était là à part monsieur Tokitsu et monsieur Yamashiro, donc―――」
+「ces flaques d'eau sont la preuve que quelqu'un d'autre que Riddell est entré dans le manoir... C'est ça ?
+　À ce moment-là, tout le monde était dans le salon à part monsieur Tokitsu et monsieur Yamashiro, donc―――」
 ;詠梨
-「Un participant invisible.
+「Un participant que personne n'a vu.
 ;全員、真剣な顔//
 　Cela implique qu'un treizième invité est présent.」
 *page12|
-　Après ce discours, la situation changea du tout au tout.
+　Après cette déclaration, la situation changea du tout au tout.
 　J'ignorais qu'Aozaki avait une grande sœur, mais ce n'était pas le moment de me renseigner à ce propos.
 　Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostile envers toutes les personnes ici présentes.
 *page13|
@@ -89,7 +89,7 @@
 ;律架
 「Oui, elle en serait bien capable. Elle adore les films d'horreur...! Hum. C'est bien dommage qu'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
 ;詠梨
-「Séparons-nous et fouillons le manoir. Nous devons nous assurer que Touko est bien là.」
+「Séparons-nous et fouillons le manoir. Nous devons nous assurer que Touko est effectivement là.」
 *page16|
 ;青子、やばいって顔。実は橙子が来ている事を知っていて、かつ、彼女の死体を隠しているので//
 「Hein ? Ah, oui, c'est vrai.
@@ -97,7 +97,7 @@
 ;有珠
 「Moi, j'irai dans l'aile ouest et au cas où, au sous-sol.
 ;立ち絵消す
-　Quant à Kumari, Tobimaru, Ritsuka et Shizuki, c'est dangereux, alors restez ici.」
+　Quant à Kumari, Tobimaru, Ritsuka et Shizuki, ça pourrait être dangereux, alors restez ici.」
 *page17|
 　Ainsi, les hôtes quittèrent le salon précipitamment et bruyamment.
 　Nous laissant dans le salon, Tsukiji, Shizuki, Ritsuka et moi, tout le monde partit fouiller le manoir.
@@ -136,7 +136,7 @@
 　Ritsuka me tira la main et je quittai le salon plongé dans l'obscurité.
 　Pour une illusion d'optique causée par la foudre―――l'ombre humaine était bien trop nette.
 　Quelqu'un se trouvait à l'extérieur par un temps pareil.
-　J'avais beau y penser, cela ne pouvait être que le treizième invité à l'identité inconnue.
+　J'avais beau y réfléchir, cela ne pouvait être personne d'autre que le treizième invité à l'identité inconnue.
 *page22|
 ;画面切り替え・ロビー・夜
 　Nous nous réfugiâmes dans le hall.
@@ -164,13 +164,13 @@
 「Il n'y avait rien d'anormal. Les fenêtres de la véranda ne sont pas brisées et rien n'indique que quelqu'un est entré.」
 *page27|
 ;詠梨
-「De notre côté non plus, il n'y avait rien d'anormal. Touko ne semble pas se trouver dans le bâtiment. Dans ce cas...」
+「De notre côté non plus, il n'y avait rien à signaler. Touko ne semble pas se trouver dans le bâtiment. Dans ce cas...」
 ;唯架
 「On ne peut penser qu'à la silhouette que vous avez repérée à l'extérieur. S'il n'y a rien d'anormal à l'intérieur, alors il ne reste plus qu'à vérifier les alentours de la demeure.」
 *page28|
 ;詠梨
 「Très bien, partons voir ce qu'il en est à l'extérieur.
-　Commençons par les alentours de la véranda. Comme c'est dangereux, ceux qui vont chercher seront moi, sœur Yuika... et Aoko, je peux te le demander ?」
+　Commençons par les alentours de la véranda. Comme c'est dangereux, ceux qui participeront aux recherches seront sœur Yuika, moi et... Aoko, je peux te demander de venir aussi ?」
 *page29|
 「... Père Eiri. Avec ce vent, je ne pense pas être d'une très grande aide. Mes oreilles ne seront pas efficaces.」
 *page30|

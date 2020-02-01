@@ -10,15 +10,15 @@
 ;鳶丸
 「Ne dis pas de conneries ! T'es tout aussi louche que les autres.
 　Tu connais les Ploy machin, tu nourris de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
-　Pour commencer, pourquoi tu t'es pointée alors qu'on ne t'a pas invitée ? En poussnt le bouchon jusqu'à venir en hélico ?」
+　Pour commencer, pourquoi tu t'es pointée alors qu'on t'a pas invitée ? En poussant le bouchon jusqu'à venir en hélico ?」
 *page3|
-「Maintenant que j'y pense, quand t'es soi-disant venue avec l'hélico, t'étais pas du tout trempée par la pluie, si je me souviens bien ?
+「Maintenant que j'y pense, quand l'hélico t'a soi-disant déposée, t'étais pas du tout trempée par la pluie, si je me souviens bien ?
 　Comment t'expliques ça ?
-　Si tu t'es planquée tout ce temps dans le manoir et t'es entrée en scène après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
+　Si tu t'es planquée tout ce temps dans le manoir et t'es apparue après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
 *page4|
 ;リデル02d3
 「Qu... Quoi ?!
-　Je te dis que je suis venue en hélico ! Je n'étais pas trempée par la pluie parce que je la repoussais avec un Goblin ! Et pourquoi aurais-je l'intention de tous vous massacrer ?!」
+　Je te dis que je suis venue en hélico ! Et je n'étais pas trempée par la pluie simplement parce que je la repoussais avec un Goblin ! Et puis, pourquoi aurais-je l'intention de tous vous massacrer ?!」
 *page5|
 ;草十郎
 「Eh bien, c'est que tu y as déjà pensé, en fait.」
@@ -46,12 +46,12 @@
 　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
 ;画面・一階廊下と、リデルの立ち絵02cあたりを口元だけ移すように使う。携帯電話中。
-『Allô. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu l'autre fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+『Allô. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu la derniière fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
 『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
 ;あと、この時代の軍用ヘリはアパッチときいたが、さすがにもちっとハクをつけたいので多少時代先取りしても上のものを。ブラックホークは早すぎだが、試作段階という事ならアリか？//
-　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-en un !』
+　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-le !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
 　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
@@ -70,10 +70,10 @@
 ;SE扉が開く音。強く。バン！と
 ;リデル02e
 「Désolée pour l'attente. Encore dix minutes et l'ange du salut sera là.
-　Les règles de Sweets Hearts sont limitées à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première, et profiter d'un dîner magnifique.」
+　Les règles de Sweets Hearts ne s'appliquent qu'à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première, et profiter d'un excellent dîner.」
 *page16|
 「Ah, mais rassurez-vous.
-　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez avec ce jeu d'enquête feraient bien de me rejoindre sans attendre.」
+　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez de ce jeu d'enquête feraient mieux de me rejoindre sans attendre.」
 *page17|
 ;草十郎、リデル側に移動しようとする//
 ;青子腕組み呆れ睨み
@@ -82,7 +82,7 @@
 ;草十郎
 「Eh bien, c'est qu'elle a parlé d'un ange du salut.」
 ;鳶丸
-「Oublie ça, Soujyuro. Si elle est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se gourre complètement de métaphore.」
+「Oublie ça, Soujyuro. Si cette fille est un ange du salut, alors Aozaki est une déesse de la guérison. Elle se gourre complètement de métaphore.」
 *page18|
 ;草十郎
 「... Hum. Kumari, tu vas faire quoi ?[r]
@@ -93,7 +93,7 @@
 *page19|
 ;リデル02c
 「Tch, vous jouez encore aux meilleurs amis dans cette situation ? Il faudrait vous réveiller !
-　Très bien, faites comme bon vous semble. Mais prenez garde à ce que les titres à la une de demain ne ressemblent pas à “Tous les invités de la résidence en haut de la montagne portés disparus ?”」
+　Très bien, faites comme bon vous semble. Mais prenez garde à ce que les titres à la une de demain ne ressemblent pas à : “Tous les invités de la résidence en haut de la montagne portés disparus ?”.」
 *page20|
 ;金鹿
 「Pff. Bien dit pour une femme qui fuit.
@@ -103,7 +103,7 @@
 *page21|
 ;SE　外からヘリのローター音。
 　... C'est alors que,
-　sans attendre les dix minutes, on entendit à l'extérieur un rugissement de nature différente de celle des rafales de vent.
+　sans attendre les dix minutes, on entendit à l'extérieur un rugissement à la nature différente de celle des rafales de vent.
 *page22|
 ;リデル02b
 「Aha ! Il est arrivé plus vite que prévu !
@@ -126,7 +126,7 @@
 「Voler par un temps pareil est absurde, si on y pense de façon sensée. Même Alice n'est pas assez ignorante sur le monde moderne pour ne pas savoir ce genre de chose.」
 *page26|
 ;有珠
-「En effet. J'étais sûre qu'il s'écraserait. D'autant plus que les plans de Riddell ne se sont jamais déroulés comme il fallait jusqu'ici.」
+「En effet. J'étais sûre qu'il s'écraserait. D'autant plus que les plans de Riddell ne se sont jamais déroulés comme prévu jusqu'ici.」
 ;リデル02d3
 「Ils marchent ! Tant que tu n'es pas impliquée, je suis toujours parfaite !
 ;リデル01j

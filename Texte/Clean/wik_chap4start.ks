@@ -48,13 +48,13 @@
 　Pendant que je cherchais Beo, j'ai regardé dans ta chambre. J'y ai trouvé des preuves irréfutables.」
 *page9|
 ;青子
-「Hein ?! Ri... Ritsuka, comment es-tu entrée dans ma chambre ?! La porte était fermée à clef, non ?!」
+「Hein ?! Ri... Ritsuka, comment es-tu entrée dans ma chambre ?! La porte était fermée à clef, pourtant ?!」
 ;律架
 「C'est l'un de mes rares dons particuliers, un crochetage d'enquête !」
 *page10|
 ;青子
-「Ça n'existe pas ! Le crochetage de serrure est sérieusement proscrit par la loi !
-　Alors trouver de cette façon un cadavre qu'une personne cachait désespérément est contre les règles !」
+「Ça n'existe pas ! Le crochetage de serrure est fermement proscrit par la loi !
+　Alors trouver de cette façon un cadavre qu'une personne cachait désespérément est contraire aux règles !」
 *page11|
 ;※ここ、律架もフツーの顔にしてくださいませー
 　Aozaki perdait son sang-froid.

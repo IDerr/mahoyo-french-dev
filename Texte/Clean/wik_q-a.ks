@@ -38,7 +38,7 @@
 *page7|
 ;槻司
 「? Soujyuro, que tiens-tu dans la main ?」
-　À y regarder de plus près, Shizuki tenait une chose moelleuse d'environ vingt centimètres de long.
+　À y regarder de plus près, Shizuki tenait une chose moelleuse d'une taille d'environ vingt centimètres.
 *page8|
 ;草十郎
 「Eh bien, ça gisait du côté est du manoir... devant la véranda.」
@@ -50,7 +50,7 @@
 「Hein ? C'est Beo ?![r]
 　Alors la silhouette devant la véranda, c'était lui ?!」
 ;槻司
-「Oh... Maintenant que tu le dis, c'était bien Beo.
+「Oh... Maintenant que tu le dis, c'était effectivement Beo.
 　Tiens ? Ça voudrait dire qu'il nous demandait de l'aide ?」
 *page10|
 　... Quelle conclusion pouvait-on tirer de ce fait ?
@@ -63,7 +63,7 @@
 *page12|
 ;青子
 「... Beo a dû trouver quelque chose. Et moi qui comptais secrètement sur lui. C'est un coup dur.
-　Au fait, Soujyuro, Eiri s'est fait avoir vers où ?」
+　Au fait, Soujyuro, à quel endroit Eiri s'est fait avoir ?」
 ;草十郎
 「Dans la forêt côté ouest. [l][clall][se storage=se01001 volume=100 loop=1 time=2000][se storage=seex01 volume=100 loop=1 time=2000][bg time=800 rule=crossfade storage=black  noclear=0][wait canskip=0 time=400][clall][fg storage=bg01l久遠寺邸06中庭-(異空間) center=-620 vcenter=-31 index=1200 opacity=64 rotate=15 effect=monocro zoom=200 id=2][fg storage=bg01l久遠寺邸06中庭-(異空間) center=-620 vcenter=-31 index=1100 rotate=15 effect=屋外蒼緑 zoom=200 id=3][fgact page=back props=-storage,center,vcenter,absolute,zoomx,zoomy,-visible keys=(0,0,n,im01オープニング09(オブジェ雨a),598,284,1400,150,150,1)(50,,,im01オープニング09(オブジェ雨b),,,,,,)(100,,,im01オープニング09(オブジェ雨a),,,,,,)(150,,,,747,475,,,,)(200,,,,388,445,,,,)(250,,,,351,201,,,,) loop=0 storage=im01オープニング09(オブジェ雨a) id=1][bg rule=crossfade time=800 storage=black left=-48 top=-48 noclear=1]Il a dit avoir vu quelque chose bouger avant d'entrer dans les bois. J'ai tout de suite entendu son rire.
 　Après ça, j'ai entendu un hurlement qui m'a fait penser à un coup de tonnerre, du sang est tombé en cascade... et quand j'ai regardé en l'air...」
@@ -93,7 +93,7 @@
 ;有珠
 「C'est tragique. Comme elle perçoit la moitié du monde grâce à son ouïe, elle a pu se faire une image très précise des propos de Shizuki.」
 ;槻司
-「... Je suis curieux de savoir quelle sorte de relation orageuse elle entretenait habituellement avec le prêtre, mais en tout cas, ça nous fait sept victimes. Notre nombre a diminué d'un seul coup.」
+「... Je suis curieux de savoir quelle sorte de relation orageuse elle entretenait habituellement avec le prêtre, mais en tout cas, ça nous fait sept victimes. Notre nombre a chuté d'un seul coup.」
 *page17|
 　Oui. Il ne s'agissait que d'un accident malheureux, mais pour le coupable, la personne la plus problématique venait tout juste de disparaître.
 ;画面暗転、三章終了。

@@ -71,7 +71,7 @@
 「Je vois. On prend comme partenaire une personne de confiance qui nous pense innocent et on coopère.
 　Sœur Yuika, vous voulez bien ?」
 ;唯架
-「Eh bien. Pour mon plus grand effroi, il semblerait que ce soit vous en qui je puisse avoir le plus confiance parmi les personnes présentes.」
+「Eh bien. À mon plus grand effroi, vous semblez être la personne en qui je puisse avoir le plus confiance parmi les gens ici présentes.」
 *page14|
 ;律架
 「Hmm, je suis une laissée pour compte ?[l][wact canskip=0][r]

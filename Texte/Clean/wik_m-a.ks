@@ -42,14 +42,14 @@
 　Soit nous enquêtons sur l'identité de Sweets Hearts, soit nous restons sur nos gardes pour éviter l'extermination au petit matin. Personnellement, je voudrais choisir la seconde option.」
 *page8|
 ;青子
-「Je suis d'accord. Et puis, on risque bien d'être décimés si on réveille le lion qui dort.
+「Je suis d'accord. Et puis, on risque bien de se faire massacrer si on réveille le lion qui dort.
 　Et toi, Kumari ?」
 *page9|
 ;金鹿
-「Moi, peu importe, mais... Tsukiji, qu'est-ce que tu en penses ?」
+「Moi, peu importe, mais... Tsukiji, t'en penses quoi ?」
 ;鳶丸
-「Moi ? Je suis pour trouver le coupable.
-　J'ai envie de me plaindre comme il faut à l'idiot qui a provoqué cette situation.」
+「Moi ? Je suis pour démasquer le coupable.
+　J'ai envie de me plaindre comme il se doit à l'idiot qui a provoqué cette situation.」
 *page10|
 ;唯架
 「Me concernant, cela ne m'importe pas. Je ne dirai pas les choses à la façon de Riddell, mais je suis en sécurité, quoi qu'il arrive.」
@@ -67,13 +67,13 @@
 「Beo, même si c'est une blague, il ne fa―――[wait canskip=0 time=200][chgfg storage=草十郎私服01b(大)|首輪j time=300]Hum ?」
 *page12|
 「!」
-　Soudainement, la pièce fut plongée dans le noir absolu.
+　Soudainement, la pièce fut plongée dans le noir total.
 *page13|
 「Restez calmes. On dirait que les plombs ont sauté. Les amis, il ne faut pas bouger à l'aveuglette. Même si on est aveugles.」
 「..................」
 　C'était tout juste. J'avais failli éclater de rire à cause du blanc qui avait suivi la boutade du prêtre.
 *page14|
-「À quoi tu penses, Eiri ? J'ai bien cru qu'on allait tous y passer !」
+「À quoi tu joues, Eiri ? J'ai bien cru qu'on allait tous y passer !」
 　Non, ça n'aurait pas été le cas,
 　eus-je envie de répliquer.
 *page15|
@@ -83,7 +83,7 @@
 「Franchement ! Même moi, j'ai été un peu perturbée. Ça ne serait pas lui le coupable ?」
 *page16|
 　La conversation se poursuivait malgré l'obscurité.
-　... C'était comme les histoires de fantôme lors des voyages scolaires, ou, comment dire, un de ces échanges dans les ténèbres qui vous excitent bizarrement.
+　... C'était comme les histoires de fantôme lors des voyages scolaires, ou, comment dire, un de ces échanges dans les ténèbres qui vous fascinent sans que vous sachiez pourquoi.
 　D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas si grave si quelqu'un se mettait à rire.
 *page17|
 「Ah, j'ai trouvé une bougie. Personne n'a de briquet ?[r]
@@ -96,7 +96,7 @@
 ;画面、一回だけ点滅する。電気かつけかける。
 「Ah. Tout le monde, restez tranquille, la lumière revient.」
 *page18|
-　Le manoir Kuonji devait probablement être muni d'un groupe électrogène individuel.
+　Le manoir Kuonji devait probablement disposer d'un groupe électrogène.
 　Nous ignorions qui avait rétabli le courant, mais une chose était sûre, le salon venait de retrouver sa lumière artificielle.
 *page19|
 ;立ち絵はあえてださない

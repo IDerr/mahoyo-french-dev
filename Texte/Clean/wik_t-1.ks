@@ -34,7 +34,7 @@
 　Pour je ne savais quelle raison, il n'avait pas envie de prestige ou de s'améliorer.
 *page7|
 　C'était vraiment un gâchis de ses qualités humaines.
-　Par nature, je ne supportais pas cela, je voulais l'envoyer par n'importe quel moyen à un endroit où il serait à son avantage, et avant que je ne m'en rende compte, je m'étais mis à l'observer tous les jours.
+　Par nature, je ne supportais pas cela, je voulais l'envoyer par n'importe quel moyen à un endroit où il serait à son avantage, et avant que je ne m'en rende compte, je m'étais mise à l'observer tous les jours.
 *page8|
 「... C'est un peu tard pour demander ça,
 　mais tu es plutôt acerbe en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
@@ -71,7 +71,7 @@
 　L'esprit brumeux, je lissai les plis de mes vêtements en me regardant dans le miroir sur pied.
 *page14|
 　Mon corps était encore engourdi.
-　Trop lasse pour préparer du thé, je pris lentement mon portefeuille et mon passe posés sur la table.
+　Trop lasse pour préparer du thé, je pris lentement mon portefeuille et mon porte-passe posés sur la table.
 　Dans ce dernier se trouvaient ma carte de transport et une photo souvenir.
 ;※ここの写真、エンディング直前で見せたいので、ここでは一部しか見せないように。
 　Une photo singulière où l'on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
@@ -82,8 +82,8 @@
 *page16|
 ;※同上。この演出方針をエンド前にもっていく。
 　La photo représentait cette fameuse scène immortalisée avec un appareil jetable.
-　Elle était tellement amusante que je la gardais constamment dans mon passe.
-　Lorsque j'étais déprimée et que je voyais cette photo charmante, inimaginable pour quelqu'un connaissant Aozaki, ça me remontait le moral.
+　Elle était tellement amusante que je la gardais constamment dans mon porte-passe.
+　Quand j'étais déprimée, si je voyais cette photo charmante, inimaginable pour quelqu'un connaissant Aozaki, ça me remontait le moral.
 　Principalement dans un aspect comique.
 *page17|
 「―――Tiens ?」
@@ -147,7 +147,7 @@
 　Non, le soleil n'était pas encore levé.
 　Si la condition était de voir poindre le matin, alors la partie n'était pas encore finie.
 　Dans ce cas, je devais soit fuir, soit deviner qui était le coupable.
-　À ce rythme, la partie ne serait pas gagnée.
+　À ce rythme, nous allions perdre la partie.
 　Aozaki et les autres seraient définitivement morts, et donc, ne reviendraient plus.
 *page27|
 　Je...
