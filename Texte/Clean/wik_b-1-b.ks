@@ -37,9 +37,9 @@
 　Incapable de me confesser, je tournais en rond depuis tout ce temps. Je faisais preuve d'une lâcheté absolument misérable.
 *page7|
 　Cela dit, pour ma pitoyable défense, ce n'était pas comme si j'étais aussi froussarde depuis le début.
-　En première année, je ne le considérais vaguement que comme un ami d'Aozaki.
+　En première année, je ne le considérais que comme un simple ami d'Aozaki.
 　Ce fut en deuxième année que je pris petit à petit conscience de mes sentiments.
-　Tsukiji venait souvent me parler. C'était probablement grâce à mon amitié avec Aozaki qu'il me faisait confiance.
+　Tsukiji venait souvent me parler. Il me faisait probablement confiance parce que j'étais amie avec Aozaki.
 　En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
 *page8|
 　Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
@@ -47,8 +47,8 @@
 　On dit que l'amour est aveugle,
 　mais l'être à ce point-là, c'est grave !
 *page9|
-　Cela dit, rien ne changea suite à cette illumination.
-　Je tenais tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
+　Cela dit, rien ne changea suite à cette révélation.
+　Je continuais de tenir tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
 　Je me révoltais contre mon destin consistant à reprendre l'affaire familiale.
 　Et je n'étais pas peu fière de me préparer assidûment à ça depuis le collège.
 　C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
@@ -72,7 +72,7 @@
 　J'ignorais si Tsukiji avait déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
 *page14|
 　Mais seulement, voilà,
-　dans ce cas, à quoi aurait servi le combat secret que j'avais mené depuis le début de l'adolescence ?
+　dans ce cas, à quoi servait le combat secret que je menais depuis le début de l'adolescence ?
 　Moi qui concevais depuis l'enfance mes plans d'avenir, il m'arrivait de mépriser mes camarades de classe qui ne pensaient qu'à l'amour ou à leurs rêves.
 *page15|
 　J'avais sérieusement du mal à croire que cette même personne songeait à gâcher ces six longues années d'efforts pour une raison aussi puérile.
@@ -99,16 +99,16 @@
 *page19|
 ;画面・居間、立ち絵・有珠
 　Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
-　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Housuke, et aussi, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
+　Deux personnes s'agitaient devant elle : [movefg opacity=255 vcenter=387 time=400 accel=-2 storage=木乃実私服01(大)|c2 center=466 textoff=0]Housuke, et également, [l][movefg opacity=255 vcenter=356 time=700 accel=-2 storage=山城01(大)|b2 center=182][wact canskip=0]à mon plus grand étonnement, le professeur Yamashiro.
 *page20|
 ;木乃美、山城
 「Oh ! Les arbres que j'ai aperçus brièvement dans l'arrière-cour étaient des Oak ? En français, on appelle ça des chênes... Hum, ils sont différents de ceux dont je me rappelle.
-　Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont une apparence distincte, et puis, il y en a plus de quatre cents.」
+　Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
 *page21|
 ;木乃美
 「Ouah ! Comme d'habitude, ce type ne parle que de ce qui l'intéresse. Alice, ce professeur est un barbare sans aucune délicatesse que je te conseille d'ignorer.
 　Et si nous parlions plutôt de tes plans pour les vacances de Noël ?
-　J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Housuke serait ravi de te donner des cours, seul à seul ~」
+　J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Housuke serait ravi de te donner des cours particuliers, seul à seule~」
 *page22|
 ;有珠目閉じ納得
 「On ne s'ennuie vraiment pas avec vous.
@@ -149,7 +149,7 @@
 　La victime en question était ce garçon, Tsukiji Tobimaru.
 *page30|
 「J'aurais jamais cru te revoir dans la salle du conseil étudiant après ça. Je dois être né sous une mauvaise étoile. Mon destin doit vouloir que les filles que j'apprécie m'arrosent ou me cherchent des noises.」
-「C'était juste un hasard. Au fait, Tsukiji, depuis quand es-tu là ?」
+「C'était un hasard. Au fait, Tsukiji, depuis quand es-tu là ?」
 *page31|
 「On est arrivés ce matin. Cet abruti de Kinomi était tellement excité que j'ai pas eu le choix.
 　La fête d'anniversaire commence à dix-huit heures. On a encore du temps devant nous.
@@ -177,8 +177,8 @@
 　Il était bizarrement attaché à Shizuki.
 *page36|
 『Soujyuro, je veux aller au parc d'attractions pendant les prochaines vacances.』
-『Soujyuro, tu n'as pas faim ? Mangeons ensemble !』
-『Soujyuro, il n'y a pas de raison particulière, mais je voudrais que tu me caresses la tête !』
+『Soujyuro, tu n'as pas faim ? Mangeons un morceau !』
+『Soujyuro, je ne sais pas trop pourquoi, mais je voudrais que tu me caresses la tête !』
 *page37|
 　À la moindre occasion, il se frottait à lui comme un chat.
 　Shizuki était peut-être du genre à attirer les enfants ? Mais l'entendre répéter “Soujyuro, Soujyuro” à tout bout de champ était éreintant.

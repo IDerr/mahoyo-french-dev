@@ -3,7 +3,7 @@
 *page1|
 ;律架
 「Et dire que toute la carte de la météo était recouverte du symbole du soleil.
-　...... Hum, le retour risque d'être délicat s'il commence à pleuvoir pour de bon. Le taxi ne peut monter que jusqu'au milieu de la montagne.」
+　...... Hum, le retour risque d'être délicat s'il commence à pleuvoir pour de bon. Le taxi ne peut monter que jusqu'à mi-hauteur de la montagne.」
 *page2|
 　Ritsuka avait parfaitement raison.
 　S'il se mettait à pleuvoir des trombes d'eau, il faudrait se faire à l'idée qu'on rentrerait trempés.
@@ -45,7 +45,7 @@
 　Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes solitaires qui cherchaient à vivre à l'écart des autres.
 　Il ne les attaquait pas pour les manger, mais pour les tuer, ce qui rendait le personnage plus humain et avait marqué mon esprit.
 　On pouvait interpréter l'histoire autrement : le village réduisait au silence tout villageois qui s'écartait de ses coutumes.
-　C'est absorbée dans ces sombres chimères que je tombais sur une impasse.
+　C'était absorbée dans ces sombres chimères que je tombais sur une impasse.
 *page10|
 ;画面、木を抜けて、久遠寺邸の裏庭にでる。
 「Hein ?」

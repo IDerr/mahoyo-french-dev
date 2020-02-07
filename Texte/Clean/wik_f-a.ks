@@ -37,7 +37,7 @@
 　Une personne vient de mourir, alors demander du thé et des pâtisseries, c'est bien plus impoli, tu ne crois pas ?」
 *page7|
 ;リデル
-「Quoi ? Répète un peu ? Comment un chien de garde comme toi ose imposer son opinion à son maître ? Pourquoi ne prêches-tu le bon sens qu'en des moments pareils ?」
+「Quoi ? Répète un peu pour voir ? Comment un chien de garde comme toi ose imposer son opinion à son maître ? Pourquoi ne prêches-tu le bon sens qu'en des moments pareils ?」
 ;リデル、草十郎の首輪をつかんでガクガク揺さぶる
 　La femme en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
 ;草十郎
@@ -125,7 +125,7 @@
 「Donc...... M. Tokitsu a disparu peu après midi. Nous voilà dans une impasse. Pratiquement personne n'a d'alibi à partir de cette heure-là.」
 *page24|
 　En effet, la période entre sa disparition et la découverte de son corps était trop longue.
-　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou se reposer.
+　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou nous reposer.
 　En d'autres termes, tout le monde s'était retrouvé seul à un moment donné, pendant cinq ou dix minutes.
 　La seule personne qui avait toujours été accompagnée et était restée dans cette pièce était Kuonji.
 *page25|

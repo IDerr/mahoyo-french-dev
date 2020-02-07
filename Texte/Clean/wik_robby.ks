@@ -59,7 +59,7 @@
 ;金鹿、本気でいや
 「Hé ! Pourquoi Housuke est là ?」
 ;青子
-「Soujyuro a dû l'inviter. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.
+「Soujyuro a voulu qu'on l'invite. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.
 　Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est doué pour mettre de l'ambiance.」
 *page11|
 ;木乃美
@@ -72,18 +72,18 @@
 ;木乃美
 「Tu veux dire un clown, non ? Pas une oie, un clown !」
 *page13|
-　J'ignorai la plaisanterie d'Housuke et posai le sac de voyage contenant mes vêtements de rechange.
+　J'ignorai la plaisanterie d'Housuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
 「Ne t'avise pas de regarder à l'intérieur.」
 「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Futur / No Tax.
 ;立ち絵、消す
 ;荷物には中華鍋、中華包丁、米、金豚チャーシュー、が入っている。夕飯、作ろうと思ってきたがまた別の話//
-　...... Mais ça pèse une tonne, dis donc ! Contrairement à ton corps, ton équipement est vachement lourd !」
+　...... Hé, mais ce truc pèse une tonne ! T'as un sac vachement lourd pour un physique comme le tien, dis donc !」
 *page14|
 　Housuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
 　Le poids du sac n'avait rien d'étonnant. Au cas où, j'y avais mis une casserole, des couteaux de cuisine chinois, du riz et des tranches de porc.
 *page15|
 ;青子
-「Par là, c'est le salon. C'est la pièce où se tiendra la fête.
+「Par là, c'est le salon. C'est dans cette pièce que se tiendra la fête.
 　Alice a eu la gentillesse de préparer des chambres d'ami. Si tu as besoin de te reposer, rends-toi là-bas. Si tu veux te changer, tu peux aussi le faire dans ta chambre.」[r]
 　Je vois.
 　Dans ce cas, je vais―――
