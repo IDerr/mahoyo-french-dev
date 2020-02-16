@@ -3,7 +3,7 @@
 　Si je l'accuse sans preuve, je serai éliminée...」
 *page1|
 　Je ne pouvais pas dévoiler l'identité du coupable.
-　Le manoir n'abritait plus que moi et le vrai coupable.
+　Le manoir n'abritait plus que lui et moi.
 　Si je le désignais au hasard et je disparaissais, tout serait terminé.
 　Plutôt que d'en arriver là, ne serait-il pas plus sage de fuir en attendant la fin de la partie―――?
 *page2|
@@ -47,7 +47,7 @@
 「Bien, j'ai compris, je vais te fracasser le crâne.」
 *page9|
 　Je n'avais même pas envie d'y penser, mais son mobile consistait à prouver qu'il avait un sens de l'humour.
-　Il avait échoué au moment même où il avait décidé d'utiliser ces lunettes-nez, mais malgré tout, cette homme avait donné un coup de main au vrai coupable pour cette raison !
+　Il avait échoué au moment même où il avait décidé d'utiliser ces lunettes-nez, mais malgré tout, cet homme avait donné un coup de main au vrai coupable pour cette raison !
 *page10|
 「Mais il n'y a qu'Aozaki et Kuonji qui riraient avec ça.
 　Une autre personne civilisée ne rigolerait pas face à une blague pareille.」

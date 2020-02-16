@@ -68,13 +68,13 @@
 「Vous ne savez pas ce qu'est la gentillesse, vous deux ?!」
 *page13|
 ;詠梨
-「Je vois. On prend comme partenaire une personne de confiance qui nous pense innocent et on coopère.
+「Je vois. On prend comme partenaire une personne de confiance qu'on pense être innocente et on coopère avec elle.
 　Sœur Yuika, vous voulez bien ?」
 ;唯架
-「Eh bien. À mon plus grand effroi, vous semblez être la personne en qui je puisse avoir le plus confiance parmi les gens ici présentes.」
+「Eh bien. À mon plus grand effroi, vous semblez être la personne en qui ma confiance est la plus grande parmi les gens ici présents.」
 *page14|
 ;律架
-「Hmm, je suis une laissée pour compte ?[l][wact canskip=0][r]
+「Hmm, je suis laissée pour compte ?[l][wact canskip=0][r]
 　Ma petite Ako, tu te mets avec moi ?」[l][wact canskip=0][wact canskip=0][wact canskip=0][wact canskip=0][r]
 ;青子
 「Riddell, mettons-nous ensemble.[r]

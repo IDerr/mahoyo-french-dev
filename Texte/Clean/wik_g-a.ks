@@ -7,7 +7,7 @@
 　Après tout, le cadavre n'avait ni mains, ni jambes, ni tête.」
 ;鳶丸、頭かかえる
 「..................」
-　De par sa nature strictement réaliste, Aozaki sautait parfois à des conclusions hors normes.
+　À cause de sa nature strictement réaliste, Aozaki sautait parfois à des conclusions hors normes.
 *page1|
 ;鳶丸
 「Ça aurait pu être possible, mais là, c'est différent.
@@ -68,12 +68,12 @@
 「Que quelqu'un a emporté la farine de blé entreposée dans la cuisine.
 　Et cela prouve que―――」
 　Pouvait-on en déduire que le coupable était une personne qui connaissait la cuisine de cette maison ?
-　Ou bien était-ce une fausse piste pour nous induire en erreur ?
+　Ou bien s'agissait-il d'une fausse piste pour nous induire en erreur ?
 *page11|
 ;画面・駒鳥あらわれる
 ;有珠、駒鳥から報告を聞く。
 　... Soudainement,
-　le rouge-gorge bleu, qui avait disparu quelque temps auparavant, était revenu d'un battement d'ailes dans le salon.
+　le rouge-gorge bleu, qui avait disparu quelque temps auparavant, revint d'un battement d'ailes dans le salon.
 　Il se posa sur l'épaule de Kuonji et émit un gazouillis perçant.
 *page12|
 ;有珠、まあ
@@ -94,7 +94,7 @@
 *page15|
 ;有珠
 「Désolée, Riddell. Mais avant de vous expliquer, Shizuki aurait une anecdote toute spéciale à te raconter.
-　C'est probablement une histoire merveilleuse, alors écoute-la donc.」
+　C'est probablement une histoire merveilleuse, alors écoute-la attentivement.」
 *page16|
 ;草十郎・かっこよく、真面目に
 「Oui. Si une chose aussi simple peut te faire plaisir, je serais heureux que tu l'écoutes.
@@ -117,7 +117,7 @@
 ;鳶丸、木乃美、律架、青子、驚き
 「Quoi ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
 ;金鹿、あわて
-　J'accourus vers la femme en rose gisant au sol.
+　J'accourus vers la fille en rose gisant au sol.
 　Pas de pouls. Pas de respiration.
 　Aucun réflexe photomoteur.
 ;金鹿びっくり
@@ -127,7 +127,7 @@
 ;青子、律架、唯架、驚き。ベオは感心//
 　Certains étaient surpris,
 ;詠梨、鳶丸、真剣な顔//
-　d'autres se mettaient sur le qui-vive,
+　d'autres se tenaient sur leurs gardes,
 ;木乃美、草十郎、何が起きてるの？みたいな顔
 　et enfin, les derniers ne comprenaient rien du tout à la situation.
 *page21|
@@ -165,14 +165,14 @@
 「...... On dirait que c'est sérieux.」
 ;有珠
 「Grâce à Kinomi, je comprends mieux les règles.
-　Lorsque l'on rit de soi-même, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
-　Mais si l'on rit du fond du cœur à cause des actes ou de la farce de quelqu'un d'autre, le Ploy considère qu'on a enfreint les règles.」
+　Lorsqu'on rit de soi-même, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
+　Mais si on rit du fond du cœur à cause des actes ou de la farce de quelqu'un d'autre, le Ploy considère qu'on a enfreint les règles.」
 ;鳶丸、金鹿驚き
 「Hein... Quoi ?」
 *page26|
-　Attendez, je comprenais vraiment plus rien.
-　Si on nous faisait rire, on mourait ? Pardon ?
-　Je me doutais que Kuonji n'était pas très normale, mais en réalité, elle était vraiment folle ? Sauf que deux personnes venaient tout juste de mourir sous mes yeux, après s'être esclaffées. Alors quoi ? C'était vrai ?
+　Attendez, je comprends vraiment plus rien.
+　Si on nous fait rire, on meurt ? Pardon ?
+　Je me doutais que Kuonji n'était pas tout à fait normale, mais en fait, elle est vraiment folle ? Sauf que deux personnes viennent tout juste de mourir sous mes yeux après s'être esclaffées. Alors quoi ? C'est pas une blague ?
 *page27|
 ;詠梨
 「Ça veut dire que le Ploy Kickshaw est actif ?
@@ -185,10 +185,10 @@
 ;詠梨
 「Vous avez raison... C'est embarrassant, il semblerait que je sois également confus.」
 *page29|
-　Au contraire, il serait bien plus étrange de rester calme dans cette situation.
+　Au contraire, il était bien plus étrange de rester calme dans cette situation.
 　Père Eiri ne me laissait qu'une image froide, mais il n'était peut-être en réalité qu'une personne affreusement sérieuse.
 　Mais un Ploy, c'était quoi ?
-　Au fur et à mesure que les explications avançaient, je me retrouvais de plus en plus perdue.
+　Au fur et à mesure que les explications avançaient, je me sentais de plus en plus perdue.
 *page30|
 ;鳶丸、有珠に対して//
 「... Je peux demander quelque chose ? Je veux bien admettre cette histoire de mort au moindre rire. C'est de toi qu'on parle, ça m'étonnerait pas que ce soit possible.
@@ -234,18 +234,18 @@
 ;リデル01d
 「Vo... Vous deux ! Vous ne devriez pas vous excuser au lieu de me féliciter ?!
 　D'ailleurs, ce loup-garou aurait été mieux pour un test, vous ne croyez pas ?![r]
-　Il revient à la vie même si on le tue ! Pourquoi m'avoir choisie, moi ?」
+　Il revient à la vie à chaque fois qu'on le tue ! Pourquoi m'avoir choisie, moi ?」
 *page38|
 ;有珠
 「Oh...? Eh bien, nous sommes rivales, n'est-ce pas ?
 　Dans ce cas, c'est normal de s'entretuer.」
 ;リデル02d2
-「Hein ? Ah, oui, c'est vrai. Les rivales agissent effectivement comme ça.
+「Hein ? Ah, oui, c'est vrai. Les rivales agissent effectivement de cette façon.
 　Tu... Tu vois quand tu veux ! J'ai déjà une meilleure opinion de toi si tu élabores une attaque dès que l'occasion se présente.」
 *page39|
 ;鳶丸
 「Comme je le pensais, cette fille est du genre immortel... Incroyable.」
-　Bien que stupéfait, Tsukiji accepta sans broncher le spectacle horrifique offert par cette femme en rose.
+　Bien que stupéfait, Tsukiji accepta sans broncher le spectacle horrifique offert par cette fille en rose.
 *page40|
 ;金鹿
 「... Hé, Tsukiji. Tu ne trouves pas ça étrange ? Des personnes sont mortes, tu sais ? [l][chgfg storage=金鹿私服01(大)|m4 time=300]Housuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
@@ -255,14 +255,14 @@
 　Comme l'a dit Kuonji, cette résidence est devenue un monde avec ses propres règles, et Riddell les a enfreintes, mais s'y est opposée par la force brute.
 　Ça me fiche des maux de crâne, mais les incidents occultes ne sont pas de l'ordre de l'impossible avec des filles comme Kuonji et Riddell.」
 *page42|
-「Sauf que je connais pas les détails. Si on pénètre dans leur monde, on se retrouve mêlé à leurs affaires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, habitue-toi à cette idée.」
+「Sauf que je connais pas les détails. Quand on pénètre dans leur monde, on se retrouve mêlé à leurs histoires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, habitue-toi à cette idée.」
 *page43|
 ;金鹿、眉ひそめ
 「Je ne peux pas ! Housuke est mort, tu te rends compte ?!」
 ;有珠
 「Kumari. Il est encore trop tôt pour pleurer la mort de Kinomi.[r]
 　Tokkii et lui sont considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont seulement “portés disparus”.
-　Si quelqu'un termine ce jeu, tout ce qui s'est passé pendant la partie sera annulé et ils reviendront parmi nous.」
+　Si quelqu'un termine la partie, tout ce qui s'est passé pendant la partie sera annulé et ils reviendront parmi nous.」
 *page44|
 ;金鹿
 「... Ils ne sont pas morts ? Si on termine le jeu, ils reviendront parmi nous...?」

@@ -4,7 +4,7 @@
 ;画面・ロビー
 ;律架
 「On peut enfin dormir.
-　Je vous souhaite bonne nuit !」
+　Je vous souhaite une bonne nuit !」
 　Ristuka disparut au premier étage de l'aile ouest.
 *page2|
 ;有珠
@@ -24,7 +24,7 @@
 *page4|
 ;鳶丸
 「Kumari. Je peux te parler un instant ?」
-「Tsukiji, tu ne voudrais pas discuter une seconde ?」
+「Tsukiji, tu ne voudrais pas discuter un peu ?」
 ;二人、やれやれ笑い//
 ;画面暗転、ウエイト。
 　Nous ne pûmes retenir un léger rire en constatant que nous éprouvions la même chose.
@@ -82,7 +82,7 @@
 　... L'objet aurait choisi l'utilisateur...?
 　Alors, cette condition était peut-être quelque chose que Kuonji approuvait―――ou plutôt, quelque chose avec quoi elle pouvait compatir ?
 *page17|
-「Par contre Kumari, c'est un peu tard pour te demander ça, mais ça ne te dérangeait pas de faire équipe avec moi ?」
+「Par contre Kumari, j'aurais dû te le demander plus tôt, mais ça ne te dérange pas de faire équipe avec moi ?」
 　Tobimaru posa une question soudaine et inattendue.
 　Je fis des efforts pour répondre calmement.
 *page18|
@@ -105,7 +105,7 @@
 　Je pense aussi qu'Aozaki s'est fait piéger par le vrai coupable lorsqu'elle a voulu cacher ce qu'il s'est passé dans sa chambre. Le plan du coupable consistait peut-être à neutraliser dès le début son plus redoutable adversaire.」
 *page22|
 「Aozaki s'est fait piéger ?」
-「Ouais. De fait, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
+「Ouais. Après tout, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
 　Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état, [wait canskip=0 time=400][chgfg storage=鳶丸私服b02(大)|a2 time=300]tu te rappelles ?」
 *page23|
 　... Je...

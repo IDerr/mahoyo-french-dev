@@ -48,7 +48,7 @@
 　Pendant que je cherchais Beo, j'ai regardé dans ta chambre. J'y ai trouvé des preuves irréfutables.」
 *page9|
 ;青子
-「Hein ?! Ri... Ritsuka, comment es-tu entrée dans ma chambre ?! La porte était fermée à clef, pourtant ?!」
+「Hein ?! Ri... Ritsuka, comment as-tu fait pour entrer dans ma chambre ?! La porte était fermée à clef, pourtant ?!」
 ;律架
 「C'est l'un de mes rares dons particuliers, un crochetage d'enquête !」
 *page10|
@@ -123,7 +123,7 @@
 *page27|
 ;青子
 「Attendez, qu'est-ce que vous comptez faire ?!
-　Me... Me... Me dites pas que vous allez me tuer dans le doute ?!」
+　Me... Me dites pas que vous allez me tuer dans le doute ?!」
 *page28|
 ;律架
 「Calme-toi, on va juste te mettre à l'isolement, ma petite Ako.
@@ -131,7 +131,7 @@
 　Euh, le manoir comporte-t-il une pièce du genre cachot qu'on peut fermer à clef depuis l'extérieur, Al ?」
 *page29|
 ;有珠
-「Il y a la cave. Une petite pièce reliée directement à un escalier étroit que l'on pourrait trouver dans les pensions des montagnes enneigées.
+「Il y a la cave. Une petite pièce reliée directement à un escalier étroit que l'on pourrait trouver dans une de ces pensions des montagnes enneigées.
 　Aoko passera la nuit là-bas.」
 ;青子
 「Spur ! [wact canskip=0][fgact page=fore props=-storage,center,vcenter,absolute,quakeHMax,quakeVMax,quakeInterval,-quake,-visible keys=(0,0,l,青子私服a06a(大)|f,194,395,1100,2,1,15,1,1)(1000,,n,,,,,0,0,1,0,) storage=青子私服a06a(大)|f]Le nom de cette pension, ça serait pas Spur, Alice ?!」
@@ -147,7 +147,7 @@
 　Et si elle n'était pas Sweets Hearts, elle survivrait jusqu'à la fin et le jeu se terminerait.
 *page32|
 　Toutefois, personne n'aimerait être enfermé en étant accusé d'être le coupable.
-　Ceux qui devaient exécuter la sentence avaient eux aussi comme un arrière-goût amer dans la bouche.
+　Et ceux qui devaient exécuter la sentence auraient eux aussi comme un arrière-goût amer dans la bouche.
 　Il fallait être considéré “coupable” par tout le monde pour tirer cette loterie de misère.
 *page33|
 ;青子

@@ -16,11 +16,11 @@
 *page3|
 　Par conséquent, le Ploy n'avait pu être volé qu'un jour précédant la fête.
 　Selon toute vraisemblance, ça devait avoir eu lieu la veille du jour où Kuonji avait verrouillé la pièce.
-　Cela ne s'était pas produit le deuxième des trois jours consécutifs de vacances, puisque c'était le jour même de la fête.
+　Cela ne s'était pas produit le deuxième des trois jours consécutifs de congé, puisque c'était le jour même de la fête.
 　Seule une personne qui était venue par erreur le premier jour aurait eu la chance de procéder au vol.
 *page4|
 　Mais pourquoi cette personne s'était-elle trompée de jour ?
-　Cela n'avait rien de difficile à expliquer : le contenu de la lettre d'invitation était erroné depuis le départ.
+　Cela n'avait rien de difficile à expliquer : le contenu de la lettre d'invitation était erroné depuis le début.
 “Nous organisons une fête d'anniversaire au début des jours de congé.”
 　L'homme qui avait fait cette erreur idiote,
 　avait envoyé une lettre à trois personnes.
@@ -38,7 +38,7 @@
 　M. Yamashiro n'avait pas été invité pour être tué, mais pour fournir un alibi à l'individu A.
 *page8|
 　Et enfin, la dernière personne, moi―――
-　J'étais convaincue que cette fête devait avoir lieu le premier jour des vacances.
+　J'étais convaincue que cette fête devait avoir lieu le premier jour des congés.
 　D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Soujyuro.
 *page9|
 　Je ne pouvais qu'imaginer comment Shizuki Soujyuro avait accueilli Kumari Kojika, arrivée un jour trop tôt.
@@ -71,7 +71,7 @@
 「Pourquoi le lycée ne dure que trois ans ?
 　Pourquoi ai-je gaspillé mon temps ?
 　Pourquoi n'ai-je pas pu être honnête ?
-　Celui qui peut réaliser tous tes vœux, [se storage=seex37 volume=80 loop=0]c'est moi, l'œuf des prières shinto, le Ploy Kickshaw limité aux filles en pleine puberté, Sweets Hearts. Alors ? Convaincue ?」
+　Celui qui peut réaliser tous tes vœux, [se storage=seex37 volume=80 loop=0]c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en pleine puberté, Sweets Hearts. Alors ? Convaincue ?」
 *page16|
 ;スイーツ金鹿。はしゃぐ
 「Convaincue ? Mon œil ! Assez de belles paroles ! Je ne veux même pas savoir ce qu'il s'est passé.

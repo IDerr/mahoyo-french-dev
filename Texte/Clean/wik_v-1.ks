@@ -4,23 +4,23 @@
 　―――C'était Shizuki.
 　C'était lui qui remplissait le mieux les conditions.
 　Il connaissait le manoir.
-　Étant l'un des hôtes de la fête, ses déambulations dans le manoir ne paraissaient pas suspectes.
+　Étant l'un des hôtes de la fête, ses déambulations dans la résidence ne paraissaient pas suspectes.
 　Et aussi, avant tout―――
 *page1|
 　Il y avait une contradiction fatale entre son témoignage et celui de Kuonji.
-　Shizuki avait prétendu être dans la résidence le matin.
-　Pourtant, Kuonji avait affirmé ceci :
+　Shizuki avait prétendu être dans le manoir le matin.
+　Pourtant, Kuonji avait déclaré :
 “Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
 *page2|
 　Si le verrouillage des portes était son rôle, elle n'aurait pas employé une telle formulation.
-　Kuonji avait l'intention de demander à Shizuki, ou alors à Aozaki, de s'en occuper.
+　Kuonji avait l'intention de demander à Shizuki, ou alors à Aozaki, de s'en charger.
 　Aozaki avait témoigné être en ville dans la matinée.
 　On pouvait le prouver par le fait que son absence avait permis à sa sœur de s'introduire dans sa chambre.
 　Mais Shizuki avait fait une fausse déposition en disant qu'il était dans le manoir.
 *page3|
 「C'est un peu léger de n'avoir que ça comme preuve, mais bon...」
 　J'avais l'impression d'avoir un ou deux autres éléments en main, mais pour le moment, mon cerveau ne fonctionnait pas comme je le voulais.
-　Il fallait que je trouve rapidement Shizuki avant le matin, le trouver et―――
+　Il fallait que je trouve rapidement Shizuki avant le matin, que je le débusque au plus vite et―――
 ;SEかたり、と足音。ＢＧＭ止める。
 　Dans mon dos. Je sentis. La présence. De quelqu'un.
 *page4|
@@ -35,7 +35,7 @@
 　C'était réglé.
 　Le coup était parfait.
 　Shizuki... en fin de compte, c'était bien lui, même si je ne l'avais vu qu'une fraction de seconde... [se storage=se08015 volume=100 loop=0][se storage=se08027 volume=100 loop=0]s'écroula, et un étrange objet roula au sol.
-　C'était―――un objet de déguisement assez standard comme objet de fête, une lunette-nez.
+　C'était―――un objet de déguisement assez standard comme objet de fête, des lunettes-nez.
 *page6|
 ;画面・出口方面の玄関
 「C'e... C'est possible de rire avec ça ?!」

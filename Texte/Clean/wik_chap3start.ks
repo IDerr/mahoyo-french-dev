@@ -56,7 +56,7 @@
 ;外、落雷が落ちる。雨はますます酷くなる。//
 　Une atmosphère pesante régnait dans le salon.
 　Le nombre croissant de victimes n'était pour rien dans cet air vicié par la tristesse.
-　J'avais remarqué que le fait de nous être divisés en groupe de deux avait donné naissance à une drôle d'ambiance :
+　J'avais remarqué que le fait de nous être divisés en groupes de deux avait donné naissance à une drôle d'ambiance :
 　... nous commencions malheureusement à soupçonner les autres équipes.
 *page11|
 ;槻司
@@ -213,9 +213,9 @@
 *page39|
 ;ベオ
 「Moi aussi, je dois le faire ? Je veux bien, mais c'est pas bien différent de ce qu'ont fait les autres, vous savez ?
-　Voyons, comme on était au début des trois jours de congé consécutifs, hier, j'ai passé la nuit chez Tobi. Comme Housuke était aussi avec nous, c'était affreusement bruyant.
+　Voyons, comme on était au début des trois jours de congé, hier, j'ai passé la nuit chez Tobi. Comme Housuke était aussi avec nous, c'était affreusement bruyant.
 　Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
-　À 10 heures, j'ai dit bonjour Alice, et ensuite, je n'ai rien fait !」
+　À 10 heures, j'ai dit bonjour à Alice, et ensuite, je n'ai rien fait !」
 *page40|
 　... Je...
 *page41|

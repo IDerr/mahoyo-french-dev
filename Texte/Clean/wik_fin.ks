@@ -15,12 +15,12 @@
 　Et,
 *page3|
 「...? Hé, qu'est-ce qui se passe ? Pourquoi on dort dans la maison de Kuonji ? Réveille-toi Kinomi, dis-moi ce qui se passe !」
-　j'entendis la voix familière de ce type au premier étage.
+　j'entendis la voix familière de ce garçon au premier étage.
 *page4|
 「――――――」
 　J'eus alors comme l'impression étrange d'être libérée d'un poids, puis me levai.
 　Pour dire simplement la vérité, j'étais soulagée.
-　Je baissai les yeux par hasard et trouvai la page d'un mémo à côté d'une sorte de coquille d'œuf.
+　Je baissai les yeux par hasard et trouvai une feuille de mémo à côté d'une sorte de coquille d'œuf.
 　Une phrase avait été écrite au crayon rose sur le papier.
 *page5|
 　　　　　“Qu'y a-t-il de mal à vivre par amour ?”
@@ -44,7 +44,7 @@
 「Oh ? Tu es aussi là, Kumari.
 　Qu'est-ce qui se passe ici ? La fête commence le matin, finalement ?」
 　Je perçus la présence de personnes bruyantes en haut des escaliers.
-　Et je vis le visage du type dont j'ignorais la venue.
+　Et je vis le visage du garçon dont j'ignorais la venue.
 　Je détournai rapidement la tête, et vérifiai mon apparence dans le miroir du vestibule. Apparemment, elle n'avait rien d'étrange.
 *page10|
 「C'est moi qui voudrais savoir ce qui se passe.
@@ -65,7 +65,7 @@
 　Continue comme ça et discipline Kinomi, Kumari. Pour le bien des gens autour de lui, et surtout pour le sien.」
 *page14|
 「Hors de question. Même si on me proposait cent millions pour ça, je refuserais. Aucun salaire ne sera jamais à la hauteur de la difficulté de la tâche. Et j'ai pas de temps à gaspiller en efforts inutiles. [wait canskip=0 time=400][chgfg storage=金鹿私服02(全)|k2 type=13 zoom=60 partbgid=pb2 time=400]En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient toujours comme avant, comme un métal à mémoire de forme.」
-「Haha, t'as pas tort ! Bon, laissons-le là et allons saluer Kuonji. Elle et Aozaki doivent être dans le salon, j'imagine.」
+「Haha, t'as pas tort ! Bon, laissons-le là et allons saluer Kuonji. Aozaki et elle doivent être dans le salon, j'imagine.」
 *page15|
 「Attends, regarde ! Une nonne est évanouie juste là, Ton Altesse ! [l][chgfg storage=木乃実私服01(中)|c type=13 partbgid=pb1 time=400]Oooh, je peux aller l'enlacer pour la réveiller ?!」
 「Pourquoi pas ? Au pire, tu finiras juste assommé.」
@@ -75,7 +75,7 @@
 “Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
 　Cette voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.
 *page17|
-　Ainsi se termina la Rhapsody.
+　Ainsi se termina cette rhapsodie.
 　La jeune fille avait esquissé un sourire en choisissant d'agir à sa façon, mais en fin de compte, cette décision diffère pour chaque personne.
 *page18|
 　Chacun a le droit de se morfondre sur le peu de temps qu'il reste,[wait canskip=0 time=400][r]

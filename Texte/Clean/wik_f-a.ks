@@ -39,7 +39,7 @@
 ;リデル
 「Quoi ? Répète un peu pour voir ? Comment un chien de garde comme toi ose imposer son opinion à son maître ? Pourquoi ne prêches-tu le bon sens qu'en des moments pareils ?」
 ;リデル、草十郎の首輪をつかんでガクガク揺さぶる
-　La femme en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
+　La fille en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
 ;草十郎
 「Une deuxième... Aozaki......」
 　Les doigts de la star devaient mordre dans sa carotide, car les yeux de Shizuki étaient révulsés.
@@ -57,7 +57,7 @@
 「OK, tu peux aller crever ! Mourez dans la joie et la bonne humeur comme deux bons toutous ! [chgfg storage=リデル02(全)|e quakeHMax=2 quakeVMax=0 zoom=60 time=400 textoff=0]On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
 *page11|
 　L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
-　La femme en rose, Beo et Shizuki se disputaient.
+　La fille en rose, Beo et Shizuki se disputaient.
 ;有珠、口に手を押さえて考えこんでいる
 「............」
 　Cependant, Kuonji, la maîtresse du manoir, n'avait pas émis un son depuis un moment et arborait un air pensif.
@@ -114,7 +114,7 @@
 　À notre arrivée à la soirée, nous ne l'avons pas vu.」
 ;木乃美
 「Nous sommes arrivés dans la matinée, et à ce moment-là, il était avec nous.
-　Je me souviens de m'être battu avec lui pour être à côté d'Alice, alors je suis sûr de moi.
+　Je me souviens de m'être battu avec lui pour être à côté d'Alice à midi, alors je suis sûr de moi.
 　Mais attendez...... Je me souviens ! Le vieux a murmuré un truc du genre “c'est l'heure” après avoir regardé l'horloge, puis il a quitté le salon.」
 *page22|
 　Malgré les apparences, Housuke avait une excellente mémoire.

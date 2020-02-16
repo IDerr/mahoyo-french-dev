@@ -29,7 +29,7 @@
 　Je vous préviens, je ne rigolerai jamais ! Je vais simplement profiter du spectacle pendant que ce stupide Ploy vous élimine les uns après les autres !」
 *page5|
 ;青子、鳶丸、やれやれ
-　Malgré toutes les insultes qu'elle proférait à notre encontre, la femme en rose s'était résignée.
+　Malgré toutes les insultes qu'elle proférait à notre encontre, la fille en rose s'était résignée.
 　Elle ricana et s'assit sur le sofa.
 　Elle semblait s'être résolue à passer la nuit avec nous.
 *page6|
@@ -73,7 +73,7 @@
 「..................」
 　C'était tout juste. J'avais failli éclater de rire à cause du blanc qui avait suivi la boutade du prêtre.
 *page14|
-「À quoi tu joues, Eiri ? J'ai bien cru qu'on allait tous y passer !」
+「Mais à quoi tu joues, Eiri ? J'ai bien cru qu'on allait tous y passer !」
 　Non, ça n'aurait pas été le cas,
 　eus-je envie de répliquer.
 *page15|
@@ -84,7 +84,7 @@
 *page16|
 　La conversation se poursuivait malgré l'obscurité.
 　... C'était comme les histoires de fantôme lors des voyages scolaires, ou, comment dire, un de ces échanges dans les ténèbres qui vous fascinent sans que vous sachiez pourquoi.
-　D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas si grave si quelqu'un se mettait à rire.
+　D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas tellement grave si quelqu'un se mettait à rire.
 *page17|
 「Ah, j'ai trouvé une bougie. Personne n'a de briquet ?[r]
 　Ou alors des allumettes ?」
@@ -94,7 +94,7 @@
 「Son cerveau a dû dégénérer.」
 「Non. Dans ce noir complet, même s'il faisait de l'esprit, ça n'aurait aucun impact. Simple is best.」
 ;画面、一回だけ点滅する。電気かつけかける。
-「Ah. Tout le monde, restez tranquille, la lumière revient.」
+「Ah. Que tout le monde se calme, la lumière revient.」
 *page18|
 　Le manoir Kuonji devait probablement disposer d'un groupe électrogène.
 　Nous ignorions qui avait rétabli le courant, mais une chose était sûre, le salon venait de retrouver sa lumière artificielle.
@@ -115,7 +115,7 @@
 ;みんなの後ろで有珠の着ぐるみだしてから、すぐに消す。
 　Aozaki accourut auprès de Riddell.
 　J'avais été sauvée de justesse.
-　Si la femme en rose... Si Riddell n'avait pas ri en premier, je l'aurais sans aucun doute fait.
+　Si cette fille en rose... Si Riddell n'avait pas ri en premier, je l'aurais sans aucun doute fait.
 *page22|
 ;青子まじめに心配
 「Riddell ! Reprends-toi, Riddell !
