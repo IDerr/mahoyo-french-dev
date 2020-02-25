@@ -33,7 +33,7 @@
 ;青子
 「Moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0][wact canskip=0]Eiri, [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0][wact canskip=0]Yuika, [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=800 id=pb4 textoff=0][wact canskip=0]Kinomi et [movepartbg opacity=255 srcleft=445 srctop=203 vcenter=423 time=400 accel=0 storage=black center=800 id=pb3 textoff=0]Tobimaru.」[l][wact canskip=0][r]
 ;草十郎
-「Et moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Komari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Vraiment-Pas- Prononcer-Le-Nom.」[wact canskip=0]
+「Et moi à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=144 time=400 accel=0 storage=black center=220 id=pb1 textoff=0]Kumari, [wact canskip=0]celle qui restait à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=423 time=400 accel=0 storage=black center=220 id=pb2 textoff=0]monsieur Yamashiro et [wact canskip=0]une autre à [movepartbg opacity=255 srcleft=437 srctop=204 vcenter=271 time=400 accel=0 storage=black center=800 id=pb5 textoff=0]Celle-Dont-Je-Ne-Peux-Vraiment-Pas- Prononcer-Le-Nom.」[wact canskip=0]
 *page6|
 ;青子
 「Je vois, le compte est bon.

@@ -13,7 +13,7 @@
 *page2|
 「Toi aussi, tu prends une pause ? C'est ta chambre au fond ?」
 ;青子、あわて01Bh
-「Hein ? C'est... C'est bien ma chambre, mais je n'y suis pas allée.
+「Hein ? C'est... C'est bien ma chambre, mais je n'y étais pas.
 　Je cherche juste quelque chose, alors ne fais pas attention à moi.
 　Ah, ta chambre n'est pas verrouillée. La clef est posée sur le bureau. Sers-t'en pour fermer la porte.」
 ;青子消す

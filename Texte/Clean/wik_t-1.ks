@@ -24,7 +24,7 @@
 　Il me répondit de manière insouciante comme pour chasser mon inquiétude d'un rire.
 *page5|
 ;金鹿むすっ
-「C'est surprenant. Je pensais que tu dédaignerais ce genre de chose.」
+「C'est surprenant. Je pensais que tu dédaignerais une situation comme celle-là.」
 「Ben, c'était une erreur de calcul. J'aime ce genre de barouf. Je veux mener une vie amusante, tu vois ?」
 「Pardon ? Quelle déception.」
 *page6|
@@ -38,7 +38,7 @@
 *page8|
 「... C'est un peu tard pour demander ça,
 　mais tu es plutôt acerbe en général. Alors, pourquoi est-ce que tu parles normalement avec moi ?」
-「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui as dû te battre toute seule pendant six ans sans jamais compter sur ses parents ou sur les profs.」
+「Hm ? [wait canskip=0 time=800][chgfg storage=鳶丸私服b01(全)|a2 zoom=80 time=300]C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 *page9|
 ;金鹿、ぽかん。実は感じ入っている//
 「――――――」
@@ -47,7 +47,7 @@
 ;SEドア、締まる音。
 「À plus. On se verra dans le vestibule demain matin.」
 *page10|
-　Puis, la chambre fut soudain plongée dans le silence.
+　Puis, la chambre fut soudainement plongée dans le silence.
 　Le cœur gros sans savoir pourquoi,
 “Malgré tout―――”
 “Pas pour toi ?”
@@ -55,7 +55,7 @@
 *page11|
 　... Oui, je vois.
 ;画面暗転・ウエイト
-　En fin de compte, je me suis aussi amusée.
+　En fin de compte, moi aussi, je me suis amusée.
 *page12|
 ;画面・時計五時半。夜明け。
 ;SE嵐の音、なくなっている。
@@ -74,7 +74,7 @@
 　Trop lasse pour préparer du thé, je pris lentement mon portefeuille et mon porte-passe posés sur la table.
 　Dans ce dernier se trouvaient ma carte de transport et une photo souvenir.
 ;※ここの写真、エンディング直前で見せたいので、ここでは一部しか見せないように。
-　Une photo singulière où l'on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
+　Une photo singulière où on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
 *page15|
 　Peut-être avait-elle bu du champagne qu'elle avait confondu avec du jus de fruit,
 　ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, à savoir de l'alcool, dans le Mont Blanc,
@@ -148,7 +148,7 @@
 　Si la condition était de voir poindre le matin, alors la partie n'était pas encore finie.
 　Dans ce cas, je devais soit fuir, soit deviner qui était le coupable.
 　À ce rythme, nous allions perdre la partie.
-　Aozaki et les autres seraient définitivement morts, et donc, ne reviendraient plus.
+　Aozaki et les autres seraient définitivement morts, et donc, ne reviendraient pas.
 *page27|
 　Je...
 *page28|

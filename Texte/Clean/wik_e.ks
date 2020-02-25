@@ -32,7 +32,7 @@
 　Le son de ses bottes résonnait ostensiblement. Comme des bottes militaires provocatrices.
 *page4|
 ;リデル02e
-「La sorcière considérée comme la star numéro un de l'Association, accaparée et sollicitée par tous, qui a dépassé pour la première fois les cent millions de ventes, a spécialement mobilisé son hélicoptère personnel pour te rendre visite.
+「La sorcière considérée comme la star numéro un de l'Association, accaparée et sollicitée par tous, qui a dépassé pour la première fois les cent millions de ventes, a spécialement affrété son hélicoptère personnel pour te rendre visite.
 ;有珠、すごくいやそうな顔。うんざり
 　Alors, mortifiée ? Tu es mortifiée, pas vrai ? Cette surprise doit dépasser tous tes rêves les plus fous, avoue ! Je te permets de te réjouir sans retenue !」
 *page5|
@@ -45,7 +45,7 @@
 　Toi là, le prêtre. Pour commencer, prosterne-toi devant nous, puis mets-toi à poil et ouvre-toi le ventre tout en te goinfrant de poulet, tu veux ?」
 *page7|
 ;詠梨
-「Ha ha ha ha. Tu es la dernière personne que j'ai envie d'entendre dire ça.
+「Ha ha ha ha. Tu es la dernière personne au monde que j'ai envie d'entendre dire ça.
 　Si quelqu'un a des excuses à présenter à Alice, ne serait-ce pas plutôt toi ? Tu devrais rendre ce que tu as dérobé à sa propriétaire.」
 *page8|
 ;リデル02d2
@@ -57,7 +57,7 @@
 ;有珠
 「...... Aah. Je lui ai répété maintes et maintes fois que l'argent ne pouvait pas régler notre différend ; malheureusement, c'est une chienne du capitalisme. J'ai beau insister, elle refuse de me le rendre.」
 ;リデル02b
-「Toi alors, tu caches encore ton embarras ! ～♪
+「Toi alors, tu caches encore ton embarras !～♪
 ;有珠、超うんざり
 　Tu es vraiment douée en marchandage. Tu prétends que “tu ne le céderas pas contre de l'argent” tout en faisant monter habilement les enchères.」
 *page10|
@@ -80,7 +80,7 @@
 *page13|
 ;リデル
 「Comment ça ? C'est bien ta fête d'anniversaire, non ?
-　J'ai téléphoné à la maison de Tobimaru et on m'a dit textuellement que le jeune maître était allé à une fête d'anniversaire chez Mlle Kuonji.
+　J'ai téléphoné à la maison de Tobimaru et on m'a dit texto que le jeune maître était allé à une fête d'anniversaire chez Mlle Kuonji.
 　Du coup, j'ai piqué une grosse colère, annulé mon live et volé jusqu'ici.」
 *page14|
 ;有珠冷たい一瞥
@@ -112,7 +112,7 @@
 ;有珠
 「...... Je me demande d'où vient ce malentendu.
 ;一同、びっくり
-　Certes, nous fêtons un anniversaire, mais c'est celui de Tokkii et non pas le mien. [l]Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu de la fête.」
+　Certes, nous fêtons un anniversaire, mais c'est celui de Tokkii, pas le mien. [l]Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu de la fête.」
 *page20|
 ;久万梨・通常。ちょっとムス
 　Je lus de nouveau la lettre d'invitation.
@@ -180,7 +180,7 @@
 　...... Tout le monde semblait éprouver une sorte de pressentiment. Même la fille en rose et Housuke évitaient de faire des remarques sans intérêt.
 *page33|
 ;駒鳥
-『Hmm, c'est quoi c'tte ambiance ? Karaoké ? On va commencer un Karaoké ? Je suis doué pour Teddy Boy Blues, vous savez ? Vous pourriez me laisser une chanson de Flicky aussi ?』
+『Hmm, c'est quoi c'tte ambiance ? Un karaoké ? On va commencer un karaoké ? Je suis doué pour Teddy Boy Blues, vous savez ? Vous pourriez me laisser une chanson de Flicky aussi ?』
 　Le seul à élever la voix était le rouge-gorge penchant étrangement la tête sur la table.
 *page34|
 ;SEドアの開く音

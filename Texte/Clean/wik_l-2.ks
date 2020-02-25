@@ -1,11 +1,11 @@
 ﻿*page0|
 　Avant ça,[r]
-　je songeai que nous devrions écouter le témoignage de cette femme en rose.
+　je songeai que nous devrions écouter le témoignage de cette fille en rose.
 *page1|
 ;リデル
 「Hein ? Vous voulez aussi mon alibi ?
 　Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.
-　D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains, quitte à sacrifier mon entourage s'il le fallait.」
+　D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains, quitte à sacrifier mon entourage s'il le faut.」
 *page2|
 ;鳶丸
 「Ne dis pas de conneries ! T'es tout aussi louche que les autres.
@@ -14,7 +14,7 @@
 *page3|
 「Maintenant que j'y pense, quand l'hélico t'a soi-disant déposée, t'étais pas du tout trempée par la pluie, si je me souviens bien ?
 　Comment t'expliques ça ?
-　Si tu t'es planquée tout ce temps dans le manoir et t'es apparue après avoir fait venir l'hélico, ça donnait l'impression que tu venais d'arriver, non ?」
+　Si tu t'es planquée tout ce temps dans le manoir et tu t'es montrée après l'avoir fait venir, ça donnait l'impression que tu venais d'arriver, non ?」
 *page4|
 ;リデル02d3
 「Qu... Quoi ?!
@@ -46,18 +46,18 @@
 　La fille en rose s'écria avec force et se rendit dans le couloir.
 *page10|
 ;画面・一階廊下と、リデルの立ち絵02cあたりを口元だけ移すように使う。携帯電話中。
-『Allô. Papa ? C'est moi. Envoie toute de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu la derniière fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+『Allô. Papa ? C'est moi. Envoie tout de suite l'hélico jusqu'à Shiroinozuka du vieux quartier de Misaki. Oui, ce quartier-là. [l][chgfg storage=リデル01(全)|h type=13 time=500]Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'as rien dans la caboche ou quoi ?! Je persévère jusqu'à ce que je gagne, c'est comme ça que je marche ! Et puis, je n'ai pas perdu la dernière fois ! Ce n'était qu'un match nul ! [l][chgfg storage=リデル01(全)|b3 type=13 time=500]Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 *page11|
 『Quoi ? C'est impossible avec l'hélico de l'agence ? La tempête est si forte qu'il ne peut pas s'approcher ? Crétin ! Je suis déjà au courant !
 　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
 ;あと、この時代の軍用ヘリはアパッチときいたが、さすがにもちっとハクをつけたいので多少時代先取りしても上のものを。ブラックホークは早すぎだが、試作段階という事ならアリか？//
-　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrètes-le !』
+　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
 *page12|
 『Aaah ! Tu n'en as pas marre de dire que c'est impossible ? Tu n'as que ce mot à la bouche ?
 　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
 *page13|
 『T'es chiant ! Sérieusement, arrête de pleurer de joie ! C'est pour l'argent ! Et c'est tout ! Je me fous complètement du showbiz !
-　Si tu as compris, fais-le dans les dix minutes ! Je veux le nouveau prototype super cool ! Si tu m'envoies un Apache de merde, je romps toute relation entre nous, alors tu ferais mieux de te grouiller !』
+　Si tu as compris, fais-le dans les dix minutes ! Je veux le nouveau prototype super cool ! Si tu m'envoies un Apache de merde, je romps toute relation avec toi, alors tu ferais mieux de te grouiller !』
 *page14|
 ;画面・居間に戻す
 ;鳶丸、金鹿、呆然とした顔で
@@ -70,7 +70,7 @@
 ;SE扉が開く音。強く。バン！と
 ;リデル02e
 「Désolée pour l'attente. Encore dix minutes et l'ange du salut sera là.
-　Les règles de Sweets Hearts ne s'appliquent qu'à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première, et profiter d'un excellent dîner.」
+　Les règles de Sweets Hearts ne s'appliquent qu'à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première et profiter d'un succulent dîner.」
 *page16|
 「Ah, mais rassurez-vous.
 　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez de ce jeu d'enquête feraient mieux de me rejoindre sans attendre.」

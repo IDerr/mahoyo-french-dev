@@ -53,10 +53,10 @@
 *page12|
 ;時計・六時
 ;SE.ぼーんぼーん、という鐘の音。
-　L'aiguille de l'horloge pointa sur les six heures.
+　L'aiguille de l'horloge pointa vers les six heures.
 　La nuit était tombée à l'extérieur.
 ;SEバタバタバタ、とヘリの音。小さく
-　Avec monsieur Yamashiro et le groupe ecclésiastique, le chemin du retour devrait être sûr, même en pleine nuit, mais en dépit de cela, la pluie battante intensifiait mon anxiété.
+　Avec monsieur Yamashiro et le groupe de l'église, le chemin du retour devrait être sûr, même en pleine nuit, mais en dépit de cela, la pluie battante intensifiait mon anxiété.
 *page13|
 ;有珠
 「...... Il serait temps d'entamer les derniers préparatifs.

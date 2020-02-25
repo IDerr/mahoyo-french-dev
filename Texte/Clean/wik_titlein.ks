@@ -21,10 +21,10 @@
 *page5|
 　Je ne fréquentais Aozaki que depuis le lycée, mais ce n'était bizarrement pas l'impression que j'en avais. J'avais le sentiment de la connaître depuis dix ans.
 　Ainsi, ce jour-là, elle était extrêmement joviale.
-　Si je devais donner une image d'elle, elle serait une boisson rafraîchissante mais gazeuse. C'est une femme prête à employer n'importe quel moyen pour atteindre ses objectifs, du moins est-ce ainsi que je la vois.
+　Si je devais donner une image d'elle, elle serait une boisson rafraîchissante mais gazeuse. C'était une femme prête à employer n'importe quel moyen pour atteindre ses objectifs, du moins était-ce ainsi que je la voyais.
 *page6|
 ;青子
-「L'invitation au manoir Kuonji ne précisait pas qu'on avait tout préparé pour la fête et que vous pouviez venir les mains vides ?」
+「L'invitation au manoir Kuonji ne précisait pas qu'on avait tout préparé pour la fête et que vous pouviez vous contenter de venir les mains vides ?」
 ;久万梨
 「Quoi ? Je suis pas au courant.
 　...... Décidément, vous avez tout fait de travers. Ça disait juste que j'étais invitée à un anniversaire au début des congés et que tout le monde devait apporter à manger.」
@@ -125,7 +125,7 @@
 　Honnêtement, ils étaient pénibles.
 　En plus, toutes les épreuves de gymnastique qu'ils avaient mentionnées étaient réservées aux hommes.
 *page28|
-『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne voulais pas causer une recrudescence du nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et puis, elle pourra nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
+『Ça, [wait canskip=0 time=70]c'est [wait canskip=0 time=70]de [wait canskip=0 time=70]l'[wait canskip=0 time=70]a[wait canskip=0 time=70]mou[wait canskip=0 time=70]r [wait canskip=0 time=70]fr[wait canskip=0 time=70]a[wait canskip=0 time=70]t[wait canskip=0 time=70]er[wait canskip=0 time=70]ne[wait canskip=0 time=70]l. [l][clall][partbg storage=black srcleft=48 srctop=157.312 index=2400 width=1024 height=536 vcenter=844 bordersize=10 srczoom=144.531 id=pb2][partbg storage=black srcleft=48 srctop=157.312 index=2500 width=1024 height=536 vcenter=-268 bordersize=10 srczoom=144.531 id=pb3][partbg storage=bg04l三咲町08繁華街-(昼) srcleft=248 srctop=474 index=1100 width=519 height=576 center=298 noclear=0 id=pb1][fg storage=im15l久万梨兄ーズシルエット(四男) center=170 vcenter=560 index=1800 effect=mono3c4c28 zoom=25][fg storage=im15l久万梨兄ーズシルエット(三男) center=401 vcenter=570 index=1600 effect=mono633b4d zoom=25][fg storage=im15l久万梨兄ーズシルエット(次男) center=630 vcenter=569 index=1400 effect=mono232b44 zoom=25][fg storage=im15l久万梨兄ーズシルエット(長男) center=879 vcenter=571 index=1200 effect=mono3e2751 zoom=25 blur=2][fg storage=im15l久万梨父シルエット center=463 vcenter=1188 index=2000 type=13 effect=nega quakeHMax=1 quakeVMax=1 quakeInterval=5 quake=1 zoom=70 blur=1][bg rule=crossfade time=100 storage=black left=-48 top=-48 noclear=1 textoff=0][stopquake]Je ne voulais pas causer une recrudescence du nombre d'écervelés comme vous, mais avec Kojika, ce cauchemar ne devrait plus se reproduire. [l]Très bien, je suis d'accord pour l'université Mizora ! C'est l'université locale, et comme ça, elle pourra même nous attirer de nouveaux clients ! [l][shock vmax=4 time=300 count=20][shock vmax=4 time=300 count=50]Ha ha ha ha ha !』
 　Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.
 *page29|
 　J'étais morte de honte en pensant qu'il s'agissait de ma propre famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
@@ -133,7 +133,7 @@
 　Cela rassura mon père, mais mon véritable plan ne faisait que commencer.
 *page30|
 　J'avais inscrit une université de Tokyo en tant que deuxième choix et “solution de rechange”.
-『Par respect envers l'école, il fallait formuler trois vœux de notre choix. C'est juste pour la forme, pas besoin de payer les frais d'examen.』
+『Par respect envers l'école, il fallait formuler trois vœux de notre choix. C'est juste pour la forme, pas besoin de payer les frais d'examens.』
 *page31|
 　Ces quelques mots achevèrent de duper mon père.
 　Bien sûr, mon véritable objectif était ce deuxième vœu.
@@ -188,7 +188,7 @@
 　apparemment, il y avait dans ma vie un élève masculin qui revêtait la même importance que mon problème scolaire.
 *page41|
 ;画面暗転、久遠寺邸、門
-「Je suis étonnée que Kuonji ait donné son accord. D'après ce que tu m'as dit, elle laisse rarement entrer son propre père, non ?」
+「Je suis étonnée que Kuonji ait donné son accord. D'après ce que tu m'as dit, elle laisse rarement entrer son propre père, n'est-ce pas ?」
 「Oui, moi aussi, ça m'a surprise. Les humains peuvent vraiment changer.
 ;ここ、一瞬だけ洋館ロビー、有珠の立ち絵をだすか。少し恥じらうかんじの有珠。二話の後なので、有珠は完全に草十郎に片思いモードです//
 　“Je ne vois aucun problème à inviter les amis de Shizuki.”

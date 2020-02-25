@@ -40,7 +40,7 @@
 *page5|
 ;律架
 「Faites bien attention à ne toucher à rien sur les lieux du crime.
-　Restez par groupe de deux et enquêtez tout en observant votre partenaire afin d'éviter qu'on altère la scène du crime.
+　Restez par groupe de deux et enquêtez tout en observant votre partenaire afin d'éviter qu'on altère la scène de crime.
 　Ma petite Al, je peux contacter la police ? Merci. Sur ce, je vais t'emprunter le téléphone du vestibule.」
 *page6|
 　Nous suivîmes les directives qu'avait données Ritsuka avec vigueur et formâmes des binômes.
