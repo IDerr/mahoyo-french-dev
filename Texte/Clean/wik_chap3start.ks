@@ -71,7 +71,7 @@
 「Pourquoi tu ne poursuis pas, Tobimaru ? Tu n'as pas l'air sûr de ce que tu avances.
 　Ta supposition me semble plutôt juste, pourtant.」
 ;鳶丸
-「Eh bien, le groupe de l'église ne le connaît pas, mais Kuonji, Kumari, toi et moi, nous connaissons tous plutôt bien M. Yamashiro.
+「Eh bien, Kuonji et le groupe de l'église ne le connaissent pas, mais Kumari, toi et moi, nous connaissons tous plutôt bien M. Yamashiro.
 ;青子、久万梨、そういえばそうね、という顔。
 　C'est assez rare de voir cet homme plutôt lent à la détente rire sincèrement d'une blague, non ?」
 *page14|
