@@ -23,7 +23,7 @@
 *page4|
 ;山城
 「Eh bien, cette demeure occidentale est d'une splendeur ! Qui a osé la traiter de manoir hanté ? C'est de la calomnie.」
-「Pas forcément. L'expression “Il n'y a pas de fumée sans feu” est appropriée dans le cas de ce manoir. Ne vous affolez pas si vous voyez un fantôme, monsieur Yamashiro, d'accord ?」
+「Pas forcément. L'expression “Il n'y a pas de fumée sans feu” est plutôt appropriée dans le cas de ce manoir. Ne vous affolez pas si vous voyez un fantôme, monsieur Yamashiro, d'accord ?」
 「Ha ha ha. Personnellement, t'entendre faire ce genre de blague me fait bien plus peur.」
 *page5|
 　Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.
@@ -60,19 +60,19 @@
 「Hé ! Pourquoi Housuke est là ?」
 ;青子
 「Soujyuro a voulu qu'on l'invite. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.
-　Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est doué pour mettre de l'ambiance.」
+　Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est imbattable pour créer de “l'animation”.」
 *page11|
 ;木乃美
 「Oh ! Compte sur moi ! J'ai appris plein de nouvelles histoires pour ne pas trahir vos attentes ! Avec toutes les histoires de fantômes et tous les mimes que j'ai en réserve, je risque pas d'être à court !」
 *page12|
 ;久万梨
-「Une oie aurait amplement suffi à le remplacer pour mettre de l'ambiance.[r]
+「Une oie aurait tout aussi bien fait l'affaire pour ce genre d'animation.[r]
 　Je ne comprends vraiment pas Shizuki.
-　Housuke, ne fais pas l'idiot et occupe-toi de mes bagages !」
+　Housuke, reste pas planté là comme un débile mental et occupe-toi de mes bagages !」
 ;木乃美
-「Tu veux dire un clown, non ? Pas une oie, un clown !」
+「Euh, tu voulais dire comme une statue, hein ? C'est bien ça qu'on dit normalement ?!」
 *page13|
-　J'ignorai la plaisanterie d'Housuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
+　J'ignorai la remarque d'Housuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
 「Ne t'avise pas de regarder à l'intérieur.」
 「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Futur / No Tax.
 ;立ち絵、消す
