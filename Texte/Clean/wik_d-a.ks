@@ -49,7 +49,7 @@
 「Mais si, nous sommes là pour passer du bon temps. Même moi, je suis venu les mains vides, mais sœur Yuika, elle......
 　Pourquoi avez-vous acquis ce caractère aiguisé comme un couteau, toujours sur le qui-vive ?」
 ;唯架ちょっと怒り
-「Je suis contrainte de l'être pour pallier à votre manque de sérieux !」
+「Je suis contrainte de l'être pour pallier votre manque de sérieux !」
 *page12|
 ;時計・六時
 ;SE.ぼーんぼーん、という鐘の音。
